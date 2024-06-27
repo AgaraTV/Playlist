@@ -1,7 +1,4 @@
 # Playlist
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yNKSXZf/download-7.jpg" group-title="INFO PELANGGAN",Penting
-https://www.dropbox.com/scl/fi/0v35dgj8f3apzvaw96rva/info-agaratv.mp4?rlkey=g99ccm0zfcylfgendrrn29r86&st=ff08l7yk&dl=1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U16 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
