@@ -1,13 +1,14 @@
 # Playlist
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yNKSXZf/download-7.jpg" group-title="INFO PELANGGAN",Penting
+https://www.dropbox.com/scl/fi/0v35dgj8f3apzvaw96rva/info-agaratv.mp4?rlkey=g99ccm0zfcylfgendrrn29r86&st=ff08l7yk&dl=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U16 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e824a94067ce170cd05451776d10f94f:ffd2fe6eec520f3d07038d1b8df48f8b
 [https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17474_stream.mpd?hdntl=exp=1719245288~acl=%2f*~id=161764976~data=hdntl~hmac=c70129ad3814255fddeb780aa5a5efe3d44fa2cc0982817f201953703ebe2aeb](https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas3.m3u8)
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U16 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 
 
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/3f/36/fOO2lroa_o.jpg" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",6 MINGGU 23.00 WIB
