@@ -4,7 +4,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e824a94067ce170cd05451776d10f94f:ffd2fe6eec520f3d07038d1b8df48f8b
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17474_stream.mpd?hdntl=exp=1720006008~acl=%2f*~id=162738401~data=hdntl~hmac=a88a2a7aee1fd27f3f045a927556b4ba55afbc20064f3e23221a5682e13f1f3a
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U16 1
@@ -17,7 +16,7 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/indosiarTV.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d8f85d7592b081f4290a200156543cf:aee1c7339ec279a0461500a737b3218e
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17140_stream.mpd?hdntl=exp=1720009576~acl=%2f*~id=162738401~data=hdntl~hmac=ed15c386bcf48bc966b721b35c0876f79a26a46ab9acf23df8def35576865f4a
+
 
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/3f/36/fOO2lroa_o.jpg" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",6 MINGGU 23.00 WIB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -46,21 +45,21 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17140_stream.mpd?h
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",PPTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",NBT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",MCOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",CCTV 5
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",BEIN 1
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",CCTV 5
+https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8|referer:https://olevod.tv/
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",BEIN 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Event/B-inal22/2024euro2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",TSN 4
 https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Tsn4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",RUSH SPORT
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",OPTUS 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Event/B-inal22/2024euro1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SONY SPORT 3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SONY SPORT 5
