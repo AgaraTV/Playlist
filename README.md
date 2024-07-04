@@ -485,6 +485,13 @@ http://103.237.32.213:9981/stream/channelid/2087137957?profile=pass
 #EXTINF:0 tvg-id="TVRISport.id"  tvg-name="TVRI Sport" tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="@NASIONAL DIGITAL" tvg-chno="4",TVRI Sport 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://103.237.32.213:9981/stream/channelid/455417035?profile=pass
+=====================================================PRO LIGA===========================================================================================
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6NdQL30/pro.jpg" group-title="PRO LIGA",MOJI 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/mojiTV2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6NdQL30/pro.jpg" group-title="PRO LIGA",MOJI 2
+http://iptvtree.net:8080/AmirBilali/76448035/298550
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6NdQL30/pro.jpg" group-title="PRO LIGA",MOJI 3
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298550
 
                        -----------------------------LIVE BADMINTON------------------------------
 
