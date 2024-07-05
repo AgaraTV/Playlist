@@ -3,7 +3,8 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",COPA AMERICA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=fe5680b6af6a055153254abeceab3a7e:89bd8fab74cd2c08ddfd8f607a87fe1a
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17470_stream.mpd?hdntl=exp=1720154597~acl=%2f*~id=162738889~data=hdntl~hmac=2f47587ee4bc19fc13f90158bb17f45fec39c2a5615534a732220f057443bea6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",COPA AMERICA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -19,7 +20,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1720111219~acl=/live/17252/*~id=162738889~hmac=65d35bdf2528ceb9c02d4077fa1b210e8b67b3f646e20892bd93c336fcddf6e2
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",PRO LIGA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
