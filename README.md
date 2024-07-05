@@ -182,8 +182,8 @@ http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/158494.m3u8
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/166784.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",RPC
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",INDOSIAR
-
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",ASTRO 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroSS4.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",SPORT TV1
 https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/SportTVBR1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/zQ69PPT/LO.jpg" group-title="🚩Copa America USA 2024🚩",TSN 1
