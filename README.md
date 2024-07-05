@@ -20,7 +20,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17470_stream.mpd?h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1720175416~acl=/live/17252/*~id=162738889~hmac=392400838b8fcd033408e8f14dc27a1e235875a2b38c9f5751a8a19503c8d2a7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",PRO LIGA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
