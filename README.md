@@ -168,23 +168,34 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/pQ2W5VL/download-6.jpg" group-title="🚩Copa America USA 2024🚩",TSN 1
-https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/tsn100.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/pQ2W5VL/download-6.jpg" group-title="🚩Copa America USA 2024🚩",TSN 2
-https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/tsn200.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/pQ2W5VL/download-6.jpg" group-title="🚩Copa America USA 2024🚩",TNT 3
-https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/tsn300.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/pQ2W5VL/download-6.jpg" group-title="🚩Copa America USA 2024🚩",Teletica 
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",TNT 1
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",TNT 2
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/zQ69PPT/LO.jpg" group-title="🚩Copa America USA 2024🚩",TSN 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Tsn4.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/zQ69PPT/LO.jpg" group-title="🚩Copa America USA 2024🚩",Teletica 
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162530.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/pQ2W5VL/download-6.jpg" group-title="🚩Copa America USA 2024🚩",Canal 11
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",Canal 11
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/158494.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/pQ2W5VL/download-6.jpg" group-title="🚩Copa America USA 2024🚩",TV Max Canal 9
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/zQ69PPT/LO.jpg" group-title="🚩Copa America USA 2024🚩",TV Max Canal 9
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/166784.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/pQ2W5VL/download-6.jpg" group-title="🚩Copa America USA 2024🚩",RPC
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",RPC
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/pQ2W5VL/download-6.jpg" group-title="🚩Copa America USA 2024🚩",ASTRO 4
-https://raw.githubusercontent.com/Arrasyid22/sportasia/main/astrosupersport400.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/pQ2W5VL/download-6.jpg" group-title="🚩Copa America USA 2024🚩",
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",INDOSIAR
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",SPORT TV1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/SportTVBR1.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/zQ69PPT/LO.jpg" group-title="🚩Copa America USA 2024🚩",TSN 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Tsn1.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/zQ69PPT/LO.jpg" group-title="🚩Copa America USA 2024🚩",TYC
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Tyc.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",FOX SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/FoxSportAR1.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",
+
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/pQ2W5VL/download-6.jpg" group-title="🚩Copa America USA 2024🚩",
 
