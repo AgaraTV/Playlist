@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe5680b6af6a055153254abeceab3a7e:89bd8fab74cd2c08ddfd8f607a87fe1a
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17470_stream.mpd?hdntl=exp=1720582813~acl=%2f*~id=162738889~data=hdntl~hmac=7380c6a444fe21e77dc5e55cc16cc07e5bc43ab9802d4acae688ab6911baecc3
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",COPA AMERICA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -38,20 +38,16 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17470_stream.mpd?h
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U16 2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",PPTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",CCTV 5
 https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8|referer:https://olevod.tv/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",BEIN 1
 https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro10.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",TSN 4
 https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Tsn4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",OPTUS 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SONY SPORT 3
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",BEIN MAX
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro14.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SPORT.TV1
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SONY SPORT 5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",TRT SPOR
@@ -59,6 +55,10 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro1.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", SPORT TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SPORT TV 1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",ASTRO STADIA
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", EURO24 4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", EURO24 5
 
@@ -84,15 +84,15 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro1.m
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SONY TEN 1
-http://mytv-extra.com:80/t12mgxyb335/9832948789/29566
+https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/Sonyten1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SONY TEN 2
-http://mytv-extra.com:80/t12mgxyb335/9832948789/29565
+https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/Sonyten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SONY TEN 3
-http://mytv-extra.com:80/t12mgxyb335/9832948789/29564
-
+https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/Sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SONY TEN 4
-
+https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/Sonyten4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SONY TEN 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/Sonyten5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",Astro Supersport 2
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroSS2.m3u8
@@ -102,6 +102,7 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroS
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/SpotvStadia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SPOTV STADIA 2
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/SpotvStadia2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",Sportstars 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -114,7 +115,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",TNT 1
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",OPTUS 1
