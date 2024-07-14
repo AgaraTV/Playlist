@@ -34,8 +34,11 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnt
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e824a94067ce170cd05451776d10f94f:ffd2fe6eec520f3d07038d1b8df48f8b
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U16 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS WANITA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad6c8fa8d0e9b337befa7794578fc9bc:71d3f87b4e0eb6dab7c4c110fc2fbd1b
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17570_stream.mpd?hdntl=exp=1720966906~acl=%2f*~id=162738889~data=hdntl~hmac=edde21069b12971802c5480fdf2609ac5b7a6b65833336cc718be610c15001ca
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U16 2
 
