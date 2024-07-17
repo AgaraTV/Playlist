@@ -42,123 +42,7 @@
 #KODIPROP:inputstream.adaptive.license_key=ad6c8fa8d0e9b337befa7794578fc9bc:71d3f87b4e0eb6dab7c4c110fc2fbd1b
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U16 2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",CCTV 5
-https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8|referer:https://olevod.tv/
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",BEIN 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro10.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",TSN 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Tsn4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",BEIN MAX
-https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro14.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SPORT.TV1
-https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SONY SPORT 5
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",TRT SPOR
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", SPORT TV
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SPORT TV 1
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",ASTRO STADIA
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", EURO24 4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", EURO24 5
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", EURO24 6
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", EURO24 7
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", EURO24 8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", EURO24 9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", EURO24 10
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", EURO24 11
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", EURO24 12
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", EURO24 13
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", EURO24 14
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪", EURO24 15
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SONY TEN 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/Sonyten1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SONY TEN 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/Sonyten2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SONY TEN 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/Sonyten3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SONY TEN 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/Sonyten4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SONY TEN 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/Sonyten5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",Astro Supersport 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroSS2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",Astro Supersport 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroSS3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SPOTV STADIA 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/SpotvStadia.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",SPOTV STADIA 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/SpotvStadia2.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",Sportstars 3
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mPDJxv/d74aa0161597101-63c93fe63a392.gif" group-title="🇩🇪🏆PIALA EROPA 2024🏆🇩🇪",Sportstars 4 HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",TNT 1
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",OPTUS 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro1.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/zQ69PPT/LO.jpg" group-title="🚩Copa America USA 2024🚩",TSN 4
-http://cord-cutter.net:8080/live/j3McKd/673709/47446.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/zQ69PPT/LO.jpg" group-title="🚩Copa America USA 2024🚩",Teletica 
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162530.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",Canal 11
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/158494.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/zQ69PPT/LO.jpg" group-title="🚩Copa America USA 2024🚩",TV Max Canal 9
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/166784.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",RPC
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",ASTRO 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroSS4.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",SPORT TV1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/SportTVBR1.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/zQ69PPT/LO.jpg" group-title="🚩Copa America USA 2024🚩",TSN 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Tsn1.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/zQ69PPT/LO.jpg" group-title="🚩Copa America USA 2024🚩",TYC
-https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Tyc.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",FOX SPORT 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/FoxSportAR1.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4d6tzMs/USA.jpg" group-title="🚩Copa America USA 2024🚩",
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/pQ2W5VL/download-6.jpg" group-title="🚩Copa America USA 2024🚩",
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/pQ2W5VL/download-6.jpg" group-title="🚩Copa America USA 2024🚩",
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/pQ2W5VL/download-6.jpg" group-title="🚩Copa America USA 2024🚩",
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/pQ2W5VL/download-6.jpg" group-title="🚩Copa America USA 2024🚩",
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/pQ2W5VL/download-6.jpg" group-title="🚩Copa America USA 2024🚩",
 
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE 0
 
@@ -171,21 +55,6 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/FoxSport
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE 4
 
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE 5
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE 6
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE 7
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE 8
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE 9
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE a
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE b
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE c
-
 
 
 
