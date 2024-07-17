@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AFF U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key=aad3b98420ff07499eb2c064b6c4689c:7a9bcd82c08272df18f727d94d0034a9
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/204_stream.mpd?hdntl=exp=1721215613~acl=%2f*~id=162738889~data=hdntl~hmac=280d4365533912f435f8e239dec9ce96d48c3b3ffe9aa384a008e03723d615a2
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U19
@@ -547,21 +547,20 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD0zSCH3i4tCg7Oz6DWcYzPKXuTAkD4kiIHA&usqp=CAU" group-title="CLUB SPORT", FB TV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzTSOlIPBOz2VtMx2IUsnXChBQUhVO4SF8A&usqp=CAU" group-title="CLUB SPORT", GALATASARAY TV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK74ZLHsmN3mF-7XO2TdG3iJGK4NQIGAMnXQ&usqp=CAU" group-title="CLUB SPORT", INTER TV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvFbWbNt4RtslnUoByDeSEkM38gUwDcSRikA&usqp=CAU" group-title="CLUB SPORT", LFC TV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCgXv_J7-qIHrqlaHAEsTyelPm2YylQqXcAw&usqp=CAU" group-title="CLUB SPORT", MADRID TV
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Milan_TV_-_Logo_2016.png" group-title="CLUB SPORT", MILAN TV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfc6J7cVNVrcFBM7OJOXcMK0_nmRPnMa6Bo27417gmg&s" group-title="CLUB SPORT", MU TV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNyzwVLepLCUw5TzSU2Wq7ekjJFf6lPvGRr6HIDJRZJXXQpcrseqCE2U&s=10" group-title="CLUB SPORT", LAZIO TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsLcSH2HIQPTBJoN0LbGONtn5cIYrNwG1XALlPT_zovYQaUD8zTIOUW5E&s=10" group-title="@CLUB TV", BENFICA  TV
+https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/BenficaTV.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrI_019SErMyGerp69Xw68sDuPNqCVeW81uA&usqp=CAU" group-title="@CLUB TV", FENERBAHCE  TV
+https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/Fenerbahce.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzTSOlIPBOz2VtMx2IUsnXChBQUhVO4SF8A&usqp=CAU" group-title="@CLUB TV", GALATASARAY  TV
+https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/GalatasarayTV.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK74ZLHsmN3mF-7XO2TdG3iJGK4NQIGAMnXQ&usqp=CAU" group-title="@CLUB TV", INTER  TV
+https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/InterTV.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKoOxWGDBZd1IYYBzQS8KsavSCuHcOTqWLqSQv1OsA_c9q0ZykQ0wQKM&s=10" group-title="@CLUB TV", MADRID TV
+https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/MadridTV.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFel_TgkS1KEDNbFQ0InjMHlOHQBFQGSgSIGNeotszmNH_S7_Ybku2Vd97&s=10" group-title="@CLUB TV", MILAN TV
+https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/MilanTV.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8mT1LOiUyebzhm2O9jDwrmZUuI4_vQrP8Q&usqp=CAU" group-title="@CLUB TV", MUTV
+https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/MuTV.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/9hVGK05/download-2.jpg" group-title="⚽️FA Cup⚽️",Bein Sport 1 Id
@@ -651,8 +650,6 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/sony/B-inal22/Sonyten4.m3u8
 #EXTINF:-1 group-title="@SONY ENTERTAINMENT 2" tvg-id="sonysix.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",Sony Sports 5 HD
 https://raw.githubusercontent.com/B-inalm3u-Custom/sony/B-inal22/Sonyten5.m3u8
 
-
-==============================TSN CANADA=======================================================
 
 
 
