@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AFF U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key=aad3b98420ff07499eb2c064b6c4689c:7a9bcd82c08272df18f727d94d0034a9
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/204_stream.mpd?hdntl=exp=1721302331~acl=%2f*~id=162738889~data=hdntl~hmac=1ccb3576dc58eadf6e44ae0e2458d16351369fec29aca4a1092841d81a4b96e7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
