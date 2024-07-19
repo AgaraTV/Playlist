@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AFF U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aad3b98420ff07499eb2c064b6c4689c:7a9bcd82c08272df18f727d94d0034a9
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/204_stream.mpd?hdntl=exp=1721388822~acl=%2f*~id=162738889~data=hdntl~hmac=9e296f67cee7726ca0af960de53c018820db9aaa26610ab497472963e827ecc9
+#KODIPROP:inputstream.adaptive.license_key=0767b7c896ce8c94013fd2afc2f8fcd0:02419eea67ed8c966cba0e02b9506d22
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/206_stream.mpd?hdntl=exp=1721403808~acl=%2f*~id=162738889~data=hdntl~hmac=f374af7bbfd0a4f2cc2b68a6bb8e8eb8ff863d94b7b6422071c523185b1db249
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -28,8 +28,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/204_stream.mpd?hdn
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",PIALA PRESIDEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=849e66e2deb224ddee3c8edee8b9be61:f55a0747fd676c19cbe97cc677429d94
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdntl=exp=1721392319~acl=%2f*~id=162738889~data=hdntl~hmac=5c3e9fb61ec5369781b67f842fb81897e8a52e71b334f3b15ad998be755d51df
+#KODIPROP:inputstream.adaptive.license_key=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",PIALA PRESIDEN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
