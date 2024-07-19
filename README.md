@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AFF U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0767b7c896ce8c94013fd2afc2f8fcd0:02419eea67ed8c966cba0e02b9506d22
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/206_stream.mpd?hdntl=exp=1721317246~acl=%2f*~id=162738889~data=hdntl~hmac=dc38e7f686f0a06c096d1b13cf5227d54a1797525bd01fbc2f77a396d283d1e5
+#KODIPROP:inputstream.adaptive.license_key=aad3b98420ff07499eb2c064b6c4689c:7a9bcd82c08272df18f727d94d0034a9
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/204_stream.mpd?hdntl=exp=1721388822~acl=%2f*~id=162738889~data=hdntl~hmac=9e296f67cee7726ca0af960de53c018820db9aaa26610ab497472963e827ecc9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
