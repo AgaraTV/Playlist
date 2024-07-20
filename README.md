@@ -23,7 +23,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1721478946~acl=/live/17252/*~id=162738889~hmac=d96bc5d4535433282113426662585d5908ee5e3dbacfa42f89cbbaa38f5266e0
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1721494424~acl=/live/17252/*~id=162738889~hmac=ff588caed17c5a5386ce994376c17bf3515b969acfcd3362bcd0fd407def6003
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",PIALA PRESIDEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
