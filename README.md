@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdntl=exp=1721578900~acl=%2f*~id=162738889~data=hdntl~hmac=f12cb342286cdd33c5edac3a6a085392720f52346701221f90a665ec1b7043fd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
