@@ -99,10 +99,11 @@ https://testfunctionlive.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="🇮🇩 LOKAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI V+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 LOKAL 🇮🇩"catchup="", GTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 LOKAL 🇮🇩"catchup="", GTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://testfunctionlive.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+https://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 LOKAL 🇮🇩", GTV V+
 
@@ -112,7 +113,8 @@ https://testfunctionlive.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://testfunctionlive.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bgr1VQP/trans.png" group-title="🇮🇩 LOKAL 🇮🇩"catchup="", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w988572694_b744100_sleng.m3u8
@@ -124,16 +126,14 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w44437729_b744100_slen
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://testfunctionlive.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+https://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/km3s31K/rtv.png" group-title="🇮🇩 LOKAL 🇮🇩"catchup="", RTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-https://testfunctionlive.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
 #EXTINF:-1 group-title="🇮🇩 LOKAL 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/IpeEwT9utGj3D7RLsH9iALX8K_4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png",Net TV
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -143,13 +143,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://testfunctionlive.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+https://melon-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbG8cH9/MetroTV.png" group-title="🇮🇩 LOKAL 🇮🇩"catchup="", Metro TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://testfunctionlive.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+https://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cJrgNLt/tvone.png" group-title="🇮🇩 LOKAL 🇮🇩"catchup="", TVONE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
