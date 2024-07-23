@@ -26,7 +26,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317d7779d58776206ba8705afd4f99f:a0f1d977065726f60688a0664bc1e7de
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdntl=exp=1721750040~acl=%2f*~id=162738889~data=hdntl~hmac=ded6368d0170d0d37c108096496d59acaf584a7aa4332fd8933c3845f54c12b4
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdntl=exp=1721750293~acl=%2f*~id=162738889~data=hdntl~hmac=357e042a9b7ce1dc32245adc6dbfc8d70642a9c324680d91f395813e9b5156eb
 
 
 
