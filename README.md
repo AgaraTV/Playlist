@@ -26,8 +26,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317d7779d58776206ba8705afd4f99f:a0f1d977065726f60688a0664bc1e7de
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdntl=exp=1721751503~acl=%2f*~id=162738889~data=hdntl~hmac=786ea8e2fc544c7db756c00585f52eddd0f79eda9503aaf99cd5bd7d2d2bbb33
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdntl=exp=1721752029~acl=%2f*~id=162738889~data=hdntl~hmac=6dffdedf7af9310fa57a4e8acb334abda9c47582151cb32a410ca937cb97482d
 
 
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE 0
