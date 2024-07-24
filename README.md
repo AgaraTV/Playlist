@@ -33,7 +33,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317d7779d58776206ba8705afd4f99f:a0f1d977065726f60688a0664bc1e7de
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdntl=exp=1721835677~acl=%2f*~id=162738889~data=hdntl~hmac=4e5ce0d3c21376aa3c41e7fa7e065b89eb81c4e096cbe21f82db58d1d96e9d88
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AVC VOLY U20 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
