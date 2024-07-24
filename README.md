@@ -4,13 +4,13 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdntl=exp=1721751788~acl=%2f*~id=162738889~data=hdntl~hmac=840d26ed7bd8904c3f5c7234d26afccc30332f09f3f47e608e4d14609aaadd51
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdntl=exp=1721749029~acl=%2f*~id=162738889~data=hdntl~hmac=8cc416bf34808242bb2f3189c9d5dc432a67ee9605d08aa7462dd506aa8d7ea1
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",PIALA PRESIDEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -26,8 +26,11 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317d7779d58776206ba8705afd4f99f:a0f1d977065726f60688a0664bc1e7de
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdntl=exp=1721752029~acl=%2f*~id=162738889~data=hdntl~hmac=6dffdedf7af9310fa57a4e8acb334abda9c47582151cb32a410ca937cb97482d
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AVC VOLY U20 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17334/master.m3u8?hdnts=exp=1721821697~acl=/live/17334/*~id=162738889~hmac=aa162dcfe013ed9f2aed5436d9e6e4b68907d22cce6f415e6029ed837a67c2a1
 
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE 0
 
