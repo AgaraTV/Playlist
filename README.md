@@ -4,13 +4,13 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AFF U19 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b56244827da3dbe89d68e5ecd15c11a:8ccd2be637ab9640c66118cdca064dee
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17601_stream.mpd?hdntl=exp=1721822142~acl=%2f*~id=162738889~data=hdntl~hmac=8ea976ac23c343108cc4eafa6a604cccdac34999164a6be1445cd43f86371845
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -22,7 +22,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17601_stream.mpd?h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=849e66e2deb224ddee3c8edee8b9be61:f55a0747fd676c19cbe97cc677429d94
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdntl=exp=1721822415~acl=%2f*~id=162738889~data=hdntl~hmac=27919bee6a437b03585e395fe1168a87048b80460a9922e8a18466509388e81f
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",PIALA PRESIDEN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -37,19 +37,31 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?h
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AVC VOLY U20 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17334/master.m3u8?hdnts=exp=1721821697~acl=/live/17334/*~id=162738889~hmac=aa162dcfe013ed9f2aed5436d9e6e4b68907d22cce6f415e6029ed837a67c2a1
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE 0
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS", CCTV5 HD
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS", CCTV5+ HD
+https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS", CCTV16 HD
+https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS",
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS", 
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS", 
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS",
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🚩🚩LIVE NOW🚩🚩", LIVE 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS",
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS",
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS",
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS",
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS", 
 
 
 
