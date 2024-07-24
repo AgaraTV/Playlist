@@ -37,7 +37,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AVC VOLY U20 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/206/master.m3u8?hdnts=exp=1721828096~acl=/live/206/*~id=162738889~hmac=ae72ae8b7ade4f72ecb1919a8f828b93bab471b04b9507ff51797092f39886fc
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS", CCTV5 HD
 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
