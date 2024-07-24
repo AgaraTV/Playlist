@@ -45,11 +45,10 @@ https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS", CCTV16 HD
 https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS",
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS", 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS", 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS",EUROSPORT2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2285
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS",EUROSPORT
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2286
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIADE PARIS",
 
