@@ -62,8 +62,9 @@ https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
 https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",
