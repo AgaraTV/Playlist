@@ -6,7 +6,7 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
-https://fhlsport20.fls77.xyz/token-dBN8m%2BOTK%2FSG5GcvkPY6kT%2FWlJuEg3rjanOqk6gbGDL34LTNHUFdCIskpRNAXkpJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/48r5s1q0nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_571738.m3u8|referer=https://ben.quietlywheat23.shop/
+https://fhlsport20.fls77.xyz/token-JkJ%2BzeWTLaKG6mR%2BwvY6kWzSlMOD0yrjaiyulKNMGTbxsrTPHUFdCIskpRJNXExJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/48r5s1q0nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_571738.m3u8|referer=https://ben.quietlywheat23.shop/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AFF U19 2
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
