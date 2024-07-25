@@ -3,9 +3,10 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AFF U19 1
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://ben.quietlywheat23.shop/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
+https://fhlsport20.fls77.xyz/token-dBN8m%2BOTK%2FSG5GcvkPY6kT%2FWlJuEg3rjanOqk6gbGDL34LTNHUFdCIskpRNAXkpJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/48r5s1q0nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_571738.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AFF U19 2
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -22,10 +23,12 @@ https://fhlsport20.fls77.xyz/token-cRAtyeaQeP6Gu2d9xPY6yDiGlMCEjSnjPnD%2BzqJHFGG
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",PIALA PRESIDEN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=849e66e2deb224ddee3c8edee8b9be61:f55a0747fd676c19cbe97cc677429d94
-
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://ben.quietlywheat23.shop/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
+https://fhlsport20.fls77.xyz/token-LEV5ybjCIKKG72N%2BwvY6kD7XlMCDjXvjZC2owvRLGGLytbibHUFdCIskpRNBWERJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/1r62426qnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_571772.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",PIALA PRESIDEN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
