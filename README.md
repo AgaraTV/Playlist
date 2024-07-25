@@ -6,13 +6,14 @@
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://fhlsport20.fls77.xyz/token-I0N%2Fn7WTKfGG5WMqy%2FY6yGiFlJrQgnrjaiStxaNOEzL35LGYHUFdCIskpRFMX0pJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/rnon5s2qnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_571739.m3u8|referer=https://ben.quietlywheat23.shop/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AFF U19 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b56244827da3dbe89d68e5ecd15c11a:8ccd2be637ab9640c66118cdca064dee
-
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://ben.quietlywheat23.shop/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
+https://fhlsport20.fls77.xyz/token-cRAtyeaQeP6Gu2d9xPY6yDiGlMCEjSnjPnD%2BzqJHFGGh4uacHUFdCIskpRBBWUpJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/rnon5s2qnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_571739.m3u8|referer=https://ben.quietlywheat23.shop/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
