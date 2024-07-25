@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdntl=exp=1721908225~acl=%2f*~id=162738889~data=hdntl~hmac=cf4c47de282d1903d54300f8219d9f7f01acb0b274cc38eaa6509cab42b25165
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AFF U19 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -33,11 +33,46 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317d7779d58776206ba8705afd4f99f:a0f1d977065726f60688a0664bc1e7de
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdntl=exp=1721835677~acl=%2f*~id=162738889~data=hdntl~hmac=4e5ce0d3c21376aa3c41e7fa7e065b89eb81c4e096cbe21f82db58d1d96e9d88
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AVC VOLY U20 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/206/master.m3u8?hdnts=exp=1721828096~acl=/live/206/*~id=162738889~hmac=ae72ae8b7ade4f72ecb1919a8f828b93bab471b04b9507ff51797092f39886fc
+
+Match: "Women's Preliminary Round - Slovenia vs Denmark | Netherlands vs Angola."
+#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793402'&EntityType='Item'&EntityId='228465'&Width=300&Height=170",25 Jul 2024 13:50
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
+https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
+
+Match: "Women's Preliminary Round - Spain vs Brazil | Germany vs South Korea"
+#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793402'&EntityType='Item'&EntityId='228465'&Width=300&Height=170",25 Jul 2024 18:50
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
+https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
+
+Match: "Men's Pool Phase"
+#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793443'&EntityType='Item'&EntityId='307094'&Width=300&Height=170",25 Jul 2024 18:50
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
+https://mwmpos02.akamaized.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
+
+Match: "Women's Group Stage - Spain vs Japan"
+#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191747'&EntityType='Item'&EntityId='288336'&Width=300&Height=170",25 Jul 2024 21:50
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
+https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
+
+Match: "Women's Group Stage - Canada vs New Zealand"
+#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191747'&EntityType='Item'&EntityId='288336'&Width=300&Height=170",25 Jul 2024 21:50
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5b34732f10148b9a9de022bb91a1eab:1e59c2a09be4d537aa04bec805bed64e
+https://mwmpos01.akamaized.net/out/v1/11d366d059b24b4780c86e4894e35b11/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024", CCTV5 HD
 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -65,13 +100,24 @@ https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",EUROSPORT 1 DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-027/stream.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",EUROSPORT 2 DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-028/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024", 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/fnb1LKx/images-4.jpg" group-title="🚩FRIENDLY MATCH🚩",Live 1
 
