@@ -47,7 +47,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?h
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
-https://fhlsport20.fls77.xyz/token-dkYozbDAL%2FCGu2V%2BkPY6zGrRlJrT0XzjPXD4laQfFjCjsrmcHUFdCIgspBdKVEhJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/6pq68682nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_571902.m3u8|referer=https://ben.quietlywheat23.shop/
+
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg" group-title="##🇮🇩TIMNAS DAY🇮🇩##"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", TIMNAS 1
@@ -106,11 +106,11 @@ https://mwmpos01.akamaized.net/out/v1/11d366d059b24b4780c86e4894e35b11/manifest.
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024", CCTV5 HD
-https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8|referer:https://olevod.tv/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024", CCTV5+ HD
-https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8|referer:https://olevod.tv/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024", CCTV16 HD
-https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8
+https://live.olelive.com:6443/live/CCTV16HD/hls.m3u8|referer:https://olevod.tv/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",EUROSPORT2
 http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2285
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",EUROSPORT
