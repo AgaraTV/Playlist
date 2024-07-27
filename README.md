@@ -106,11 +106,11 @@ https://mwmpos01.akamaized.net/out/v1/11d366d059b24b4780c86e4894e35b11/manifest.
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024", CCTV5 HD
-https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8|referer:https://olevod.tv/
+http://222.241.154.37:9901/tsfile/live/23005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024", CCTV5+ HD
-https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8|referer:https://olevod.tv/
+http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024", CCTV16 HD
-https://live.olelive.com:6443/live/CCTV16HD/hls.m3u8|referer:https://olevod.tv/
+http://222.241.154.37:9901/tsfile/live/23016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",EUROSPORT2
 http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2285
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",EUROSPORT
@@ -142,7 +142,21 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-027/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-028/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024", 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024", Eurosport 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",Sortv3
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro11.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",BeinSport1
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",BeinSport2
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro15.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",Beins1
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro14.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",Eurosport2
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro7.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",
 
@@ -667,20 +681,21 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsLcSH2HIQPTBJoN0LbGONtn5cIYrNwG1XALlPT_zovYQaUD8zTIOUW5E&s=10" group-title="CLUB TV", BENFICA  TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsLcSH2HIQPTBJoN0LbGONtn5cIYrNwG1XALlPT_zovYQaUD8zTIOUW5E&s=10" group-title="@CLUB TV", BENFICA  TV
 https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/BenficaTV.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrI_019SErMyGerp69Xw68sDuPNqCVeW81uA&usqp=CAU" group-title="CLUB TV", FENERBAHCE  TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrI_019SErMyGerp69Xw68sDuPNqCVeW81uA&usqp=CAU" group-title="@CLUB TV", FENERBAHCE  TV
 https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/Fenerbahce.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzTSOlIPBOz2VtMx2IUsnXChBQUhVO4SF8A&usqp=CAU" group-title="CLUB TV", GALATASARAY  TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzTSOlIPBOz2VtMx2IUsnXChBQUhVO4SF8A&usqp=CAU" group-title="@CLUB TV", GALATASARAY  TV
 https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/GalatasarayTV.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK74ZLHsmN3mF-7XO2TdG3iJGK4NQIGAMnXQ&usqp=CAU" group-title="CLUB TV", INTER  TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK74ZLHsmN3mF-7XO2TdG3iJGK4NQIGAMnXQ&usqp=CAU" group-title="@CLUB TV", INTER  TV
 https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/InterTV.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKoOxWGDBZd1IYYBzQS8KsavSCuHcOTqWLqSQv1OsA_c9q0ZykQ0wQKM&s=10" group-title="CLUB TV", MADRID TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKoOxWGDBZd1IYYBzQS8KsavSCuHcOTqWLqSQv1OsA_c9q0ZykQ0wQKM&s=10" group-title="@CLUB TV", MADRID TV
 https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/MadridTV.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFel_TgkS1KEDNbFQ0InjMHlOHQBFQGSgSIGNeotszmNH_S7_Ybku2Vd97&s=10" group-title="CLUB TV", MILAN TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFel_TgkS1KEDNbFQ0InjMHlOHQBFQGSgSIGNeotszmNH_S7_Ybku2Vd97&s=10" group-title="@CLUB TV", MILAN TV
 https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/MilanTV.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8mT1LOiUyebzhm2O9jDwrmZUuI4_vQrP8Q&usqp=CAU" group-title="CLUB TV", MUTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8mT1LOiUyebzhm2O9jDwrmZUuI4_vQrP8Q&usqp=CAU" group-title="@CLUB TV", MUTV
 https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/MuTV.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/9hVGK05/download-2.jpg" group-title="⚽️FA Cup⚽️",Bein Sport 1 Id
