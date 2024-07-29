@@ -78,13 +78,6 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?h
 
 
 
-Match: "Women's Kayak Single Final"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792925'&EntityType='Item'&EntityId='404155'&Width=300&Height=170",29 Jul 2024 13:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
-
 Match: "Women's Street Finals"
 #EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793412'&EntityType='Item'&EntityId='228480'&Width=300&Height=170",29 Jul 2024 13:50
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
