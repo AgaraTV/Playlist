@@ -16,6 +16,13 @@
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U19
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdntl=exp=1722267182~acl=%2f*~id=159408644~data=hdntl~hmac=418e52485a651d9d60d082c847cca1d6f7cc31caef098b189fe20d8ddeed984e
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U19
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23,7 +30,23 @@
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722094218~acl=/drm/dash/*~id=164396008~hmac=552ba21efcedc47b3cd1d4e452435538f23b1dd94d0612db52e797b4c95b8a63
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722269045~acl=/drm/dash/*~id=164287540~hmac=de0a3340b106d414521cdd2dfee50031237ca21e1b383d3a8a8717d2e77c2482
+
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg" group-title="##🇮🇩TIMNAS DAY🇮🇩##"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", TIMNAS 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", TIMNAS 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", TIMNAS 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", TIMNAS 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", TIMNAS 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas5.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",PIALA PRESIDEN 2
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
