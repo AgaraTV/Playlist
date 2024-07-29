@@ -8,13 +8,13 @@
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
 https://fhlsport20.fls77.xyz/token-cxN%2BmLSdfKKG6m18kfY6nDrSlMOBgHrjaCCrxahMGTfx4LLPHUFdCIguqBVMXU1JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/678no28pnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_572037.m3u8|referer=https://ben.quietlywheat23.shop/
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AFF U19 2
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://ben.quietlywheat23.shop/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
-|referer=https://ben.quietlywheat23.shop/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdntl=exp=1722255498~acl=%2f*~id=164287540~data=hdntl~hmac=9ef6518af77414cda99672b5c993e15b07174f36eae147891b3166e14fdd9879
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U19
 #KODIPROP:inputstream.adaptive.license_type=clearkey
