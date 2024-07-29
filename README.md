@@ -6,7 +6,7 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
-https://fhlsport20.fls77.xyz/token-cxN%2BmLSdfKKG6m18kfY6nDrSlMOBgHrjaCCrxahMGTfx4LLPHUFdCIguqBVMXU1JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/678no28pnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_572037.m3u8|referer=https://ben.quietlywheat23.shop/
+|referer=https://ben.quietlywheat23.shop/
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AFF U19 2
@@ -15,7 +15,7 @@ https://fhlsport20.fls77.xyz/token-cxN%2BmLSdfKKG6m18kfY6nDrSlMOBgHrjaCCrxahMGTf
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdntl=exp=1722255498~acl=%2f*~id=164287540~data=hdntl~hmac=9ef6518af77414cda99672b5c993e15b07174f36eae147891b3166e14fdd9879
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U19
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23,6 +23,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?h
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722094218~acl=/drm/dash/*~id=164396008~hmac=552ba21efcedc47b3cd1d4e452435538f23b1dd94d0612db52e797b4c95b8a63
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdntl=exp=1722269045~acl=%2f*~id=164287540~data=hdntl~hmac=de0a3340b106d414521cdd2dfee50031237ca21e1b383d3a8a8717d2e77c2482
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",PIALA PRESIDEN 2
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
