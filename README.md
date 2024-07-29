@@ -6,7 +6,7 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
-|referer=https://ben.quietlywheat23.shop/
+https://fhlsport20.fls77.xyz/token-cxN%2BmLSdfKKG6m18kfY6nDrSlMOBgHrjaCCrxahMGTfx4LLPHUFdCIguqBVMXU1JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/678no28pnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_572037.m3u8|referer=https://ben.quietlywheat23.shop/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AFF U19 2
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
