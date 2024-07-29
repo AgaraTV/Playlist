@@ -13,6 +13,7 @@ https://fhlsport20.fls77.xyz/token-cxN%2BmLSdfKKG6m18kfY6nDrSlMOBgHrjaCCrxahMGTf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdntl=exp=1722255498~acl=%2f*~id=164287540~data=hdntl~hmac=9ef6518af77414cda99672b5c993e15b07174f36eae147891b3166e14fdd9879
 
