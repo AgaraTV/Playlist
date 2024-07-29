@@ -24,6 +24,8 @@
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdntl=exp=1722267182~acl=%2f*~id=159408644~data=hdntl~hmac=418e52485a651d9d60d082c847cca1d6f7cc31caef098b189fe20d8ddeed984e
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U19
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
