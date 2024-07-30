@@ -72,875 +72,111 @@ https://fhlsport20.fls77.xyz/token-IRR6zrSSKvOG7mN8xfY6zGvXlMDW1HjjOCX4kPNMF2bwt
 
 
 
-Match: "Men's Preliminary Round | Women's Preliminary Round"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793479'&EntityType='Item'&EntityId='228450'&Width=300&Height=170",29 Jul 2024 13:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ffd62c517de4fc29887c3410ceb8d0b:e71be77c8149a1aa1dd09c5667700bfb
-https://mwmpos04.akamaized.net/out/v1/7858540d66b44c0583c19e6b90efdb0b/manifest.mpd
+#EXTINF:-1,✦●✦| OLYMPIC |✦●✦
+http://extraott.com:80/live/5301246455/1849687755/400216157.m3u8
+#EXTINF:-1,OL| FR FRANCE TV PARIS 2024 FHD
+http://extraott.com:80/live/5301246455/1849687755/42985.m3u8
+#EXTINF:-1,OL| FR FRANCE TV PARIS 2024 HD
+http://extraott.com:80/live/5301246455/1849687755/42984.m3u8
+#EXTINF:-1,OL| FR FRANCE TV PARIS 2024 SD
+http://extraott.com:80/live/5301246455/1849687755/42983.m3u8
+#EXTINF:-1,OL| EUROSPORT 1
+http://extraott.com:80/live/5301246455/1849687755/23416.m3u8
+#EXTINF:-1,OL| EUROSPORT 2
+http://extraott.com:80/live/5301246455/1849687755/23417.m3u8
+#EXTINF:-1,OL| EUROSPORT 3
+http://extraott.com:80/live/5301246455/1849687755/23418.m3u8
+#EXTINF:-1,OL| EUROSPORT 4
+http://extraott.com:80/live/5301246455/1849687755/23422.m3u8
+#EXTINF:-1,OL| EUROSPORT 5
+http://extraott.com:80/live/5301246455/1849687755/23425.m3u8
+#EXTINF:-1,OL| EUROSPORT 6
+http://extraott.com:80/live/5301246455/1849687755/23426.m3u8
+#EXTINF:-1,OL| EUROSPORT 7
+http://extraott.com:80/live/5301246455/1849687755/23427.m3u8
+#EXTINF:-1,OL| EUROSPORT 8
+http://extraott.com:80/live/5301246455/1849687755/23428.m3u8
+#EXTINF:-1,OL| EUROSPORT 9
+http://extraott.com:80/live/5301246455/1849687755/23431.m3u8
+#EXTINF:-1,OL| EUROSPORT UHD/4K (CZ)
+http://extraott.com:80/live/5301246455/1849687755/23432.m3u8
+#EXTINF:-1,OL| UK (Olympics) EUROSPORT UHD/4k
+http://extraott.com:80/live/5301246455/1849687755/401298363.m3u8
+
+#EXTINF:-1,OL| UK (Olympics) EUROSPORT 2
+http://extraott.com:80/live/5301246455/1849687755/401298365.m3u8
+#EXTINF:-1,OL| UK (Olympics) EUROSPORT 3
+http://extraott.com:80/live/5301246455/1849687755/401298366.m3u8
+#EXTINF:-1,OL| UK (Olympics) EUROSPORT 4
+http://extraott.com:80/live/5301246455/1849687755/401298367.m3u8
+#EXTINF:-1,OL| UK (Olympics) EUROSPORT 5
+http://extraott.com:80/live/5301246455/1849687755/401298368.m3u8
+#EXTINF:-1,OL| UK (Olympics) EUROSPORT 6
+http://extraott.com:80/live/5301246455/1849687755/401298369.m3u8
+#EXTINF:-1,OL| UK (Olympics) EUROSPORT 7
+http://extraott.com:80/live/5301246455/1849687755/401298370.m3u8
+#EXTINF:-1,OL| UK (Olympics) EUROSPORT 8
+http://extraott.com:80/live/5301246455/1849687755/401298371.m3u8
+#EXTINF:-1,OL| UK (Olympics) EUROSPORT 9
+http://extraott.com:80/live/5301246455/1849687755/401298372.m3u8
+
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US: CNBC" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",US: CNBC
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649772
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="US: E!" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",US: E!
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649773
+#EXTINF:-1 tvg-id="NBCWNBC.us" tvg-name="US: NBC" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",US: NBC
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649774
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="US: USA Network" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",US: USA Network
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649775
+#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA: CBC" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",CA: CBC
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649776
+#EXTINF:-1 tvg-id="bbconecambridgeshire.uk" tvg-name="UK: BBC One" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: BBC One
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649777
+#EXTINF:-1 tvg-id="bbc2northernireland.uk" tvg-name="UK: BBC Two" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: BBC Two
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649778
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosport" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649788
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 2
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649789
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 3" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 3
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649790
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 4" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 4
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649791
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 5" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 5
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649792
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 6" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 6
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649793
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 7" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 7
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649794
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 8" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 8
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649795
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 9" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="2024 OLYMPICS",UK: Eurosport 9
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649796
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport Events 3" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="ASIA",MY: Astro SuperSport Events 3
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/605326
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport Events 4" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="ASIA",MY: Astro SuperSport Events 4
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/605327
+#EXTINF:-1,Peacock 1:
+http://25355-knows.oot-mx.me:80/Rosalie/Rosalie/1596584
+#EXTINF:-1,Peacock 2:
+http://25355-knows.oot-mx.me:80/Rosalie/Rosalie/1596583
+#EXTINF:-1,Peacock 3:
+http://25355-knows.oot-mx.me:80/Rosalie/Rosalie/1596582
+#EXTINF:-1,Peacock 5:
+http://25355-knows.oot-mx.me:80/Rosalie/Rosalie/1596581
+
+#EXTINF:-1,MY| ASTRO OLYMPICS 1
+http://25355-knows.oot-mx.me:80/Rosalie/Rosalie/1596564
+#EXTINF:-1,MY| ASTRO OLYMPICS 2
+http://25355-knows.oot-mx.me:80/Rosalie/Rosalie/1596563
+#EXTINF:-1,MY| ASTRO OLYMPICS 3
+http://25355-knows.oot-mx.me:80/Rosalie/Rosalie/1596562
+#EXTINF:-1,MY| ASTRO OLYMPICS 4
+http://25355-knows.oot-mx.me:80/Rosalie/Rosalie/1596561
+#EXTINF:-1,MY| ASTRO OLYMPICS 5
+http://25355-knows.oot-mx.me:80/Rosalie/Rosalie/1596560
 
-Match: "Women's Preliminary Round - Turkey vs Netherlands"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191800'&EntityType='Item'&EntityId='288341'&Width=300&Height=170",29 Jul 2024 13:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56439911482e4ea29baf9086250d17eb:4ede19976f7b9f3aba13b572fe193b62
-https://mwmpos01.akamaized.net/out/v1/5d9d4e9cc6154bea81321230403e319f/manifest.mpd
 
-Match: "Men's Preliminary Round - Japan vs Germany | Slovenia vs Croatia"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793402'&EntityType='Item'&EntityId='228465'&Width=300&Height=170",29 Jul 2024 13:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f32acdabea64b93bfacaa4dc2ccf7fa:1ca53b84806b4e3d57fa8febafe62656
-https://mwmpos03.akamaized.net/out/v1/43062599f633463688e28e331f7f0e47/manifest.mpd
-
-Match: "Mixed Doubles Group Play Stage | Men's Doubles Group Play Stage | Women's Singles Group Play Stage | Women's Doubles Group Play Stage | Men's Singles Group Play Stage"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792905'&EntityType='Item'&EntityId='288332'&Width=300&Height=170",29 Jul 2024 14:15
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56dce91a7a504f7c909f41daa67e17e5:096eefa3c85aff704265eef51171ec3a
-https://mwmpos02.akamaized.net/out/v1/affe3e52f7db4ee2ae69d2fa4dac76b5/manifest.mpd
-
-Match: "Men's Single Sculls Semi-finals | Women's Single Sculls Semi-finals | Men's Pair Repechages | Women's Pair Repechages | LWT Men's Double Sculls Repechages | LWT Women's Double Sculls Repechages | Men's Quadruple Sculls Repechages | Women's Quadruple Sculls Repechages | Men's Eight Heats | Women's Eight Heats"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793445'&EntityType='Item'&EntityId='228476'&Width=300&Height=170",29 Jul 2024 14:25
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
-https://mwmpos04.akamaized.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
-
-Match: "Men's Preliminary Round - Ireland vs Australia | Men's Preliminary Round - India vs Argentina"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191749'&EntityType='Item'&EntityId='228466'&Width=300&Height=170",29 Jul 2024 14:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a47d851deaae4504b0fedf842d2db9ef:943a9749cb54b17d9d0fc7c3ab5b7375
-https://mwmpos02.akamaized.net/out/v1/fce653c6a7d44a0288533b7a03e8dd00/manifest.mpd
-
-Match: "Women -57 kg Elimination Round of 32 | Women -57 kg Elimination Round of 16"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793404'&EntityType='Item'&EntityId='228467'&Width=300&Height=170",29 Jul 2024 14:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
-
-Match: "Men's Singles Round of 64 | Women's Singles Round of 64"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191757'&EntityType='Item'&EntityId='288338'&Width=300&Height=170",29 Jul 2024 14:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=013ff1929ddb41a186d9ec63912a5670:73da97902887735edd5cf2a04c2a4bd6
-https://mwmpos03.akamaized.net/out/v1/571cf7ef16284d65aefc2cd92adebd39/manifest.mpd
-
-Match: "Women's Sabre Individual Table of 32"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793149'&EntityType='Item'&EntityId='228461'&Width=300&Height=170",29 Jul 2024 15:45
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5b34732f10148b9a9de022bb91a1eab:1e59c2a09be4d537aa04bec805bed64e
-https://mwmpos01.akamaized.net/out/v1/11d366d059b24b4780c86e4894e35b11/manifest.mpd
-
-Match: "Men's Synchronized 10m Platform"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191745'&EntityType='Item'&EntityId='288335'&Width=300&Height=170",29 Jul 2024 15:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7aace826bd5d48d0bbf330ad1ec16f5c:88b44df0ab0831d1bd2fdb3d23cb7e8f
-https://mwmpos03.akamaized.net/out/v1/34786af906004c77814e5bc098595bb4/manifest.mpd
-
-Match: "Women's Group Phase - Group B - Nigeria vs Australia | Women's Group Phase - Group C - Germany vs Belgium"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191636'&EntityType='Item'&EntityId='372608'&Width=300&Height=170",29 Jul 2024 15:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e47d842706c048c98cde16f41c8c1f3f:ce46d2eeb1d648a18185023b7d772913
-https://mwmpos01.akamaized.net/out/v1/b37aba4f022f4cab973d80282c616904/manifest.mpd
-
-Match: "Men's Heats | Women's Heats"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191753'&EntityType='Item'&EntityId='288340'&Width=300&Height=170",29 Jul 2024 15:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
-
-Match: "Eventing Jumping Team Final"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793147'&EntityType='Item'&EntityId='228460'&Width=300&Height=170",29 Jul 2024 15:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
-https://mwmpos02.akamaized.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
-
-Match: "Women's 60kg Round of 16 | Men's 63.5kg Round of 16 | Men's +92kg Round of 16"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191743'&EntityType='Item'&EntityId='228451'&Width=300&Height=170",29 Jul 2024 15:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26a0cfcc4ff445858360d41ef02e7e0f:cd01c0254f2615bfca9eb23e62f2dbdc
-https://mwmpos02.akamaized.net/out/v1/10bacd45a9d8417a8ef01747e60eb3af/manifest.mpd
-
-Match: "Men's 10m Air Rifle Finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6794763'&EntityType='Item'&EntityId='228479'&Width=300&Height=170",29 Jul 2024 16:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5b34732f10148b9a9de022bb91a1eab:1e59c2a09be4d537aa04bec805bed64e
-https://mwmpos01.akamaized.net/out/v1/11d366d059b24b4780c86e4894e35b11/manifest.mpd
-
-Match: "Men's Singles Second Round | Women's Singles Second Round"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793475'&EntityType='Item'&EntityId='228486'&Width=300&Height=170",29 Jul 2024 16:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9434173a763e423fbc8dca7b27d393e4:8fff3a0b245b8b837126ade3348b8720
-https://mwmpos02.akamaized.net/out/v1/629b58ad3a734deea8c2267a261665af/manifest.mpd
-
-Match: "Men's Street Preliminary Heats 1-4"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793412'&EntityType='Item'&EntityId='228480'&Width=300&Height=170",29 Jul 2024 16:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9be41becbf94d169d451b87275d3220:d8e6327c108a0fda737df0e33b62a0d9
-https://mwmpos01.akamaized.net/out/v1/9d59f6e5e1f84631a9ebd228739a2d4f/manifest.mpd
-
-Match: "Men's Foil Individual Table of 32"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793149'&EntityType='Item'&EntityId='228461'&Width=300&Height=170",29 Jul 2024 17:35
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
-https://mwmpos04.akamaized.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
-
-Match: "Women's Preliminary Round - Brazil vs Kenya"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191800'&EntityType='Item'&EntityId='288341'&Width=300&Height=170",29 Jul 2024 17:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56439911482e4ea29baf9086250d17eb:4ede19976f7b9f3aba13b572fe193b62
-https://mwmpos01.akamaized.net/out/v1/5d9d4e9cc6154bea81321230403e319f/manifest.mpd
-
-Match: "Women's Preliminary Round - Spain vs United States"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191749'&EntityType='Item'&EntityId='228466'&Width=300&Height=170",29 Jul 2024 18:05
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56dce91a7a504f7c909f41daa67e17e5:096eefa3c85aff704265eef51171ec3a
-https://mwmpos02.akamaized.net/out/v1/affe3e52f7db4ee2ae69d2fa4dac76b5/manifest.mpd
-
-Match: "Women's Preliminary Round - Japan vs China"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191749'&EntityType='Item'&EntityId='228466'&Width=300&Height=170",29 Jul 2024 18:15
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
-
-Match: "Mixed Doubles Group Play Stage | Men's Doubles Group Play Stage | Women's Singles Group Play Stage | Women's Doubles Group Play Stage | Men's Singles Group Play Stage"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792905'&EntityType='Item'&EntityId='288332'&Width=300&Height=170",29 Jul 2024 18:40
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
-https://mwmpos02.akamaized.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
-
-Match: "Men's Preliminary Round - Egypt vs Denmark"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793402'&EntityType='Item'&EntityId='228465'&Width=300&Height=170",29 Jul 2024 18:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5b34732f10148b9a9de022bb91a1eab:1e59c2a09be4d537aa04bec805bed64e
-https://mwmpos01.akamaized.net/out/v1/11d366d059b24b4780c86e4894e35b11/manifest.mpd
-
-Match: "Women's Pool Phase"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793443'&EntityType='Item'&EntityId='307094'&Width=300&Height=170",29 Jul 2024 18:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26a0cfcc4ff445858360d41ef02e7e0f:cd01c0254f2615bfca9eb23e62f2dbdc
-https://mwmpos02.akamaized.net/out/v1/10bacd45a9d8417a8ef01747e60eb3af/manifest.mpd
-
-Match: "Women's Preliminary Round - France vs Italy | Women's Preliminary Round - United States vs Spain"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792831'&EntityType='Item'&EntityId='228490'&Width=300&Height=170",29 Jul 2024 18:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f32acdabea64b93bfacaa4dc2ccf7fa:1ca53b84806b4e3d57fa8febafe62656
-https://mwmpos03.akamaized.net/out/v1/43062599f633463688e28e331f7f0e47/manifest.mpd
-
-Match: "Mixed Doubles Group Play Stage | Men's Doubles Group Play Stage | Women's Singles Group Play Stage | Women's Doubles Group Play Stage | Men's Singles Group Play Stage"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792905'&EntityType='Item'&EntityId='288332'&Width=300&Height=170",29 Jul 2024 18:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ffd62c517de4fc29887c3410ceb8d0b:e71be77c8149a1aa1dd09c5667700bfb
-https://mwmpos04.akamaized.net/out/v1/7858540d66b44c0583c19e6b90efdb0b/manifest.mpd
-
-Match: "Men's Cross-country"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7886742'&EntityType='Item'&EntityId='471267'&Width=300&Height=170",29 Jul 2024 19:05
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
-https://mwmpos04.akamaized.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
-
-Match: "Men's -66 kg Gold Medal Finals | Women's -52 kg Gold Medal Finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793404'&EntityType='Item'&EntityId='228467'&Width=300&Height=170",29 Jul 2024 19:10
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
-
-Match: "Men's Team - Quarter-finals | Semi-finals | Bronze Medal Match | Gold Medal Match"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792888'&EntityType='Item'&EntityId='228432'&Width=300&Height=170",29 Jul 2024 19:10
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7aace826bd5d48d0bbf330ad1ec16f5c:88b44df0ab0831d1bd2fdb3d23cb7e8f
-https://mwmpos03.akamaized.net/out/v1/34786af906004c77814e5bc098595bb4/manifest.mpd
-
-Match: "Women's Sabre Individual Table of 16"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793149'&EntityType='Item'&EntityId='228461'&Width=300&Height=170",29 Jul 2024 19:45
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
-
-Match: "Eventing Jumping Individual Final"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793147'&EntityType='Item'&EntityId='228460'&Width=300&Height=170",29 Jul 2024 19:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
-https://mwmpos02.akamaized.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
-
-Match: "Women's Preliminary Round | Men's Preliminary Round"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793479'&EntityType='Item'&EntityId='228450'&Width=300&Height=170",29 Jul 2024 19:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=013ff1929ddb41a186d9ec63912a5670:73da97902887735edd5cf2a04c2a4bd6
-https://mwmpos03.akamaized.net/out/v1/571cf7ef16284d65aefc2cd92adebd39/manifest.mpd
-
-Match: "Men's Canoe Single Semifinal"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792925'&EntityType='Item'&EntityId='404155'&Width=300&Height=170",29 Jul 2024 20:25
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
-
-Match: "Women's 60kg Round of 16 | Men's 63.5kg Round of 16 | Men's +92kg Round of 16"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191743'&EntityType='Item'&EntityId='228451'&Width=300&Height=170",29 Jul 2024 20:25
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a47d851deaae4504b0fedf842d2db9ef:943a9749cb54b17d9d0fc7c3ab5b7375
-https://mwmpos02.akamaized.net/out/v1/fce653c6a7d44a0288533b7a03e8dd00/manifest.mpd
-
-Match: "Men's Windsurfing (8 Races) | Women's Windsurfing (8 Races)"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793452'&EntityType='Item'&EntityId='228478'&Width=300&Height=170",29 Jul 2024 20:30
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56dce91a7a504f7c909f41daa67e17e5:096eefa3c85aff704265eef51171ec3a
-https://mwmpos02.akamaized.net/out/v1/affe3e52f7db4ee2ae69d2fa4dac76b5/manifest.mpd
-
-Match: "Men's Preliminary Round - Sweden vs Spain"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793402'&EntityType='Item'&EntityId='228465'&Width=300&Height=170",29 Jul 2024 20:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e47d842706c048c98cde16f41c8c1f3f:ce46d2eeb1d648a18185023b7d772913
-https://mwmpos01.akamaized.net/out/v1/b37aba4f022f4cab973d80282c616904/manifest.mpd
-
-Match: "Women's -57 kg Repechage | Men's -73 kg Repechage | Women's -57 kg Semi-finals | Men's -73kg Semi-finals | Women's -57 kg Finals | Men's -73 kg Finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793404'&EntityType='Item'&EntityId='228467'&Width=300&Height=170",29 Jul 2024 20:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
-
-Match: "Mixed Doubles Semi-finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191757'&EntityType='Item'&EntityId='288338'&Width=300&Height=170",29 Jul 2024 20:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5b34732f10148b9a9de022bb91a1eab:1e59c2a09be4d537aa04bec805bed64e
-https://mwmpos01.akamaized.net/out/v1/11d366d059b24b4780c86e4894e35b11/manifest.mpd
-
-Match: "Men's Foil Individual Table of 16"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793149'&EntityType='Item'&EntityId='228461'&Width=300&Height=170",29 Jul 2024 21:25
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
-
-Match: "Women's Sabre Individual Table of 8"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793149'&EntityType='Item'&EntityId='228461'&Width=300&Height=170",29 Jul 2024 21:40
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
-https://mwmpos02.akamaized.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
-
-Match: "Women's Preliminary Round - United States vs China"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191800'&EntityType='Item'&EntityId='288341'&Width=300&Height=170",29 Jul 2024 21:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56439911482e4ea29baf9086250d17eb:4ede19976f7b9f3aba13b572fe193b62
-https://mwmpos01.akamaized.net/out/v1/5d9d4e9cc6154bea81321230403e319f/manifest.mpd
-
-Match: "Men's Street Finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793412'&EntityType='Item'&EntityId='228480'&Width=300&Height=170",29 Jul 2024 21:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9be41becbf94d169d451b87275d3220:d8e6327c108a0fda737df0e33b62a0d9
-https://mwmpos01.akamaized.net/out/v1/9d59f6e5e1f84631a9ebd228739a2d4f/manifest.mpd
-
-Match: "Women's Group Phase - Group B - Canada vs France"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191636'&EntityType='Item'&EntityId='372608'&Width=300&Height=170",29 Jul 2024 22:05
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
-https://mwmpos04.akamaized.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
-
-Match: "Men's Canoe Single Final"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792925'&EntityType='Item'&EntityId='404155'&Width=300&Height=170",29 Jul 2024 22:15
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
-
-Match: "Men's Singles Second Round | Women's Singles Second Round | Men's Doubles Second Round | Women's Doubles Second Round Mixed Doubles First Round"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793475'&EntityType='Item'&EntityId='228486'&Width=300&Height=170",29 Jul 2024 22:20
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ffd62c517de4fc29887c3410ceb8d0b:e71be77c8149a1aa1dd09c5667700bfb
-https://mwmpos04.akamaized.net/out/v1/7858540d66b44c0583c19e6b90efdb0b/manifest.mpd
-
-Match: "Women's Preliminary Round - South Africa vs Argentina"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191749'&EntityType='Item'&EntityId='228466'&Width=300&Height=170",29 Jul 2024 22:20
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f32acdabea64b93bfacaa4dc2ccf7fa:1ca53b84806b4e3d57fa8febafe62656
-https://mwmpos03.akamaized.net/out/v1/43062599f633463688e28e331f7f0e47/manifest.mpd
-
-Match: "Men's Team Final"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793158'&EntityType='Item'&EntityId='288330'&Width=300&Height=170",29 Jul 2024 22:25
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
-https://mwmpos02.akamaized.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
-
-Match: "Women's Skiff Race 4 | Race 5"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793452'&EntityType='Item'&EntityId='228478'&Width=300&Height=170",29 Jul 2024 23:00
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56dce91a7a504f7c909f41daa67e17e5:096eefa3c85aff704265eef51171ec3a
-https://mwmpos02.akamaized.net/out/v1/affe3e52f7db4ee2ae69d2fa4dac76b5/manifest.mpd
-
-Match: "Men's Singles Second Round | Women's Singles Second Round | Men's Doubles Second Round | Women's Doubles Second Round | Mixed Doubles First Round"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793475'&EntityType='Item'&EntityId='228486'&Width=300&Height=170",29 Jul 2024 23:00
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e47d842706c048c98cde16f41c8c1f3f:ce46d2eeb1d648a18185023b7d772913
-https://mwmpos01.akamaized.net/out/v1/b37aba4f022f4cab973d80282c616904/manifest.mpd
-
-Match: "Women's Preliminary Round - China vs Netherlands | Women's Preliminary Round - Hungary vs Canada"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792831'&EntityType='Item'&EntityId='228490'&Width=300&Height=170",29 Jul 2024 23:20
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26a0cfcc4ff445858360d41ef02e7e0f:cd01c0254f2615bfca9eb23e62f2dbdc
-https://mwmpos02.akamaized.net/out/v1/10bacd45a9d8417a8ef01747e60eb3af/manifest.mpd
-
-Match: "Men's Foil Individual Table of 8"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793149'&EntityType='Item'&EntityId='228461'&Width=300&Height=170",29 Jul 2024 23:35
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
-
-Match: "Men's & Women's Round 3 Heats"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7879705'&EntityType='Item'&EntityId='471266'&Width=300&Height=170",29 Jul 2024 23:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5b34732f10148b9a9de022bb91a1eab:1e59c2a09be4d537aa04bec805bed64e
-https://mwmpos01.akamaized.net/out/v1/11d366d059b24b4780c86e4894e35b11/manifest.mpd
-
-Match: "Men's Preliminary Round - France vs Norway | Argentina vs Hungary"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793402'&EntityType='Item'&EntityId='228465'&Width=300&Height=170",29 Jul 2024 23:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a47d851deaae4504b0fedf842d2db9ef:943a9749cb54b17d9d0fc7c3ab5b7375
-https://mwmpos02.akamaized.net/out/v1/fce653c6a7d44a0288533b7a03e8dd00/manifest.mpd
-
-Match: "Women's Sabre Individual Semifinals | Men's Foil Individual Semifinals | Women's Sabre Individual Bronze Medal Bout | Men's Foil Individual Bronze Medal Bout | 
-            Women's Sabre Individual Gold Medal Bout | Men's Foil Individual Gold Medal Bout"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793149'&EntityType='Item'&EntityId='228461'&Width=300&Height=170",29 Jul 2024 23:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7aace826bd5d48d0bbf330ad1ec16f5c:88b44df0ab0831d1bd2fdb3d23cb7e8f
-https://mwmpos03.akamaized.net/out/v1/34786af906004c77814e5bc098595bb4/manifest.mpd
-
-Match: "Men's Singles Second Round | Women's Singles Second Round"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793475'&EntityType='Item'&EntityId='228486'&Width=300&Height=170",29 Jul 2024 23:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9434173a763e423fbc8dca7b27d393e4:8fff3a0b245b8b837126ade3348b8720
-https://mwmpos02.akamaized.net/out/v1/629b58ad3a734deea8c2267a261665af/manifest.mpd
-
-Match: "Women's Pool Phase"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793443'&EntityType='Item'&EntityId='307094'&Width=300&Height=170",30 Jul 2024 00:10
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
-
-Match: "Men's 92kg Round of 16"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191743'&EntityType='Item'&EntityId='228451'&Width=300&Height=170",30 Jul 2024 00:10
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
-https://mwmpos04.akamaized.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
-
-Match: "Women's 10m Air Rifle Finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6794763'&EntityType='Item'&EntityId='228479'&Width=300&Height=170",30 Jul 2024 00:20
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
-
-Match: "Mixed Doubles Group Play Stage | Men's Doubles Group Play Stage | Women's Singles Group Play Stage | Women's Doubles Group Play Stage | Men's Singles Group Play Stage"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792905'&EntityType='Item'&EntityId='288332'&Width=300&Height=170",30 Jul 2024 00:25
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=013ff1929ddb41a186d9ec63912a5670:73da97902887735edd5cf2a04c2a4bd6
-https://mwmpos03.akamaized.net/out/v1/571cf7ef16284d65aefc2cd92adebd39/manifest.mpd
-
-Match: "Women's Preliminary Round - Germany vs Netherlands"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191749'&EntityType='Item'&EntityId='228466'&Width=300&Height=170",30 Jul 2024 00:35
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56dce91a7a504f7c909f41daa67e17e5:096eefa3c85aff704265eef51171ec3a
-https://mwmpos02.akamaized.net/out/v1/affe3e52f7db4ee2ae69d2fa4dac76b5/manifest.mpd
-
-Match: "Women's Placing 9-12 | Women's Quarter-finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793443'&EntityType='Item'&EntityId='307094'&Width=300&Height=170",30 Jul 2024 00:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
-
-Match: "Men's Preliminary Round | Women's Preliminary Round"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793479'&EntityType='Item'&EntityId='228450'&Width=300&Height=170",30 Jul 2024 00:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ffd62c517de4fc29887c3410ceb8d0b:e71be77c8149a1aa1dd09c5667700bfb
-https://mwmpos04.akamaized.net/out/v1/7858540d66b44c0583c19e6b90efdb0b/manifest.mpd
-
-Match: "Men's Singles Round of 32 | Women's Singles Round of 32"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191757'&EntityType='Item'&EntityId='288338'&Width=300&Height=170",30 Jul 2024 00:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
-https://mwmpos04.akamaized.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
-
-Match: "Women's 60kg Round of 16 | Men's 63.5kg Round of 16 | Men's +92kg Round of 16"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191743'&EntityType='Item'&EntityId='228451'&Width=300&Height=170",30 Jul 2024 00:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9be41becbf94d169d451b87275d3220:d8e6327c108a0fda737df0e33b62a0d9
-https://mwmpos01.akamaized.net/out/v1/9d59f6e5e1f84631a9ebd228739a2d4f/manifest.mpd
-
-Match: "Women's Preliminary Round - France vs Belgium"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191749'&EntityType='Item'&EntityId='228466'&Width=300&Height=170",30 Jul 2024 01:05
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f32acdabea64b93bfacaa4dc2ccf7fa:1ca53b84806b4e3d57fa8febafe62656
-https://mwmpos03.akamaized.net/out/v1/43062599f633463688e28e331f7f0e47/manifest.mpd
-
-Match: "Women's Semi-finals | Men's Finals | Women's Finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191753'&EntityType='Item'&EntityId='288340'&Width=300&Height=170",30 Jul 2024 01:25
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
-
-Match: "Men's Singles Second Round | Women's Singles Second Round | Men's Doubles Second Round | Women's Doubles Second Round"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793475'&EntityType='Item'&EntityId='228486'&Width=300&Height=170",30 Jul 2024 01:45
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
-https://mwmpos02.akamaized.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
-
-Match: "Women's Group Phase - Group C - United States vs Japan"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191636'&EntityType='Item'&EntityId='372608'&Width=300&Height=170",30 Jul 2024 01:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e47d842706c048c98cde16f41c8c1f3f:ce46d2eeb1d648a18185023b7d772913
-https://mwmpos01.akamaized.net/out/v1/b37aba4f022f4cab973d80282c616904/manifest.mpd
-
-Match: "Women's Preliminary Round - France vs Serbia"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191800'&EntityType='Item'&EntityId='288341'&Width=300&Height=170",30 Jul 2024 01:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56439911482e4ea29baf9086250d17eb:4ede19976f7b9f3aba13b572fe193b62
-https://mwmpos01.akamaized.net/out/v1/5d9d4e9cc6154bea81321230403e319f/manifest.mpd
-
-Match: "Men's Singles Second Round | Women's Singles Second Round | Men's Doubles Second Round | Women's Doubles Second Round"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793475'&EntityType='Item'&EntityId='228486'&Width=300&Height=170",30 Jul 2024 02:45
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26a0cfcc4ff445858360d41ef02e7e0f:cd01c0254f2615bfca9eb23e62f2dbdc
-https://mwmpos02.akamaized.net/out/v1/10bacd45a9d8417a8ef01747e60eb3af/manifest.mpd
-
-Match: "Men's 10m Air Rifle Finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6794763'&EntityType='Item'&EntityId='228479'&Width=300&Height=170",30 Jul 2024 03:30
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
-
-Match: "Men's Singles Second Round | Women's Singles Second Round | Men's Doubles Second Round | Women's Doubles Second Round"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793475'&EntityType='Item'&EntityId='228486'&Width=300&Height=170",30 Jul 2024 05:00
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7aace826bd5d48d0bbf330ad1ec16f5c:88b44df0ab0831d1bd2fdb3d23cb7e8f
-https://mwmpos03.akamaized.net/out/v1/34786af906004c77814e5bc098595bb4/manifest.mpd
-
-Match: "Men's Individual"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7879707'&EntityType='Item'&EntityId='228488'&Width=300&Height=170",30 Jul 2024 12:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
-https://mwmpos02.akamaized.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
-
-Match: "Women's Singles Group Play Stage | Men's Doubles Group Play Stage | Women's Doubles Group Play Stage | Men's Singles Group Play Stage"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792905'&EntityType='Item'&EntityId='288332'&Width=300&Height=170",30 Jul 2024 13:25
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56dce91a7a504f7c909f41daa67e17e5:096eefa3c85aff704265eef51171ec3a
-https://mwmpos02.akamaized.net/out/v1/affe3e52f7db4ee2ae69d2fa4dac76b5/manifest.mpd
-
-Match: "Men's Canoe Single Semifinal | Final"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792925'&EntityType='Item'&EntityId='404155'&Width=300&Height=170",30 Jul 2024 13:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
-
-Match: "Women's Preliminary Round - Germany vs Slovenia"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793402'&EntityType='Item'&EntityId='228465'&Width=300&Height=170",30 Jul 2024 13:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
-
-Match: "Men's Preliminary Round | Women's Preliminary Round"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793479'&EntityType='Item'&EntityId='228450'&Width=300&Height=170",30 Jul 2024 13:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5b34732f10148b9a9de022bb91a1eab:1e59c2a09be4d537aa04bec805bed64e
-https://mwmpos01.akamaized.net/out/v1/11d366d059b24b4780c86e4894e35b11/manifest.mpd
-
-Match: "Men's Preliminary Round - Italy vs Egypt"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191800'&EntityType='Item'&EntityId='288341'&Width=300&Height=170",30 Jul 2024 13:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9434173a763e423fbc8dca7b27d393e4:8fff3a0b245b8b837126ade3348b8720
-https://mwmpos02.akamaized.net/out/v1/629b58ad3a734deea8c2267a261665af/manifest.mpd
-
-Match: "Mixed Team Air Pistol Finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6794763'&EntityType='Item'&EntityId='228479'&Width=300&Height=170",30 Jul 2024 14:20
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
-https://mwmpos04.akamaized.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
-
-Match: "Women's Single Sculls Quarter-finals | Men's Single Sculls Quarter-finals | Women's Double Sculls Semi-finals | Men's Double Sculls Semi-finals | Women's Four Repechages | Men's Four Repechages"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793445'&EntityType='Item'&EntityId='228476'&Width=300&Height=170",30 Jul 2024 14:25
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e47d842706c048c98cde16f41c8c1f3f:ce46d2eeb1d648a18185023b7d772913
-https://mwmpos01.akamaized.net/out/v1/b37aba4f022f4cab973d80282c616904/manifest.mpd
-
-Match: "Men's Preliminary Round - Spain vs France | Men's Preliminary Round - Great Britain vs Netherlands"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191749'&EntityType='Item'&EntityId='228466'&Width=300&Height=170",30 Jul 2024 14:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56439911482e4ea29baf9086250d17eb:4ede19976f7b9f3aba13b572fe193b62
-https://mwmpos01.akamaized.net/out/v1/5d9d4e9cc6154bea81321230403e319f/manifest.mpd
-
-Match: "Men -81 kg Elimination Round of 64 | Men -81 kg Elimination Round of 32 | Men -81 kg Elimination Round of 16 | Men -81 kg Quarterfinals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793404'&EntityType='Item'&EntityId='228467'&Width=300&Height=170",30 Jul 2024 14:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
-
-Match: "Men's Singles Round of 32 | Women's Singles Round of 32"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191757'&EntityType='Item'&EntityId='288338'&Width=300&Height=170",30 Jul 2024 14:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=013ff1929ddb41a186d9ec63912a5670:73da97902887735edd5cf2a04c2a4bd6
-https://mwmpos03.akamaized.net/out/v1/571cf7ef16284d65aefc2cd92adebd39/manifest.mpd
-
-Match: "Men's Preliminary Round - Australia vs Serbia | Men's Preliminary Round - Croatia vs Italy"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792831'&EntityType='Item'&EntityId='228490'&Width=300&Height=170",30 Jul 2024 15:20
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7aace826bd5d48d0bbf330ad1ec16f5c:88b44df0ab0831d1bd2fdb3d23cb7e8f
-https://mwmpos03.akamaized.net/out/v1/34786af906004c77814e5bc098595bb4/manifest.mpd
-
-Match: "Men's Preliminary Round - South Africa vs Germany"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191749'&EntityType='Item'&EntityId='228466'&Width=300&Height=170",30 Jul 2024 15:20
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f32acdabea64b93bfacaa4dc2ccf7fa:1ca53b84806b4e3d57fa8febafe62656
-https://mwmpos03.akamaized.net/out/v1/43062599f633463688e28e331f7f0e47/manifest.mpd
-
-Match: "Men's Group Phase - Group A - Spain vs Greece | Men's Group Phase - Group A - Canada vs Australia"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191636'&EntityType='Item'&EntityId='372608'&Width=300&Height=170",30 Jul 2024 15:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26a0cfcc4ff445858360d41ef02e7e0f:cd01c0254f2615bfca9eb23e62f2dbdc
-https://mwmpos02.akamaized.net/out/v1/10bacd45a9d8417a8ef01747e60eb3af/manifest.mpd
-
-Match: "Women's Preliminary Round - Norway vs South Korea"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793402'&EntityType='Item'&EntityId='228465'&Width=300&Height=170",30 Jul 2024 15:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a47d851deaae4504b0fedf842d2db9ef:943a9749cb54b17d9d0fc7c3ab5b7375
-https://mwmpos02.akamaized.net/out/v1/fce653c6a7d44a0288533b7a03e8dd00/manifest.mpd
-
-Match: "Men's Heats | Women's Heats"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191753'&EntityType='Item'&EntityId='288340'&Width=300&Height=170",30 Jul 2024 15:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
-
-Match: "Dressage Grand Prix Team & Individual Qualifier Day 1"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793147'&EntityType='Item'&EntityId='228460'&Width=300&Height=170",30 Jul 2024 15:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
-https://mwmpos02.akamaized.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
-
-Match: "Men's 51kg Round of 32 | Men's 80kg Round of 32 | Women's 54kg Round of 16 | Women's 57kg Round of 32"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191743'&EntityType='Item'&EntityId='228451'&Width=300&Height=170",30 Jul 2024 15:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9be41becbf94d169d451b87275d3220:d8e6327c108a0fda737df0e33b62a0d9
-https://mwmpos01.akamaized.net/out/v1/9d59f6e5e1f84631a9ebd228739a2d4f/manifest.mpd
-
-Match: "Women's Sabre Individual Gold Medal Match"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793149'&EntityType='Item'&EntityId='228461'&Width=300&Height=170",30 Jul 2024 16:00
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
-https://mwmpos04.akamaized.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
-
-Match: "Men's & Women's Individual 1/32 & 1/16 Elimination Rounds"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792888'&EntityType='Item'&EntityId='228432'&Width=300&Height=170",30 Jul 2024 16:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
-https://mwmpos04.akamaized.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
-
-Match: "Men's Singles Second Round | Women's Singles Third Round"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793475'&EntityType='Item'&EntityId='228486'&Width=300&Height=170",30 Jul 2024 16:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9434173a763e423fbc8dca7b27d393e4:8fff3a0b245b8b837126ade3348b8720
-https://mwmpos02.akamaized.net/out/v1/629b58ad3a734deea8c2267a261665af/manifest.mpd
-
-Match: "Men's Windsurfing (5 Races) | Women's Windsurfing (5 Races)"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793452'&EntityType='Item'&EntityId='228478'&Width=300&Height=170",30 Jul 2024 17:00
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ffd62c517de4fc29887c3410ceb8d0b:e71be77c8149a1aa1dd09c5667700bfb
-https://mwmpos04.akamaized.net/out/v1/7858540d66b44c0583c19e6b90efdb0b/manifest.mpd
-
-Match: "Men's Preliminary Round - United States vs Germany"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191800'&EntityType='Item'&EntityId='288341'&Width=300&Height=170",30 Jul 2024 17:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f32acdabea64b93bfacaa4dc2ccf7fa:1ca53b84806b4e3d57fa8febafe62656
-https://mwmpos03.akamaized.net/out/v1/43062599f633463688e28e331f7f0e47/manifest.mpd
-
-Match: "Men's Preliminary Round - Ireland vs India"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191749'&EntityType='Item'&EntityId='228466'&Width=300&Height=170",30 Jul 2024 18:05
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a47d851deaae4504b0fedf842d2db9ef:943a9749cb54b17d9d0fc7c3ab5b7375
-https://mwmpos02.akamaized.net/out/v1/fce653c6a7d44a0288533b7a03e8dd00/manifest.mpd
-
-Match: "Women's Park Qualification | Men's Park Qualification"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7886740'&EntityType='Item'&EntityId='228454'&Width=300&Height=170",30 Jul 2024 18:20
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e47d842706c048c98cde16f41c8c1f3f:ce46d2eeb1d648a18185023b7d772913
-https://mwmpos01.akamaized.net/out/v1/b37aba4f022f4cab973d80282c616904/manifest.mpd
-
-Match: "Mixed Doubles Finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191757'&EntityType='Item'&EntityId='288338'&Width=300&Height=170",30 Jul 2024 18:25
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=013ff1929ddb41a186d9ec63912a5670:73da97902887735edd5cf2a04c2a4bd6
-https://mwmpos03.akamaized.net/out/v1/571cf7ef16284d65aefc2cd92adebd39/manifest.mpd
-
-Match: "Women's Preliminary Round - Netherlands vs Spain | Hungary vs Angola"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793402'&EntityType='Item'&EntityId='228465'&Width=300&Height=170",30 Jul 2024 18:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5b34732f10148b9a9de022bb91a1eab:1e59c2a09be4d537aa04bec805bed64e
-https://mwmpos01.akamaized.net/out/v1/11d366d059b24b4780c86e4894e35b11/manifest.mpd
-
-Match: "Men's Finals | Women's Finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191753'&EntityType='Item'&EntityId='288340'&Width=300&Height=170",30 Jul 2024 18:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
-
-Match: "Men's Doubles Group Play Stage | Women's Doubles Group Play Stage | Women's Singles Group Play Stage | Men's Singles Group Play Stage"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792905'&EntityType='Item'&EntityId='288332'&Width=300&Height=170",30 Jul 2024 18:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56dce91a7a504f7c909f41daa67e17e5:096eefa3c85aff704265eef51171ec3a
-https://mwmpos02.akamaized.net/out/v1/affe3e52f7db4ee2ae69d2fa4dac76b5/manifest.mpd
-
-Match: "Women's -57 kg Gold Medal Final | Men's -73 kg Gold Medal Final"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793404'&EntityType='Item'&EntityId='228467'&Width=300&Height=170",30 Jul 2024 19:15
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
-
-Match: "Women's Placing | Women's Semi-finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793443'&EntityType='Item'&EntityId='307094'&Width=300&Height=170",30 Jul 2024 19:20
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7aace826bd5d48d0bbf330ad1ec16f5c:88b44df0ab0831d1bd2fdb3d23cb7e8f
-https://mwmpos03.akamaized.net/out/v1/34786af906004c77814e5bc098595bb4/manifest.mpd
-
-Match: "Men's Group Stage - Dominican Republic vs Uzbekistan"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191747'&EntityType='Item'&EntityId='288336'&Width=300&Height=170",30 Jul 2024 19:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
-
-Match: "Men's Preliminary Round - Japan vs France | Men's Preliminary Round - United States vs Romania"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792831'&EntityType='Item'&EntityId='228490'&Width=300&Height=170",30 Jul 2024 19:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56439911482e4ea29baf9086250d17eb:4ede19976f7b9f3aba13b572fe193b62
-https://mwmpos01.akamaized.net/out/v1/5d9d4e9cc6154bea81321230403e319f/manifest.mpd
-
-Match: "Men's Preliminary Round | Women's Preliminary Round"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793479'&EntityType='Item'&EntityId='228450'&Width=300&Height=170",30 Jul 2024 19:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9be41becbf94d169d451b87275d3220:d8e6327c108a0fda737df0e33b62a0d9
-https://mwmpos01.akamaized.net/out/v1/9d59f6e5e1f84631a9ebd228739a2d4f/manifest.mpd
-
-Match: "Women's Canoe Single Heats 1st Run | Men's Kayak Single Heats 1st Run | Women's Canoe Single Heats 2nd Run | Men's Kayak Single Heats 2nd Run"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792925'&EntityType='Item'&EntityId='404155'&Width=300&Height=170",30 Jul 2024 19:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
-
-Match: "Men's Trap Finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6794763'&EntityType='Item'&EntityId='228479'&Width=300&Height=170",30 Jul 2024 20:20
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ffd62c517de4fc29887c3410ceb8d0b:e71be77c8149a1aa1dd09c5667700bfb
-https://mwmpos04.akamaized.net/out/v1/7858540d66b44c0583c19e6b90efdb0b/manifest.mpd
-
-Match: "Men's 51kg Round of 32 | Men's 80kg Round of 32 | Women's 54kg Round of 16 | Women's 57kg Round of 32"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191743'&EntityType='Item'&EntityId='228451'&Width=300&Height=170",30 Jul 2024 20:25
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a47d851deaae4504b0fedf842d2db9ef:943a9749cb54b17d9d0fc7c3ab5b7375
-https://mwmpos02.akamaized.net/out/v1/fce653c6a7d44a0288533b7a03e8dd00/manifest.mpd
-
-Match: "Women's Épée Team Table of 8"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793149'&EntityType='Item'&EntityId='228461'&Width=300&Height=170",30 Jul 2024 20:40
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f32acdabea64b93bfacaa4dc2ccf7fa:1ca53b84806b4e3d57fa8febafe62656
-https://mwmpos03.akamaized.net/out/v1/43062599f633463688e28e331f7f0e47/manifest.mpd
-
-Match: "Men -81 kg Repechage | Men -81 kg Semifinals | Women -63 kg Repechage | Women -63 kg Semifinals | Men -81 kg Contest for Bronze Medal A | Men -81 kg Contest for Bronze Medal B | Men -81 kg Final | Women -63 kg Contest for Bronze Medal A | Women -63 kg Contest for Bronze Medal B | Women -63 kg Final"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793404'&EntityType='Item'&EntityId='228467'&Width=300&Height=170",30 Jul 2024 20:55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26a0cfcc4ff445858360d41ef02e7e0f:cd01c0254f2615bfca9eb23e62f2dbdc
-https://mwmpos02.akamaized.net/out/v1/10bacd45a9d8417a8ef01747e60eb3af/manifest.mpd
-
-Match: "Men's Windsurfing Race 6"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793452'&EntityType='Item'&EntityId='228478'&Width=300&Height=170",30 Jul 2024 21:05
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
-https://mwmpos04.akamaized.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
-
-Match: "Women's Épée Team Semifinals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793149'&EntityType='Item'&EntityId='228461'&Width=300&Height=170",30 Jul 2024 21:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
-https://mwmpos02.akamaized.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
-
-Match: "Men's Group Stage - Ukraine vs Argentina"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191747'&EntityType='Item'&EntityId='288336'&Width=300&Height=170",30 Jul 2024 21:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
-https://mwmpos04.akamaized.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
-
-Match: "Men's Preliminary Round - Argentina vs New Zealand | Men's Preliminary Round - Australia vs Belgium"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191749'&EntityType='Item'&EntityId='228466'&Width=300&Height=170",30 Jul 2024 21:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=013ff1929ddb41a186d9ec63912a5670:73da97902887735edd5cf2a04c2a4bd6
-https://mwmpos03.akamaized.net/out/v1/571cf7ef16284d65aefc2cd92adebd39/manifest.mpd
-
-Match: "Men's Preliminary Round - Slovenia vs Serbia"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191800'&EntityType='Item'&EntityId='288341'&Width=300&Height=170",30 Jul 2024 21:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f32acdabea64b93bfacaa4dc2ccf7fa:1ca53b84806b4e3d57fa8febafe62656
-https://mwmpos03.akamaized.net/out/v1/43062599f633463688e28e331f7f0e47/manifest.mpd
-
-Match: "Men's Group Phase - Group B - Japan vs France"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6191636'&EntityType='Item'&EntityId='372608'&Width=300&Height=170",30 Jul 2024 22:05
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e47d842706c048c98cde16f41c8c1f3f:ce46d2eeb1d648a18185023b7d772913
-https://mwmpos01.akamaized.net/out/v1/b37aba4f022f4cab973d80282c616904/manifest.mpd
-
-Match: "Women's Skiff Race 1 | Women's Skiff Race 2"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793452'&EntityType='Item'&EntityId='228478'&Width=300&Height=170",30 Jul 2024 22:15
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
-
-Match: "Men's & Women's Pool Round"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7886760'&EntityType='Item'&EntityId='228431'&Width=300&Height=170",30 Jul 2024 22:25
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ffd62c517de4fc29887c3410ceb8d0b:e71be77c8149a1aa1dd09c5667700bfb
-https://mwmpos04.akamaized.net/out/v1/7858540d66b44c0583c19e6b90efdb0b/manifest.mpd
-
-Match: "Men's & Women's Individual 1/32 & 1/16 Elimination Rounds"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6792888'&EntityType='Item'&EntityId='228432'&Width=300&Height=170",30 Jul 2024 22:40
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9434173a763e423fbc8dca7b27d393e4:8fff3a0b245b8b837126ade3348b8720
-https://mwmpos02.akamaized.net/out/v1/629b58ad3a734deea8c2267a261665af/manifest.mpd
-
-Match: "Women's Épée Team Semi-finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793149'&EntityType='Item'&EntityId='228461'&Width=300&Height=170",30 Jul 2024 22:45
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56dce91a7a504f7c909f41daa67e17e5:096eefa3c85aff704265eef51171ec3a
-https://mwmpos02.akamaized.net/out/v1/affe3e52f7db4ee2ae69d2fa4dac76b5/manifest.mpd
-
-Match: "Women's Placing | Women's Finals"
-#EXTINF:-1 group-title="Olympic Games" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6793443'&EntityType='Item'&EntityId='307094'&Width=300&Height=170",30 Jul 2024 22:50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7aace826bd5d48d0bbf330ad1ec16f5c:88b44df0ab0831d1bd2fdb3d23cb7e8f
-https://mwmpos03.akamaized.net/out/v1/34786af906004c77814e5bc098595bb4/manifest.mpd
-
-
- 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024", CCTV5 HD
-http://222.241.154.37:9901/tsfile/live/23005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024", CCTV5+ HD
-http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024", CCTV16 HD
-http://222.241.154.37:9901/tsfile/live/23016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",EUROSPORT2
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2285
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",EUROSPORT
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2286
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",MEDIACORP LIVE 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
