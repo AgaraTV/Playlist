@@ -51,18 +51,34 @@ https://lebo.huminbird.cn/live/ballbar_8030.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 3
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 https://lebo.huminbird.cn/live/ballbar_4890.m3u8
+
+
+
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg" group-title="##🇮🇩TIMNAS DAY🇮🇩##"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", TIMNAS 1
-
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", TIMNAS 2
-
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", TIMNAS 3
-
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", TIMNAS 4
-
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", TIMNAS 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas5.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", TIMNAS VIDIO
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdntl=exp=1722267182~acl=%2f*~id=159408644~data=hdntl~hmac=418e52485a651d9d60d082c847cca1d6f7cc31caef098b189fe20d8ddeed984e
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", VOLLY VIDIO
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a70c6e3eb4f65285eb10e326ac66c092:57222b1bd2662c0f293ac42477809f57
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdntl=exp=1722267927~acl=%2f*~id=161049633~data=hdntl~hmac=44fa6ec6cba46cdbb7b144e64cbb12f996c778002d0b544b47efe59c1ab3b844
 
 
 
