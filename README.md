@@ -48,9 +48,7 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
-https://fhlsport20.fls77.xyz/token-cUV5nbLBKqWG7WErwfY6yG3RlJuHg3rjaiH%2FwadPRDn77%2BTLHUFdCIgvrxVLXkhJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/40p6n92snUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_572233.m3u8
-|referer=https://ben.quietlywheat23.shop/
-
+https://fhlsport20.fls77.xyz/token-dk98mbHAIP6G6G0gwPY6yD3QlMPUgyzjPnCuwfUfEGTz5LObHUFdCIgvrxRLW0tJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/223rno19nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_572235.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 2
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
