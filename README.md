@@ -41,22 +41,16 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
-https://fhlsport20.fls77.xyz/token-JUcpybiWevaG7DQrl%2FY6nz2HlMDb1nzjPyb8z%2FMcQjPy4OLLHUFdCIgvrxdIX0hJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/snp917ppnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_572258.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 1
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://ben.quietlywheat23.shop/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
-https://fhlsport20.fls77.xyz/token-dk98mbHAIP6G6G0gwPY6yD3QlMPUgyzjPnCuwfUfEGTz5LObHUFdCIgvrxRLW0tJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/223rno19nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_572235.m3u8
-
+https://lebo.huminbird.cn/live/ballbar_2960.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 2
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-
+https://lebo.huminbird.cn/live/ballbar_8030.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 3
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-
+https://lebo.huminbird.cn/live/ballbar_4890.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg" group-title="##🇮🇩TIMNAS DAY🇮🇩##"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", TIMNAS 1
 
