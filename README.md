@@ -44,14 +44,26 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?h
 https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17477_stream.mpd?hdntl=exp=1722440313~acl=%2f*~id=164700585~data=hdntl~hmac=71e5d632c4bd27216e654827f77ea2a9403651233ce0cd28f09aba28b854e03d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 1
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-https://lebo.huminbird.cn/live/ballbar_20910.m3u8
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ac4dc759e34a5043ddbd676e90f3ebe:4fc6cea5ca78fb091ccb8fd8997f5334
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17475_stream.mpd?hdntl=exp=1722443461~acl=%2f*~id=164700585~data=hdntl~hmac=d121099469713a9261e0e3781fd561d3e331b628dbf153768e5b49bb53fc96e0
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 2
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-https://lebo.huminbird.cn/live/ballbar_15890.m3u8
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c44d9e00ad46c5898b5dea8d7b660978:b822065fcd6c26ef3ee94fd0b4456adc
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17480_stream.mpd?hdntl=exp=1722443803~acl=%2f*~id=164700585~data=hdntl~hmac=a02ca02c60302ddaa64a5eb09b4df7ccc15a884939603a7993708d3d4de617c9
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 3
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-https://lebo.huminbird.cn/live/ballbar_37290.m3u8
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON ALL COURT
 https://streamingku2.blogspot.com/2024/07/1330-bwf-olympic-games.html?m=1
 
