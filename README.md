@@ -29,7 +29,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdntl=exp=1722443046~acl=%2f*~id=164700585~data=hdntl~hmac=6b37097e5eaef88c21d79d2bd2973fd8c8dde95b15a9407f11e224ff40be6cf5
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AVC VOLY U20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -40,29 +40,28 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?h
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c7472794a9ca6477515b123ec178579:6a5581ce501ae448e16b51481d464584
-
+#KODIPROP:inputstream.adaptive.license_key=c44d9e00ad46c5898b5dea8d7b660978:b822065fcd6c26ef3ee94fd0b4456adc
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17480_stream.mpd?hdntl=exp=1722509803~acl=%2f*~id=164700585~data=hdntl~hmac=92dbc9cfb6ba9ef82342d5cdf9e81aef84a9606eff955b5eafa6a724c2b064de
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ac4dc759e34a5043ddbd676e90f3ebe:4fc6cea5ca78fb091ccb8fd8997f5334
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17475_stream.mpd?hdntl=exp=1722443461~acl=%2f*~id=164700585~data=hdntl~hmac=d121099469713a9261e0e3781fd561d3e331b628dbf153768e5b49bb53fc96e0
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c44d9e00ad46c5898b5dea8d7b660978:b822065fcd6c26ef3ee94fd0b4456adc
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17480_stream.mpd?hdntl=exp=1722443803~acl=%2f*~id=164700585~data=hdntl~hmac=a02ca02c60302ddaa64a5eb09b4df7ccc15a884939603a7993708d3d4de617c9
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 3
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a19bc5f83cec35b4c3503db41d08e4e:e1f3bb13fc1dc7f5a3a5753d35bff8ea
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17481_stream.mpd?hdntl=exp=1722447102~acl=%2f*~id=164700585~data=hdntl~hmac=890de1ac17dd4c3a2a470ac04c79b318f06316076908a96a509dc30911940cd6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON ALL COURT
 
