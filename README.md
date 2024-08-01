@@ -41,7 +41,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c44d9e00ad46c5898b5dea8d7b660978:b822065fcd6c26ef3ee94fd0b4456adc
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17480_stream.mpd?hdntl=exp=1722509803~acl=%2f*~id=164700585~data=hdntl~hmac=92dbc9cfb6ba9ef82342d5cdf9e81aef84a9606eff955b5eafa6a724c2b064de
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17480_stream.mpd?hdntl=exp=1722524604~acl=%2f*~id=164700585~data=hdntl~hmac=12490d134e54bb741be7ea2cafca1c1009880fd29273f4c60064571ec9bed2bb
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
