@@ -56,14 +56,14 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17476_strea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c44d9e00ad46c5898b5dea8d7b660978:b822065fcd6c26ef3ee94fd0b4456adc
-
+https://lebo.huminbird.cn/live/ballbar_38400.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 3
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a19bc5f83cec35b4c3503db41d08e4e:e1f3bb13fc1dc7f5a3a5753d35bff8ea
-
+https://lebo.huminbird.cn/live/ballbar_40560.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON ALL COURT
 
 
