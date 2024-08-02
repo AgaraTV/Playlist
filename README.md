@@ -36,14 +36,13 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1389742081ccb586096d4f83f79282a:c7e8f55c4ac0721a0c656d52089ca7e6
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17615_stream.mpd?hdntl=exp=1722602003~acl=%2f*~id=164700585~data=hdntl~hmac=6a99f48b5dbf4b244441a42d74fe027075307f5f257e13d3953bc4d87c9cc0a5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",VOLLY OLIMPIADE
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c7472794a9ca6477515b123ec178579:6a5581ce501ae448e16b51481d464584
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17477_stream.mpd?hdntl=exp=1722596165~acl=%2f*~id=164700585~data=hdntl~hmac=17359206166b1a1f878dd9dfb26feb2c169cd8dcc246ce54bbe09e3ad2133319
+#KODIPROP:inputstream.adaptive.license_key=f1c96cc1af7f1f12d0684c72a77bd92a:8c300dd6138a903aefd84982286ebdfc
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17479_stream.mpd?hdntl=exp=1722612189~acl=%2f*~id=164700585~data=hdntl~hmac=687859cc0021abfe5e28453eb1a699096cf556fc4795fa90e8a639d9949ad97d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -57,7 +56,7 @@ https://lebo.huminbird.cn/live/ballbar_2960.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=084cd1aa5dd05cf4c0f3a880b3ff95b1:135b870c19388b66083c985b85fa0a4b
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17476_stream.mpd?hdntl=exp=1722596518~acl=%2f*~id=164700585~data=hdntl~hmac=8e954feec4c71e52b5bc44610042bebc95fe4cbe82f9e29f7d268c56b0ecb22a
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 3
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
