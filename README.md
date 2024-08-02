@@ -31,17 +31,16 @@
 #KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AVC VOLY U20
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",AVC VOLY 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317d7779d58776206ba8705afd4f99f:a0f1d977065726f60688a0664bc1e7de
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",VOLLY
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",VOLLY OLIMPIADE
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c44d9e00ad46c5898b5dea8d7b660978:b822065fcd6c26ef3ee94fd0b4456adc
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17480_stream.mpd?hdntl=exp=1722524604~acl=%2f*~id=164700585~data=hdntl~hmac=12490d134e54bb741be7ea2cafca1c1009880fd29273f4c60064571ec9bed2bb
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 1
@@ -49,21 +48,21 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17480_strea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=084cd1aa5dd05cf4c0f3a880b3ff95b1:135b870c19388b66083c985b85fa0a4b
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17476_stream.mpd?hdntl=exp=1722524424~acl=%2f*~id=164700585~data=hdntl~hmac=665a1d5264cfae6e05a0dea637d49c24c038f6bf2790e5ba6150de8b3b172ed7
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c44d9e00ad46c5898b5dea8d7b660978:b822065fcd6c26ef3ee94fd0b4456adc
-https://lebo.huminbird.cn/live/ballbar_38400.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 3
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a19bc5f83cec35b4c3503db41d08e4e:e1f3bb13fc1dc7f5a3a5753d35bff8ea
-https://lebo.huminbird.cn/live/ballbar_40560.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON ALL COURT
 
 
@@ -84,19 +83,11 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas5.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdntl=exp=1722267182~acl=%2f*~id=159408644~data=hdntl~hmac=418e52485a651d9d60d082c847cca1d6f7cc31caef098b189fe20d8ddeed984e
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", VOLLY VIDIO
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a70c6e3eb4f65285eb10e326ac66c092:57222b1bd2662c0f293ac42477809f57
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdntl=exp=1722267927~acl=%2f*~id=161049633~data=hdntl~hmac=44fa6ec6cba46cdbb7b144e64cbb12f996c778002d0b544b47efe59c1ab3b844
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024", OLYMPIC
-http://extraott.com:80/live/5301246455/1849687755/400216157.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",FR FRANCE TV PARIS 2024 FHD
 http://extraott.com:80/live/5301246455/1849687755/42985.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",FR FRANCE TV PARIS 2024 HD
@@ -180,13 +171,13 @@ http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/605326
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",Astro SuperSport Events 4
 http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/605327
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",Peacock 1:
-http://25355-knows.oot-mx.me:80/Rosalie/Rosalie/1596584
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",Peacock 2:
-http://25355-knows.oot-mx.me:80/Rosalie/Rosalie/1596583
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",Peacock 3:
-http://25355-knows.oot-mx.me:80/Rosalie/Rosalie/1596582
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",Peacock 5:
-http://25355-knows.oot-mx.me:80/Rosalie/Rosalie/1596581
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",ASTRO OLYMPICS 1
 http://25355-knows.oot-mx.me:80/Rosalie/Rosalie/1596564
@@ -206,13 +197,13 @@ http://25355-knows.oot-mx.me:80/Rosalie/Rosalie/1596560
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",MEDIACORP LIVE 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="OLIMPIC PARIS 2024",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
@@ -779,7 +770,7 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/MadridTV.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFel_TgkS1KEDNbFQ0InjMHlOHQBFQGSgSIGNeotszmNH_S7_Ybku2Vd97&s=10" group-title="@CLUB TV", MILAN TV
 https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/MilanTV.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8mT1LOiUyebzhm2O9jDwrmZUuI4_vQrP8Q&usqp=CAU" group-title="@CLUB TV", MUTV
-https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/MuTV.m3u8
+https://6oclock.xyz:8443/9rpAZwWZT9/zaGl252Y2w/440197
 
 
 
@@ -792,59 +783,58 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/ClubTV/B-inal22/MuTV.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9hVGK05/download-2.jpg" group-title="⚽️FA Cup⚽️",Sony Ten 3 HD
 #################################################################################################################
 #################################################################################################################
-#EXTINF:-1 group-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" group-title="SONY ENTERTAINMENT 2"
-#EXTINF:-1 tvg-id="Sony Entertainment" tvg-name="Sony entertainment" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SONY ENTERTAINMENT 2",Sony Entertainment HD
+#EXTINF:-1 group-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" group-title="@SONY ENTERTAINMENT 2"
+#EXTINF:-1 tvg-id="Sony Entertainment" tvg-name="Sony entertainment" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="@SONY ENTERTAINMENT 2",Sony Entertainment HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/SonyEnter.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Sony_Marathi.png" group-title="SONY ENTERTAINMENT 2",Sony Marathi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Sony_Marathi.png" group-title="@SONY ENTERTAINMENT 2",Sony Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/SonyMarathi.m3u8
 
-#EXTINF:-1 tvg-id="SONY MAX2 HD" tvg-name="SONY MAX2 HD" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SONY ENTERTAINMENT 2",Sony Max HD
+#EXTINF:-1 tvg-id="SONY MAX2 HD" tvg-name="SONY MAX2 HD" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="@SONY ENTERTAINMENT 2",Sony Max HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/SonyMax.m3u8
 
-#EXTINF:-1 tvg-id="SONY MAX2 HD" tvg-name="SONY MAX2 HD" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_max2_23oct_portrait_thumb.jpg" group-title="SONY ENTERTAINMENT 2",Sony Max2
+#EXTINF:-1 tvg-id="SONY MAX2 HD" tvg-name="SONY MAX2 HD" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_max2_23oct_portrait_thumb.jpg" group-title="@SONY ENTERTAINMENT 2",Sony Max2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/SonyMax2.m3u8
 
-#EXTINF:-1 tvg-id="SONY PAL" tvg-name="SONY PAL" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SONY ENTERTAINMENT 2",Sony Pal HD
+#EXTINF:-1 tvg-id="SONY PAL" tvg-name="SONY PAL" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="@SONY ENTERTAINMENT 2",Sony Pal HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/SonyPal.m3u8
 
-#EXTINF:-1 tvg-id="SONY PIX" tvg-name="SONY PIX" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SONY ENTERTAINMENT 2",Sony Pix HD
+#EXTINF:-1 tvg-id="SONY PIX" tvg-name="SONY PIX" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="@SONY ENTERTAINMENT 2",Sony Pix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/SonyPix.m3u8
 
-#EXTINF:-1 tvg-id="SONY SAB" tvg-name="SONY SAB HB" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="SONY ENTERTAINMENT 2",Sony SAB HD
+#EXTINF:-1 tvg-id="SONY SAB" tvg-name="SONY SAB HB" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="@SONY ENTERTAINMENT 2",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/SonySAB.m3u8
 
-#EXTINF:-1 tvg-id="SONY WAH" tvg-name="SONY WAH" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SONY ENTERTAINMENT 2",Sony YAY HD
+#EXTINF:-1 tvg-id="SONY WAH" tvg-name="SONY WAH" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="@SONY ENTERTAINMENT 2",Sony YAY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/SonyWah.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/sony_wah_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp" group-title="SONY ENTERTAINMENT 2",Sony WAH HD
+#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/sony_wah_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp" group-title="@SONY ENTERTAINMENT 2",Sony WAH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/SonyYay.m3u8
 
-#EXTINF:-1 group-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" group-title="SONY ENTERTAINMENT 2"
-#EXTINF:-1 group-title="SONY ENTERTAINMENT 2" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports 1 HD
+#EXTINF:-1 group-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" group-title="@SONY ENTERTAINMENT 2"
+#EXTINF:-1 group-title="@SONY ENTERTAINMENT 2" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports 1 HD
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/Sonyten1.m3u8
 
-#EXTINF:-1 group-title="SONY ENTERTAINMENT 2" tvg-id="sonyten2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports 2 HD
+#EXTINF:-1 group-title="@SONY ENTERTAINMENT 2" tvg-id="sonyten2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports 2 HD
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/Sonyten2.m3u8
 
-#EXTINF:-1 group-title="SONY ENTERTAINMENT 2" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports 3 HD
+#EXTINF:-1 group-title="@SONY ENTERTAINMENT 2" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports 3 HD
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/Sonyten3.m3u8
 
-#EXTINF:-1 group-title="SONY ENTERTAINMENT 2" tvg-id="sonyten4.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports 4 HD
+#EXTINF:-1 group-title="@SONY ENTERTAINMENT 2" tvg-id="sonyten4.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports 4 HD
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/Sonyten4.m3u8
 
-#EXTINF:-1 group-title="SONY ENTERTAINMENT 2" tvg-id="sonysix.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",Sony Sports 5 HD
+#EXTINF:-1 group-title="@SONY ENTERTAINMENT 2" tvg-id="sonysix.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",Sony Sports 5 HD
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sony-Entertainment/B-inal22/Sonyten5.m3u8
-
 
 #EXTINF:-1 group-logo="https://id-test-11.slatic.net/p/33d21ea5b252c9b2b46a9b9973e0fb8d.png"
 #EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/fa/bb/5afabbf6-dbcc-b178-92e9-574d11ae3565/App_Icon-marketing.lsr/1200x630bb.png" group-title="MOLA EVENT",MOLA 1
@@ -1471,124 +1461,763 @@ http://117tv.icu:8080/live/X5xRz0/944877/57295.m3u8
 
 ==================================================SPORT LOKAL============================================================
 ################################################################################
-SPORT LOKAL
+SPORT ASIA
 #EXTINF:-1 group-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg",
 ################################################################################
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORT ASIA", ASTRO ARENA 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/AstroArena1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrlUzQEaqrarNmURWmDm8xGVzNQb3orQxQIg&s" group-title="SPORT ASIA", ASTRO ARENA 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/AstroArena2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="SPORT ASIA", ASTRO ARENA BOLA 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/AstroBola1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="SPORT ASIA", ASTRO ARENA BOLA 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/AstroBola2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="SPORT ASIA", ASTRO SUPERSPORTS 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/AstroSS1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQgNkW-IkRToBEraODVqaUip4pW2oPt5er3mGdwGDBMPRM_F6TjB1d809O&s=10" group-title="SPORT ASIA", ASTRO SUPERSPORTS 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/AstroSS2.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORT ASIA", ASTRO SUPERSPORTS 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/AstroSS3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDud2FWCgFfsywMIc_BplhdCz8LavI3PPz0Fnvcka7lF6oOQTmWJxk5F8&s=10" group-title="SPORT ASIA", ASTRO SUPERSPORTS 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/AstroSS4.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="SPORT ASIA", ASTRO SUPERSPORTS 1B
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/AstroSSB1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQgNkW-IkRToBEraODVqaUip4pW2oPt5er3mGdwGDBMPRM_F6TjB1d809O&s=10" group-title="SPORT ASIA", ASTRO SUPERSPORTS 2B
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/AstroSSB2.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORT ASIA", ASTRO SUPERSPORTS 3B
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/AstroSSB3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDud2FWCgFfsywMIc_BplhdCz8LavI3PPz0Fnvcka7lF6oOQTmWJxk5F8&s=10" group-title="SPORT ASIA", ASTRO SUPERSPORTS 4B
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/AstroSSB4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPORT ASIA", ASTRO CRICKET
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Astrocricket.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWYwwyrk4Z_vD35-Zp5xcMqg3U_tN2UjFkeQ&s" group-title="SPORT ASIA", CBC SPORT AZ
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Cbcsport.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="SPORT ASIA", CCTV 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Cctv5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="@SPORT ASIA", ASTRO ARENA 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroArena1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrlUzQEaqrarNmURWmDm8xGVzNQb3orQxQIg&s" group-title="@SPORT ASIA", ASTRO ARENA 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroArena2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="@SPORT ASIA", ASTRO ARENA BOLA 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroBola1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="@SPORT ASIA", ASTRO ARENA BOLA 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroBola2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="@SPORT ASIA", ASTRO SUPERSPORTS 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroSS1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQgNkW-IkRToBEraODVqaUip4pW2oPt5er3mGdwGDBMPRM_F6TjB1d809O&s=10" group-title="@SPORT ASIA", ASTRO SUPERSPORTS 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroSS2.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="@SPORT ASIA", ASTRO SUPERSPORTS 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroSS3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDud2FWCgFfsywMIc_BplhdCz8LavI3PPz0Fnvcka7lF6oOQTmWJxk5F8&s=10" group-title="@SPORT ASIA", ASTRO SUPERSPORTS 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroSS4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="@SPORT ASIA", ASTRO SUPERSPORTS 1B
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroSSB1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQgNkW-IkRToBEraODVqaUip4pW2oPt5er3mGdwGDBMPRM_F6TjB1d809O&s=10" group-title="@SPORT ASIA", ASTRO SUPERSPORTS 2B
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroSSB2.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="@SPORT ASIA", ASTRO SUPERSPORTS 3B
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroSSB3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDud2FWCgFfsywMIc_BplhdCz8LavI3PPz0Fnvcka7lF6oOQTmWJxk5F8&s=10" group-title="@SPORT ASIA", ASTRO SUPERSPORTS 4B
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/AstroSSB4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="@SPORT ASIA", ASTRO CRICKET
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Astrocricket.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWYwwyrk4Z_vD35-Zp5xcMqg3U_tN2UjFkeQ&s" group-title="@SPORT ASIA", CBC SPORT AZ
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Cbcsport.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="@SPORT ASIA", CCTV 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Cctv5.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530" group-title="SPORT ASIA", HUB SPORT 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Hubsport1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpT05-vvSt1ph77a3EghI8dSWhQIErJZAUxg&s" group-title="SPORT ASIA", HUB SPORT 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Hubsport2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYisagELnaU4aVHF9hksJfSayzG1nw-D1_w&s" group-title="SPORT ASIA", HUB SPORT 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Hubsport3.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORT ASIA", HUB SPORT PREMIER 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/HubsportPL1.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="SPORT ASIA", HUB SPORT PREMIER 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/HubsportPL2.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png" group-title="SPORT ASIA", HUB SPORT PREMIER 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/HubsportPL3.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png" group-title="SPORT ASIA", HUB SPORT PREMIER 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/HubsportPL4.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7SEz7iE-fVGkBFd2puykk_8QBwgAB6l3etCdmnykqt6L0yxt-wEcLpmE&s=10" group-title="SPORT ASIA", HUB SPORT PREMIER 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/HubsportPL5.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="SPORT ASIA", NOW SPORT 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Nowsport1.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305" group-title="SPORT ASIA", NOW SPORT 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Nowsport2.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305" group-title="SPORT ASIA", NOW SPORT 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Nowsport3.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305" group-title="SPORT ASIA", NOW SPORT 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Nowsport4.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_425_305" group-title="SPORT ASIA", NOW SPORT 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Nowsport5.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305" group-title="SPORT ASIA", NOW SPORT 6
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Nowsport6.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="SPORT ASIA", NOW SPORT 7
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Nowsport7.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmohffZqzd9a_8puCAll5RFgx_OYdiDgOPqw&s" group-title="SPORT ASIA", NOW SPORT PREMIER 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/NowsportPL1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUd6flc1uIk9_6IB42T3zQxduVCTFhVYFag&usqp=CAU" group-title="SPORT ASIA", NOW SPORT PREMIER 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/NowsportPL2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiT4oD4895QXUdipg8iGAxkIO73cVTyh11ig&s" group-title="SPORT ASIA", NOW SPORT PREMIER 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/NowsportPL3.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_425_305" group-title="SPORT ASIA", NOW SPORT PREMIER 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/NowsportPL4.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_425_305" group-title="SPORT ASIA", NOW SPORT PREMIER 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/NowsportPL5.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdTNTnnHEi5X0TJ49aK0IJwzH5mTHD0Wqd2Q&s" group-title="SPORT ASIA", ONE SPORT
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Onesport.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRIwxwAOOK_szOpaBLrHFDoi2pMc17w9cxg&s" group-title="SPORT ASIA", PERSIANA SPORT
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Persianasport.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORT ASIA", PTV SPORT
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Ptvsport.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_fEdNdf2mVQNsUEFIb4xPerx1uc9E5qhGg&usqp=CAU" group-title="SPORT ASIA", SPOTV STADIA 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/SpotvStadia.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_fEdNdf2mVQNsUEFIb4xPerx1uc9E5qhGg&usqp=CAU" group-title="SPORT ASIA", SPOTV STADIA 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/SpotvStadia2.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/9e/Sony_Sports_Ten_1_2022.png/revision/latest?cb=20221211181900" group-title="SPORT ASIA", SONY TEN SPORT 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Sonyten1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2C88os_DEEu3n0u1D4k2WRbQ3K0qGe2jPiQ&s" group-title="SPORT ASIA", SONY TEN SPORT 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Sonyten2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5atcZlA0VjbtkU_tNSvy0rDxFKJsYKDLFXg&s" group-title="SPORT ASIA", SONY TEN SPORT 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Sonyten3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgMby0zUrQ4H2C96QkYZNFprtmmbASb3Gtgw&s" group-title="SPORT ASIA", SONY TEN SPORT 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Sonyten4.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRui1yssMPzCF1MyY0p9WJ4Xfu-fJh87LH75w&s" group-title="SPORT ASIA", SONY TEN SPORT 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Sonyten5.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbMdMT6RbARTBfVI38LhwxZRH4hNhja4089A&s" group-title="SPORT ASIA", SPORT 18
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Sport18.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbB7F-Df4XCy8ozjtgk44dqzVqvjvGzmt1Pw&usqp=CAU" group-title="SPORT ASIA", STAR SPORT 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Starsport1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamJm50OlrEwJEawjQV9x1P923UBnpI7hLPQ&s" group-title="SPORT ASIA", STAR SPORT 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Starsport2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgZJOjMlOWLU9Lm6TGD64HqG8opGW7MB-qlrjoHi_H_3RHlY83rReaSbeP&s=10" group-title="SPORT ASIA", STAR SPORT 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Starsport3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRrGATtN4vdkdomvQYXViw3UA7LzOtjxGniw&usqp=CAU" group-title="SPORT ASIA", STAR SPORT SELECT 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/StarsportSelect1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS70Vuou0Dg021KHxB_ouIg08IkXA5gzA9S_A&s" group-title="SPORT ASIA", STAR SPORT SELECT 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/StarsportSelect2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5C2SMpf5zPuGfVbAnlHvQZf4-V2j-lHaWsX9e4EgNcAOe0xgZI9LNYIdB&s=10" group-title="SPORT ASIA", TEN SPORT
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/Tensport.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORT ASIA", TRUE SPORT PREMIER LEAGUE 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/TruePL1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiR1_7srf5zjaacrtVyJ4d8N6_yPG-Ek121A&s" group-title="SPORT ASIA", TRUE SPORT PREMIER LEAGUE 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/TruePL2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYeyI-EKK8vG1ZqpI3cw4qKua6yyEoFZB_w&s" group-title="SPORT ASIA", T SPORT
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Sport/B-inal22/TSport.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530" group-title="@SPORT ASIA", HUB SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Hubsport1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpT05-vvSt1ph77a3EghI8dSWhQIErJZAUxg&s" group-title="@SPORT ASIA", HUB SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Hubsport2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYisagELnaU4aVHF9hksJfSayzG1nw-D1_w&s" group-title="@SPORT ASIA", HUB SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Hubsport3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqPo7jYpSQ5YEEpFTHrSr0Yip1Bz11Bg4QbzaYTrU3sPdYiy_KyfVXHOs&s=10" group-title="@SPORT ASIA", HUB SPORT PREMIER 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/HubsportPL1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZFEFnv7I7A4JPLnRqxV2h5UHeQF40x2bqnw&usqp=CAU" group-title="@SPORT ASIA", HUB SPORT PREMIER 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/HubsportPL2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZFEFnv7I7A4JPLnRqxV2h5UHeQF40x2bqnw&usqp=CAU" group-title="@SPORT ASIA", HUB SPORT PREMIER 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/HubsportPL3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZFEFnv7I7A4JPLnRqxV2h5UHeQF40x2bqnw&usqp=CAU" group-title="@SPORT ASIA", HUB SPORT PREMIER 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/HubsportPL4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZFEFnv7I7A4JPLnRqxV2h5UHeQF40x2bqnw&usqp=CAU" group-title="@SPORT ASIA", HUB SPORT PREMIER 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/HubsportPL5.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="@SPORT ASIA", NOW SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Nowsport1.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305" group-title="@SPORT ASIA", NOW SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Nowsport2.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305" group-title="@SPORT ASIA", NOW SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Nowsport3.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305" group-title="@SPORT ASIA", NOW SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Nowsport4.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_425_305" group-title="@SPORT ASIA", NOW SPORT 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Nowsport5.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305" group-title="@SPORT ASIA", NOW SPORT 6
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Nowsport6.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="@SPORT ASIA", NOW SPORT 7
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Nowsport7.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmohffZqzd9a_8puCAll5RFgx_OYdiDgOPqw&s" group-title="@SPORT ASIA", NOW SPORT PREMIER 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/NowsportPL1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUd6flc1uIk9_6IB42T3zQxduVCTFhVYFag&usqp=CAU" group-title="@SPORT ASIA", NOW SPORT PREMIER 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/NowsportPL2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiT4oD4895QXUdipg8iGAxkIO73cVTyh11ig&s" group-title="@SPORT ASIA", NOW SPORT PREMIER 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/NowsportPL3.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_425_305" group-title="@SPORT ASIA", NOW SPORT PREMIER 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/NowsportPL4.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_425_305" group-title="@SPORT ASIA", NOW SPORT PREMIER 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/NowsportPL5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdTNTnnHEi5X0TJ49aK0IJwzH5mTHD0Wqd2Q&s" group-title="@SPORT ASIA", ONE SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Onesport.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRIwxwAOOK_szOpaBLrHFDoi2pMc17w9cxg&s" group-title="@SPORT ASIA", PERSIANA SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Persianasport.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="@SPORT ASIA", PTV SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Ptvsport.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_fEdNdf2mVQNsUEFIb4xPerx1uc9E5qhGg&usqp=CAU" group-title="@SPORT ASIA", SPOTV STADIA 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/SpotvStadia.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_fEdNdf2mVQNsUEFIb4xPerx1uc9E5qhGg&usqp=CAU" group-title="@SPORT ASIA", SPOTV STADIA 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/SpotvStadia2.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/9e/Sony_Sports_Ten_1_2022.png/revision/latest?cb=20221211181900" group-title="@SPORT ASIA", SONY TEN SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sonyten1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2C88os_DEEu3n0u1D4k2WRbQ3K0qGe2jPiQ&s" group-title="@SPORT ASIA", SONY TEN SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sonyten2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5atcZlA0VjbtkU_tNSvy0rDxFKJsYKDLFXg&s" group-title="@SPORT ASIA", SONY TEN SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sonyten3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgMby0zUrQ4H2C96QkYZNFprtmmbASb3Gtgw&s" group-title="@SPORT ASIA", SONY TEN SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sonyten4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRui1yssMPzCF1MyY0p9WJ4Xfu-fJh87LH75w&s" group-title="@SPORT ASIA", SONY TEN SPORT 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sonyten5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbMdMT6RbARTBfVI38LhwxZRH4hNhja4089A&s" group-title="@SPORT ASIA", SPORT 18
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sport18.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbB7F-Df4XCy8ozjtgk44dqzVqvjvGzmt1Pw&usqp=CAU" group-title="@SPORT ASIA", STAR SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Starsport1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamJm50OlrEwJEawjQV9x1P923UBnpI7hLPQ&s" group-title="@SPORT ASIA", STAR SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Starsport2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgZJOjMlOWLU9Lm6TGD64HqG8opGW7MB-qlrjoHi_H_3RHlY83rReaSbeP&s=10" group-title="@SPORT ASIA", STAR SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Starsport3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRrGATtN4vdkdomvQYXViw3UA7LzOtjxGniw&usqp=CAU" group-title="@SPORT ASIA", STAR SPORT SELECT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/StarsportSelect1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS70Vuou0Dg021KHxB_ouIg08IkXA5gzA9S_A&s" group-title="@SPORT ASIA", STAR SPORT SELECT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/StarsportSelect2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5C2SMpf5zPuGfVbAnlHvQZf4-V2j-lHaWsX9e4EgNcAOe0xgZI9LNYIdB&s=10" group-title="@SPORT ASIA", TEN SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Tensport.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="@SPORT ASIA", TRUE SPORT PREMIER LEAGUE 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/TruePL1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiR1_7srf5zjaacrtVyJ4d8N6_yPG-Ek121A&s" group-title="@SPORT ASIA", TRUE SPORT PREMIER LEAGUE 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/TruePL2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiR1_7srf5zjaacrtVyJ4d8N6_yPG-Ek121A&s" group-title="@SPORT ASIA", TRUE SPORT PREMIER LEAGUE 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/TruePL3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORT ASIA", UNIFI SPORTS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10" group-title="@SPORT ASIA", TRUE BEIN SPORT  1 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/TrueBein1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10" group-title="@SPORT ASIA", TRUE BEIN SPORT  2 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/TrueBein2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10" group-title="@SPORT ASIA", TRUE SPOTV  1 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/TrueSpotv1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10" group-title="@SPORT ASIA", TRUE SPOTV  2 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/TrueSpotv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="@SPORT ASIA", TRUE SPORT  1 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/True1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="@SPORT ASIA", TRUE SPORT  2 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/True2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="@SPORT ASIA", TRUE SPORT  3 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/True3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="@SPORT ASIA", TRUE SPORT  4 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/True4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="@SPORT ASIA", TRUE SPORT  5 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/True5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="@SPORT ASIA", TRUE SPORT  7 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/True7.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYeyI-EKK8vG1ZqpI3cw4qKua6yyEoFZB_w&s" group-title="@SPORT ASIA", T SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/TSport.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="@SPORT ASIA", UNIFI SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 group-logo="https://cdn.pixabay.com/photo/2013/07/13/14/17/saudi-arabia-162413_1280.png" group-title="@SPORT ARAB"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="@SPORT ARAB", SSC SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/ssc100.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="@SPORT ARAB", SSC SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/ssc200.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="@SPORT ARAB", SSC SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/ssc300.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="@SPORT ARAB", SSC SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/ssc400.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="@SPORT ARAB", SSC SPORT 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/ssc500.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="@SPORT ARAB", SSC SPORT EXTRA 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/sscextra100.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="@SPORT ARAB", SSC SPORT EXTRA 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/sscextra200.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="@SPORT ARAB", SSC SPORT EXTRA 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/sscextra300.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7mHMWk2S-ZMWFmtzZKiL0yjvfE05yLOUge2Rz8SiUiZ5nz-I8tetqs5lavGk7rfpQ0I&usqp=CAU" group-title="@SPORT ARAB", ABU DHABI SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/abudhabisport100.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7mHMWk2S-ZMWFmtzZKiL0yjvfE05yLOUge2Rz8SiUiZ5nz-I8tetqs5lavGk7rfpQ0I&usqp=CAU" group-title="@SPORT ARAB", ABU DHABI SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/abudhabisport200.m3u8
+
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/600w/adsports/ASIA1LIVEY2021M/ASIA1LIVEY2021M-landscape-poster-v1.jpg" group-title="@SPORT ARAB", ABU DHABI SPORT ASIA 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/abudhabiasia100.m3u8
+
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/600w/adsports/ASIA1LIVEY2021M/ASIA1LIVEY2021M-landscape-poster-v1.jpg" group-title="@SPORT ARAB", ABU DHABI SPORT ASIA 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/abudhabiasia200.m3u8
+
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/600w/adsports/ASIA1LIVEY2021M/ASIA1LIVEY2021M-landscape-poster-v1.jpg" group-title="@SPORT ARAB", ABU DHABI SPORT PREMIUM
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/abudhabiasia200.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png" group-title="@SPORT ARAB", ALKASS SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/alkass100.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png" group-title="@SPORT ARAB", ALKASS SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/alkass200.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png" group-title="@SPORT ARAB", ALKASS SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/alkass300.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png" group-title="@SPORT ARAB", ALKASS SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/alkass400.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.paralympic.org/sites/default/files/images/151015132852742_Incredible%2BSupport.png" group-title="@SPORT ARAB", ALKASS SPORT 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/alkass500.m3u8
+
+#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/accf1391/dms3rep/multi/Dxb_Racing_C-1417x591.jpg" group-title="@SPORT ARAB", DUBAI RACING 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/dubairacing100.m3u8
+
+#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/accf1391/dms3rep/multi/Dxb_Racing_C-1417x591.jpg" group-title="@SPORT ARAB", DUBAI RACING 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/dubairacing200.m3u8
+
+#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/accf1391/dms3rep/multi/Dxb_Racing_C-1417x591.jpg" group-title="@SPORT ARAB", DUBAI RACING 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/dubairacing300.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1764753516491362305/efft6mWi_200x200.jpg" group-title="@SPORT ARAB", DUBAI SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/dubaisport100.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1764753516491362305/efft6mWi_200x200.jpg" group-title="@SPORT ARAB", DUBAI SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/dubaisport200.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1764753516491362305/efft6mWi_200x200.jpg" group-title="@SPORT ARAB", DUBAI SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/dubaisport300.m3u8
+
+#EXTINF:-1 tvg-logo="https://internet-television.net/uploads/posts/2022-11/thumbs/al-iraqiya-sport.webp" group-title="@SPORT ARAB", IRAQIA SPORT 
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/iraqiasport00.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrj1sDvwRf9AwJMjAYV06dP1Pm7SJmbXnmpA&usqp=CAU" group-title="@SPORT ARAB", JORDANIA SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/jordansport00.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=01%2Fef4_yfjwoamdbmn.jpg" group-title="@SPORT ARAB", KSA SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/ksasport100.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-2-sa.png" group-title="@SPORT ARAB", KSA SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/ksasport200.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=01%2Fef4_yfjwoamdbmn.jpg" group-title="@SPORT ARAB", KSA SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/ksasport300.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fkuwaitsport.jpg" group-title="@SPORT ARAB", KUWAIT SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/kuwaitsport00.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=02588%2F149092_493733864014631_771267810_n.jpg" group-title="@SPORT ARAB", LIBYA SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/libyasport100.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=02588%2F149092_493733864014631_771267810_n.jpg" group-title="@SPORT ARAB", LIBYA SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/libyasport200.m3u8
+
+#EXTINF:-1 tvg-logo="https://egytvs.com/wp-content/uploads/2017/02/nilesport.jpg" group-title="@SPORT ARAB", NILE SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/nilesport00.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fegy%2Fontimesports.gif" group-title="@SPORT ARAB", ONTIME SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/ontimesport100.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fegy%2Fontimesports2.gif" group-title="@SPORT ARAB", ONTIME SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/ontimesport200.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F877%2Fon-time-sports-2.png" group-title="@SPORT ARAB", ONTIME SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/ontimesport300.m3u8
+
+#EXTINF:-1 tvg-logo="https://sports.ptv.com.pk/user/assets/images/logosarchive/ptvsports2021.jpg" group-title="@SPORT ARAB", PAKISTAN SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/pakistansport00.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Starz_Logo2008.png" group-title="@SPORT ARAB", STARZ SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/starzsport00.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg0FRSjeIWgNtDRaH2JrTewczFHi77DyiOl_Vg56akZcd7LplZrLBTFC4&s=10" group-title="@SPORT ARAB", VARZISH SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/varzishsport00.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1704037624917209088/YmyRUw2C_400x400.jpg" group-title="@SPORT ARAB", YAS SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/yass00.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fegy%2Fzamalek-tv.gif" group-title="@SPORT ARAB", ZAMALEK SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Arab-Sport.m3u8/B-inal22/zamaleksport00.m3u8
+
+#EXTINF:-1 group-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg",
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4KY5rRqVRJ6c1lFIYQMwLZ_ti9xm1n2C4JaUu0Y3Uyu-P7H5KZdxBDk&s=10" group-title="@SPORT EROPA", ARENA SPORT HR 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaHR1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4KY5rRqVRJ6c1lFIYQMwLZ_ti9xm1n2C4JaUu0Y3Uyu-P7H5KZdxBDk&s=10" group-title="@SPORT EROPA", ARENA SPORT HR 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaHR2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4KY5rRqVRJ6c1lFIYQMwLZ_ti9xm1n2C4JaUu0Y3Uyu-P7H5KZdxBDk&s=10" group-title="@SPORT EROPA", ARENA SPORT HR 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaHR3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4KY5rRqVRJ6c1lFIYQMwLZ_ti9xm1n2C4JaUu0Y3Uyu-P7H5KZdxBDk&s=10" group-title="@SPORT EROPA", ARENA SPORT HR 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaHR4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4KY5rRqVRJ6c1lFIYQMwLZ_ti9xm1n2C4JaUu0Y3Uyu-P7H5KZdxBDk&s=10" group-title="@SPORT EROPA", ARENA SPORT HR 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaHR5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4KY5rRqVRJ6c1lFIYQMwLZ_ti9xm1n2C4JaUu0Y3Uyu-P7H5KZdxBDk&s=10" group-title="@SPORT EROPA", ARENA SPORT HR 6
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaHR6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4KY5rRqVRJ6c1lFIYQMwLZ_ti9xm1n2C4JaUu0Y3Uyu-P7H5KZdxBDk&s=10" group-title="@SPORT EROPA", ARENA SPORT HR 7
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaHR7.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4KY5rRqVRJ6c1lFIYQMwLZ_ti9xm1n2C4JaUu0Y3Uyu-P7H5KZdxBDk&s=10" group-title="@SPORT EROPA", ARENA SPORT HR 8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaHR8.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4KY5rRqVRJ6c1lFIYQMwLZ_ti9xm1n2C4JaUu0Y3Uyu-P7H5KZdxBDk&s=10" group-title="@SPORT EROPA", ARENA SPORT HR 9
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaHR9.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4KY5rRqVRJ6c1lFIYQMwLZ_ti9xm1n2C4JaUu0Y3Uyu-P7H5KZdxBDk&s=10" group-title="@SPORT EROPA", ARENA SPORT HR 10
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaHR10.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/logo.png" group-title="@SPORT EROPA", ARENA SPORT RS 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaRS1.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/logo.png" group-title="@SPORT EROPA", ARENA SPORT RS 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaRS2.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/logo.png" group-title="@SPORT EROPA", ARENA SPORT RS 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaRS3.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/logo.png" group-title="@SPORT EROPA", ARENA SPORT RS 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaRS4.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/logo.png" group-title="@SPORT EROPA", ARENA SPORT RS 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaRS5.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/logo.png" group-title="@SPORT EROPA", ARENA SPORT RS 6
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaRS6.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a1p.png" group-title="@SPORT EROPA", ARENA SPORT PREMUM RS 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaPremiumRS1.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" group-title="@SPORT EROPA", ARENA SPORT PREMUM RS 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaPremiumRS2.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" group-title="@SPORT EROPA", ARENA SPORT PREMUM RS 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ArenaPremiumRS3.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/4jcpre1657031942.png" group-title="@SPORT EROPA", ART SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Art1.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/fwbqic1657031982.png" group-title="@SPORT EROPA", ART SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Art2.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-3-2661.png" group-title="@SPORT EROPA", ART SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Art3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_Sport_2015.png/640px-Canal%2B_Sport_2015.png" group-title="@SPORT EROPA", CANAL+ SPORT PL 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/CanalPL1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" group-title="@SPORT EROPA", CANAL+ SPORT PL 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/CanalPL2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3YcxIRqK9r0yOdAnAJyQv-NWQMPR58sQTA&s" group-title="@SPORT EROPA", CANAL+ SPORT PL 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/CanalPL3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzge2e7jANk6izLIbvUwIlMWW-QVx4H-K8tnu_dFtDEV2zucHONBaVwUQv&s=10" group-title="@SPORT EROPA", CANAL+ SPORT PL 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/CanalPL4.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png" group-title="@SPORT EROPA", COSMOTE SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cosmote1.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png" group-title="@SPORT EROPA", COSMOTE SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cosmote2.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png" group-title="@SPORT EROPA", COSMOTE SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cosmote3.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png" group-title="@SPORT EROPA", COSMOTE SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cosmote4.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png" group-title="@SPORT EROPA", COSMOTE SPORT 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cosmote5.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png" group-title="@SPORT EROPA", COSMOTE SPORT 6
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cosmote6.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png" group-title="@SPORT EROPA", COSMOTE SPORT 7
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cosmote7.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png" group-title="@SPORT EROPA", COSMOTE SPORT 8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cosmote8.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png" group-title="@SPORT EROPA", COSMOTE SPORT 9
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cosmote9.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/yxx4cuxf15ar/3cAE5JR11reMeEv7rMWFDH/d787762a164aefbcad84df9d8f5aa772/Cyta_Sports.jpg" group-title="@SPORT EROPA", CYTAVISION SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cytavision1.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/yxx4cuxf15ar/3cAE5JR11reMeEv7rMWFDH/d787762a164aefbcad84df9d8f5aa772/Cyta_Sports.jpg" group-title="@SPORT EROPA", CYTAVISION SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cytavision2.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/yxx4cuxf15ar/3cAE5JR11reMeEv7rMWFDH/d787762a164aefbcad84df9d8f5aa772/Cyta_Sports.jpg" group-title="@SPORT EROPA", CYTAVISION SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cytavision3.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/yxx4cuxf15ar/3cAE5JR11reMeEv7rMWFDH/d787762a164aefbcad84df9d8f5aa772/Cyta_Sports.jpg" group-title="@SPORT EROPA", CYTAVISION SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cytavision4.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/yxx4cuxf15ar/3cAE5JR11reMeEv7rMWFDH/d787762a164aefbcad84df9d8f5aa772/Cyta_Sports.jpg" group-title="@SPORT EROPA", CYTAVISION SPORT 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cytavision5.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/yxx4cuxf15ar/3cAE5JR11reMeEv7rMWFDH/d787762a164aefbcad84df9d8f5aa772/Cyta_Sports.jpg" group-title="@SPORT EROPA", CYTAVISION SPORT 6
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cytavision6.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/yxx4cuxf15ar/3cAE5JR11reMeEv7rMWFDH/d787762a164aefbcad84df9d8f5aa772/Cyta_Sports.jpg" group-title="@SPORT EROPA", CYTAVISION SPORT 7
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Cytavision7.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRatSLZVx8VHrqTlSCELnvlQ48AaF1s8XCQ&s" group-title="@SPORT EROPA", DIEMA SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Diema1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk32woNXnXazFCpBwWjuqHwWwcO9hRD_CizOv82bz6xa1D7yEawWRKM6p6bGWRYiaZkGI&usqp=CAU" group-title="@SPORT EROPA", DIEMA SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Diema2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQof_QSNpfRmNBbfeaI-ty2Uid-7Xk98HmOrIjUmC1Ggn32IdjWZr_gU7YmdxF-eGMqNok&usqp=CAU" group-title="@SPORT EROPA", DIEMA SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Diema3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVycPrqcSQ74386GOn1z8JGgOC-9Pg5mvSGw&s" group-title="@SPORT EROPA", DIGI SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Digisport1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVycPrqcSQ74386GOn1z8JGgOC-9Pg5mvSGw&s" group-title="@SPORT EROPA", DIGI SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Digisport2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVycPrqcSQ74386GOn1z8JGgOC-9Pg5mvSGw&s" group-title="@SPORT EROPA", DIGI SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Digisport3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVycPrqcSQ74386GOn1z8JGgOC-9Pg5mvSGw&s" group-title="@SPORT EROPA", DIGI SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Digisport4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7eH4CDy9h1zW0r1zyTu9qpAr7jap5xEtYg&ss" group-title="@SPORT EROPA", ELEVEN SPORT PL 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ElevenPL1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7eH4CDy9h1zW0r1zyTu9qpAr7jap5xEtYg&s" group-title="@SPORT EROPA", ELEVEN SPORT PL 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ElevenPL2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7eH4CDy9h1zW0r1zyTu9qpAr7jap5xEtYg&s" group-title="@SPORT EROPA", ELEVEN SPORT PL 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ElevenPL3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7eH4CDy9h1zW0r1zyTu9qpAr7jap5xEtYg&s" group-title="@SPORT EROPA", ELEVEN SPORT PL 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ElevenPL4.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvdigitaldivide.it/wp-content/uploads/2022/07/dazn-eleven-sports.jpg?ezimgfmt=rs:372x258/rscb1/ngcb1/notWebP" group-title="@SPORT EROPA", ELEVEN SPORT PT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ElevenPT1.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvdigitaldivide.it/wp-content/uploads/2022/07/dazn-eleven-sports.jpg?ezimgfmt=rs:372x258/rscb1/ngcb1/notWebP" group-title="@SPORT EROPA", ELEVEN SPORT PT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ElevenPT2.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvdigitaldivide.it/wp-content/uploads/2022/07/dazn-eleven-sports.jpg?ezimgfmt=rs:372x258/rscb1/ngcb1/notWebP" group-title="@SPORT EROPA", ELEVEN SPORT PT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ElevenPT3.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvdigitaldivide.it/wp-content/uploads/2022/07/dazn-eleven-sports.jpg?ezimgfmt=rs:372x258/rscb1/ngcb1/notWebP" group-title="@SPORT EROPA", ELEVEN SPORT PT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ElevenPT4.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvdigitaldivide.it/wp-content/uploads/2022/07/dazn-eleven-sports.jpg?ezimgfmt=rs:372x258/rscb1/ngcb1/notWebP" group-title="@SPORT EROPA", ELEVEN SPORT PT 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ElevenPT5.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvdigitaldivide.it/wp-content/uploads/2022/07/dazn-eleven-sports.jpg?ezimgfmt=rs:372x258/rscb1/ngcb1/notWebP" group-title="@SPORT EROPA", ELEVEN SPORT PT 6
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ElevenPT6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8m18wbOTG3ypTju4fEJsvwq8FVFAQyQGaNA&usqp=CAU" group-title="@SPORT EROPA", ESPN NL 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/EspnNL1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8m18wbOTG3ypTju4fEJsvwq8FVFAQyQGaNA&usqp=CAU" group-title="@SPORT EROPA", ESPN NL 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/EspnNL1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8m18wbOTG3ypTju4fEJsvwq8FVFAQyQGaNA&usqp=CAU" group-title="@SPORT EROPA", ESPN NL 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/EspnNL1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8m18wbOTG3ypTju4fEJsvwq8FVFAQyQGaNA&usqp=CAU" group-title="@SPORT EROPA", ESPN NL 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/EspnNL4.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe3g5FiUO1ahxqP6imV1Gu_NQfH_Oi21k5RNpY2GwOcwiL3mHIvCAzvBw&s=10" group-title="@SPORT EROPA", EUROSPORT UK 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/EurosportUK1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTh3hhLABn77LUXAWBr3HfwRiVpR1tV3qkcFEw4YffbCDnRtcg3-lpN_k&s=10" group-title="@SPORT EROPA", EUROSPORT UK 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/EurosportUK2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe3g5FiUO1ahxqP6imV1Gu_NQfH_Oi21k5RNpY2GwOcwiL3mHIvCAzvBw&s=10" group-title="@SPORT EROPA", EUROSPORT UK 1A
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/EurosportUK1A.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTh3hhLABn77LUXAWBr3HfwRiVpR1tV3qkcFEw4YffbCDnRtcg3-lpN_k&s=10" group-title="@SPORT EROPA", EUROSPORT UK 2A
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/EurosportUK2A.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bundesliga-international.com/wp-content/uploads/2020/11/Match-TV-logo.jpg" group-title="@SPORT EROPA", MATCH RU 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Match1.m3u8
+#EXTINF:-1 tvg-logo="https://www.bundesliga-international.com/wp-content/uploads/2020/11/Match-TV-logo.jpg" group-title="@SPORT EROPA", MATCH RU 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Match2.m3u8
+#EXTINF:-1 tvg-logo="https://www.bundesliga-international.com/wp-content/uploads/2020/11/Match-TV-logo.jpg" group-title="@SPORT EROPA", MATCH RU 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Match3.m3u8
+
+#EXTINF:-1 tvg-logo="https://maxsport.live/images/max-sport-1-logo.png" group-title="@SPORT EROPA", MAX SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Maxsport1.m3u8
+#EXTINF:-1 tvg-logo="https://maxsport.live/images/max-sport-2-logo.png" group-title="@SPORT EROPA", MAX SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Maxsport2.m3u8
+#EXTINF:-1 tvg-logo="https://maxsport.live/images/max-sport-3-logo.png" group-title="@SPORT EROPA", MAX SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Maxsport3.m3u8
+#EXTINF:-1 tvg-logo="https://maxsport.live/images/max-sport-4-logo.png" group-title="@SPORT EROPA", MAX SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Maxsport4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SSsFFpfa1vRDYGAY7nSJoSdVRpm545ZGuYwHK0zG6yKGyzcF0bquUalgA-Z-GMtbv88&usqp=CAU" group-title="@SPORT EROPA", ORANGE SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Orange1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SSsFFpfa1vRDYGAY7nSJoSdVRpm545ZGuYwHK0zG6yKGyzcF0bquUalgA-Z-GMtbv88&usqp=CAU" group-title="@SPORT EROPA", ORANGE SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Orange2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SSsFFpfa1vRDYGAY7nSJoSdVRpm545ZGuYwHK0zG6yKGyzcF0bquUalgA-Z-GMtbv88&usqp=CAU" group-title="@SPORT EROPA", ORANGE SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Orange3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SSsFFpfa1vRDYGAY7nSJoSdVRpm545ZGuYwHK0zG6yKGyzcF0bquUalgA-Z-GMtbv88&usqp=CAU" group-title="@SPORT EROPA", ORANGE SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Orange4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIaw5LsSS33y1YiygCq-Q7JO3HTa4IkXoxXtg2l2LJy-RM6e7_mF-A8R9lrjFnJEdYCg&usqp=CAU" group-title="@SPORT EROPA", PLAY SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/PlaySport1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIaw5LsSS33y1YiygCq-Q7JO3HTa4IkXoxXtg2l2LJy-RM6e7_mF-A8R9lrjFnJEdYCg&usqp=CAU" group-title="@SPORT EROPA", PLAY SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/PlaySport2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIaw5LsSS33y1YiygCq-Q7JO3HTa4IkXoxXtg2l2LJy-RM6e7_mF-A8R9lrjFnJEdYCg&usqp=CAU" group-title="@SPORT EROPA", PLAY SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/PlaySport3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIaw5LsSS33y1YiygCq-Q7JO3HTa4IkXoxXtg2l2LJy-RM6e7_mF-A8R9lrjFnJEdYCg&usqp=CAU" group-title="@SPORT EROPA", PLAY SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/PlaySport4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKokdaFpeE0QmyZZh5HFCApUwun3aXOgSzDw&s" group-title="@SPORT EROPA", POLSAT SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Polsat1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKokdaFpeE0QmyZZh5HFCApUwun3aXOgSzDw&s" group-title="@SPORT EROPA", POLSAT SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Polsat2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKokdaFpeE0QmyZZh5HFCApUwun3aXOgSzDw&s" group-title="@SPORT EROPA", POLSAT SPORT PREMIUM 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/PolsatPremium1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKokdaFpeE0QmyZZh5HFCApUwun3aXOgSzDw&s" group-title="@SPORT EROPA", POLSAT SPORT PREMIUM 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/PolsatPremium2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKokdaFpeE0QmyZZh5HFCApUwun3aXOgSzDw&s" group-title="@SPORT EROPA", POLSAT SPORT PREMIUM 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/PolsatPremium3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKokdaFpeE0QmyZZh5HFCApUwun3aXOgSzDw&s" group-title="@SPORT EROPA", POLSAT SPORT PREMIUM 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/PolsatPremium4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKokdaFpeE0QmyZZh5HFCApUwun3aXOgSzDw&s" group-title="@SPORT EROPA", POLSAT SPORT PREMIUM 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/PolsatPremium5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="@SPORT EROPA", PREMIER SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Premier1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="@SPORT EROPA", PREMIER SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Premier2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3hG7CYHXuZm8cQ8aCFb73Yrh0GzlKK3uIMQ&s" group-title="@SPORT EROPA", RAI 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Rai1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/2560px-Rai_2_-_Logo_2016.svg.png" group-title="@SPORT EROPA", RAI 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Rai2.m3u8
+#EXTINF:-1 tvg-logo="https://www.fm-world.it/wp-content/uploads/2024/04/raisport.jpg.webp" group-title="@SPORT EROPA", RAI SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/RaiSport.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1200px-Logo_RMC_Sport_2018.svg.png" group-title="@SPORT EROPA", RMC 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Rmc1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1200px-Logo_RMC_Sport_2018.svg.png" group-title="@SPORT EROPA", RMC 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Rmc2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1200px-Logo_RMC_Sport_2018.svg.png" group-title="@SPORT EROPA", RMC 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Rmc3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ssport-plus-.png/640px-Ssport-plus-.png" group-title="@SPORT EROPA", S-SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/S-sport1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ssport-plus-.png/640px-Ssport-plus-.png" group-title="@SPORT EROPA", S-SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/S-sport2.m3u8
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png" group-title="@SPORT EROPA", SMARTSPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Smart1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP3_w1QfIvttG5GchjFPS33Q1Mc-Q2hqx0d_sBzChr-20_Wcn7IVlFT0FrU-HHcEsAHg&usqp=CAU" group-title="@SPORT EROPA", SMARTSPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Smart2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyIcSNXzP5WylU4TRX9z-nUKcUbmBvfDWQ6w&s" group-title="@SPORT EROPA", SPORT DK1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportDK1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOVEo1aaJNe9bxxlnJUz3_lhPKRBrHfXhwCQ&s" group-title="@SPORT EROPA", SPORT DK2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportDK2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO1sRYlFc8SZd_JuvYQPMLGXoyQzClr9hAWA&s" group-title="@SPORT EROPA", SPORT DK3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportDK3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJJGhi1no47b7Wz2Ca0we2dyToY5QvEbrmRw&usqp=CAU" group-title="@SPORT EROPA", SPORT KLUB HR 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportKlubHR1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJJGhi1no47b7Wz2Ca0we2dyToY5QvEbrmRw&usqp=CAU" group-title="@SPORT EROPA", SPORT KLUB HR 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportKlubHR2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJJGhi1no47b7Wz2Ca0we2dyToY5QvEbrmRw&usqp=CAU" group-title="@SPORT EROPA", SPORT KLUB HR 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportKlubHR3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJJGhi1no47b7Wz2Ca0we2dyToY5QvEbrmRw&usqp=CAU" group-title="@SPORT EROPA", SPORT KLUB HR 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportKlubHR4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJJGhi1no47b7Wz2Ca0we2dyToY5QvEbrmRw&usqp=CAU" group-title="@SPORT EROPA", SPORT KLUB HR 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportKlubHR5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJJGhi1no47b7Wz2Ca0we2dyToY5QvEbrmRw&usqp=CAU" group-title="@SPORT EROPA", SPORT KLUB HR 6
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportKlubHR6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_RuUF_5SYLht5G2s2GmiHm2FLm1I0lG_Bg&usqp=CAU" group-title="@SPORT EROPA", SPORT KLUB SL 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportKlubSL1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_RuUF_5SYLht5G2s2GmiHm2FLm1I0lG_Bg&usqp=CAU" group-title="@SPORT EROPA", SPORT KLUB SL 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportKlubSL2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_RuUF_5SYLht5G2s2GmiHm2FLm1I0lG_Bg&usqp=CAU" group-title="@SPORT EROPA", SPORT KLUB SL 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportKlubSL3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0u4oh6bsP9Lvb7XND8iFTMG_eAq_Gc9pUkI6gVcbhP247AEv-Jbo360&s=10" group-title="@SPORT EROPA", SPORT TV PT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportTV1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0u4oh6bsP9Lvb7XND8iFTMG_eAq_Gc9pUkI6gVcbhP247AEv-Jbo360&s=10" group-title="@SPORT EROPA", SPORT TV PT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportTV2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0u4oh6bsP9Lvb7XND8iFTMG_eAq_Gc9pUkI6gVcbhP247AEv-Jbo360&s=10" group-title="@SPORT EROPA", SPORT TV PT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportTV3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0u4oh6bsP9Lvb7XND8iFTMG_eAq_Gc9pUkI6gVcbhP247AEv-Jbo360&s=10" group-title="@SPORT EROPA", SPORT TV PT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportTV4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0u4oh6bsP9Lvb7XND8iFTMG_eAq_Gc9pUkI6gVcbhP247AEv-Jbo360&s=10" group-title="@SPORT EROPA", SPORT TV PT 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportTV5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0u4oh6bsP9Lvb7XND8iFTMG_eAq_Gc9pUkI6gVcbhP247AEv-Jbo360&s=10" group-title="@SPORT EROPA", SPORT TV PT 6
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/SportTV6.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_TR_logo.png?1643812371" group-title="@SPORT EROPA", TIVIBU 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Tivibu1.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_TR_logo.png?1643812371" group-title="@SPORT EROPA", TIVIBU 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Tivibu2.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_TR_logo.png?1643812371" group-title="@SPORT EROPA", TIVIBU 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Tivibu3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&usqp=CAU" group-title="@SPORT EROPA", TNT SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Tnt1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&usqp=CAU" group-title="@SPORT EROPA", TNT SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Tnt2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&usqp=CAU" group-title="@SPORT EROPA", TNT SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Tnt3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&usqp=CAU" group-title="@SPORT EROPA", TNT SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Tnt4.m3u8
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/al/tring-468x144.png" group-title="@SPORT EROPA", TRING SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Tring1.m3u8
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/al/tring-468x144.png" group-title="@SPORT EROPA", TRING SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Tring2.m3u8
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/al/tring-468x144.png" group-title="@SPORT EROPA", TRING SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Tring3.m3u8
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/al/tring-468x144.png" group-title="@SPORT EROPA", TRING SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Tring4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TRT_Spor_kurumsal_logo.png/1200px-TRT_Spor_kurumsal_logo.png" group-title="@SPORT EROPA", TRT SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Trtsport1.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/06/TRT-Spor-Yildiz-Logo.png" group-title="@SPORT EROPA", TRT SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Trtsport2.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/rhcrxe1642628636.png" group-title="@SPORT EROPA", VOO SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/VooSport1.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/53esup1642628659.png" group-title="@SPORT EROPA", VOO SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/VooSport2.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/6kuWs0cmdAWxHEXRUzBnCV/66ebe4b88d1a276ba495ac98befcd2b7/v-sport-1.png" group-title="@SPORT EROPA", VSPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Vsport1.m3u8
+#EXTINF:-1 tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport2_logo_vert_rgb_pos_1270x270_0.jpg" group-title="@SPORT EROPA", VSPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/Vsport2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&s" group-title="@SPORT EROPA", VSPORT PREMIER LEAGUE
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/VsportPL.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAF2iuUTtMjeJqfZr__7ik0R7-DlvGMFaJPA&s" group-title="@SPORT EROPA", VSPORT MOTOR
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/VsportMotor.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/ssjl1j1627494247.png" group-title="@SPORT EROPA", YES SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/YesSport1.m3u8
+#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/sport_2_israel_logo.png" group-title="@SPORT EROPA", YES SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/YesSport2.m3u8
+#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/sport_3_israel_logo.png" group-title="@SPORT EROPA", YES SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/YesSport3.m3u8
+#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/sport_4_israel_logo.png" group-title="@SPORT EROPA", YES SPORT 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/YesSport4.m3u8
+#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/Sport_5_Star_Israel.png" group-title="@SPORT EROPA", YES SPORT 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/YesSport5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK2-BvlZNt6Kb9t0oYYLnsguSMCbldo0DWO-4QXSPgGRHCdVt1f54GJqmoIaEh1Ukhhmo&usqp=CAU" group-title="@SPORT EROPA", YES SPORT GOLD
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/YesSportgold.m3u8
+#EXTINF:-1 tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-Ziggo-Sport-Docu.png" group-title="@SPORT EROPA", ZIGGO DOCU
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ZiggoDocu.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_golf.jpg" group-title="@SPORT EROPA", ZIGGO GOLF
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ZiggoGolf.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F851%2Fziggo-sport-racing-1.png" group-title="@SPORT EROPA", ZIGGO RACING
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ZiggoRacing.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg" group-title="@SPORT EROPA", ZIGGO SELECT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ZiggoSelect.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zx7EpRC9EtCe5zZCtwmx2Cz5IJhkTi5eLA&s" group-title="@SPORT EROPA", ZIGGO TENNIS
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ZiggoTennis.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg" group-title="@SPORT EROPA", ZIGGO VOETBAL
+https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Sport/B-inal22/ZiggoVoetbal.m3u8
+
+#EXTINF:-1 group-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg",
+#EXTINF:-1 tvg-logo="https://bakhresa.com/wp-content/uploads/2022/02/azam-sport-1-01.png" group-title="@SPORT AFRICA", AZAM SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/Azam1.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Azam_Sports_2_Logo.png" group-title="@SPORT AFRICA", AZAM SPORT 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/Azam2.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/azam-sports-3-tz.png" group-title="@SPORT AFRICA", AZAM SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/Azam3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="@SPORT AFRICA", CANAL+ AF 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/Canal1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" group-title="@SPORT AFRICA", CANAL+ AF 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/Canal2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Canal%2B_Sport_3_PL.svg/2560px-Canal%2B_Sport_3_PL.svg.png" group-title="@SPORT AFRICA", CANAL+ AF 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/Canal3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Canal%2B_Sport_4_PL.png" group-title="@SPORT AFRICA", CANAL+ AF 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/Canal4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CANAL%2B_Sport_5.png/800px-CANAL%2B_Sport_5.png" group-title="@SPORT AFRICA", CANAL+ AF 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/Canal5.m3u8
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png" group-title="@SPORT AFRICA", SUPERSPORTS ACTION
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperAction.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlYO27s5eCVoVEYXhHTKRkGUbeShje2QOjhSjUb7v4&s" group-title="@SPORT AFRICA", SUPERSPORTS BLITZ
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperBlitz.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="@SPORT AFRICA", SUPERSPORTS CRICKET
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperCricket.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a304.png" group-title="@SPORT AFRICA", SUPERSPORTS GOLF
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperGolf.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/aitip41642604897.png" group-title="@SPORT AFRICA", SUPERSPORTS GRANDSTAND
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperGrandstand.m3u8
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" group-title="@SPORT AFRICA", SUPERSPORTS LA LIGA
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperLaLiga.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-maximo-1-za.png" group-title="@SPORT AFRICA", SUPERSPORTS MAXIMO
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperMaximo.m3u8
+#EXTINF:-1 tvg-logo="https://saeseries.com/wp-content/uploads/2023/12/Motorsportpng_-1024x275.png" group-title="@SPORT AFRICA", SUPERSPORTS MOTOSPORTS
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperMotorsports.m3u8
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png" group-title="@SPORT AFRICA", SUPERSPORTS PREMIER LEAGUE
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperPremierLeague.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="@SPORT AFRICA", SUPERSPORTS FOOTBALL
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperFootball.m3u8
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/o1qmay0z/psl-1.png" group-title="@SPORT AFRICA", SUPERSPORTS PSL
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperPsl.m3u8
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/ngeluwwy/rugby-5.png" group-title="@SPORT AFRICA", SUPERSPORTS RUGBY
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperRugby.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" group-title="@SPORT AFRICA", SUPERSPORTS TENNIS
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperTennis.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0lwdq31638048788.png" group-title="@SPORT AFRICA", SUPERSPORTS VARIETY 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperVariety1.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/9vnt801638048828.png" group-title="@SPORT AFRICA", SUPERSPORTS VARIETY 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperVariety2.m3u8
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/2gipzsj5/variety-3.jpeg" group-title="@SPORT AFRICA", SUPERSPORTS VARIETY 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperVariety3.m3u8
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/wq1enpv2/variety-4-1.png" group-title="@SPORT AFRICA", SUPERSPORTS VARIETY 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperVariety4.m3u8
+
+#EXTINF:-1 group-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg",
+#EXTINF:-1 tvg-logo="https://i0.wp.com/mortystv.com/blog/wp-content/uploads/2023/03/golazo.webp?fit=666%2C443&ssl=1" group-title="@SPORT LATIN", CBS GOLAZO
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/CbsGolazo.m3u8
+#EXTINF:-1 tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/01/espn1-argentina.png" group-title="@SPORT LATIN", ESPN AR 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/EspnAR1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpuL89342bfaE3UthV6Qtbslnx-zd7XAnIIlHZz6rrZg-Uy4UQTWFFgjU&s=10" group-title="@SPORT LATIN", ESPN AR 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/EspnAR2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1280px-ESPN_Brasil_logo.svg.png" group-title="@SPORT LATIN", ESPN BR 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/EspnBR1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpuL89342bfaE3UthV6Qtbslnx-zd7XAnIIlHZz6rrZg-Uy4UQTWFFgjU&s=10" group-title="@SPORT LATIN", ESPN BR 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/EspnBR2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="@SPORT LATIN", ESPN DEPORTES
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/EspnDeportes.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="@SPORT LATIN", ESPN PREMIUM
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/EspnPremium.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOmbqwMW_X8M1LFndpoz-uWcE-X5RH4Wi8v47MNVPPusgYb2WV8eNlx5Qt&s=10" group-title="@SPORT LATIN", ESPN US 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/EspnUS1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2.png?x73749" group-title="@SPORT LATIN", ESPN US 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/EspnUS2.m3u8
+#EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/flowsports_icon.png" group-title="@SPORT LATIN", FLOW SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/FlowSport.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6tmlYteobd0yr3jSGUqtllYw9rD-RI4C_7PVy1DhZgVifDYUbV1hwcPKf&s=10" group-title="@SPORT LATIN", FOX SOCCER PLUS
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/FoxSoccerPlus.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcTh4mUfJ9aqbI-t7xw7dc4h2UuFH9MOUyZDRXxDTTYdGbIPc8EWJmUojJ&s=10" group-title="@SPORT LATIN", FOX SOCCER PLUS B
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/FoxSoccerPlus2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjfcckwwGN0gd8qzrxLDZjiOPD-8PUXM6zl2Rd91eQLM52Agnjog86Obp&s=10" group-title="@SPORT LATIN", FOX SPORT AR 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/FoxSportAR1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/640px-Fox_Sports_2_Argentina_2023.svg.png" group-title="@SPORT LATIN", FOX SPORT AR 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/FoxSportAR2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThK_On76FWzZOjhxtKia2TZOSRfhQ97xDcHw&s" group-title="@SPORT LATIN", FOX SPORT AR 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/FoxSportAR3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="@SPORT LATIN", FOX SPORT PREMIUM
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/FoxSportPremium.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="@SPORT LATIN", FOX SPORT US 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/FoxSportUS1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="@SPORT LATIN", FOX SPORT US 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/FoxSportUS2.m3u8
+#EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="@SPORT LATIN", PREMIERE BR 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Premiere1.m3u8
+#EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="@SPORT LATIN", PREMIERE BR 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Premiere2.m3u8
+#EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="@SPORT LATIN", PREMIERE BR 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Premiere3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Rush_NZ_TV_logo.png" group-title="@SPORT LATIN", RUSH SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/RushSport.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dcf244bfae.png" group-title="@SPORT LATIN", SPORT TV BR 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/SportTVBR1.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/teleguiado.com/wp-content/uploads/2022/08/SPORTV-2.png" group-title="@SPORT LATIN", SPORT TV BR 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/SportTVBR2.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_sportv-3-20179587.logowik.com.webp" group-title="@SPORT LATIN", SPORT TV BR 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/SportTVBR3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslUBUWL2g4UBk4P5zjO21JK6RziPy-owx-peKFFzAjddTOOt0bpyGz_E&s=10" group-title="@SPORT LATIN", TSN 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Tsn1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTXwh5MYmrAF1l0vO87wBFBZYjXXv7uB_Eoc4ZB-Ui41h0Z6DHrDl7qE&s=10" group-title="@SPORT LATIN", TSN 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Tsn2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJZw8M9Ivcw9cgKr_Yt2DuB8Xgpcao0wHePyzCHElk_35P-9yDht8rhU&s=10" group-title="@SPORT LATIN", TSN 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Tsn3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3VIbAk7Ij-1tjTAGsm0HftdDxek5Umu5UsQ&usqp=CAU" group-title="@SPORT LATIN", TSN 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Tsn4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAzfhwdQIocxiTRrp4wMnKQDfJer_dnuKCQN8yrpH0MLhU51cV1rJwV3c&s=10" group-title="@SPORT LATIN", TSN 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Tsn5.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2019/05/TUDN.png" group-title="@SPORT LATIN", TUDN MX
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/TudnMX.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="@SPORT LATIN", TYC SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/Tyc.m3u8
+#EXTINF:-1 tvg-logo="https://media.tycsports.com/files/2022/04/28/421033/tyc-sports-2_862x485.webp" group-title="@SPORT LATIN", TYC INT SPORT
+https://raw.githubusercontent.com/B-inalm3u-Custom/Latin-Sport/B-inal22/TycInt.m3u8
+
+#EXTINF:-1 group-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg",
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajDRB9Ug4m-Ib5NTEQgEo5hzPdey8SB674g&s" group-title="@SPORT AUSTRALIA", BEIN SPORT AU 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/beinsportAU100.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajDRB9Ug4m-Ib5NTEQgEo5hzPdey8SB674g&s" group-title="@SPORT AUSTRALIA", BEIN SPORT AU 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/beinsportAU200.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajDRB9Ug4m-Ib5NTEQgEo5hzPdey8SB674g&s" group-title="@SPORT AUSTRALIA", BEIN SPORT AU 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/beinsportAU300.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4b-6HS--lLZAjGp2-iTMC-YDf_3HE8z_zw&s" group-title="@SPORT AUSTRALIA", FOX SPORT AU 501
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/foxsport501.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/FL_HD.png/revision/latest?cb=20170407121413" group-title="@SPORT AUSTRALIA", FOX SPORT AU 502
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/foxsport502.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBrfs3S4Tpssy1DtkOTh-Kj8CjbayBtLNwaVFeQ3bj1XS5pql61Oi4T7uAGimxKF8QiD8&usqp=CAU" group-title="@SPORT AUSTRALIA", FOX SPORT AU 503
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/foxsport503.m3u8
+#EXTINF:-1 tvg-logo="https://www.sec.gov/Archives/edgar/data/1564708/000156470822000051/image_161a.jpg" group-title="@SPORT AUSTRALIA", FOX SPORT AU 504
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/foxsport504.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/FoxSports505_HD.png/revision/latest?cb=20190709150045" group-title="@SPORT AUSTRALIA", FOX SPORT AU 505
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/foxsport505.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqZUfxkghIWTacAycTm8quNyzwxDJFLia_NA&s" group-title="@SPORT AUSTRALIA", FOX SPORT AU 506
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/foxsport506.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-F2KvpRajV6ANiiW5trXjhKcMWGjSYvpV0g&s" group-title="@SPORT AUSTRALIA", FOX SPORT AU 507
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/foxsport507.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-F2KvpRajV6ANiiW5trXjhKcMWGjSYvpV0g&s" group-title="@SPORT AUSTRALIA", FOX SPORT AU 507
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/foxsport507.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9YI-tnGI6zJJEmJTGBHkxRYLKLS0HgtjFg&s" group-title="@SPORT AUSTRALIA", OPTUS SPORT AU 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/optus100.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9YI-tnGI6zJJEmJTGBHkxRYLKLS0HgtjFg&s" group-title="@SPORT AUSTRALIA", OPTUS SPORT AU 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/optus200.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9YI-tnGI6zJJEmJTGBHkxRYLKLS0HgtjFg&s" group-title="@SPORT AUSTRALIA", OPTUS SPORT AU 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/optus300.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9YI-tnGI6zJJEmJTGBHkxRYLKLS0HgtjFg&s" group-title="@SPORT AUSTRALIA", OPTUS SPORT AU 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/optus400.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9YI-tnGI6zJJEmJTGBHkxRYLKLS0HgtjFg&s" group-title="@SPORT AUSTRALIA", OPTUS SPORT AU 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/optus500.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9YI-tnGI6zJJEmJTGBHkxRYLKLS0HgtjFg&s" group-title="@SPORT AUSTRALIA", OPTUS SPORT AU 6
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/optus600.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9YI-tnGI6zJJEmJTGBHkxRYLKLS0HgtjFg&s" group-title="@SPORT AUSTRALIA", OPTUS SPORT AU 7
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/optus700.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9YI-tnGI6zJJEmJTGBHkxRYLKLS0HgtjFg&s" group-title="@SPORT AUSTRALIA", OPTUS SPORT AU 8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/optus800.m3u8
+
+#EXTINF:-1 group-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg",
+#EXTINF:-1 tvg-logo="https://wrestlingheadlines.com/wp-content/uploads/2021/06/impact-wrestling-logo.jpg" group-title="@SPORT FIGHT", IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsi2KG8tzB5mY6fTNUYFk8JBDruu1nGo1fbA&usqp=CAU" group-title="@SPORT FIGHT", Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a21f54_034c1f766c634c0389f68c6b48e84acf~mv2.jpg/v1/fit/w_320%2Ch_1000%2Cal_c%2Cq_80,enc_auto/file.jpg" group-title="@SPORT FIGHT", COMBAT BR 
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:6F:0A:A9&stream=59281&extension=ts&play_token=lmbH14bwKp
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/beU9xQQGkMY/maxresdefault.jpg" group-title="@SPORT FIGHT", POLSAT FIGHT 
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:6F:0A:A9&stream=880329&extension=ts&play_token=PIeqXYzE2Z
+#EXTINF:-1 tvg-logo="______" group-title="@SPORT FIGHT", FIGHTCLUB
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:6F:0A:A9&stream=880280&extension=ts&play_token=d8mPwQ6Hsb
+#EXTINF:-1 tvg-logo="______" group-title="@SPORT FIGHT", FIGHT BOX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:6F:0A:A9&stream=116238&extension=ts&play_token=9ie5WnwKOm
+#EXTINF:-1 tvg-logo="______" group-title="@SPORT FIGHT", FIGHT SPORT
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:6F:0A:A9&stream=683135&extension=ts&play_token=M4230CNRaw
+#EXTINF:-1 tvg-logo="______" group-title="@SPORT FIGHT", ARENA FIGHT
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:6F:0A:A9&stream=1107630&extension=ts&play_token=KrSCIEsOlS
+#EXTINF:-1 tvg-logo="______" group-title="@SPORT FIGHT", WWE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:6F:0A:A9&stream=45462&extension=ts&play_token=nHT8miN9cX
+#EXTINF:-1 tvg-logo="______" group-title="@SPORT FIGHT", WWE CHANNEL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:6F:0A:A9&stream=833302&extension=ts&play_token=2kI8A7w1gM
+#EXTINF:-1 tvg-logo="______" group-title="@SPORT FIGHT", UFC TV US
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:6F:0A:A9&stream=91949&extension=ts&play_token=IV0yk7bGfo
+#EXTINF:-1 tvg-logo="______" group-title="@SPORT FIGHT", UFC TV UK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:6F:0A:A9&stream=825538&extension=ts
 
 
 #################################################################################################################
