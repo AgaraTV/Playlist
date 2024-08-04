@@ -58,7 +58,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17615_stream.mpd?h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ac4dc759e34a5043ddbd676e90f3ebe:4fc6cea5ca78fb091ccb8fd8997f5334
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17475_stream.mpd?hdntl=exp=1722782506~acl=%2f*~id=164700585~data=hdntl~hmac=93acd68726773944d5550a8e99a5c06f518eb17e3989802acaccb5461ae5ead0
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17475_stream.mpd?hdntl=exp=1722790523~acl=%2f*~id=164700585~data=hdntl~hmac=c23d0d320e353f5c7e0afcf22ccce7a8f105724914b78a1a117ab70819ddde36
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 3
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -71,7 +71,7 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17475_strea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50053fb452c6b15716f8eb9b0e524278:c2608ef05318c7d7ea9b3694798cb15f
-https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/17139_stream.mpd?hdntl=exp=1722768767~acl=%2f*~id=164700585~data=hdntl~hmac=f347fd3617432f75a0cf12c87d63b4fb7751bf79050b818f9b3c97e0c32a8f53
+
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg" group-title="##🇮🇩TIMNAS DAY🇮🇩##"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS DAY🇮🇩##", TIMNAS 1
