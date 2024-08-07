@@ -39,12 +39,12 @@
 #KODIPROP:inputstream.adaptive.license_key=a1389742081ccb586096d4f83f79282a:c7e8f55c4ac0721a0c656d52089ca7e6
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",VOLLY OLIMPIADE
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",OLIMPIADE
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f1c96cc1af7f1f12d0684c72a77bd92a:8c300dd6138a903aefd84982286ebdfc
-
+#KODIPROP:inputstream.adaptive.license_key=084cd1aa5dd05cf4c0f3a880b3ff95b1:135b870c19388b66083c985b85fa0a4b
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17476_stream.mpd?hdntl=exp=1723050552~acl=%2f*~id=164700585~data=hdntl~hmac=02b11e28a599b434f6ddb87a307c2f0d1602074cdcd5cbe3bf68c9bdf025bb20
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
