@@ -384,15 +384,21 @@ https://lebo.huminbird.cn/live/ballbar_16050.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 2
 https://lebo.huminbird.cn/live/ballbar_36630.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 3
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://halutv1.blogspot.com
 https://lebo.huminbird.cn/live/ballbar_28330.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 4
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆"​, LINK 1
-
+https://cors-proxy.cooks.fyi/http://203.205.136.11/play.cbalive.weibisai.com/live/3666461352217061_AiSD.m3u8?txSecret=e4aa98b2599fa2e928665c93c80a68ba&txTime=66C66360
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆", LINK 2
-
+https://cors-proxy.cooks.fyi/http://203.205.136.11/play.cbalive.weibisai.com/live/3666462149214061_AiSD.m3u8?txSecret=231ae67c31593cbb5f580b4eebda027c&txTime=66C66360
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆", LINK 3
-
+https://cors-proxy.cooks.fyi/http://203.205.136.11/play.cbalive.weibisai.com/live/3666462333234061_AiSD.m3u8?txSecret=e805016a30dcbc4c2e9f83bc31bdec8b&txTime=66C66360
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆", LINK 4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="🏆LIVE BADMINTON🏆",SPORTSTAR 1
