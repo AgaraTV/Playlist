@@ -471,49 +471,73 @@ LIGA INDONESIA
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##",Sportstars 3 HD
 
+EVENT EROPA
+=====================
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" group-title="##🇬🇧🇮🇹EVENT EROPA🇨🇵🇩🇪##",  1 UCL 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EventEropa/B-inal22/2024EvenEropa1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" group-title="##🇬🇧🇮🇹EVENT EROPA🇨🇵🇩🇪##",  2 UCL 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EventEropa/B-inal22/2024EvenEropa2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" group-title="##🇬🇧🇮🇹EVENT EROPA🇨🇵🇩🇪##",  3 UCL 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EventEropa/B-inal22/2024EvenEropa3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" group-title="##🇬🇧🇮🇹EVENT EROPA🇨🇵🇩🇪##",  4 UCL 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EventEropa/B-inal22/2024EvenEropa4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" group-title="##🇬🇧🇮🇹EVENT EROPA🇨🇵🇩🇪##",  5 UCL 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EventEropa/B-inal22/2024EvenEropa5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" group-title="##🇬🇧🇮🇹EVENT EROPA🇨🇵🇩🇪##",  6 UEFA 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EventEropa/B-inal22/2024EvenEropa6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" group-title="##🇬🇧🇮🇹EVENT EROPA🇨🇵🇩🇪##",  7 UEFA 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EventEropa/B-inal22/2024EvenEropa7.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" group-title="##🇬🇧🇮🇹EVENT EROPA🇨🇵🇩🇪##",  8 UEFA 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EventEropa/B-inal22/2024EvenEropa8.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" group-title="##🇬🇧🇮🇹EVENT EROPA🇨🇵🇩🇪##",  9 UEFA 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EventEropa/B-inal22/2024EvenEropa9.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" group-title="##🇬🇧🇮🇹EVENT EROPA🇨🇵🇩🇪##",  10 UEFA 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EventEropa/B-inal22/2024EvenEropa10.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" group-title="##🇬🇧🇮🇹EVENT EROPA🇨🇵🇩🇪##",  11 EVENT 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EventEropa/B-inal22/2024EvenEropa11.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" group-title="##🇬🇧🇮🇹EVENT EROPA🇨🇵🇩🇪##",  12 EVENT 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EventEropa/B-inal22/2024EvenEropa12.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" group-title="##🇬🇧🇮🇹EVENT EROPA🇨🇵🇩🇪##",  13 EVENT 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EventEropa/B-inal22/2024EvenEropa13.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" group-title="##🇬🇧🇮🇹EVENT EROPA🇨🇵🇩🇪##",  14 EVENT 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EventEropa/B-inal22/2024EvenEropa14.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsFg7aO8A3Evq-AsTYUObuEfpcm_udRx90kvPeF3-MjtuHeoqvQPRV_M&s=10" group-title="##🇬🇧🇮🇹EVENT EROPA🇨🇵🇩🇪##",  15 EVENT 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EventEropa/B-inal22/2024EvenEropa15.m3u8
+
+
+
 
 LIGA INGGRIS
 ======================
-#EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️",TRUE PREMIER 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 group-logo="https://assets.pikiran-rakyat.com/crop/352x34:3189x1852/x/photo/2022/02/24/1331208461.jpg" group-title="##🇬🇧LIGA INGGRIS🇬🇧##"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 1
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️",TRUE PREMIER 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 2
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️",DAZN ELEVEN 1 PT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 3
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️",ARENA 1 PREMIUM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 4
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl4.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️",NOW SPORT 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 5
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EPL TEST " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️",ASSP 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 6
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EPL TEST " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️",TRUE PREMIER HD3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 7
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl7.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️",Sky Sports Premier League
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 8
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl8.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️"​,ASSP 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 9
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl9.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️"​,OPTUS SPORT 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 10
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl10.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️",SKY SPORTS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 11
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl11.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️"​,ELEVEN 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 12
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl12.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️"​,DAZN 2 DE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 13
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EPL TEST " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️",DIEMA SPORT 2
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️",HUB SPORT PREMIERE 1
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️"​,NOVA SPORTS
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️"​,V SPORT
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️"​,BEIN SPORTS 1AR
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="⚽️LIGA INGGRIS⚽️"​,BEIN SPORTS 3
 
 
 LIGA SPANYOL
@@ -531,9 +555,6 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/LaLiga/B-inal22/llaliga4.m3u8
 https://raw.githubusercontent.com/B-inalm3u-Custom/LaLiga/B-inal22/llaliga5.m3u8
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LALIGA 6
 https://raw.githubusercontent.com/B-inalm3u-Custom/LaLiga/B-inal22/llaliga6.m3u8
-
-
-
 
 
 LIGA ITALIA
@@ -559,10 +580,6 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Italia/B-inal22/lligaita
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Italia/B-inal22/lligaitali9.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", SERIA 10
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Italia/B-inal22/lligaitali10.m3u8
-
-
-
-
 
 
 LIGA FRANCIS
@@ -605,15 +622,17 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Bundesliga/B-inal22/bbundesli
 LIGA BELANDA
 ===================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZKMN8gT/LIGA-BELAN.png" group-title="⚽️LIGA BELANDA⚽️",DIGITAL SPORT 3
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndjAB01pNaR--mwb7kbSAaRnOpCb7eFlshA&usqp=CAU" group-title="##🇱🇺LIGA BELANDA🇱🇺##",
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="##🇱🇺LIGA BELANDA🇱🇺##", EREDIVISIE 1
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Belanda/B-inal22/LigaBelanda1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZKMN8gT/LIGA-BELAN.png" group-title="⚽️LIGA BELANDA⚽️",PLAY SPORT 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="##🇱🇺LIGA BELANDA🇱🇺##", EREDIVISIE 2
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Belanda/B-inal22/LigaBelanda2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZKMN8gT/LIGA-BELAN.png" group-title="⚽️LIGA BELANDA⚽️",POLSAT SPORT PREMIUM 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="##🇱🇺LIGA BELANDA🇱🇺##", EREDIVISIE 3
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Belanda/B-inal22/LigaBelanda3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZKMN8gT/LIGA-BELAN.png" group-title="⚽️LIGA BELANDA⚽️",ASSP 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="##🇱🇺LIGA BELANDA🇱🇺##", EREDIVISIE 4
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Belanda/B-inal22/LigaBelanda4.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="##🇱🇺LIGA BELANDA🇱🇺##", EREDIVISIE 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Belanda/B-inal22/LigaBelanda5.m3u8
 
 SAUDI PRO
 =============================================
@@ -4745,6 +4764,82 @@ http://117tv.icu:8080/live/X5xRz0/944877/57264.m3u8
 #EXTINF:-1 tvg-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg" group-title="CANADA TV", CA: World Fishing Network
 http://117tv.icu:8080/live/X5xRz0/944877/57471.m3u8
 
+SPORT LOKAL
+=============
+#EXTINF:-1 group-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg",
+################################################################################
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" group-title="@SPORT LOKAL🇮🇩",Sportstars 1
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="@SPORT LOKAL🇮🇩",Sportstars 2
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="@SPORT LOKAL🇮🇩",Sportstars 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5596f1b4fdb42ce925667d3b936dac1:95b298af74d5c0aa72b17f7592a12349
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="@SPORT LOKAL🇮🇩",Sportstars 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b862efe4e80c460aa8bb2412a2e991b8:7a1e78803134b7f33f266b53c4d8e8ce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="@SPORT LOKAL🇮🇩",SpoTV
+https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="@SPORT LOKAL🇮🇩",SpoTV 2
+https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="@SPORT LOKAL🇮🇩",Soccer Channel-HD
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="@SPORT LOKAL🇮🇩",Fight Sports
+https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1200px-TVRI_Sport_2022.svg.png" group-title="@SPORT LOKAL🇮🇩", TVRI Sports DENS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp2HOcdQifRFC5p9rFSuQE01wwv5EqxwzfTA&s" group-title="@SPORT LOKAL🇮🇩", SPOTV (Indi)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
+#EXTINF:-1  tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20SD-FirstMedia-Chl-140.jpg&w=1920&q=100" group-title="@SPORT LOKAL🇮🇩", SPOTV 2 (Indi)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEQDx4NnVtO6r9pqp8TDMQdSBGa_E4MFpmDvkV0dUg&s" group-title="@SPORT LOKAL🇮🇩", TVRI SPORT WEB
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/tvrisport00.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="DistroTV_Billiard TV" group-title="@SPORT LOKAL🇮🇩" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/billiardtv.webp", Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="DistroTV_Billiard TV" group-title="@SPORT LOKAL🇮🇩" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/billiardtv.webp", Billiard TV2
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
 
 
 
@@ -6364,7 +6459,7 @@ https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 
-DOCUMENTER
+DOCUMENTARY
 =================
 #EXTINF:-1 group-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg",
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/dc/47/f9/dc47f97388f9d53558c127321a6caf3a.jpg" group-title="@DOCUMENTARY", Discovery Channel
@@ -6437,7 +6532,6 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="@DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/800px-NASA_logo.svg.png", Nasa Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-
 
 KIDS CARTOON
 ================
