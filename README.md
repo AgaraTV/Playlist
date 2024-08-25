@@ -9,21 +9,20 @@
 |referer=https://ben.quietlywheat23.shop/
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U19
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U17
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
+#EXTVLCOPT:#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
-#https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdntl=exp=1722267182~acl=%2f*~id=159408644~data=hdntl~hmac=418e52485a651d9d60d082c847cca1d6f7cc31caef098b189fe20d8ddeed984e
+#KODIPROP:inputstream.adaptive.license_key=96b3841d4a390726e49ebeedaf405aa7:0db07a6a4009b6739e758839c7d1d347
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17674_stream.mpd?hdntl=exp=1724600238~acl=%2f*~id=164700585~data=hdntl~hmac=495e8e46a44225865006eb61a475ba13391ab5cb4f641daeadf55c4720ae4e59
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",PIALA PRESIDEN 2
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://ben.quietlywheat23.shop/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
-|referer=https://ben.quietlywheat23.shop/
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",VOLY SEA V LEAGUE
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45dad2f3803ebdfaa28a4bbc5688fb31:3fafccf657bdd9adb9dc9df593e93890
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17637_stream.mpd?hdntl=exp=1724600480~acl=%2f*~id=164700585~data=hdntl~hmac=50d38b161c5b5c9470128d3956b81f2a960dbf7e98065b6fad1582b746e8e8b4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",PIALA PRESIDEN
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -81,36 +80,17 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas1.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 2
 https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 3
-
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 4
 https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 5
-
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas5.m3u8
 
 #EXTINF:-1 group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##" tvg-id="" tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg", INDOSIAR BRI 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-
-
-#EXTINF:-1 group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##" tvg-id="" tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg", SCTV TIMNAS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS VIDIO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", VOLLY VIDIO
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a70c6e3eb4f65285eb10e326ac66c092:57222b1bd2662c0f293ac42477809f57
-
+http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/fnb1LKx/images-4.jpg" group-title="🚩FRIENDLY MATCH🚩",Live 1
@@ -380,11 +360,11 @@ http://iptvtree.net:8080/AmirBilali/76448035/298550
 LIVE BADMINTON
 ======================
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆"​, COURT 1
-https://lebo.huminbird.cn/live/ballbar_31050.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 2
-https://lebo.huminbird.cn/live/ballbar_31080.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 3
-https://lebo.huminbird.cn/live/ballbar_36370.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 4
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=
