@@ -31,11 +31,12 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17637_strea
 #KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",VOLY SEA VLeague
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BRI LIGA 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1389742081ccb586096d4f83f79282a:c7e8f55c4ac0721a0c656d52089ca7e6
+#KODIPROP:inputstream.adaptive.license_key=4ab1a571443d3fafdf88fd137748dbb1:7e1e8933ad8057deef88738abd9ac0ff
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17622_stream.mpd?hdntl=exp=1724600622~acl=%2f*~id=164700585~data=hdntl~hmac=44452c49b8ba9ed621086d332f2cb13801d89dea9cc3a17873cacf4a7cd64fc7
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",OLIMPIADE
