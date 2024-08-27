@@ -14,15 +14,14 @@
 #EXTVLCOPT:#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b3841d4a390726e49ebeedaf405aa7:0db07a6a4009b6739e758839c7d1d347
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17674_stream.mpd?hdntl=exp=1724600238~acl=%2f*~id=164700585~data=hdntl~hmac=495e8e46a44225865006eb61a475ba13391ab5cb4f641daeadf55c4720ae4e59
-
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17674_stream.mpd?hdntl=exp=1724774073~acl=%2f*~id=164700585~data=hdntl~hmac=dadd9e947ce3b24d862ee3729e23f7af9859f329f184e1e553ea8afbd2557039
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",VOLY SEA V LEAGUE
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45dad2f3803ebdfaa28a4bbc5688fb31:3fafccf657bdd9adb9dc9df593e93890
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17637_stream.mpd?hdntl=exp=1724600480~acl=%2f*~id=164700585~data=hdntl~hmac=50d38b161c5b5c9470128d3956b81f2a960dbf7e98065b6fad1582b746e8e8b4
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",PIALA PRESIDEN
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -36,8 +35,7 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17637_strea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab1a571443d3fafdf88fd137748dbb1:7e1e8933ad8057deef88738abd9ac0ff
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17622_stream.mpd?hdntl=exp=1724600622~acl=%2f*~id=164700585~data=hdntl~hmac=44452c49b8ba9ed621086d332f2cb13801d89dea9cc3a17873cacf4a7cd64fc7
-
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/17622_stream.mpd?hdntl=exp=1724760269~acl=%2f*~id=164700585~data=hdntl~hmac=db34462096a2a6ed0a83c8f02b6eb8e63e611fb589691d28e95ad8c81cb157e2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",OLIMPIADE
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
