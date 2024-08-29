@@ -14,7 +14,7 @@
 #EXTVLCOPT:#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b3841d4a390726e49ebeedaf405aa7:0db07a6a4009b6739e758839c7d1d347
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17674_stream.mpd?hdntl=exp=1724774073~acl=%2f*~id=164700585~data=hdntl~hmac=dadd9e947ce3b24d862ee3729e23f7af9859f329f184e1e553ea8afbd2557039
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",VOLY SEA V LEAGUE
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -35,7 +35,7 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17674_strea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab1a571443d3fafdf88fd137748dbb1:7e1e8933ad8057deef88738abd9ac0ff
-https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/17622_stream.mpd?hdntl=exp=1724760269~acl=%2f*~id=164700585~data=hdntl~hmac=db34462096a2a6ed0a83c8f02b6eb8e63e611fb589691d28e95ad8c81cb157e2
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",OLIMPIADE
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -358,28 +358,23 @@ http://iptvtree.net:8080/AmirBilali/76448035/298550
 
 LIVE BADMINTON
 ======================
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆"​, COURT 1
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 2
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 3
-
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆"​, KOREA 1
+https://lebo.huminbird.cn/live/ballbar_30070.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", KOREA 2
+https://lebo.huminbird.cn/live/ballbar_27490.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", KOREA 3
+https://lebo.huminbird.cn/live/ballbar_31340.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 4
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=
-#EXTVLCOPT:http-host=https://lebo.huminbird.cn
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://halutv1.blogspot.com
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆"​, LINK 1
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆", LINK 2
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆", LINK 3
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆", LINK 4
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆"​, INDO 1
+https://lebo.huminbird.cn/live/ballbar_36370.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆", INDO 2
+https://lebo.huminbird.cn/live/ballbar_31080.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆", INDO 3
+https://lebo.huminbird.cn/live/ballbar_31050.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆", INDO 4
+https://lebo.huminbird.cn/live/ballbar_28310.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="🏆LIVE BADMINTON🏆",SPORTSTAR 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
