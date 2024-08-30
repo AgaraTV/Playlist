@@ -370,13 +370,13 @@ https://mobilelive-ds.ysp.cctv.cn/2024776301_hd.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆"​, INDO 1
-https://lebo.huminbird.cn/live/ballbar_36370.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆", INDO 2
-https://lebo.huminbird.cn/live/ballbar_31080.m3u8
+https://lebo.huminbird.cn/live/ballbar_21570.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆", INDO 3
-https://lebo.huminbird.cn/live/ballbar_31050.m3u8
+https://lebo.huminbird.cn/live/ballbar_18550.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆", INDO 4
-https://lebo.huminbird.cn/live/ballbar_28310.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="🏆LIVE BADMINTON🏆",SPORTSTAR 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
