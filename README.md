@@ -9,12 +9,12 @@
 |referer=https://ben.quietlywheat23.shop/
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U17
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U19
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96b3841d4a390726e49ebeedaf405aa7:0db07a6a4009b6739e758839c7d1d347
-
+#KODIPROP:inputstream.adaptive.license_key=d4c19ed9fa1286d532cdd8b3225be6b2:b0f85a36664e01f3ebda61f31ebf7203
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/17701_stream.mpd?hdntl=exp=1725000180~acl=%2f*~id=164700585~data=hdntl~hmac=89e113ca1e5095203a2af38549b4a8d38ff8f67dc8501fb6adbdbfdae274aaa8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",VOLY SEA V LEAGUE
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
