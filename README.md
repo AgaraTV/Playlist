@@ -359,11 +359,13 @@ http://iptvtree.net:8080/AmirBilali/76448035/298550
 LIVE BADMINTON
 ======================
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆"​, KOREA 1
-https://lebo.huminbird.cn/live/ballbar_30070.m3u8
+
+https://mobilelive-ds.ysp.cctv.cn/2024776101_hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", KOREA 2
-https://lebo.huminbird.cn/live/ballbar_27490.m3u8
+
+https://mobilelive-ds.ysp.cctv.cn/2024776201_hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", KOREA 3
-https://lebo.huminbird.cn/live/ballbar_31340.m3u8
+https://mobilelive-ds.ysp.cctv.cn/2024776301_hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 4
 
 
