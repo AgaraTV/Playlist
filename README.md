@@ -437,13 +437,13 @@ PRO LIGA
 LIVE BADMINTON
 ======================
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆"​, KOREA 1
-https://mobilelive-ds.ysp.cctv.cn/2024765901_hd.m3u8
+https://lebo.huminbird.cn/live/ballbar_36370.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", KOREA 2
-https://mobilelive-ds.ysp.cctv.cn/2024765901.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", KOREA 3
-https://mobilelive-ds.ysp.cctv.cn/2024775401.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 4
 
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", KOREA 3
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 4
+https://lebo.huminbird.cn/live/ballbar_33690.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆"​, INDO 1
 https://lebo.huminbird.cn/live/ballbar_39820.m3u8
