@@ -123,6 +123,16 @@ http://ktpremium.xyz:2095/yv2268/22681081/73606
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
+#EXTINF:-1 group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##" tvg-id="" tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/Timnasday.jpg",7
+https://lebo.huminbird.cn/live/ballbar_23170.m3u8
+
+#EXTINF:-1 group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##" tvg-id="" tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/Timnasday.jpg",8
+https://lebo.huminbird.cn/live/ballbar_38100.m3u8
+
+#EXTINF:-1 group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##" tvg-id="" tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/Timnasday.jpg",9
+
+#EXTINF:-1 group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##" tvg-id="" tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/Timnasday.jpg",10
+
 
 LOKAL
 ===============
