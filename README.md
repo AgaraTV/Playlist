@@ -69,10 +69,6 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ac4dc759e34a5043ddbd676e90f3ebe:4fc6cea5ca78fb091ccb8fd8997f5334
 
-TIMNAS
-====================
-
-
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/fnb1LKx/images-4.jpg" group-title="🚩FRIENDLY MATCH🚩",Live 1
 
@@ -124,6 +120,7 @@ http://ktpremium.xyz:2095/yv2268/22681081/73606
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rplus/drm.php?id=113
 https://dusk.biz.id/rplus/index.mpd?id=113
+
 
 
 
