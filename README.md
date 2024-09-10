@@ -37,11 +37,12 @@ https://lebo.huminbird.cn/live/ballbar_25120.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4ab1a571443d3fafdf88fd137748dbb1:7e1e8933ad8057deef88738abd9ac0ff
 https://lebo.huminbird.cn/live/ballbar_23170.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",OLIMPIADE
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",INDONESIA VS AUSTRALIA 2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=084cd1aa5dd05cf4c0f3a880b3ff95b1:135b870c19388b66083c985b85fa0a4b
+https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/Azam3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",BADMINTON 1
