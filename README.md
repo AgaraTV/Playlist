@@ -1,11 +1,472 @@
 # Playlist
 
-#EXTINF:-1 group-title="KUALIFIKASI PILDUN" tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif", TANAH AIRKU
-https://www.dropbox.com/scl/fi/qe6lrtu377w639yit1ktp/MERINDING...MOMENT-SAKRAL-RIBUAN-SUPORTER-MENYANYIKAN-LAGU-TANAH-AIRKU-USAI-INDONESIA-VS-AUSTRALIA.mp4?rlkey=wxw62xrh6ihd5bnegdhoa6iny&st=krlsvv3x&dl=1
- 
-#EXTINF:-1 group-title="KUALIFIKASI PILDUN" tvg-name="Live Event" tvg-country="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif", BERKIBARLAH BENDERAKU
-https://www.dropbox.com/scl/fi/x8aha5oee4fsiplh2kcme/berkibarlah-bendera.mp4?rlkey=doquh9701898e3he7kldq2w71&st=5p2wkuh5&dl=1       
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 01:00 - Axel Drogson VS Werder Bremen SV
+https://lebo.huminbird.cn/live/ballbar_28200.m3u8
 
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="basketball",12 Sep 01:00 - Egypt U18 Women's Basketball VS Nigeria U18 Women's Basketball
+https://lebo.huminbird.cn/live/ballbar_36340.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="baseball",12 Sep 01:10 - Chicago White Sox VS Cleveland Guardians
+https://lebo.huminbird.cn/live/ballbar_24540.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 01:15 - Zliniski VS Shrogadobo
+https://lebo.huminbird.cn/live/ballbar_24880.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 01:30 - Long Island University VS Quinnipiac University
+https://lebo.huminbird.cn/live/ballbar_37660.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="sports",12 Sep 01:45 - Paris Saint-Germain VS Pelister
+https://lebo.huminbird.cn/live/ballbar_34720.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="sports",12 Sep 01:45 - Sporting CP VS Plock Warsaw
+https://lebo.huminbird.cn/live/ballbar_32880.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="tennis",12 Sep 02:00 - Guadalajara Open – AKRON Stadium
+https://lebo.huminbird.cn/live/ballbar_19760.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="tennis",12 Sep 02:30 - Guadalajara Open - Grandstand Venue
+https://lebo.huminbird.cn/live/ballbar_16020.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 03:00 - Quindio VS Baricula
+https://lebo.huminbird.cn/live/ballbar_32000.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 03:00 - EXPANSION
+https://lebo.huminbird.cn/live/ballbar_30390.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 03:00 - Lowell River Eagles vs. Massachusetts State University
+https://lebo.huminbird.cn/live/ballbar_23490.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 03:00 - Central Michigan VS Fort Wayne
+https://lebo.huminbird.cn/live/ballbar_37530.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 03:00 - South Carolina Garrison College vs. Stanson University
+https://lebo.huminbird.cn/live/ballbar_36290.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 03:00 - University of Delaware State VS Iona
+https://lebo.huminbird.cn/live/ballbar_36560.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 04:00 - Kiakaba VS Lani Rose
+https://lebo.huminbird.cn/live/ballbar_29940.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 04:00 - Maddalena United VS Soacha
+https://lebo.huminbird.cn/live/ballbar_39530.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 04:30 - Brazil VS Cameroon
+https://lebo.huminbird.cn/live/ballbar_36790.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 04:30 - Spain VS Canada
+https://lebo.huminbird.cn/live/ballbar_35170.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 05:00 - Internacional VS Fortaleza
+https://lebo.huminbird.cn/live/ballbar_32820.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 05:00 - Internacional VS Fortaleza
+https://lebo.huminbird.cn/live/ballbar_21600.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 05:00 - Columbia (USA) VS Manhattan
+https://lebo.huminbird.cn/live/ballbar_33220.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 05:30 - Forman vs. Davidson College
+https://lebo.huminbird.cn/live/ballbar_26000.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 06:00 - Forward Madison vs. Charlotte Independence
+https://lebo.huminbird.cn/live/ballbar_9700.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 06:00 - Cali America vs Tolima
+https://lebo.huminbird.cn/live/ballbar_38430.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 06:00 - Medellín Independiente VS Barranquilla Youth
+https://lebo.huminbird.cn/live/ballbar_39190.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 06:00 - IU East vs. Fort Wayne
+https://lebo.huminbird.cn/live/ballbar_38350.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 06:00 - East Tennessee State vs. High Point
+https://lebo.huminbird.cn/live/ballbar_30440.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 06:00 - University of Central Florida VFlorida International University
+https://lebo.huminbird.cn/live/ballbar_35380.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 06:00 - Canisius vs. St. Bonaventure University
+https://lebo.huminbird.cn/live/ballbar_35900.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="basketball",12 Sep 06:00 - Indiana Fever VS Vegas Aces
+https://lebo.huminbird.cn/live/ballbar_33250.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="basketball",12 Sep 06:00 - Las Vegas Aces VS Indiana Fever
+https://lebo.huminbird.cn/live/ballbar_12370.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 07:00 - Birmingham Legion VS Temple Bay Thugs
+https://lebo.huminbird.cn/live/ballbar_28450.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 07:00 - Memphis 901 VS Hartford Athletic
+https://lebo.huminbird.cn/live/ballbar_26280.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 07:00 - Memphis 901 VS Hartford Athletic
+https://lebo.huminbird.cn/live/ballbar_8300.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="basketball",12 Sep 07:00 - Washington Mystics VS Chicago Sky
+https://lebo.huminbird.cn/live/ballbar_9120.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="basketball",12 Sep 07:00 - Chicago Sky vs Washington Mystics
+https://lebo.huminbird.cn/live/ballbar_33300.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 07:30 - FC Tausha VS Las Vegas Lights
+https://lebo.huminbird.cn/live/ballbar_6660.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 07:30 - FC Tausha VS Las Vegas Lights
+https://lebo.huminbird.cn/live/ballbar_37500.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 07:30 - Caldagona VS Atlético Cali
+https://lebo.huminbird.cn/live/ballbar_40250.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 08:00 - Northern Colorado vs Union Omaha
+https://lebo.huminbird.cn/live/ballbar_11030.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 08:00 - Colombia VS South Korea
+https://lebo.huminbird.cn/live/ballbar_35120.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 08:00 - Mexico VS United States
+https://lebo.huminbird.cn/live/ballbar_16850.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="badminton",12 Sep 08:00 - Hong Kong Open – Court 1
+https://lebo.huminbird.cn/live/ballbar_29890.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="badminton",12 Sep 08:00 - Hong Kong Open – Court 2
+https://lebo.huminbird.cn/live/ballbar_30020.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="badminton",12 Sep 08:00 - Hong Kong Open – Court 3
+https://lebo.huminbird.cn/live/ballbar_32010.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="baseball",12 Sep 08:40 - Seattle Mariners VS San Diego Padres
+https://lebo.huminbird.cn/live/ballbar_28350.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 09:00 - University of Nevada, Las Vegas VS California State University, Bakersfield
+https://lebo.huminbird.cn/live/ballbar_29400.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 09:00 - California State University Northridge VS California Baptist University
+https://lebo.huminbird.cn/live/ballbar_27450.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="basketball",12 Sep 09:00 - Los Angeles Sparks VS Seattle Storm
+https://lebo.huminbird.cn/live/ballbar_37370.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="basketball",12 Sep 09:00 - Seattle Storm VS Los Angeles Sparks
+https://lebo.huminbird.cn/live/ballbar_34620.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="table tennis",12 Sep 11:30 - WTT men's and women's singles 1/8 finals
+https://lebo.huminbird.cn/live/ballbar_35940.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="table tennis",12 Sep 11:30 - World Table Tennis Federation Championship - Macau, China 1/8 Finals
+https://lebo.huminbird.cn/live/ballbar_30280.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="comprehensive",12 Sep 12:30 - The 10th Yingshi Cup World Professional Go Championship
+https://lebo.huminbird.cn/live/ballbar_38590.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="comprehensive",12 Sep 12:30 - The 10th Yingshi Cup World Professional Go Championship
+https://lebo.huminbird.cn/live/ballbar_38770.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="comprehensive",12 Sep 12:30 - The 10th Yingshi Cup World Professional Go Championship
+https://lebo.huminbird.cn/live/ballbar_39010.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="comprehensive",12 Sep 12:30 - The 10th Yingshi Cup World Professional Go Championship
+https://lebo.huminbird.cn/live/ballbar_39070.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="badminton",12 Sep 13:00 - Vietnam Open - Court 1
+https://lebo.huminbird.cn/live/ballbar_28260.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="badminton",12 Sep 13:00 - Vietnam Open - Court 2
+https://lebo.huminbird.cn/live/ballbar_11760.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="badminton",12 Sep 13:00 - Vietnam Open - Court 3
+https://lebo.huminbird.cn/live/ballbar_22360.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="badminton",12 Sep 13:00 - Vietnam Open - Court 4
+https://lebo.huminbird.cn/live/ballbar_29320.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 14:00 - Denmark (Beach) VS Czech Republic (Beach)
+https://lebo.huminbird.cn/live/ballbar_19730.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="tennis",12 Sep 14:30 - Bucharest Open - Center Court
+https://lebo.huminbird.cn/live/ballbar_38010.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 15:15 - Belarus (beach) VS France (beach)
+https://lebo.huminbird.cn/live/ballbar_38090.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 15:30 - Slimane VS Pushamania Borneo
+https://lebo.huminbird.cn/live/ballbar_28840.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 15:30 - Slimane VS Pushamania Borneo
+https://lebo.huminbird.cn/live/ballbar_28150.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="tennis",12 Sep 15:30 - Slovenia Ljubljana Open – Court 1
+https://lebo.huminbird.cn/live/ballbar_37450.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="tennis",12 Sep 15:30 - Slovenia Ljubljana Open - Center Court
+https://lebo.huminbird.cn/live/ballbar_33910.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="tennis",12 Sep 16:00 - Bucharest Open - C10
+https://lebo.huminbird.cn/live/ballbar_31420.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="Snooker",12 Sep 16:00 - British Open Qualifying - Table 1
+https://lebo.huminbird.cn/live/ballbar_11390.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="snooker",12 Sep 16:00 - British Open Qualifying - Table 2
+https://lebo.huminbird.cn/live/ballbar_9060.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="basketball",12 Sep 16:05 - NBA G United VS Quemsa
+https://lebo.huminbird.cn/live/ballbar_15790.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 16:30 - Adelaide United VS Western Sydney Wanderers
+https://lebo.huminbird.cn/live/ballbar_14850.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 16:30 - Zaporozhymita Road VS Kharkiv Metallurgy 1925
+https://lebo.huminbird.cn/live/ballbar_25510.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 17:00 - Hwacheon KSPO Women's Football Team VS Incheon Hyundai Steel Women's Football Team
+https://lebo.huminbird.cn/live/ballbar_18850.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 17:00 - Gyeongju FC Women's Football Team VS Changnyeong Women's Football Team
+https://lebo.huminbird.cn/live/ballbar_17500.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 17:00 - Suwon FMC Women's Football Team VS Mungyeong Sangmu Women's Football Team
+https://lebo.huminbird.cn/live/ballbar_16910.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 17:00 - Seoul City Women’s Football Team VS Sejong Women’s Football Team
+https://lebo.huminbird.cn/live/ballbar_38110.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 17:00 - Oberon(U21) VS Alessandria(U21)
+https://lebo.huminbird.cn/live/ballbar_14930.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="sports",12 Sep 17:05 - Men's Hockey Asian Champions Cup-Pakistan-China-Group single round-robin
+https://lebo.huminbird.cn/live/ballbar_30950.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 17:30 - Karakokan VS Bingolspor
+https://lebo.huminbird.cn/live/ballbar_32340.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="table tennis",12 Sep 17:30 - World Table Tennis Federation Championship - Macau, China 1/8 Finals
+https://lebo.huminbird.cn/live/ballbar_32540.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 17:45 - Germany (Beach) VS Estonia (Beach)
+https://lebo.huminbird.cn/live/ballbar_9210.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 18:00 - Shymkent Women VS Odabas Women
+https://lebo.huminbird.cn/live/ballbar_35030.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 18:00 - Asia West Turkestan VS Kairat Almaty B Team
+https://lebo.huminbird.cn/live/ballbar_34940.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 18:00 - Oakenham Teps VS Ekibastuzi
+https://lebo.huminbird.cn/live/ballbar_35840.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="puck",12 Sep 18:00 - Omsk Eagles VS Chelyabinsk White Bears
+https://lebo.huminbird.cn/live/ballbar_24850.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 18:30 - Port Lions VS Buriram United
+https://lebo.huminbird.cn/live/ballbar_29570.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 19:00 - Bakrumfo VS Pesiga Jakarta
+https://lebo.huminbird.cn/live/ballbar_26270.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 19:00 - Moldova (beach) VS Switzerland (beach)
+https://lebo.huminbird.cn/live/ballbar_10100.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="basketball",12 Sep 19:05 - Luanda Petroleum VS Unicaha
+https://lebo.huminbird.cn/live/ballbar_9410.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 19:30 - Defai Agsu VS Hibs
+https://lebo.huminbird.cn/live/ballbar_22380.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 20:00 - Beluyu Vitaspor VS Bursaspor
+https://lebo.huminbird.cn/live/ballbar_5380.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 20:00 - Torres VS Kasbi Aktau
+https://lebo.huminbird.cn/live/ballbar_31790.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="puck",12 Sep 20:00 - Morlot VS Снежные Барсы
+https://lebo.huminbird.cn/live/ballbar_39090.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 20:30 - Portugal (beach) VS Poland (beach)
+https://lebo.huminbird.cn/live/ballbar_23420.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 21:00 - Mirmogan VS Bakuspor
+https://lebo.huminbird.cn/live/ballbar_19860.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="basketball",12 Sep 21:00 - Zenit St. Petersburg VS Besiktas
+https://lebo.huminbird.cn/live/ballbar_22490.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="puck",12 Sep 21:30 - Tyumen Legion VS Krasnoyarsk Lynx
+https://lebo.huminbird.cn/live/ballbar_22810.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="tennis",12 Sep 22:00 - Tunisia Monastir Open – Court 1
+https://lebo.huminbird.cn/live/ballbar_9300.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="tennis",12 Sep 22:00 - Tunisia Monastir Open – Court 2
+https://lebo.huminbird.cn/live/ballbar_40080.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="tennis",12 Sep 22:00 - Tunisia Monastir Open - Center Court
+https://lebo.huminbird.cn/live/ballbar_17680.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 22:30 - TPS. Turku VS Jeep
+https://lebo.huminbird.cn/live/ballbar_13230.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",12 Sep 23:00 - Italy (beach) VS Spain (beach)
+https://lebo.huminbird.cn/live/ballbar_29640.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="puck",12 Sep 23:00 - АКМ-Новомосковск VS Lokomotiv Yaroslavl Teens-76
+https://lebo.huminbird.cn/live/ballbar_25240.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="puck",12 Sep 23:30 - SKA VS Traktor
+https://lebo.huminbird.cn/live/ballbar_19980.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="puck",12 Sep 23:30 - Punks Vilnius VS Energija Elektrenai
+https://lebo.huminbird.cn/live/ballbar_19810.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="sports",12 Sep 23:45 - Szeged VS Magdeburg
+https://lebo.huminbird.cn/live/ballbar_24940.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="sports",12 Sep 23:45 - Dinamo Bucharest VS Fredericia
+https://lebo.huminbird.cn/live/ballbar_27690.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="basketball",13 Sep 00:00 - CSKA Moscow VS Red Star Belgrade
+https://lebo.huminbird.cn/live/ballbar_20070.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="baseball",13 Sep 00:00 - St. Louis VS Cincinnati
+https://lebo.huminbird.cn/live/ballbar_30460.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="baseball",13 Sep 00:15 - St. Louis Cardinals VS Cincinnati Reds
+https://lebo.huminbird.cn/live/ballbar_40660.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="baseball",13 Sep 01:10 - Houston Astros VS Oakland Athletics
+https://lebo.huminbird.cn/live/ballbar_30770.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="sports",13 Sep 01:45 - Kiel VS RK Zagreb
+https://lebo.huminbird.cn/live/ballbar_21910.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="sports",13 Sep 01:45 - Berlin VS Veszprem
+https://lebo.huminbird.cn/live/ballbar_17760.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 02:00 - Harrogate v Doncaster
+https://lebo.huminbird.cn/live/ballbar_5680.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 02:00 - Harrogate v Doncaster
+https://lebo.huminbird.cn/live/ballbar_22750.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 02:00 - Harrogate v Doncaster
+https://lebo.huminbird.cn/live/ballbar_26850.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="tennis",13 Sep 02:00 - Guadalajara Open – AKRON Stadium
+https://lebo.huminbird.cn/live/ballbar_16140.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 03:00 - Virginia Military Institute vs. Presbyterian Church
+https://lebo.huminbird.cn/live/ballbar_19250.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 04:30 - Germany VS Argentina
+https://lebo.huminbird.cn/live/ballbar_14520.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 04:30 - North Korea VS Austria
+https://lebo.huminbird.cn/live/ballbar_11400.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="tennis",13 Sep 05:00 - Guadalajara Open - Grandstand Venue
+https://lebo.huminbird.cn/live/ballbar_12140.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 06:00 - Parry VS Gabriel
+https://lebo.huminbird.cn/live/ballbar_6690.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 06:00 - San Francisco vs Cal State Sacramento
+https://lebo.huminbird.cn/live/ballbar_34170.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 06:00 - San Francisco vs Cal State Sacramento
+https://lebo.huminbird.cn/live/ballbar_24270.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 06:00 - Edwardsville University vs. Memphis Virginia
+https://lebo.huminbird.cn/live/ballbar_21960.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 06:30 - Jacksonville University vs Rio Grande Valley
+https://lebo.huminbird.cn/live/ballbar_36900.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 07:00 - University of California, Davis vs. Saint Mary's University
+https://lebo.huminbird.cn/live/ballbar_33070.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="basketball",13 Sep 07:00 - New York Liberty VS Dallas Wings
+https://lebo.huminbird.cn/live/ballbar_16880.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="basketball",13 Sep 07:00 - Dallas Pegasus VS New York Liberty
+https://lebo.huminbird.cn/live/ballbar_10660.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 07:30 - Pereira vs Alianza
+https://lebo.huminbird.cn/live/ballbar_37620.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 07:30 - Loyola-Chicago VS Illinois-Chicago
+https://lebo.huminbird.cn/live/ballbar_36760.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 08:00 - Crecaminos VS Ohaka
+https://lebo.huminbird.cn/live/ballbar_36490.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 08:00 - Japan VS Nigeria
+https://lebo.huminbird.cn/live/ballbar_28590.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 08:00 - France VS Netherlands
+https://lebo.huminbird.cn/live/ballbar_17260.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="baseball",13 Sep 08:45 - San Francisco Giants VS Milwaukee Brewers
+https://lebo.huminbird.cn/live/ballbar_38290.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 09:00 - Gonzaga vs Seattle University
+https://lebo.huminbird.cn/live/ballbar_35770.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 09:30 - Grand Canyon vs Santa Clara University
+https://lebo.huminbird.cn/live/ballbar_33600.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="table tennis",13 Sep 11:30 - WTT men's and women's singles quarter-finals
+https://lebo.huminbird.cn/live/ballbar_35990.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="table tennis",13 Sep 11:30 - World Table Tennis Federation Championships - Macau, China Quarter-finals
+https://lebo.huminbird.cn/live/ballbar_35630.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 15:00 - Shakhtar Donetsk(U21) VS Karpati(U21)
+https://lebo.huminbird.cn/live/ballbar_20170.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="puck",13 Sep 15:00 - Morlot VS Снежные Барсы
+https://lebo.huminbird.cn/live/ballbar_26240.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 15:30 - Marut United VS Seman Padang
+https://lebo.huminbird.cn/live/ballbar_21260.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 16:00 - Injures(U21) VS Chanomos(U21)
+https://lebo.huminbird.cn/live/ballbar_30550.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="basketball",13 Sep 16:05 - Tasmanian Jack Ants VS Quamsa
+https://lebo.huminbird.cn/live/ballbar_16810.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="racing",13 Sep 16:30 - F1 Azerbaijan Grand Prix first practice session
+https://lebo.huminbird.cn/live/ballbar_38210.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 17:00 - Kawasaki Frontale VS Sandrock Tosu
+https://lebo.huminbird.cn/live/ballbar_28850.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 17:00 - Yokohama F. Marinos VS Kyoto Phoenix
+https://lebo.huminbird.cn/live/ballbar_28510.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 17:00 - Vissel Kobe VS Sakura Osaka
+https://lebo.huminbird.cn/live/ballbar_16360.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 17:00 - Vissel Kobe VS Sakura Osaka
+https://lebo.huminbird.cn/live/ballbar_29300.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 17:00 - Vissel Kobe VS Sakura Osaka
+https://lebo.huminbird.cn/live/ballbar_40550.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 17:00 - Zoya(U21) VS Dynamo Kiev(U21)
+https://lebo.huminbird.cn/live/ballbar_35300.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 17:30 - Gwangju FC VS Pohang Steelers
+https://lebo.huminbird.cn/live/ballbar_20760.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 17:30 - Ulsan HD VS Gangwon FC
+https://lebo.huminbird.cn/live/ballbar_23840.m3u8
+
+#EXTINF:-1 tvg-logo="https://resellers.wtvision.com/wp-content/uploads/sports_live.jpg" group-title="football",13 Sep 17:30 - Ulsan HD VS Gangwon FC
+https://lebo.huminbird.cn/live/ballbar_21830.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",CHINA VS ARAB SAUDI
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://ben.quietlywheat23.shop/
