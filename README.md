@@ -451,13 +451,13 @@ PRO LIGA
 LIVE BADMINTON
 ======================
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆"​,  1
-https://lebo.huminbird.cn/live/ballbar_18760.m3u8
+https://mobilelive-ds.ysp.cctv.cn/2024928601_hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  2
-https://lebo.huminbird.cn/live/ballbar_17070.m3u8
+https://mobilelive-ds.ysp.cctv.cn/2024928801_hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  3
-https://lebo.huminbird.cn/live/ballbar_38180.m3u8
+https://mobilelive-ds.ysp.cctv.cn/2024929001_hd.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  4
-https://lebo.huminbird.cn/live/ballbar_23910.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/Q7WM5q8/images-1.jpg" group-title="🏆LIVE BADMINTON🏆"​, INDO 1
 
