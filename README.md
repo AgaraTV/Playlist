@@ -120,22 +120,20 @@ http://ktpremium.xyz:2095/live/yv2268/22681081/73607.ts
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 http://ktpremium.xyz:2095/yv2268/22681081/73606
 
-#EXTINF:-1 group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##" tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/Timnasday.jpg" tvg-id="rcti.id" ,Sportstars 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/Timnasday.jpg" group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rplus/drm.php?id=113
+https://dusk.biz.id/rplus/index.mpd?id=113
 
-#EXTINF:-1 group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##" tvg-id="" tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/Timnasday.jpg",7
-https://lebo.huminbird.cn/live/ballbar_23170.m3u8
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9LJj5XKhpuoD9Aa1ud963OLVYRuOJuM8Tfe1aKnf235nQHAhs0-2zjE&s=10"
+#EXTINF:0  group-title="VIDIOFREE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtek4f-4Lu-80nm55ZRqP9KepYjpxxRbtmJ1EwNvMl9WIqCE_cymgmUU0&s=10", Ajwa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://thedream.biz.id/indonesia/vidio.php?id=7464
+https://thedream.biz.id/indonesia/vidio.php?id=7464&=.m3u8
 
-#EXTINF:-1 group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##" tvg-id="" tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/Timnasday.jpg",8
-https://lebo.huminbird.cn/live/ballbar_38100.m3u8
-
-#EXTINF:-1 group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##" tvg-id="" tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/Timnasday.jpg",9
-
-#EXTINF:-1 group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##" tvg-id="" tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/Timnasday.jpg",10
 
 
 LOKAL
@@ -448,9 +446,9 @@ PRO LIGA
 LIVE BADMINTON
 ======================
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆"​,  1
-https://mobilelive-ds.ysp.cctv.cn/2024924101_hd.m3u8
+https://mobilelive-ds.ysp.cctv.cn/2024928701.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  2
-https://mobilelive-ds.ysp.cctv.cn/2024929801_hd.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  3
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  4
@@ -754,25 +752,13 @@ https://sritv.serv00.net/red/play.m3u8?id=205&type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://sritv.serv00.net/red/play.m3u8?id=206&type=hls
 
-#EXTINF:-1 group-title="PIDIO PLATINUM 1" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji HLS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sritv.serv00.net/red/play.mpd?id=206&type=hls
-
 #EXTINF:-1 group-title="PIDIO PLATINUM 1" tvg-logo="https://thumbor.prod.vidiocdn.com/XLhKDFI8G-sL8J2vVg5vHla7ovM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png", TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://sritv.serv00.net/red/play.m3u8?id=733&type=hls
 
-#EXTINF:-1 group-title="PIDIO PLATINUM 1" tvg-logo="https://thumbor.prod.vidiocdn.com/XLhKDFI8G-sL8J2vVg5vHla7ovM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png", TRANS TV HLS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sritv.serv00.net/red/play.mpd?id=733&type=hls
-
 #EXTINF:-1 group-title="PIDIO PLATINUM 1" tvg-logo="https://thumbor.prod.vidiocdn.com/U38BeE-y8dWcgQjBYMKY-Nfd_fg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png", Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://sritv.serv00.net/red/play.m3u8?id=734&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 1" tvg-logo="https://thumbor.prod.vidiocdn.com/U38BeE-y8dWcgQjBYMKY-Nfd_fg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png", Trans7 HLS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sritv.serv00.net/red/play.mpd?id=734&type=hls
 
 #EXTINF:-1 group-title="PIDIO PLATINUM 1" tvg-logo="https://thumbor.prod.vidiocdn.com/RIEYY6xRlnSBkwYl3ysbEDoCQmk=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png", TVOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1038,7 +1024,6 @@ https://sritv.serv00.net/red/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6299&type=drm
 https://sritv.serv00.net/red/play.mpd?id=6299&type=dash
 
-
 #EXTINF:0 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 1",Bein Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1071,13 +1056,13 @@ https://sritv.serv00.net/red/play.mpd?id=17638&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17639&type=drm
 https://sritv.serv00.net/red/play.mpd?id=17639&type=dash
 
-#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 1" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", V LEAGUE VOLLY
+#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 1"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzubKj6zVpOgQjYK3JsJAXt6Kxq1dfCHBNcg&usqp=CAU", V LEAGUE VOLLY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17637&type=drm
-https://sritv.serv00.net/red/play.mpd?id=17637&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17852&type=hls
+https://sritv.serv00.net/red/play.m3u8?id=17852&type=hls
 
 #EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 1" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", LIGA BRI LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1157,20 +1142,11 @@ https://gatotkaca007.serv00.net/red/play.m3u8?id=7464&type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=12607&type=hls
 https://gatotkaca007.serv00.net/red/play.m3u8?id=12607&type=hls
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzvFa290X6Yq2mMtxyw4qNLaXQNTyJ7UbKA&usqp=CAU" group-title="PIDIO PLATINUM 2" ,SCTV HLS
-#EXTVLCOPT:http-referrer=https://tvku.tsuchikage.my.id/  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://gatotkaca007.serv00.net/red/play.mpd?id=204&type=hls
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzvFa290X6Yq2mMtxyw4qNLaXQNTyJ7UbKA&usqp=CAU" group-title="PIDIO PLATINUM 2" ,SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://gatotkaca007.serv00.net/red/play.m3u8?id=204&type=hls
 
-#EXTINF:0   tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="PIDIO PLATINUM 2" ,INDOSIAR HLS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://gatotkaca007.serv00.net/red/play.mpd?id=205&type=hls
-
-#EXTINF:0   tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="PIDIO PLATINUM 2" , INDOSIAR MPD
+#EXTINF:0   tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="PIDIO PLATINUM 2" , INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://gatotkaca007.serv00.net/red/play.m3u8?id=205&type=hls
 
@@ -1186,25 +1162,13 @@ https://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://gatotkaca007.serv00.net/red/play.m3u8?id=206&type=hls
 
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji HLS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.mpd?id=206&type=hls
-
 #EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/XLhKDFI8G-sL8J2vVg5vHla7ovM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png", TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://gatotkaca007.serv00.net/red/play.m3u8?id=733&type=hls
 
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/XLhKDFI8G-sL8J2vVg5vHla7ovM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png", TRANS TV HLS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.mpd?id=733&type=hls
-
 #EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/U38BeE-y8dWcgQjBYMKY-Nfd_fg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png", Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://gatotkaca007.serv00.net/red/play.m3u8?id=734&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/U38BeE-y8dWcgQjBYMKY-Nfd_fg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png", Trans7 HLS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.mpd?id=734&type=hls
 
 #EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/RIEYY6xRlnSBkwYl3ysbEDoCQmk=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png", TVOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1503,13 +1467,13 @@ http://gatotkaca007.serv00.net/red/play.mpd?id=17638&type=dash
 #KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17639&type=drm
 http://gatotkaca007.serv00.net/red/play.mpd?id=17639&type=dash
 
-#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", V LEAGUE VOLLY
+#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzubKj6zVpOgQjYK3JsJAXt6Kxq1dfCHBNcg&usqp=CAU", V LEAGUE VOLLY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17637&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=17637&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17852&type=hls
+http://gatotkaca007.serv00.net/red/play.m3u8?id=17852&type=hls
 
 #EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", LIGA BRI LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1543,22 +1507,6 @@ http://gatotkaca007.serv00.net/red/play.mpd?id=17623&type=dash
 #KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17622&type=drm
 http://gatotkaca007.serv00.net/red/play.mpd?id=17622&type=dash
 
-#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", TIMNAS LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17674&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=17674&type=dash
-
-#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", TIMNAS LIVE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17701&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=17701&type=dash
-
 #EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", LIGA 2 PENGADAIAN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1574,8 +1522,47 @@ http://gatotkaca007.serv00.net/red/play.mpd?id=17759&type=dash
 #KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17761&type=drm
 http://gatotkaca007.serv00.net/red/play.mpd?id=17761&type=dash
 
+
+
+
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9LJj5XKhpuoD9Aa1ud963OLVYRuOJuM8Tfe1aKnf235nQHAhs0-2zjE&s=10"
-#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU", Liga 2 Pengadaian
+#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU", LIGA 1 BRI LIVE INDOSIAR 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=205&type=drm 
+https://chiva.my.id/sc/avid/play.mpd?id=205&type=dash
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9LJj5XKhpuoD9Aa1ud963OLVYRuOJuM8Tfe1aKnf235nQHAhs0-2zjE&s=10"
+#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU", LIGA 1 BRI LIVE 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17622&type=drm 
+https://chiva.my.id/sc/avid/play.mpd?id=17622&type=dash
+
+#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU", LIGA 1 BRI LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17623&type=drm 
+https://chiva.my.id/sc/avid/play.mpd?id=17623&type=dash
+#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU", LIGA 1 BRI LIVE 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17775&type=drm 
+https://chiva.my.id/sc/avid/play.mpd?id=17775&type=dash
+
+#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTne0brg9h8ZAoYOKo_9WQwO2R-FK9wq1TEQaTauCknHk9HbocrRJizHzU&s=10", Liga 2 Pengadaian LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1583,8 +1570,9 @@ http://gatotkaca007.serv00.net/red/play.mpd?id=17761&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17759&type=drm 
 https://chiva.my.id/sc/avid/play.mpd?id=17759&type=dash
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9LJj5XKhpuoD9Aa1ud963OLVYRuOJuM8Tfe1aKnf235nQHAhs0-2zjE&s=10"
-#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU", Liga 2 Pengadaian
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNw--cc21wFcJuNRAKMx4UD0oM_PZf14MTHg&s"
+
+#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTne0brg9h8ZAoYOKo_9WQwO2R-FK9wq1TEQaTauCknHk9HbocrRJizHzU&s=10", Liga 2 Pengadaian LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1593,6 +1581,15 @@ https://chiva.my.id/sc/avid/play.mpd?id=17759&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17761&type=drm 
 https://chiva.my.id/sc/avid/play.mpd?id=17761&type=dash
 
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9LJj5XKhpuoD9Aa1ud963OLVYRuOJuM8Tfe1aKnf235nQHAhs0-2zjE&s=10"
+#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzubKj6zVpOgQjYK3JsJAXt6Kxq1dfCHBNcg&usqp=CAU", VOLLY LIVE MOJI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17852&type=hls
+https://chiva.my.id/sc/avid/play.m3u8?id=17852&type=hls
 
 #EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://thumbor.prod.vidiocdn.com/fEnIWS90yBi4gKPhwkhOKgPsw-o=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png", Bein 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2166,6 +2163,7 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/mojiTV2
 https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/sctvTV.m3u8
 #EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gpfcx6hat3srcj3xsj8nhy9q.png" group-title="@EMTEK", SCTV 2
 https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/sctvTV2.m3u8
+
 
 
 
