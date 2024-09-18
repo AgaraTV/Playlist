@@ -396,11 +396,11 @@ PRO LIGA
 LIVE BADMINTON
 ======================
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆"​,  1
-https://ynzbpull2.nbxhth.cn/live/ballbar_31050.m3u8
+https://lebo.huminbird.cn/live/ballbar_31050.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  2
-https://ynzbpull2.nbxhth.cn/live/ballbar_28310.m3u8
+https://lebo.huminbird.cn/live/ballbar_28310.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  3
-https://ynzbpull2.nbxhth.cn/live/ballbar_33690.m3u8
+https://lebo.huminbird.cn/live/ballbar_33690.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  4
 
 
