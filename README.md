@@ -3,17 +3,12 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",FINAL BOLA PON 1
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",FINAL BOLA PON 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",OMAN VS KOREA
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -396,11 +391,11 @@ PRO LIGA
 LIVE BADMINTON
 ======================
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆"​,  1
-https://lebo.huminbird.cn/live/ballbar_31050.m3u8
+https://lebo.huminbird.cn/live/ballbar_31340.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  2
-https://lebo.huminbird.cn/live/ballbar_28310.m3u8
+https://lebo.huminbird.cn/live/ballbar_31080.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  3
-https://lebo.huminbird.cn/live/ballbar_33690.m3u8
+https://lebo.huminbird.cn/live/ballbar_17070.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  4
 
 
