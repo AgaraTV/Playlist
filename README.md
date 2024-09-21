@@ -558,128 +558,100 @@ LIGA INGGRIS
 ======================
 #EXTINF:-1 group-logo="https://assets.pikiran-rakyat.com/crop/352x34:3189x1852/x/photo/2022/02/24/1331208461.jpg" group-title="##🇬🇧LIGA INGGRIS🇬🇧##"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl1.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl2.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl3.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl4.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl5.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl5.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 6
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl6.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl6.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 7
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl7.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl7.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 8
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl8.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl8.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 9
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl9.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl9.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 10
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl10.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl10.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 11
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl11.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl11.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 12
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl12.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl12.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 13
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Inggris/B-inal22/eepl13.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl13.m3u8
 
-LIGA SPANYOL
-=====================================
 #EXTINF:-1 group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##"
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LALIGA 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/LaLiga/B-inal22/llaliga1.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/llaliga1.m3u8
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LALIGA 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/LaLiga/B-inal22/llaliga2.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/llaliga2.m3u8
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LALIGA 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/LaLiga/B-inal22/llaliga3.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/llaliga3.m3u8
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LALIGA 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/LaLiga/B-inal22/llaliga4.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/llaliga4.m3u8
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LALIGA 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/LaLiga/B-inal22/llaliga5.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/llaliga5.m3u8
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LALIGA 6
-https://raw.githubusercontent.com/B-inalm3u-Custom/LaLiga/B-inal22/llaliga6.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/llaliga6.m3u8
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LALIGA 7
-https://raw.githubusercontent.com/B-inalm3u-Custom/LaLiga/B-inal22/llaliga7.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/llaliga7.m3u8
 
-
-LIGA ITALIA
-============================================
 #EXTINF:-1 group-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2020/12/14/3409161941.jpg" group-title="##🇮🇹LIGA ITALIA🇮🇹##"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", SERIA 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Italia/B-inal22/lligaitali1.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/lligaitali1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", SERIA 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Italia/B-inal22/lligaitali2.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/lligaitali2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", SERIA 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Italia/B-inal22/lligaitali3.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/lligaitali3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", SERIA 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Italia/B-inal22/lligaitali4.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/lligaitali4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", SERIA 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Italia/B-inal22/lligaitali5.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/lligaitali5.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", SERIA 6
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Italia/B-inal22/lligaitali6.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/lligaitali6.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", SERIA 7
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Italia/B-inal22/lligaitali7.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/lligaitali7.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", SERIA 8
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Italia/B-inal22/lligaitali8.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/lligaitali8.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", SERIA 9
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Italia/B-inal22/lligaitali9.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/lligaitali9.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", SERIA 10
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Italia/B-inal22/lligaitali10.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/lligaitali10.m3u8
 
-
-LIGA FRANCIS
-==========================================================
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="⚽️LIGA PRANCIS⚽️",ARENA PREMIUM 2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="⚽️LIGA PRANCIS⚽️",BEIN SPORTS 1 TH
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="⚽️LIGA PRANCIS⚽️",TNT SPORT 1
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="⚽️LIGA PRANCIS⚽️",DIEMA SPORT 2
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="⚽️LIGA PRANCIS⚽️",DAZN ELEVEN 2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="⚽️LIGA PRANCIS⚽️",TNT SPORT 2
-
-LIGA GERMAN
-=====================================
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/Bundesliga_Logo_%282017%29.svg/1200px-Bundesliga_Logo_%282017%29.svg.png" group-title="##🇩🇪LIGA JERMAN🇩🇪##"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10" group-title="##🇩🇪LIGA JERMAN🇩🇪##", BUNDESLIGA 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Bundesliga/B-inal22/bbundesliga1.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/bbundesliga1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10" group-title="##🇩🇪LIGA JERMAN🇩🇪##", BUNDESLIGA 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Bundesliga/B-inal22/bbundesliga2.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/bbundesliga2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10" group-title="##🇩🇪LIGA JERMAN🇩🇪##", BUNDESLIGA 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Bundesliga/B-inal22/bbundesliga3.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/bbundesliga3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10" group-title="##🇩🇪LIGA JERMAN🇩🇪##", BUNDESLIGA 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/Bundesliga/B-inal22/bbundesliga4.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/bbundesliga4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10" group-title="##🇩🇪LIGA JERMAN🇩🇪##", BUNDESLIGA 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/Bundesliga/B-inal22/bbundesliga5.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/bbundesliga5.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10" group-title="##🇩🇪LIGA JERMAN🇩🇪##", BUNDESLIGA 6
-https://raw.githubusercontent.com/B-inalm3u-Custom/Bundesliga/B-inal22/bbundesliga6.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/bbundesliga6.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10" group-title="##🇩🇪LIGA JERMAN🇩🇪##", BUNDESLIGA 7
-https://raw.githubusercontent.com/B-inalm3u-Custom/Bundesliga/B-inal22/bbundesliga7.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/bbundesliga7.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10" group-title="##🇩🇪LIGA JERMAN🇩🇪##", BUNDESLIGA 8
-https://raw.githubusercontent.com/B-inalm3u-Custom/Bundesliga/B-inal22/bbundesliga8.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/bbundesliga8.m3u8
 
-
-
-
-LIGA BELANDA
-===================================================
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndjAB01pNaR--mwb7kbSAaRnOpCb7eFlshA&usqp=CAU" group-title="##🇱🇺LIGA BELANDA🇱🇺##",
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="##🇱🇺LIGA BELANDA🇱🇺##", EREDIVISIE 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Belanda/B-inal22/LigaBelanda1.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/LigaBelanda1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="##🇱🇺LIGA BELANDA🇱🇺##", EREDIVISIE 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Belanda/B-inal22/LigaBelanda2.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/LigaBelanda2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="##🇱🇺LIGA BELANDA🇱🇺##", EREDIVISIE 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Belanda/B-inal22/LigaBelanda3.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/LigaBelanda3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="##🇱🇺LIGA BELANDA🇱🇺##", EREDIVISIE 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Belanda/B-inal22/LigaBelanda4.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/LigaBelanda4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="##🇱🇺LIGA BELANDA🇱🇺##", EREDIVISIE 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Belanda/B-inal22/LigaBelanda5.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/LigaBelanda5.m3u8
 
 SAUDI PRO
 =============================================
@@ -749,6 +721,162 @@ FA Cup
 VIDIO
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9LJj5XKhpuoD9Aa1ud963OLVYRuOJuM8Tfe1aKnf235nQHAhs0-2zjE&s=10"
+#EXTINF:0  group-title="VIDIOFREE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtek4f-4Lu-80nm55ZRqP9KepYjpxxRbtmJ1EwNvMl9WIqCE_cymgmUU0&s=10", Ajwa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://thedream.biz.id/indonesia/vidio.php?id=7464
+https://thedream.biz.id/indonesia/vidio.php?id=7464&=.m3u8
+
+#EXTINF:0  group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/SpjuzVoKdUo7lxmN6URPI4QEvEQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12607/2c48ce.png", Tawaf TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://thedream.biz.id/indonesia/vidio.php?id=12607&=.m3u8
+https://thedream.biz.id/indonesia/vidio.php?id=12607&=.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzvFa290X6Yq2mMtxyw4qNLaXQNTyJ7UbKA&usqp=CAU" group-title="VIDIOFREE" ,SCTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=204&=.m3u8
+
+#EXTINF:0   tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="VIDIOFREE" , INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://thedream.biz.id/indonesia/vidio.php?id=205&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=206&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/XLhKDFI8G-sL8J2vVg5vHla7ovM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png", TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=733&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/U38BeE-y8dWcgQjBYMKY-Nfd_fg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png", Trans7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=734&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/RIEYY6xRlnSBkwYl3ysbEDoCQmk=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png", TVOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=783&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/ie0dsrnpCuMgM2ChvdnDkrAei90=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png", ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=782&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/L8ojsXDCSAn4TDoSJrqr8xqMRy8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png", Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=777&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png", Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=874&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/NEU5NOM51mtJVYE4bI4iP2bLSCs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png", RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=1561&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/CHQ7jG2pWgk7OSBt-Sw8ZK1MB9U=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png", TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=6441&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/DKANEUKIVCBG1x62TxXS33Tue0g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/a712b0.png", BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=6165&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/1z_3ZItS3609Ex_kO9iC_PXyIXw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png", NET TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=875&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/qyk6RzFNDnT8Nh103ZvffR88YWw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png", Jaktv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=5415&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/hidQqxmsKQvYJ4P5rkueZsbl__A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png", DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=6482&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/jRXTcft4R8nvv-MAtpXEyrSV7XU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png", Nusantara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=7432&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/4e5Dt47oZTCIE5dkUP2DwFl_bd8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png", JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=9713&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/tImFFkaMktXuC3K0WfZroQ_PDS0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/bfda90.png", JPM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=9714&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/7kJVJ57eVLHgT7sXJ-qPJi7HUC4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8815/f0c9f2.png", Metro Globe Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=8815&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/G8DFCpHw64-180V638Xfu0C0Zng=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png", MUSICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=7619&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/BElhAVy4Xfd3-YSehnRdSiGe1m4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png", Arirang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=6784&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/2Y97SNyJjIVnLM-XKkKyJOglFuU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8241/2d8b11.jpg", RANS Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=8241&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/7eHBnFC71jC6uTY8UKEGhnd77cc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png", Elshinta TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=10975&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/M86RraxZ0ZP4NnxvbwVBOCXaZ9M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg", Magna TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=7230&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/TYz1iEMEY8j8eVj7vKhHjk0xzyc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6410/6027db.png", Aljazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=6410&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/JdB3e-i8Ed6vVcdiQqbxoTB23c8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png", DW English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=5075&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/3rPJsyH0az_3cBgk1BvxRGBL7_0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/2de77e.png", ABC Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=7150&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/B4HwqUWN0oH-YMYGENNykOpyh0k=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/3f44ff.png", NHK World Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=67968&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/8EdLDy7Zwk9-_U5IWUefcLEm8eE=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/e600b8.jpg", News Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=6411&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/DCG-bJNyuLTksVHrqarPTAtwvco=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12784/b75a42.png", AFRICANEWS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=12784&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/gztJpm4gLtmc54mzORdCSFVOjgY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7687/b25cb7.jpg", SEA TODAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=7687&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/FsrcmE5ettOMsnfzELxgtPUGOHc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6412/c0e105.png", Euro News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=6412&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/mRMAbs0J1ALPfyniEi1L89cAqAA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7946/9e2b5e.jpg", TV Tempo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=7946&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png", Mentari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=8237&=.m3u8
+
+#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/NMGm2f1Xkhy916g4LPLB3wDGc5Y=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.png", Makkah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=6852&=.m3u8
+
+
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9LJj5XKhpuoD9Aa1ud963OLVYRuOJuM8Tfe1aKnf235nQHAhs0-2zjE&s=10"
 #EXTINF:0  group-title="PIDIO PLATINUM 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtek4f-4Lu-80nm55ZRqP9KepYjpxxRbtmJ1EwNvMl9WIqCE_cymgmUU0&s=10", Ajwa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -766,9 +894,17 @@ https://sritv.serv00.net/red/play.m3u8?id=12607&type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://sritv.serv00.net/red/play.m3u8?id=204&type=hls
 
-#EXTINF:0   tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="PIDIO PLATINUM 1" , INDOSIAR MPD
+#EXTINF:0   tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="PIDIO PLATINUM 1" , INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://sritv.serv00.net/red/play.m3u8?id=205&type=hls
+
+#EXTINF:0   tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="PIDIO PLATINUM 1" , INDOSIAR BRI LIGA LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=205&type=drm
+https://sritv.serv00.net/red/play.mpd?id=205&type=dash
 
 #EXTINF:-1 group-title="PIDIO PLATINUM 1" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1038,7 +1174,7 @@ https://sritv.serv00.net/red/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9183&type=drm
 https://sritv.serv00.net/red/play.mpd?id=9183&type=dash
 
-#EXTINF:0 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 1",Bein Sport 1
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VQ0QULfOdOZ0Rbd3y9uDlof1DqkP7m1qGg&usqp=CAU" group-title="PIDIO PLATINUM 1",Bein Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1046,7 +1182,15 @@ https://sritv.serv00.net/red/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6299&type=drm
 https://sritv.serv00.net/red/play.mpd?id=6299&type=dash
 
-#EXTINF:0 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 1",Bein Sport 3
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKXnNMVmKXzqVMcyuZL6WKlMbKNZIpk8JXx79TXRnAjikfFONErgWVR-e&s=10" group-title="PIDIO PLATINUM 1",Bein Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17875&type=drm
+https://sritv.serv00.net/red/play.mpd?id=17875&type=dash
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX2OGVc3AINEIQGhb0f10B4FPQX-VKjqgxfeg0xZ2RfYDOHmHgIfpDfQ_k&s=10" group-title="PIDIO PLATINUM 1",Bein Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1139,413 +1283,24 @@ https://sritv.serv00.net/red/play.mpd?id=17701&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17759&type=drm
-https://sritv.serv00.net/red/play.mpd?id=17759&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17759&type=hls
+https://sritv.serv00.net/red/play.m3u8?id=17759&type=hls
+
 #EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 1" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", LIGA 2 PENGADAIAN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17761&type=drm
-https://sritv.serv00.net/red/play.mpd?id=17761&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17760&type=hls
+https://sritv.serv00.net/red/play.m3u8?id=17760&type=hls
 
-
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9LJj5XKhpuoD9Aa1ud963OLVYRuOJuM8Tfe1aKnf235nQHAhs0-2zjE&s=10"
-#EXTINF:0  group-title="PIDIO PLATINUM 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtek4f-4Lu-80nm55ZRqP9KepYjpxxRbtmJ1EwNvMl9WIqCE_cymgmUU0&s=10", Ajwa TV
+#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 1" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", LIGA 2 PENGADAIAN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=7464&type=hls
-https://gatotkaca007.serv00.net/red/play.m3u8?id=7464&type=hls
-
-#EXTINF:0  group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/SpjuzVoKdUo7lxmN6URPI4QEvEQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12607/2c48ce.png", Tawaf TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=12607&type=hls
-https://gatotkaca007.serv00.net/red/play.m3u8?id=12607&type=hls
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzvFa290X6Yq2mMtxyw4qNLaXQNTyJ7UbKA&usqp=CAU" group-title="PIDIO PLATINUM 2" ,SCTV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=204&type=hls
-
-#EXTINF:0   tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="PIDIO PLATINUM 2" , INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://gatotkaca007.serv00.net/red/play.m3u8?id=205&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="PIDIO PLATINUM 2" , INDOSIAR BRI LIGA LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=206&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/XLhKDFI8G-sL8J2vVg5vHla7ovM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png", TRANS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=733&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/U38BeE-y8dWcgQjBYMKY-Nfd_fg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png", Trans7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=734&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/RIEYY6xRlnSBkwYl3ysbEDoCQmk=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png", TVOne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=783&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/ie0dsrnpCuMgM2ChvdnDkrAei90=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png", ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=782&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/L8ojsXDCSAn4TDoSJrqr8xqMRy8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png", Metro TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=777&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png", Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=874&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/NEU5NOM51mtJVYE4bI4iP2bLSCs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png", RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=1561&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/CHQ7jG2pWgk7OSBt-Sw8ZK1MB9U=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png", TVRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=6441&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/DKANEUKIVCBG1x62TxXS33Tue0g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/a712b0.png", BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=6165&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/1z_3ZItS3609Ex_kO9iC_PXyIXw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png", NET TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=875&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/qyk6RzFNDnT8Nh103ZvffR88YWw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png", Jaktv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=5415&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/hidQqxmsKQvYJ4P5rkueZsbl__A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png", DAAI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=6482&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/jRXTcft4R8nvv-MAtpXEyrSV7XU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png", Nusantara TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=7432&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/4e5Dt47oZTCIE5dkUP2DwFl_bd8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png", JTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=9713&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/tImFFkaMktXuC3K0WfZroQ_PDS0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/bfda90.png", JPM TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=9714&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/7kJVJ57eVLHgT7sXJ-qPJi7HUC4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8815/f0c9f2.png", Metro Globe Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=8815&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/iPxOdRXjFUTk-3ZAq4rIoM5509c=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6717/790cc9.png", NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6717&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=6717&type=dash
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/jWfO9AAKL03aw_crIUZztvDSd5o=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9353/a79dfe.png", Premier League TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=9353&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=9353&type=dash
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/oVgHHmQei40opkprWzG7erORTpc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png", TVN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6362type=hls
-https://gatotkaca007.serv00.net/red/play.m3u8?id=6362&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/G8DFCpHw64-180V638Xfu0C0Zng=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png", MUSICA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=7619&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/qFHtu3jH8fCY4AJeQJqavmV-3mg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6399/84f7c4.png", Zee Bioskop
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6399&type=hls
-https://gatotkaca007.serv00.net/red/play.m3u8?id=6399&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/SBA2A3aIpB-X9KqPXj5zr-QQQTQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6504/d227d2.png", Fashion TV Midnight Secrets
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6504&type=hls
-https://gatotkaca007.serv00.net/red/play.m3u8?id=6504&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/3iDA6RUopZay1BlEWBchTfy6kos=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png", Rock Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=8121&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=8121&type=dash
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/BElhAVy4Xfd3-YSehnRdSiGe1m4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png", Arirang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=6784&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/P5NhMEunwYyNqtqtuR7vYbnPC-0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6511/4dd1c5.png", Fashion TV - Global
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6511&type=hls
-https://gatotkaca007.serv00.net/red/play.m3u8?id=6511&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/z7T_dri_Hkip3IE3DzMyqykaRoA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8120/8d7f22.png", ROCK Entertainment
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=8120&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=8120&type=dash
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/vo4nX_9DXfkHYpd2gpeqFdHYu_w=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6507/d29206.png", FashionTV L'Original
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6507&type=hls
-https://gatotkaca007.serv00.net/red/play.m3u8?id=6507&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/2Y97SNyJjIVnLM-XKkKyJOglFuU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8241/2d8b11.jpg", RANS Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=8241&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/7eHBnFC71jC6uTY8UKEGhnd77cc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png", Elshinta TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=10975&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/M86RraxZ0ZP4NnxvbwVBOCXaZ9M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg", Magna TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=7230&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/TYz1iEMEY8j8eVj7vKhHjk0xzyc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6410/6027db.png", Aljazeera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=6410&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/JdB3e-i8Ed6vVcdiQqbxoTB23c8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png", DW English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=5075&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/3rPJsyH0az_3cBgk1BvxRGBL7_0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/2de77e.png", ABC Australia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=7150&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/B4HwqUWN0oH-YMYGENNykOpyh0k=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/3f44ff.png", NHK World Japan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=67968&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/8EdLDy7Zwk9-_U5IWUefcLEm8eE=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/e600b8.jpg", News Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=6411&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/DCG-bJNyuLTksVHrqarPTAtwvco=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12784/b75a42.png", AFRICANEWS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=12784&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/gztJpm4gLtmc54mzORdCSFVOjgY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7687/b25cb7.jpg", SEA TODAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=7687&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/FsrcmE5ettOMsnfzELxgtPUGOHc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6412/c0e105.png", Euro News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=6412&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/mRMAbs0J1ALPfyniEi1L89cAqAA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7946/9e2b5e.jpg", TV Tempo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=7946&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png", Mentari TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=8237&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/I6-4SXyxld-IPtEgXkXaHIOrw74=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png", Zoomoo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6533&type=hls
-https://gatotkaca007.serv00.net/red/play.m3u8?id=6533&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/-vUtTKf6ogRcvcjURJn62-m-eCU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png", Hip Hip Horee!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=7052&type=hls
-https://gatotkaca007.serv00.net/red/play.m3u8?id=7052&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/PQBfpwpTbQWZDJLLK5REbICdg-g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png", Horee
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6397&type=hls
-https://gatotkaca007.serv00.net/red/play.m3u8?id=6397&type=hls
-
-#EXTINF:-1 group-title="PIDIO PLATINUM 2" tvg-logo="https://thumbor.prod.vidiocdn.com/NMGm2f1Xkhy916g4LPLB3wDGc5Y=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.png", Makkah TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=6852&type=hls
-
-#EXTINF:0 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2",Champions 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=6685&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=6685&type=dash
-
-#EXTINF:0 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2",Champions 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=6686&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=6686&type=dash
-
-#EXTINF:0 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2",Champions 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=6786&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=6786&type=dash
-
-#EXTINF:0 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2",Champions 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=9182&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=9182&type=dash
-
-#EXTINF:0 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2",Champions 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=9183&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=9183&type=dash
-
-#EXTINF:0 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2",Bein Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=6299&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=6299&type=dash
-
-
-#EXTINF:0 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2",Bein Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=6317&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=6317&type=dash
-
-#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", CH7 EXTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17653&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=17653&type=dash
-
-#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", CH8 EXTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17638&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=17638&type=dash
-
-#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", CH9 EXTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17639&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=17639&type=dash
-
-#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzubKj6zVpOgQjYK3JsJAXt6Kxq1dfCHBNcg&usqp=CAU", V LEAGUE VOLLY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17852&type=hls
-http://gatotkaca007.serv00.net/red/play.m3u8?id=17852&type=hls
-
-#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", LIGA BRI LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
-
-#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", LIGA BRI LIVE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17624&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=17624&type=dash
-
-#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", LIGA BRI LIVE 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17623&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=17623&type=dash
-
-#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", LIGA BRI LIVE 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17622&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=17622&type=dash
-
-#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", LIGA 2 PENGADAIAN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17759&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=17759&type=dash
-#EXTINF:-1 group-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="PIDIO PLATINUM 2" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg", LIGA 2 PENGADAIAN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17761&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=17761&type=dash
-
-
-
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17859&type=hls
+https://sritv.serv00.net/red/play.m3u8?id=17859&type=hls
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9LJj5XKhpuoD9Aa1ud963OLVYRuOJuM8Tfe1aKnf235nQHAhs0-2zjE&s=10"
 #EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU", LIGA 1 BRI LIVE INDOSIAR 
@@ -1575,7 +1330,17 @@ https://chiva.my.id/sc/avid/play.mpd?id=17622&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17623&type=drm 
 https://chiva.my.id/sc/avid/play.mpd?id=17623&type=dash
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9LJj5XKhpuoD9Aa1ud963OLVYRuOJuM8Tfe1aKnf235nQHAhs0-2zjE&s=10"
 #EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU", LIGA 1 BRI LIVE 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17624&type=drm 
+https://chiva.my.id/sc/avid/play.mpd?id=17624&type=dash
+
+#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU", LIGA 1 BRI LIVE 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1590,9 +1355,8 @@ https://chiva.my.id/sc/avid/play.mpd?id=17775&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17759&type=drm 
-https://chiva.my.id/sc/avid/play.mpd?id=17759&type=dash
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNw--cc21wFcJuNRAKMx4UD0oM_PZf14MTHg&s"
+#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17759&type=hls
+https://chiva.my.id/sc/avid/play.m3u8?id=17759&type=hls
 
 #EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTne0brg9h8ZAoYOKo_9WQwO2R-FK9wq1TEQaTauCknHk9HbocrRJizHzU&s=10", Liga 2 Pengadaian LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1600,8 +1364,17 @@ https://chiva.my.id/sc/avid/play.mpd?id=17759&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17761&type=drm 
-https://chiva.my.id/sc/avid/play.mpd?id=17761&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17760&type=hls
+https://chiva.my.id/sc/avid/play.m3u8?id=17760&type=hls
+
+#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTne0brg9h8ZAoYOKo_9WQwO2R-FK9wq1TEQaTauCknHk9HbocrRJizHzU&s=10", Liga 2 Pengadaian LIVE 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17761&type=hls
+https://chiva.my.id/sc/avid/play.m3u8?id=17761&type=hls
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9LJj5XKhpuoD9Aa1ud963OLVYRuOJuM8Tfe1aKnf235nQHAhs0-2zjE&s=10"
 #EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzubKj6zVpOgQjYK3JsJAXt6Kxq1dfCHBNcg&usqp=CAU", VOLLY LIVE MOJI
@@ -1621,6 +1394,15 @@ https://chiva.my.id/sc/avid/play.m3u8?id=17852&type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=6299&type=drm 
 https://chiva.my.id/sc/avid/play.mpd?id=6299&type=dash
+
+#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_425_305", Bein 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17875&type=drm 
+https://chiva.my.id/sc/avid/play.mpd?id=17875&type=dash
 
 #EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://thumbor.prod.vidiocdn.com/c_w_GED5RwmvVMqOZXzRj1j9BLo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png", Bein 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2142,28 +1924,6 @@ https://chiva.my.id/sc/avid/play.m3u8?id=7188&type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://chiva.my.id/sc/avid/play.m3u8?id=7792&type=hls
-
-#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://thumbor.prod.vidiocdn.com/0xaSzqfoAn6o-Y71lP0OEySfF9Q=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7283/2bf8b0.png", SWARA SEMARANG
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://chiva.my.id/sc/avid/play.m3u8?id=7283&type=hls
-
-#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://thumbor.prod.vidiocdn.com/K28EwOI-fb9VtrxWR-_-FiJs5Q8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7450/2839cb.jpg", Most FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://chiva.my.id/sc/avid/play.m3u8?id=7450&type=hls
-
-#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://thumbor.prod.vidiocdn.com/ZJkMggi7WkrrBsVBBygut7UB0Ls=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9106/0287b9.png", CLASSY 103.4 FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://chiva.my.id/sc/avid/play.m3u8?id=9106&type=hls
-
-#EXTINF:-1 group-title="PIDIO DIAMOND" tvg-logo="https://thumbor.prod.vidiocdn.com/RzMcSnWD3Aqt43Tr5Dti-xnrDFw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7218/0454f1.png", Sushi Radio
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://chiva.my.id/sc/avid/play.m3u8?id=7218&type=hls
-
-
 
 
 EMTEK GRUB
