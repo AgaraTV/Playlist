@@ -36,13 +36,13 @@ http://abcnew.site:8880/TNwC28ZMED/aG9TWtVfqy/29392
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 12
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:10:3D:D7&stream=501422&extension=ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 13
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:10:3D:D7&stream=501424&extension=ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 14
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:10:3D:D7&stream=501415&extension=ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 15
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:75:D5:BC&stream=461174&extension=ts
@@ -66,22 +66,10 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/New-Bein/B-inal22/BeinSportEN
 https://raw.githubusercontent.com/B-inalm3u-Custom/New-Bein/B-inal22/BeinSportTOD6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 22
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/yv2268/22681081/913829
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 23
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/yv2268/22681081/913830
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 24
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/yv2268/22681081/913830
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 25
 https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Latin/B-inal22/FoxSportUS2.m3u8
