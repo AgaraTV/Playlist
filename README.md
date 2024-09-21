@@ -1,6 +1,1811 @@
 # Playlist
 
 
+   
+    "category": "football",
+    "match": "Sunderland VS Middlesbrough",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_22750.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Sunderland VS Middlesbrough",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_32230.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Sunderland VS Middlesbrough",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_6620.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Norwich VS Watford",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_15390.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Yunnan Yukun VS Qingdao Red Lions",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_17950.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Yunnan Yukun VS Qingdao Red Lions",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_21370.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Yunnan Yukun VS Qingdao Red Lions",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_19590.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Yunnan Yukun VS Qingdao Red Lions",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_23670.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Guangzhou VS Dalian Yingbo",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_18050.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Guangzhou Team VS Dalian Yingbo",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_22960.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Guangzhou Team VS Dalian Yingbo",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_21940.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Guangzhou Team VS Dalian Yingbo",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_23130.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Guangxi Pingguo Haruan VS Shanghai Jiading Huilong",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_20060.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Guangxi Pingguo Haruan VS Shanghai Jiading Huilong",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_22770.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Guangxi Pingguo Haruan VS Shanghai Jiading Huilong",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_21950.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Guangxi Pingguo Haruan VS Shanghai Jiading Huilong",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_30860.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Hradec VS Slovacko",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_15590.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Accrington vs Port Vale",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_37870.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Chatterfield VS Cheltenham",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_38600.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Nantong Haimen Kediyuan VS Guangxi Hengchen",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_40120.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Nantong Haimen Kediyuan VS Guangxi Hengchen",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_16200.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "DP Kanchanaburi VS Nakons United",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_31220.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Notodden VS Sutra",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_21280.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Jamshedpur VS Mumbai City",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_17740.m3u8"
+  },
+  {
+    "category": "basketball",
+    "match": "Beijing Enterprises VS Zhejiang Guangsha",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_18290.m3u8"
+  },
+  {
+    "category": "basketball",
+    "match": "Guangzhou Longshi VS Fujian Xunxing Shares",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_11430.m3u8"
+  },
+  {
+    "category": "basketball",
+    "match": "Zhejiang Chouzhou Financial Leasing VS Shanghai Jiushi",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_11880.m3u8"
+  },
+  {
+    "category": "basketball",
+    "match": "Liaoning Bengang VS Ningbo Dingwo",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_4880.m3u8"
+  },
+  {
+    "category": "basketball",
+    "match": "Hong Kong Golden Bulls VS Anhui Wenyi",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_16930.m3u8"
+  },
+  {
+    "category": "basketball",
+    "match": "Hong Kong Golden Bulls VS Anhui Wenyi",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_14540.m3u8"
+  },
+  {
+    "category": "basketball",
+    "match": "University of Canberra Women's Basketball VS Geelong United Women's Basketball",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_26090.m3u8"
+  },
+  {
+    "category": "basketball",
+    "match": "Penza Women's Basketball VS Chavakata Women's Basketball",
+    "time": "21 Sep 18:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_35330.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Shandong Taishan VS Wuhan Three Towns",
+    "time": "21 Sep 18:35",
+    "url": "https://lebo.huminbird.cn/live/ballbar_36160.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Shandong Taishan VS Wuhan Three Towns",
+    "time": "21 Sep 18:35",
+    "url": "https://lebo.huminbird.cn/live/ballbar_40220.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Shandong Taishan VS Wuhan Three Towns",
+    "time": "21 Sep 18:35",
+    "url": "https://lebo.huminbird.cn/live/ballbar_9360.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Henan VS Chengdu Chengdu",
+    "time": "21 Sep 18:35",
+    "url": "https://lebo.huminbird.cn/live/ballbar_18230.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Henan Jiuzu Dukang VS Chengdu Rongcheng",
+    "time": "21 Sep 18:35",
+    "url": "https://lebo.huminbird.cn/live/ballbar_37060.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Henan Jiuzu Dukang VS Chengdu Rongcheng",
+    "time": "21 Sep 18:35",
+    "url": "https://lebo.huminbird.cn/live/ballbar_8570.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Valladolid VS Real Sociedad",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_14320.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Valladolid VS Real Sociedad",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_5400.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Valladolid VS Real Sociedad",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_8370.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Valladolid VS Real Sociedad",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_23210.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Valladolid VS Real Sociedad",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_21250.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Ingolstadt VS Essen",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_12130.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Mannheim VS Osnabruck",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_27790.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Tresden VS Hansa Rostock",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_28470.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Cottbus VS Stuttgart Youth Team",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_32430.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Wein Wiesbaden VS Sandhausen",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_31100.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Shanghai Shenhua VS Tianjin Jinmen Tigers",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_21780.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Shanghai Shenhua VS Tianjin Jinmen Tigers",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_21020.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Shanghai Shenhua VS Tianjin Jinmen Tigers",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_37090.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Shanghai Shenhua VS Tianjin Jinmen Tigers",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_38410.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Shanghai Shenhua VS Tianjin Jinmen Tigers",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_31550.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Sokol Saratov VS Sochi",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_39200.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Sinlik VS Moscow Torpedo",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_39000.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Vilnius Investments VS Siauliai",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_23380.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Marut United VS Bali United",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_32180.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Ratchaburi VS Nakhon Ratchasima",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_38780.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Nasby VS Holbeek",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_23700.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Youngsters FD VS Brabland",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_28320.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "AB Glaisakse VS Skiff",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_17650.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Aarhus Fermat VS Frem",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_32960.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Nalchiksparta VS Angust Nazlan",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_38660.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Alanya B VS Biolog",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_38520.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Astrakhan VS Rostov B",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_34900.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Volochsk VS Episint",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_21170.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Union Newmanster VS Kyriakir",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_36780.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Stajorpoland VS Vigo",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_14910.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Stajorpoland VS Vigo",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_18200.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Osthun VS Asco",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_36850.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Oslo VS Esco",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_39280.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Fremlavik VS Sura",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_11570.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Wendebugart VS Vidal",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_10180.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Fana VS Fore Island",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_9770.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Fana VS Fore Island",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_26350.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Adar VS Fluler",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_13700.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Shankhaburi VS Trat",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_18630.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Bangkok FC VS Kasetsat Saudi Arabia",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_20550.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Atreyo VS Genis",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_36570.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Atreyo VS Genis",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_39180.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Rubick VS Harwells",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_20320.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Rubick VS Harwells",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_35700.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Buchbach VS Nuremberg B",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_20880.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Bombburg VS Ansbach",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_39630.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Dieusepoles Women VS Vitebsk Women",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_32080.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Amkar VS Ural B",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_39680.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Torpedo Zodino B VS Niva Dubizno",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_31710.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Gowcrane VS Grodd",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_31500.m3u8"
+  },
+  {
+    "category": "basketball",
+    "match": "Sichuan Jinqiang VS Qingdao Guoxin Aquatic Products",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_10800.m3u8"
+  },
+  {
+    "category": "basketball",
+    "match": "Midalug Chelyabinsk Women's Basketball Team VS Chelyabinsk Women's Basketball Team",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_33490.m3u8"
+  },
+  {
+    "category": "snooker",
+    "match": "Wu Yize VS Ishpreet Chadha",
+    "time": "21 Sep 19:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_18170.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Palak VS Kuala Lumpur City",
+    "time": "21 Sep 19:15",
+    "url": "https://lebo.huminbird.cn/live/ballbar_9060.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Austria Lustenau VS Sturm Graz Youth Team",
+    "time": "21 Sep 19:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_34830.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Metz VS Lorient",
+    "time": "21 Sep 19:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_10530.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Metz VS Lorient",
+    "time": "21 Sep 19:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_34280.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Alessandria VS Levibere",
+    "time": "21 Sep 19:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_34880.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Shalegski VS Koskmiti",
+    "time": "21 Sep 19:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_18110.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Poznań Warta VS Acre",
+    "time": "21 Sep 19:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_20690.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Warta Poznan VS Alka",
+    "time": "21 Sep 19:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_40460.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Libya VS Spain",
+    "time": "21 Sep 19:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_33160.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Kazakhstan VS New Zealand",
+    "time": "21 Sep 19:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_34110.m3u8"
+  },
+  {
+    "category": "basketball",
+    "match": "Spartak Moscow B Women’s Basketball Team VS Ivanovo Energy Women’s Basketball Team",
+    "time": "21 Sep 19:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_34140.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Georgian VS Georgia",
+    "time": "21 Sep 19:45",
+    "url": "https://lebo.huminbird.cn/live/ballbar_22800.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Georgian VS Georgia",
+    "time": "21 Sep 19:45",
+    "url": "https://lebo.huminbird.cn/live/ballbar_17220.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Georgian VS Georgia",
+    "time": "21 Sep 19:45",
+    "url": "https://lebo.huminbird.cn/live/ballbar_33720.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Venice VS Genoa",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_16860.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Venice VS Genoa",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_9150.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Venice VS Genoa",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_7260.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Venice VS Genoa",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_24650.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Kongsvinger VS Alesund",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_23280.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Kalmar VS AIK Solna",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_28070.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Palermo VS Cesena",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_25900.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Sampdoria VS Sudiro",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_24590.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Pisa VS Brescia",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_34810.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Cocenza VS Sassuolo",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_30050.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Reggiana VS Salernitana",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_27190.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Perdicersborg VS Genkler Bilig",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_33280.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Perdikasburg VS Genselbridge",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_20300.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Sukhothai VS Lamphun Warriors",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_8850.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Tralas VS Bablengas",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_17900.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Dacia Buccani VS Floresti",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_29270.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Lillestrom B VS Nadu",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_29260.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Keesdishint B VS Keeten",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_33850.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Bailsen VS Melhus",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_35720.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Skezmo VS Spartakavik",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_28390.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Sandfield B VS Madeira",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_30700.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Bjorklund VS Reddy",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_15630.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Sundar vs Okla",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_33640.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Feleg VS Bellum",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_37190.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Fedresta B VS Honjjos",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_15230.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Ludfjord VS Sandviken",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_14790.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Gedru VS Norderstedt",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_35740.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Lazhan Women VS Krasnodar Women",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_29680.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Rubin Kazan B VS Nizhtagil",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_31250.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Slonim VS Ostrowitz",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_35400.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Nisboreni VS Brave Eagles",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_34570.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Stucheni VS Drokia",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_9310.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Sashensedil VS Frakara",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_33710.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "ORN Houden VS Schiff",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_9140.m3u8"
+  },
+  {
+    "category": "racing",
+    "match": "2024 MotoGP Emilia Romagna Grand Prix Sprint",
+    "time": "21 Sep 20:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_37990.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Werder Bremen VS Bayern Munich",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_12740.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Werder Bremen VS Bayern Munich",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_24380.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Werder Bremen VS Bayern Munich",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_31010.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Werder Bremen VS Bayern Munich",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_36770.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Union Berlin VS Hoffenheim",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_27850.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Union Berlin VS Hoffenheim",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_7910.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Union Berlin VS Hoffenheim",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_37340.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Bochum VS Kiel",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_27830.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Bochum VS Kiel",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_21750.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Bochum VS Kiel",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_27320.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Heidenheim VS Freiburg",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_9180.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Heidenheim VS Freiburg",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_10750.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Heidenheim VS Freiburg",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_36810.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Zenit St. Petersburg VS Voronezh Torch",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_32510.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Sharjah VS Abu Dhabi Peninsula",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_22140.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "MTSV Hohenwestedt VS Eckernfurd",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_34530.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Hollenback vs Williengen Amateurs",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_39110.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Engels VS Diffelin",
+    "time": "21 Sep 20:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_31840.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Liverpool VS Bournemouth",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_26360.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Liverpool VS Bournemouth",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_16970.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Liverpool VS Bournemouth",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_22030.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Liverpool VS Bournemouth",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_15720.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Liverpool VS Bournemouth",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_8870.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Liverpool VS Bournemouth",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_9590.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Southampton VS Ipswich",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_24410.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Southampton VS Ipswich",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_20980.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Southampton VS Ipswich",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_37330.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Fulham VS Newcastle United",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_28800.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Fulham VS Newcastle United",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_12190.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Fulham VS Newcastle United",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_15350.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Tottenham Hotspur VS Brentford",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_28640.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Tottenham Hotspur VS Brentford",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_8320.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Tottenham Hotspur VS Brentford",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_37550.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Leicester City VS Everton",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_19680.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Leicester City VS Everton",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_10270.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Leicester City VS Everton",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_9870.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Aston Villa VS Wolves",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_11500.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Aston Villa VS Wolves",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_19140.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Aston Villa VS Wolves",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_36430.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Aston Villa VS Wolves",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_16460.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Wycombe Wanderers VS Cambridge United",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_20640.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Volos VS PAOK",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_35310.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "St Mirren VS Hearts",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_8580.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Ross County VS St Johnstone",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_6330.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Bierschot VS St. Trueden",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_39590.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Konyaspor VS Sivasspor",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_37940.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Burnley VS Portsmouth",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_39480.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Cardiff City VS Leeds United",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_22220.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Luton Town vs Sheffield Wednesday",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_10140.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Luton Town vs Sheffield Wednesday",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_40610.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Lanheim VS Moss",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_34950.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Liwenger VS Nojos",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_23090.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Blayney VS Valerenga",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_20680.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Starbeck VS Star",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_14650.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Sannes VS Sogndal",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_7000.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Asana VS Muyendalen",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_35420.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Kavina VS Jablonec",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_11960.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Teplis VS Ostrava",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_40060.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Stromgast VS Sarpsborg",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_36320.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Stromgast VS Sarpsborg",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_31470.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Tovuz VS Nakhchivan",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_40440.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Burroughs VS Newport County",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_34770.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Bradford VS AFC Wimbledon",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_10190.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Colchester United VS Tranmere",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_21290.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Braca Banja Luka VS Sarajevo",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_24880.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "FC Sevastopol VS Rubin Yalta",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_7940.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Dynamos Stavropol VS Ford Taganrog",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_14550.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Ufstind VS Splinter Jello",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_8610.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Almaty Kairat VS Kasarkyzylorda",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_6730.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Almaty Kairat VS Kasarkyzylorda",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_34650.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Sporting CP(U23) VS Estrela(U23)",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_39800.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Liers VS Eupen",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_39890.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Braga Women VS Damiens Women",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_10290.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Durian Women's Football Team VS Istoril Women's Football Team",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_29700.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Durian Women's Football Team VS Istoril Women's Football Team",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_30620.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Maritimo Women VS Valladares Women",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_28710.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Mohddan VS Goa",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_39230.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Slaven Rumah VS Ingea",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_40590.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Dubosica VS JAVOR-MATIS",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_36460.m3u8"
+  },
+  {
+    "category": "basketball",
+    "match": "Cheboksary Women's Basketball Team VS Kazan Kazanochka Women's Basketball Team",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_30090.m3u8"
+  },
+  {
+    "category": "sports",
+    "match": "Gloria Bistrița VS Krim",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_18820.m3u8"
+  },
+  {
+    "category": "sports",
+    "match": "Odense VS Buduknost",
+    "time": "21 Sep 21:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_21910.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Osasuna VS Las Palmas",
+    "time": "21 Sep 21:15",
+    "url": "https://lebo.huminbird.cn/live/ballbar_29930.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Osasuna VS Las Palmas",
+    "time": "21 Sep 21:15",
+    "url": "https://lebo.huminbird.cn/live/ballbar_37350.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Osasuna VS Las Palmas",
+    "time": "21 Sep 21:15",
+    "url": "https://lebo.huminbird.cn/live/ballbar_40400.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Osasuna VS Las Palmas",
+    "time": "21 Sep 21:15",
+    "url": "https://lebo.huminbird.cn/live/ballbar_15690.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Osasuna VS Las Palmas",
+    "time": "21 Sep 21:15",
+    "url": "https://lebo.huminbird.cn/live/ballbar_16330.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Ferrol Athletic VS Avacete",
+    "time": "21 Sep 21:15",
+    "url": "https://lebo.huminbird.cn/live/ballbar_31000.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Santa Clara VS Amadora",
+    "time": "21 Sep 21:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_27960.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Santa Clara VS Amadora",
+    "time": "21 Sep 21:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_22910.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Rio Ave VS Istoril",
+    "time": "21 Sep 21:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_40050.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Rio Ave VS Istoril",
+    "time": "21 Sep 21:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_17270.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Utrecht VS Willem II",
+    "time": "21 Sep 21:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_36220.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "CSKA Sofia VS Stara Zagorabello",
+    "time": "21 Sep 21:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_8350.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Camas VS Ural",
+    "time": "21 Sep 21:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_37900.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Lille VS Strasbourg",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_35050.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Lille VS Strasbourg",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_16610.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Lille VS Strasbourg",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_25790.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Austria Klagenfurt VS Hartberg",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_29430.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Austria Klagenfurt VS Hartberg",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_28630.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Linz VS AK Graz",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_25560.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Linz VS AK Graz",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_28360.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Altach VS Pashin-Supefant",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_23120.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Altach VS Pashin-Supefant",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_23070.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Niznekamuskneft VS Alaniavala",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_29080.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Dynamo Kyiv VS Rukviniki",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_21880.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Ubbisti VS Diostel",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_25640.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Burrage VS Gabila",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_20460.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Huaramosta VS Shrogadobo",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_35450.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Ukraine VS Afghanistan",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_40020.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Angola VS Argentina",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_34440.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "ASM Oran VS ESM Koloa",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_6910.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "MB Luster VS Khamis Heshner",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_20840.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "MC Seda VS Kehemis Melina",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_30600.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "WA Mostaganem VS Mekhria",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_18850.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Koba VS Hesain",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_17550.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Tiaret VS Mascara",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_17540.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Acono VS JS Elbiar",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_31280.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Inter Turku VS Gubis",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_23110.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Inter Turku VS Gubis",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_7510.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Eshifora VS US Hostet",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_11160.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Strassen VS Dudelange",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_27580.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Luo Dangzhi VS Bodenzhi",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_26890.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Rostov Women VS Chetarovo Moscow Women",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_8550.m3u8"
+  },
+  {
+    "category": "basketball",
+    "match": "Timisoara VS Pitesti",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_18140.m3u8"
+  },
+  {
+    "category": "puck",
+    "match": "Tallinn Panter VS Prizma",
+    "time": "21 Sep 22:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_35020.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Vedzuroz VS Piast",
+    "time": "21 Sep 22:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_35650.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Belup VS Dinamo Zagreb",
+    "time": "21 Sep 22:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_38460.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Bromma Pokana VS Mialbi",
+    "time": "21 Sep 22:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_31270.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Hermannstadt VS Cluj",
+    "time": "21 Sep 22:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_6140.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Nicesa VS LKS Lodz",
+    "time": "21 Sep 22:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_36400.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Nicesa VS LKS Roddy",
+    "time": "21 Sep 22:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_31070.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Axel Drohtsen VS Phoenix Lübeck",
+    "time": "21 Sep 22:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_37540.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Riyadh Youth VS Buraidah Cooperation",
+    "time": "21 Sep 22:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_40850.m3u8"
+  },
+  {
+    "category": "basketball",
+    "match": "SCM U Craiova VS Rapid Bucharest",
+    "time": "21 Sep 22:30",
+    "url": "https://lebo.huminbird.cn/live/ballbar_19320.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Buraidah Pioneers VS Riyadh Sports",
+    "time": "21 Sep 22:40",
+    "url": "https://lebo.huminbird.cn/live/ballbar_17400.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Juventus VS Napoli",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_38000.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Juventus VS Napoli",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_18430.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Juventus VS Napoli",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_28400.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Juventus VS Napoli",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_20290.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "TSC Bachka Topola VS Novi Pazar",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_33310.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Bachka Topola VS Novi Pazar",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_28150.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Rubin Kazan VS CSKA Moscow",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_27060.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Dubai Victory VS Dubai Prayer",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_11080.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "St Gallen VS Lucerne",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_29170.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Grasshopper VS Servetus",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_25970.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Hankan VS Lilleström",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_34920.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Modena VS Juvestabia",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_37430.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Ankaragucu VS Shakayasp",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_34090.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Ankara Gogu VS Shakayasp",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_32560.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Amed VS Bloomsburg",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_33660.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Sharif VS Balti",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_16290.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Skalika VS Strida",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_29600.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Kosice VS Srina",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_28420.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Comarno VS Trencin",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_7780.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Racing United VS Mondorf",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_9810.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Istrifa VS Malkia",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_33700.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Sitra VS Ayali",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_30610.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Al Rifah VS Najma",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_18640.m3u8"
+  },
+  {
+    "category": "football",
+    "match": "Wedat Amman VS Al Faisal Amman",
+    "time": "21 Sep 23:00",
+    "url": "https://lebo.huminbird.cn/live/ballbar_20080.m3u8"
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 1
 http://1tv41.icu:8080/live/aQwbj3/140716/47440.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 2
