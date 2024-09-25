@@ -2999,20 +2999,20 @@ EMTEK GRUB
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL4fRL6x9poEVU3020u62P9wK6AozOArSmUA&s" group-title="@EMTEK"
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="@EMTEK", INDOSIAR 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/indosiarTV.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/indosiarTV.m3u8
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL4fRL6x9poEVU3020u62P9wK6AozOArSmUA&s" group-title="@EMTEK"
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="@EMTEK", INDOSIAR 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/indosiarTV2.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/indosiarTV2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRsC4EPv6x-oeC6-JKZUxjDVehhTgNoY3VJtFXr_gAuTwwl53rOnnLybU&s=10" group-title="@EMTEK", MENTARI TV
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/mentariTV.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/mentariTV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="@EMTEK", MOJI 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/mojiTV.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/mojiTV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="@EMTEK", MOJI 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/mojiTV2.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/mojiTV2.m3u8
 #EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gpfcx6hat3srcj3xsj8nhy9q.png" group-title="@EMTEK", SCTV 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/sctvTV.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/sctvTV.m3u8
 #EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gpfcx6hat3srcj3xsj8nhy9q.png" group-title="@EMTEK", SCTV 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/sctvTV2.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/sctvTV2.m3u8
 
 
 
