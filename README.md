@@ -2,16 +2,22 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U20 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://metatvpro.xyz:25461/G3602/4699/105
+#http://metatvpro.xyz:25461/G3602/4699/105
+https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/indosiarTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U20 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/indosiarTV.m3u8
+#https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/indosiarTV.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/indosiarTV2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U20 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/indosiarTV2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U20 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#http://metatvpro.xyz:25461/G3602/4699/105
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",PALESTINA VS JORDANIA
@@ -75,37 +81,7 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/indosiarTV2
 
 
 TIMNAS DAY
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/Timnasday.jpg" group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 6
-https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas6.m3u8
 
-#EXTINF:-1 group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##" tvg-id="" tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/Timnasday.jpg", INDOSIAR LIVE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
-
-#EXTINF:-1 group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##" tvg-id="" tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/Timnasday.jpg", SCTV LIVE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/yv2268/22681081/73607.ts
-
-#EXTINF:-1 group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##" tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/Timnasday.jpg" tvg-id="rcti.id" ,[ID] RCTI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/yv2268/22681081/73606
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 1
 http://1tv41.icu:8080/live/aQwbj3/140716/47440.m3u8
@@ -746,160 +722,6 @@ FA Cup
 
 
 VIDIO
-
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9LJj5XKhpuoD9Aa1ud963OLVYRuOJuM8Tfe1aKnf235nQHAhs0-2zjE&s=10"
-#EXTINF:0  group-title="VIDIOFREE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtek4f-4Lu-80nm55ZRqP9KepYjpxxRbtmJ1EwNvMl9WIqCE_cymgmUU0&s=10", Ajwa TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://thedream.biz.id/indonesia/vidio.php?id=7464
-https://thedream.biz.id/indonesia/vidio.php?id=7464&=.m3u8
-
-#EXTINF:0  group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/SpjuzVoKdUo7lxmN6URPI4QEvEQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12607/2c48ce.png", Tawaf TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://thedream.biz.id/indonesia/vidio.php?id=12607&=.m3u8
-https://thedream.biz.id/indonesia/vidio.php?id=12607&=.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzvFa290X6Yq2mMtxyw4qNLaXQNTyJ7UbKA&usqp=CAU" group-title="VIDIOFREE" ,SCTV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=204&=.m3u8
-
-#EXTINF:0   tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="VIDIOFREE" , INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://thedream.biz.id/indonesia/vidio.php?id=205&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=206&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/XLhKDFI8G-sL8J2vVg5vHla7ovM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png", TRANS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=733&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/U38BeE-y8dWcgQjBYMKY-Nfd_fg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png", Trans7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=734&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/RIEYY6xRlnSBkwYl3ysbEDoCQmk=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png", TVOne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=783&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/ie0dsrnpCuMgM2ChvdnDkrAei90=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png", ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=782&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/L8ojsXDCSAn4TDoSJrqr8xqMRy8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png", Metro TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=777&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png", Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=874&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/NEU5NOM51mtJVYE4bI4iP2bLSCs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png", RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=1561&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/CHQ7jG2pWgk7OSBt-Sw8ZK1MB9U=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png", TVRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=6441&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/DKANEUKIVCBG1x62TxXS33Tue0g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/a712b0.png", BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=6165&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/1z_3ZItS3609Ex_kO9iC_PXyIXw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png", NET TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=875&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/qyk6RzFNDnT8Nh103ZvffR88YWw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png", Jaktv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=5415&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/hidQqxmsKQvYJ4P5rkueZsbl__A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png", DAAI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=6482&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/jRXTcft4R8nvv-MAtpXEyrSV7XU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png", Nusantara TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=7432&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/4e5Dt47oZTCIE5dkUP2DwFl_bd8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png", JTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=9713&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/tImFFkaMktXuC3K0WfZroQ_PDS0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/bfda90.png", JPM TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=9714&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/7kJVJ57eVLHgT7sXJ-qPJi7HUC4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8815/f0c9f2.png", Metro Globe Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=8815&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/G8DFCpHw64-180V638Xfu0C0Zng=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png", MUSICA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=7619&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/BElhAVy4Xfd3-YSehnRdSiGe1m4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png", Arirang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=6784&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/2Y97SNyJjIVnLM-XKkKyJOglFuU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8241/2d8b11.jpg", RANS Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=8241&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/7eHBnFC71jC6uTY8UKEGhnd77cc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png", Elshinta TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=10975&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/M86RraxZ0ZP4NnxvbwVBOCXaZ9M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg", Magna TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=7230&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/TYz1iEMEY8j8eVj7vKhHjk0xzyc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6410/6027db.png", Aljazeera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=6410&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/JdB3e-i8Ed6vVcdiQqbxoTB23c8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png", DW English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=5075&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/3rPJsyH0az_3cBgk1BvxRGBL7_0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/2de77e.png", ABC Australia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=7150&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/B4HwqUWN0oH-YMYGENNykOpyh0k=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/3f44ff.png", NHK World Japan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=67968&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/8EdLDy7Zwk9-_U5IWUefcLEm8eE=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/e600b8.jpg", News Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=6411&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/DCG-bJNyuLTksVHrqarPTAtwvco=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12784/b75a42.png", AFRICANEWS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=12784&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/gztJpm4gLtmc54mzORdCSFVOjgY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7687/b25cb7.jpg", SEA TODAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=7687&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/FsrcmE5ettOMsnfzELxgtPUGOHc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6412/c0e105.png", Euro News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=6412&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/mRMAbs0J1ALPfyniEi1L89cAqAA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7946/9e2b5e.jpg", TV Tempo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=7946&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png", Mentari TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=8237&=.m3u8
-
-#EXTINF:-1 group-title="VIDIOFREE" tvg-logo="https://thumbor.prod.vidiocdn.com/NMGm2f1Xkhy916g4LPLB3wDGc5Y=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.png", Makkah TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/indonesia/vidio.php?id=6852&=.m3u8
 
 
 
