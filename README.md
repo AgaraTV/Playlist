@@ -1,5 +1,13 @@
 # Playlist
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
+https://fhlsport20.fls77.xyz/token-IRJ7nrKTe%2FOG5GQswfY6yD7QlMPagi%2FjaHOqk%2FdMFjKh4bjIHUFdCI0prhJAW0xJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/3o4885s2nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_576607.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U20 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #http://metatvpro.xyz:25461/G3602/4699/105
@@ -561,12 +569,10 @@ LIGA INGGRIS
 ======================
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ben.quietlywheat23.shop/
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-#EXTVLCOPT:http-origin=https://ben.quietlywheat23.shop
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
 https://fhlsport20.fls77.xyz/token-IRJ7nrKTe%2FOG5GQswfY6yD7QlMPagi%2FjaHOqk%2FdMFjKh4bjIHUFdCI0prhJAW0xJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/3o4885s2nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_576607.m3u8
 
 #EXTINF:-1 group-logo="https://assets.pikiran-rakyat.com/crop/352x34:3189x1852/x/photo/2022/02/24/1331208461.jpg" group-title="##🇬🇧LIGA INGGRIS🇬🇧##"
