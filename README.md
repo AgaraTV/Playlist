@@ -9,13 +9,13 @@
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
 https://fhlsport20.fls77.xyz/token-JBJ5zbece%2FGGv2YtxvY6zWLWlJrUhCnjPnaizvIfRTH64bSdHUFdCI0prxZNWk9JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/pq111053nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_576580.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TRUE 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",vd 2
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://ben.quietlywheat23.shop/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
-https://fhlsport20.fls77.xyz/token-LER4yrfGf%2FOGvzAsw%2FY6zDjQlJuA0XvjOSD4xvcYEDemteScHUFdCI0prxVLXklJBCeIxTNhkA%3D%3Da/cfall/s2/v3b/6sr154q7nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/6/chunks.m3u8
+https://fhlsport20.fls77.xyz/token-cxR9muGcLfaG6mcsx%2FY6yGqLlJragH%2FjPXH4zqhPFTny4OScHUFdCI0prxFMW05JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/84nrq2n3nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_576584.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U20 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
