@@ -1,13 +1,13 @@
 # Playlist
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",VD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",Bein
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://ben.quietlywheat23.shop/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://ben.quietlywheat23.shop
-https://fhlsport20.fls77.xyz/token-JBJ5zbece%2FGGv2YtxvY6zWLWlJrUhCnjPnaizvIfRTH64bSdHUFdCI0prxZNWk9JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/pq111053nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_576580.m3u8
+https://fhlsport20.fls77.xyz/token-IEJ8yeWWLf6G6GN5x%2FY6nDiBlMPWhX3jZCX5xfVGQjHy5bidHUFdCI0prxNIWUxJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/99418pr7nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_576717.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",vd 2
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
