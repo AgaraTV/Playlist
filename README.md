@@ -537,37 +537,38 @@ FORMULA
 =====================
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##", FORMULA 1 
-https://raw.githubusercontent.com/B-inalm3u-Custom/MotoGP-Formula1/B-inal22/fformula11.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/fformula11.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##", FORMULA 2 
-https://raw.githubusercontent.com/B-inalm3u-Custom/MotoGP-Formula1/B-inal22/fformula12.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/fformula12.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##", FORMULA 3 
-https://raw.githubusercontent.com/B-inalm3u-Custom/MotoGP-Formula1/B-inal22/fformula13.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/fformula13.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##", FORMULA 4 
-https://raw.githubusercontent.com/B-inalm3u-Custom/MotoGP-Formula1/B-inal22/fformula14.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/fformula14.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##", FORMULA 5 
-https://raw.githubusercontent.com/B-inalm3u-Custom/MotoGP-Formula1/B-inal22/fformula15.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/fformula15.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##", FORMULA 6
-https://raw.githubusercontent.com/B-inalm3u-Custom/MotoGP-Formula1/B-inal22/fformula16.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/fformula16.m3u8
+
+
 
 
 MOTOGP
 =========================
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", MOTOGP 1 
-https://raw.githubusercontent.com/B-inalm3u-Custom/MotoGP-Formula1/B-inal22/mmotogp1.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/mmotogp1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", MOTOGP 2 
-https://raw.githubusercontent.com/B-inalm3u-Custom/MotoGP-Formula1/B-inal22/mmotogp2.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/mmotogp2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", MOTOGP 3 
-https://raw.githubusercontent.com/B-inalm3u-Custom/MotoGP-Formula1/B-inal22/mmotogp3.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/mmotogp3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", MOTOGP 4 
-https://raw.githubusercontent.com/B-inalm3u-Custom/MotoGP-Formula1/B-inal22/mmotogp4.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/mmotogp4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", MOTOGP 5 
-https://raw.githubusercontent.com/B-inalm3u-Custom/MotoGP-Formula1/B-inal22/mmotogp5.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/mmotogp5.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", MOTOGP 6 
-https://raw.githubusercontent.com/B-inalm3u-Custom/MotoGP-Formula1/B-inal22/mmotogp6.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/mmotogp6.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", MOTOGP 7
-https://raw.githubusercontent.com/B-inalm3u-Custom/MotoGP-Formula1/B-inal22/mmotogp7.m3u8
-
+https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/mmotogp7.m3u8
 
 
 
@@ -601,6 +602,31 @@ https://myvidio.tvnid.workers.dev/01/stream.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://myvidio.tvnid.workers.dev/01/stream.php?id=9183&type=drm 
 https://myvidio.tvnid.workers.dev/01/stream.mpd?id=9183&type=dash
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-037/stream.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-038/stream.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 03
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/TruePL1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 04
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/TruePL2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 05
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://ktpremium.xyz:2095/yv2268/22681081/694540
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 06
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 07
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 1
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 2
@@ -627,6 +653,17 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl11.m3
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl12.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", EPL 13
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/eepl13.m3u8
+
+#EXTINF:-1 group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##"
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LALIGA 01
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/TrueBein3.m3u8
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LALIGA 02
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LALIGA 03
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LALIGA 04
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LALIGA 05
 
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LALIGA 1
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/llaliga1.m3u8
@@ -664,6 +701,9 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/lligaital
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/lligaitali9.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", SERIA 10
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/lligaitali10.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", SERIA 11
+https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/lligaitali11.m3u8
+
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/Bundesliga_Logo_%282017%29.svg/1200px-Bundesliga_Logo_%282017%29.svg.png" group-title="##🇩🇪LIGA JERMAN🇩🇪##"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10" group-title="##🇩🇪LIGA JERMAN🇩🇪##", BUNDESLIGA 1
@@ -703,6 +743,7 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/LigaBelan
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/LigaBelanda8.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="##🇱🇺LIGA BELANDA🇱🇺##", EREDIVISIE 9
 https://raw.githubusercontent.com/B-inalm3u-Custom/Liga-Eropa/B-inal22/LigaBelanda9.m3u8
+
 
 SAUDI PRO
 =============================================
