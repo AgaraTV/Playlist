@@ -96,82 +96,38 @@
 
 TIMNAS DAY
 
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="🚩TIMNAS DAY🚩",SPORTSTAR 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="🚩TIMNAS DAY🚩",ASTRO ARENA 2
+http://mytv-extra.com:80/t12mgxyb335/9832948789/185822
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="🚩TIMNAS DAY🚩",ASTRO A 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/AstroArena2.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="🚩TIMNAS DAY🚩",BAHRAIN SPORT 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/Bahrainsport1.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="🚩TIMNAS DAY🚩",SPORTDIGITALL FUSSBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-022/stream.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="🚩TIMNAS DAY🚩",BeIN Sport 6 HD
+http://abcnew.site:8880/TNwC28ZMED/aG9TWtVfqy/2135
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="🚩TIMNAS DAY🚩",ESPN 2
+http://abcnew.site:8880/TNwC28ZMED/aG9TWtVfqy/58028
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="🚩TIMNAS DAY🚩",
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 1
-http://1tv41.icu:8080/live/aQwbj3/140716/47440.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 2
-http://1tv41.icu:8080/live/aQwbj3/140716/47442.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="🚩TIMNAS DAY🚩",
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 3
-http://1tv41.icu:8080/live/aQwbj3/140716/47444.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 4
-http://1tv41.icu:8080/live/aQwbj3/140716/57292.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 5
-http://1tv41.icu:8080/live/aQwbj3/140716/16129.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 6
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 7
-https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 9
-http://abcnew.site:8880/TNwC28ZMED/aG9TWtVfqy/3192
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 10
-http://abcnew.site:8880/TNwC28ZMED/aG9TWtVfqy/3191
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 11
-http://abcnew.site:8880/TNwC28ZMED/aG9TWtVfqy/29392
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 12
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 13
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 14
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 15
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:75:D5:BC&stream=461174&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 16
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:75:D5:BC&stream=461175&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 17
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Eropa/B-inal22/SportTV1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 18
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Eropa/B-inal22/SportTV2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 19
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Bein/B-inal22/BeinSportENG1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 20
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Bein/B-inal22/BeinSportENG2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 21
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Bein/B-inal22/BeinSportTOD6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 22
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 23
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 24
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HFCW2/images-q-tbn-ANd9-Gc-Ti-LDpn6w-ND1-Omad6m-Iy-EKJf8m-Hyw-Eb-U-ne-Dw-s.jpg" group-title="Piala Dunia Futsal 2024",FIFA 25
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Latin/B-inal22/FoxSportUS2.m3u8
-
-
-
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="🚩TIMNAS DAY🚩",
 
 LOKAL
 ===============
