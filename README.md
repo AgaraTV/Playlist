@@ -1,6 +1,5 @@
 # Playlist
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium467/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",Bein
@@ -97,19 +96,32 @@ https://webhdrus.onlinehdhls.ru/lb/premium467/index.m3u8
 
 
 TIMNAS DAY
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",SPORTSTAR 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",RCTI+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",GTV+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",SOCCER CHANEL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",SPORTSTAR
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",SPORTSTAR 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",JORDANIA SPORT
 https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/jordansport00.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",ASTRO ARENA 2
@@ -126,19 +138,11 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-022/stream.mpd
 http://abcnew.site:8880/JH12M2D107/WFqKVEthtj/59266
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",ESPN 2 NL
 http://abcnew.site:8880/JH12M2D107/WFqKVEthtj/31424
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",SPORTSTAR
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",DIEMA SPORT 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Eropa/B-inal22/Diema3.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",DIEMA SPORT 2
 https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Eropa/B-inal22/Diema2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",DIEMA SPORT 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Eropa/B-inal22/Diema3.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",
 
