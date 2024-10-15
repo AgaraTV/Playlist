@@ -144,10 +144,8 @@ http://abcnew.site:8880/JH12M2D107/WFqKVEthtj/31424
 https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Eropa/B-inal22/Diema2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",DIEMA SPORT 3
 https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Eropa/B-inal22/Diema3.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",
-
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",SK 6
+https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas6.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",
 
 LOKAL
@@ -371,67 +369,6 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 NASIONAL DIGITAL
 =============================
-
-
-#EXTINF:0 tvg-id="RCTI - [Channel 430].id" tvg-name="RCTI - [Channel 80].id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="@NASIONAL DIGITAL" tvg-chno="5",RCTI
-http://103.237.32.213:9981/stream/channelid/1365658651?profile=pass
-
-#EXTINF:0 tvg-id="MNCTV - [Channel 432]" tvg-name="MNCTV - [Channel 82].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1200px-MNCTV_logo.png" group-title="@NASIONAL DIGITAL" tvg-chno="6",MNC TV
-http://103.237.32.213:9981/stream/channelid/1397747788?profile=pass
-
-#EXTINF:0 tvg-id="GTV - [Channel 431].id" tvg-name="GTV - [Channel 81].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="@NASIONAL DIGITAL" tvg-chno="7",GTV
-http://103.237.32.213:9981/stream/channelid/60098242?profile=pass
-
-#EXTINF:0 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews HD - [Channel 433].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="@NASIONAL DIGITAL" tvg-chno="8",iNews
-http://103.237.32.213:9981/stream/channelid/577841529?profile=pass
-
-#EXTINF:0 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="@NASIONAL DIGITAL" tvg-chno="9",SCTV
-http://103.237.32.213:9981/stream/channelid/2075096037?profile=pass
-
-#EXTINF:0, tvg-id="Mentari TV" tvg-name="Mentari TV" group-title="@NASIONAL DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mentari_TV.png/200px-Mentari_TV.png" tvg-chno="10", Mentari TV
-http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
-
-#EXTINF:0 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="@NASIONAL DIGITAL" tvg-chno="11",Indosiar
-http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
-
-#EXTINF:0, tvg-id="Moji" tvg-name="Moji" group-title="@NASIONAL DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" tvg-chno="12",MOJI 
-http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
-
-#EXTINF:0 tvg-id="Trans TV - [Channel 87].id" tvg-name="Trans TV - [Channel 87].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="@NASIONAL DIGITAL" tvg-chno="13",Trans TV
-http://103.237.32.213:9981/stream/channelid/882492283?profile=pass
-
-#EXTINF:0 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans 7 - [Channel 110].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="@NASIONAL DIGITAL" tvg-chno="14",Trans 7 
-http://103.237.32.213:9981/stream/channelid/882492283?profile=pass
-
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV - [Channel 115].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="@NASIONAL DIGITAL" tvg-chno="17",ANTV
-http://103.237.32.213:9981/stream/channelid/787526729?profile=pass
-
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="tvOne - [Channel 97].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/200px-TvOne_2023.svg.png" group-title="@NASIONAL DIGITAL" tvg-chno="18",tvOne
-http://103.237.32.213:9981/stream/channelid/303387948?profile=pass
-
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/800px-VTV_Indonesia_2023.svg.png" group-title="@NASIONAL DIGITAL" tvg-chno="20",VTV
-http://103.237.32.213:9981/stream/channelid/757539105?profile=pass
-
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV - [Channel 107].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="@NASIONAL DIGITAL" tvg-chno="21",Metro TV
-http://103.237.32.213:9981/stream/channelid/1475621416?profile=pass
-
-#EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="@NASIONAL DIGITAL" ,CNN Indonesia
-http://103.237.32.213:9981/stream/channelid/226992202?profile=pass
-
-#EXTINF:-1 tvg-id="CNBC Indonesia" tvg-name="CNBC Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" group-title="@NASIONAL DIGITAL" ,CNBC Indonesia
-http://103.237.32.213:9981/stream/channelid/2050623964?profile=pass
-
-#EXTINF:0 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logo_nusantaratv.png/220px-Logo_nusantaratv.png" group-title="@NASIONAL DIGITAL" tvg-chno="32",Nusantara TV 
-http://103.237.32.213:9981/stream/channelid/1256118101?profile=pass
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/220px-TVRIWorld.png" group-title="@NASIONAL DIGITAL" tvg-chno="3",TVRI World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://103.237.32.213:9981/stream/channelid/2087137957?profile=pass
-
-#EXTINF:0 tvg-id="TVRISport.id"  tvg-name="TVRI Sport" tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="@NASIONAL DIGITAL" tvg-chno="4",TVRI Sport 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://103.237.32.213:9981/stream/channelid/455417035?profile=pass
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgH6WuOQSByQ6v2MMZBoI7aK8mG3Pn75WWcg&usqp=CAU" group-title="@NASIONAL DIGITAL", BIOSKOP INDONESIA
 https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/BioskopIndonesia.m3u8
 
@@ -525,8 +462,6 @@ https://flv.intechmedia.net/live/ch114.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1388255842533662720/pu/img/ulCHo4F1c4fHfvS1.jpg" group-title="@NASIONAL DIGITAL", RTV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch115.m3u8
-
-
 
 
 
