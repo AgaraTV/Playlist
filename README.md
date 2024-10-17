@@ -496,7 +496,7 @@ LIVE BADMINTON
 ======================
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆"​,  1
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://andi-cors-proxy-service-k8s.andisearch.com/https://hlslive-tx-cdn.ysp.cctv.cn/2025339601.m3u8
+https://040a321a284e77b5bc3a69efbc34b942.v.smtcdns.net/203.205.136.11/play.cbalive.weibisai.com/live/3714662107508061_AiSD.m3u8?txSecret=6938f57c02c17c5d10a72d0c7a499de1&txTime=6711EB50
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  2
 https://040a321a284e77b5bc3a69efbc34b942.v.smtcdns.net/203.205.136.11/play.cbalive.weibisai.com/live/3714662342249061_AiSD.m3u8?txSecret=3324b63de3ecdc8aac0dfbbb4a295211&txTime=6711EB50
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  3
