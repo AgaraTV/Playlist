@@ -101,37 +101,37 @@ TIMNAS DAY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/yv2268/22681081/73606.m3u8
+#http://ktpremium.xyz:2095/live/yv2268/22681081/73606.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",GTV X
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/yv2268/22681081/73619.m3u8
+#http://ktpremium.xyz:2095/live/yv2268/22681081/73619.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",SOCCER CHANEL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",SPORTSTAR
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",SPORTSTAR 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",JORDANIA SPORT
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/jordansport00.m3u8
+#https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/jordansport00.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",ASTRO ARENA 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/AstroArena2.m3u8
+#https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/AstroArena2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",BAHRAIN SPORT 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/Bahrainsport1.m3u8
+#https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/Bahrainsport1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",SPORTDIGITALL FUSSBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
@@ -139,19 +139,19 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Arab/B-inal22/Bahra
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-022/stream.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",BeIN Sport 6 HD
-http://abcnew.site:8880/JH12M2D107/WFqKVEthtj/59266
+#http://abcnew.site:8880/JH12M2D107/WFqKVEthtj/59266
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",ESPN 2 NL
-http://abcnew.site:8880/JH12M2D107/WFqKVEthtj/31424
+#http://abcnew.site:8880/JH12M2D107/WFqKVEthtj/31424
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",DIEMA SPORT 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Eropa/B-inal22/Diema2.m3u8
+#https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Eropa/B-inal22/Diema2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",DIEMA SPORT 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Eropa/B-inal22/Diema3.m3u8
+#https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Eropa/B-inal22/Diema3.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",SK 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas5.m3u8
+#https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas5.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",BEIN SPORT 1 TOD
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Bein/B-inal22/BeinSportTOD1.m3u8
+#https://raw.githubusercontent.com/B-inalm3u-Custom/New-Bein/B-inal22/BeinSportTOD1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",BEIN SPORT 3 TOD
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Bein/B-inal22/BeinSportTOD3.m3u8
+#https://raw.githubusercontent.com/B-inalm3u-Custom/New-Bein/B-inal22/BeinSportTOD3.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",BEIN 
 LOKAL
 ===============
@@ -381,42 +381,49 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/BioskopIndo
 https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/Flik.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzNXR4G52365wGsCQDAttRCk3pn6bjE6_-mA&s" group-title="@NASIONAL DIGITAL", HBO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 http://ktpremium.xyz:2095/live/yv2268/22681081/26076.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKFqVm0GI2LRgtQWb0Q2SvAGDWWg8hTjn9PA&usqp=CAU" group-title="@NASIONAL DIGITAL", HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 http://ktpremium.xyz:2095/live/yv2268/22681081/656642.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcPan7vJRultKy7w23DXnGK0_cGgfd3xX_i7GDzu7G6Hj6RJ8hmAQeuk&s=10" group-title="@NASIONAL DIGITAL", Hbo Hits HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 http://ktpremium.xyz:2095/live/yv2268/22681081/26077.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEZ0wrhjfO3jGuH_dXsA3S--q78K-GzyqqHbfCeJe-vam7CWfN3ygF1xZ&s=10" group-title="@NASIONAL DIGITAL", Hbo Signature HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 http://ktpremium.xyz:2095/live/yv2268/22681081/26080.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul436uCmHMIpge6PzLn_kyCWYGBs9p2u5CGCrSRBkuPCvIh4QRyxdUECP&s=10" group-title="@NASIONAL DIGITAL", GTV X
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 http://ktpremium.xyz:2095/live/yv2268/22681081/73619.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="@NASIONAL DIGITAL", RCTI X
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 http://ktpremium.xyz:2095/live/yv2268/22681081/73606.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s" group-title="@NASIONAL DIGITAL", MNC TV X
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
@@ -431,22 +438,28 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/indosiarTV3
 https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/sctvTV3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="@NASIONAL DIGITAL", KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch102.m3u8
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="@NASIONAL DIGITAL", TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch103.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png" group-title="@NASIONAL DIGITAL", SEA TODAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch106.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" group-title="@NASIONAL DIGITAL", VTV VIVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg" group-title="@NASIONAL DIGITAL", ANTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch108.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2011/02/17/105261_logo-tvone_1265_711.jpg" group-title="@NASIONAL DIGITAL", TVONE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch109.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/717/metro-tv-news-logo-14.png" group-title="@NASIONAL DIGITAL", METRO TV 
@@ -456,15 +469,18 @@ https://flv.intechmedia.net/live/ch110.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch111.m3u8
 #EXTINF:-1 tvg-logo="https://micms.mediaindonesia.com/storage/app/media/FOTO/Operator/metrotv.jpg" group-title="@NASIONAL DIGITAL", METRO TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch112.m3u8
 #EXTINF:-1 tvg-logo="https://btv.id/img/btv-livestream.webp" group-title="@NASIONAL DIGITAL", BTV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch113.m3u8
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/13/nentv.jpg" group-title="@NASIONAL DIGITAL", NET TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch114.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1388255842533662720/pu/img/ulCHo4F1c4fHfvS1.jpg" group-title="@NASIONAL DIGITAL", RTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch115.m3u8
 
@@ -480,12 +496,12 @@ LIVE BADMINTON
 ======================
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆"​,  1
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://hlslive-tx-cdn.ysp.cctv.cn/2025341101.m3u8
+https://andi-cors-proxy-service-k8s.andisearch.com/https://hlslive-tx-cdn.ysp.cctv.cn/2025339601.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  2
-https://hlslive-tx-cdn.ysp.cctv.cn/2025341201.m3u8
+https://andi-cors-proxy-service-k8s.andisearch.com/https://hlslive-tx-cdn.ysp.cctv.cn/2025339701.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  3
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://040a321a284e77b5bc3a69efbc34b942.v.smtcdns.net/203.205.136.11/play.cbalive.weibisai.com/live/3715530440521061_AiSD.m3u8?txSecret=5fe34823c37b390c7ff752f55b022bfc&txTime=671099D0
+https://040a321a284e77b5bc3a69efbc34b942.v.smtcdns.net/203.205.136.11/play.cbalive.weibisai.com/live/3715530879814061_AiSD.m3u8?txSecret=17a6d454e7e07c850a12ee5591e02e32&txTime=6711EB50
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  4
 
 
