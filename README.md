@@ -496,12 +496,12 @@ LIVE BADMINTON
 ======================
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆"​,  1
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://040a321a284e77b5bc3a69efbc34b942.v.smtcdns.net/203.205.136.11/play.cbalive.weibisai.com/live/3714662107508061_AiSD.m3u8?txSecret=6938f57c02c17c5d10a72d0c7a499de1&txTime=6711EB50
+https://040a321a284e77b5bc3a69efbc34b942.v.smtcdns.net/203.205.136.11/play.cbalive.weibisai.com/live/3714661395413061_AiSD.m3u8?txSecret=70f934a25b2a334ea0a869f24457047b&txTime=67136700
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  2
-https://040a321a284e77b5bc3a69efbc34b942.v.smtcdns.net/203.205.136.11/play.cbalive.weibisai.com/live/3714662342249061_AiSD.m3u8?txSecret=3324b63de3ecdc8aac0dfbbb4a295211&txTime=6711EB50
+https://040a321a284e77b5bc3a69efbc34b942.v.smtcdns.net/203.205.136.11/play.cbalive.weibisai.com/live/3714661684546061_AiSD.m3u8?txSecret=3883631ccaf0b96be2ab44796c86cb96&txTime=67136700
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  3
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://040a321a284e77b5bc3a69efbc34b942.v.smtcdns.net/203.205.136.11/play.cbalive.weibisai.com/live/3715530879814061_AiSD.m3u8?txSecret=17a6d454e7e07c850a12ee5591e02e32&txTime=6711EB50
+https://andi-cors-proxy-service-k8s.andisearch.com/https://hlslive-tx-cdn.ysp.cctv.cn/2025340901.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  4
 
 
