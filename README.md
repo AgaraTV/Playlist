@@ -101,6 +101,7 @@ TIMNAS DAY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+https://output.unregister.xyz/euro/inavsarab2024/madaragantengsekali.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",GTV X
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
