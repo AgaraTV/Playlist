@@ -155,8 +155,7 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas5.m3u
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",BEIN 
 LOKAL
 ===============
-#EXTINF:-1 tvg-logo="https://cdn-1.webcatalog.io/catalog/rcti-plus/rcti-plus-social-preview.png" group-title="@NASIONAL", RCTI
-#EXTINF:-1 group-logo="https://asset.kompas.com/crops/_Nigblh7up6joR0b9Awz4hifDeY=/0x0:750x500/1200x800/data/photo/2024/04/29/662fbebece841.png",
+#EXTINF:-1 tvg-logo="https://cdn-1.webcatalog.io/catalog/rcti-plus/rcti-plus-social-preview.png" group-title="@NASIONAL", RCTI+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
