@@ -544,6 +544,36 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://cempedak-cdn-fly.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+VOLY KOREA
+------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEQDx4NnVtO6r9pqp8TDMQdSBGa_E4MFpmDvkV0dUg&s" group-title="VOLY KOREA", WEB
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/tvrisport00.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEQDx4NnVtO6r9pqp8TDMQdSBGa_E4MFpmDvkV0dUg&s" group-title="VOLY KOREA", DENS
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvrisport.png" group-title="TVRI SPORT🇮🇩",TVRI SPT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEQDx4NnVtO6r9pqp8TDMQdSBGa_E4MFpmDvkV0dUg&s" group-title="VOLY KOREA",SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEQDx4NnVtO6r9pqp8TDMQdSBGa_E4MFpmDvkV0dUg&s" group-title="VOLY KOREA", TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDdffRlVIIKCsjH7P5JE3KUDeHEHikq4GuQ&usqp=CAU" group-title="VOLY KOREA", SBS SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptv12k.com:35461/live/654321/123456/3207.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBSN SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0
+http://iptv12k.com:35461/live/654321/123456/3214.m3u8
+
+
+
+
 
 FORMULA 
 =====================
@@ -798,39 +828,6 @@ FA Cup
 #EXTINF:0 tvg-logo="https://i.ibb.co/9hVGK05/download-2.jpg" group-title="⚽️FA Cup⚽️",Bein Sport 1 Th
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/9hVGK05/download-2.jpg" group-title="⚽️FA Cup⚽️",Sony Ten 3 HD
-
-
-VIDIO
-
-
-
-TVRI SPORT
-------------------------------------------------------------
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEQDx4NnVtO6r9pqp8TDMQdSBGa_E4MFpmDvkV0dUg&s" group-title="VOLY KOREA", WEB
-https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/tvrisport00.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEQDx4NnVtO6r9pqp8TDMQdSBGa_E4MFpmDvkV0dUg&s" group-title="VOLY KOREA", DENS
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvrisport.png" group-title="TVRI SPORT🇮🇩",TVRI SPT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEQDx4NnVtO6r9pqp8TDMQdSBGa_E4MFpmDvkV0dUg&s" group-title="VOLY KOREA",SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEQDx4NnVtO6r9pqp8TDMQdSBGa_E4MFpmDvkV0dUg&s" group-title="VOLY KOREA", TVRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDdffRlVIIKCsjH7P5JE3KUDeHEHikq4GuQ&usqp=CAU" group-title="VOLY KOREA", SBS SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptv12k.com:35461/live/654321/123456/3207.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBSN SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0
-http://iptv12k.com:35461/live/654321/123456/3214.m3u8
-
 
 
 
