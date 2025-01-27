@@ -98,7 +98,7 @@
 TIMNAS DAY
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",INDO 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas3.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas1.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",GTV X
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -127,9 +127,9 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",INDO 1
 https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",INDO 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas7.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas4.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",INDO 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/indosiarTV.m3u8
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas5.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4WS5SL8/download-1.jpg" group-title="⚽️TIMNAS DAY⚽️",SPORTDIGITALL FUSSBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
@@ -568,8 +568,7 @@ http://iptv12k.com:35461/live/654321/123456/3207.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBSN SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0
-http://iptv12k.com:35461/live/654321/123456/3214.m3u8
-
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kbs_n_sports_540&sid=dCk6rPUY0pBERsgC2xzzO5QlzIz20f3RTAyLnas0&secret=84927af7841b99ed3d4916a2b4b583b4&time=1696425172
 
 
 
