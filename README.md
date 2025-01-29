@@ -83,16 +83,30 @@
 #KODIPROP:inputstream.adaptive.license_key=9ac4dc759e34a5043ddbd676e90f3ebe:4fc6cea5ca78fb091ccb8fd8997f5334
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/fnb1LKx/images-4.jpg" group-title="🚩FRIENDLY MATCH🚩",Live 1
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/k2PzBs7Q/images-1.jpg" group-title="🚩TIMNAS FUTSAL🚩",Live 1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/k2PzBs7Q/images-1.jpg" group-title="🚩TIMNAS FUTSAL🚩",Live 2
+https://av-ch-cdn.mncnow.id/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/k2PzBs7Q/images-1.jpg" group-title="🚩TIMNAS FUTSAL🚩",Live 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://cempedak-cdn-fly.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/k2PzBs7Q/images-1.jpg" group-title="🚩TIMNAS FUTSAL🚩",Live 4
+https://av-ch-cdn.mncnow.id/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/k2PzBs7Q/images-1.jpg" group-title="🚩TIMNAS FUTSAL🚩",Live 5
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/k2PzBs7Q/images-1.jpg" group-title="🚩TIMNAS FUTSAL🚩",Live 6
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/fnb1LKx/images-4.jpg" group-title="🚩FRIENDLY MATCH🚩",Live 2
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/fnb1LKx/images-4.jpg" group-title="🚩FRIENDLY MATCH🚩",Live 3
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/fnb1LKx/images-4.jpg" group-title="🚩FRIENDLY MATCH🚩",Live 4
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/z2Z0TyY/afc-u23.jpg" group-title="🚩AFC U23 ASIAN CUP🚩",RCTI +
 
 
 TIMNAS DAY
@@ -566,10 +580,11 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptv12k.com:35461/live/654321/123456/3207.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBSN SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0
-https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kbs_n_sports_540&sid=dCk6rPUY0pBERsgC2xzzO5QlzIz20f3RTAyLnas0&secret=84927af7841b99ed3d4916a2b4b583b4&time=1696425172
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBSN SPORT 1
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBSN SPORT 2
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBSN SPORT 3
 
 
 
