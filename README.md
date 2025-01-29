@@ -581,10 +581,12 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 http://iptv12k.com:35461/live/654321/123456/3207.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBSN SPORT 1
-
+https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=dCk6rPUY0pBERsgC2xzzO5QlzIz20f3RTAyLnas0&secret=84927af7841b99ed3d4916a2b4b583b4&time=1696425172|Referer=https://kakotv.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBSN SPORT 2
-
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&secret=7123ee7ebfa5269848adbd93d9d648c2&time=1736774841|Referer=https://kakotv.com/
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kbs_n_sports_540&sid=dCk6rPUY0pBERsgC2xzzO5QlzIz20f3RTAyLnas0&secret=84927af7841b99ed3d4916a2b4b583b4&time=1696425172
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBSN SPORT 3
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&secret=7123ee7ebfa5269848adbd93d9d648c2&time=1736774841|Referer=https://kakotv.com/
 
 
 
