@@ -996,13 +996,13 @@ MOTOGP
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", MOTOGP 1 
 https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/mmotogp1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", MOTOGP 2 
-https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/mmotogp2.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", MOTOGP 3 
 https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/mmotogp3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", MOTOGP 4 
 https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/mmotogp4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", MOTOGP 5 
-https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/mmotogp5.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", MOTOGP 6 
 https://raw.githubusercontent.com/B-inalm3u-Custom/Balap/B-inal22/mmotogp6.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", MOTOGP 7
