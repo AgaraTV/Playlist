@@ -27,7 +27,7 @@ http://extraott.com:900/live/3162523972/3791698850/101.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐MOJA TV
 http://extraott.com:900/live/3162523972/3791698850/174495.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NjGVaiF.jpeg" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐Soccer Channel-HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐Soccer Channel-HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -35,14 +35,14 @@ http://extraott.com:900/live/3162523972/3791698850/174495.m3u8
 https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NjGVaiF.jpeg" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐ SPORTSTARS 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐ SPORTSTARS 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 http://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n7GSTm4.jpeg" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐ SPORTSTARS 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐ SPORTSTARS 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -806,94 +806,8 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/33
 http://iptv.kilas7.com:80/kaukia/asdfrewq/34
 #EXTINF:-1 group-title="@NASIONAL DIGITAL" ,BETV
 http://iptv.kilas7.com:80/kaukia/asdfrewq/263
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" ,RBTV
-http://iptv.kilas7.com:80/kaukia/asdfrewq/264
 
 
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",TVRI National
-https://haoyunlai.serv00.net/Smartv-1.php?id=TVRI
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",RCTI
-https://haoyunlai.serv00.net/Smartv-1.php?id=Rcti
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Kompass TV
-https://haoyunlai.serv00.net/Smartv-1.php?id=Kompass
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Berita Satu
-https://haoyunlai.serv00.net/Smartv-1.php?id=BeritaSatu_eko
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Indosiar HD
-https://haoyunlai.serv00.net/Smartv-1.php?id=Indosiar
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",AnTV
-https://haoyunlai.serv00.net/Smartv-1.php?id=Antv
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",MNC TV
-https://haoyunlai.serv00.net/Smartv-1.php?id=Mnctv
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Trans 7
-https://haoyunlai.serv00.net/Smartv-1.php?id=Trans7_eko
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Transtv
-https://haoyunlai.serv00.net/Smartv-1.php?id=Transtv
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",JTV
-https://haoyunlai.serv00.net/Smartv-1.php?id=JTV_eko
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Metro TV
-https://haoyunlai.serv00.net/Smartv-1.php?id=metrotv_eko
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Cinemax
-https://haoyunlai.serv00.net/Smartv-1.php?id=Cinemax
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",SCTV
-https://haoyunlai.serv00.net/Smartv-1.php?id=SCTV
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Tvone
-https://haoyunlai.serv00.net/Smartv-1.php?id=Tvone
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",TVMU
-https://haoyunlai.serv00.net/Smartv-1.php?id=TVMU_eko
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",GTV
-https://haoyunlai.serv00.net/Smartv-1.php?id=Gtv
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",RTV
-https://haoyunlai.serv00.net/Smartv-1.php?id=Rtv
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Jak TV
-https://haoyunlai.serv00.net/Smartv-1.php?id=JakTV
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",iNews TV
-https://haoyunlai.serv00.net/Smartv-1.php?id=Inewstv
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Daai TV
-https://haoyunlai.serv00.net/Smartv-1.php?id=DaaiTV
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Net TV
-https://haoyunlai.serv00.net/Smartv-1.php?id=NetTV
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Animax
-https://haoyunlai.serv00.net/Smartv-1.php?id=Animax
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",EWTN
-https://haoyunlai.serv00.net/Smartv-1.php?id=Ewtn
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",AlQuran AlKareem
-https://haoyunlai.serv00.net/Smartv-1.php?id=AlQuran
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Tawaf TV
-https://haoyunlai.serv00.net/Smartv-1.php?id=TawafTV
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Vision Prime
-https://haoyunlai.serv00.net/Smartv-1.php?id=VisionPrime
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Muslim TV
-https://haoyunlai.serv00.net/Smartv-1.php?id=MuslimTV
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Music TV
-https://haoyunlai.serv00.net/Smartv-1.php?id=MusicTV
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Lifestyle&Fashion
-https://haoyunlai.serv00.net/Smartv-1.php?id=Lifestyle
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Entertain
-https://haoyunlai.serv00.net/Smartv-1.php?id=Entertain
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Hits
-https://haoyunlai.serv00.net/Smartv-1.php?id=Hits
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Warner TV
-https://haoyunlai.serv00.net/Smartv-1.php?id=WarnerTV
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",SCM
-https://haoyunlai.serv00.net/Smartv-1.php?id=Weishimovie
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Thrill
-https://haoyunlai.serv00.net/Smartv-1.php?id=Thrill
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Fight Sports
-https://haoyunlai.serv00.net/Smartv-1.php?id=Fs
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Beinsports 2 HD
-https://haoyunlai.serv00.net/Smartv-1.php?id=Bein2hd
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Hits Movie
-https://haoyunlai.serv00.net/Smartv-1.php?id=Hitsmovie
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",One
-https://haoyunlai.serv00.net/Smartv-1.php?id=One_mega
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",tvN Movie
-https://haoyunlai.serv00.net/Smartv-1.php?id=Tvnmovie
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Celestial Movies HD
-https://haoyunlai.serv00.net/Smartv-1.php?id=Celestialindo
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Rock Actions
-https://haoyunlai.serv00.net/Smartv-1.php?id=Rockaction
-#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="XXX",Rock Entertainment
-https://haoyunlai.serv00.net/Smartv-1.php?id=Rockentertain
 
 
 
