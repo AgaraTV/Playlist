@@ -1,8 +1,8 @@
 # Playlist
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="TIMNAS QUALIFICATION WORLD CUP 2026",ASTRO ARENA 2a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐ASTRO ARENA 2a
 http://extraott.com:900/live/3162523972/3791698850/185822.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="TIMNAS QUALIFICATION WORLD CUP 2026",SPORTDIGITAL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐SPORTDIGITAL
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -26,6 +26,14 @@ http://extraott.com:900/live/3162523972/3791698850/101.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐MOJA TV
 http://extraott.com:900/live/3162523972/3791698850/174495.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NjGVaiF.jpeg" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐Soccer Channel-HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NjGVaiF.jpeg" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐ SPORTSTARS 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
