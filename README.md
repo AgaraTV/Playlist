@@ -48,6 +48,21 @@ http://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-H
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 http://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JjCmZ2C9/download.jpg" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐JEPANG VS ARAB SAUDI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JjCmZ2C9/download.jpg" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JjCmZ2C9/download.jpg" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JjCmZ2C9/download.jpg" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐
+
+
+
 
 
 
