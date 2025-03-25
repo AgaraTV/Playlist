@@ -65,7 +65,7 @@ https://zekonew.iosplayer.ru/zeko/premium386/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JjCmZ2C9/download.jpg" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐
@@ -881,7 +881,7 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/28ifh7sndte1i8lz9wt
 #EXTINF:-1 group-title="LIVE EVEN" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9177407/live/11319807/record/38366685/thumbnail/image_1080.jpg", | 17:00 - 이지현 vs 강동윤 - 제26기 맥심커피배 입신최강전 준결승
 https://livecloud.akamaized.net/sports/lip2_kr/anmssgpu0001/qoyxiaht4pabr9qdt2x0oonfmlbd5lzfhobs/live.mpd?hdnts=st=1742896965~exp=1742929375~acl=*/qoyxiaht4pabr9qdt2x0oonfmlbd5lzfhobs/*~hmac=45b514ceb5cfe0e14c07890b426e02c5d8529aa12e95aa3036f243603974faac
 
-#EXTINF:-1 group-title="LIVE EVEN" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9177407/live/11319807/record/38366685/thumbnail/image_1080.jpg", | JEPANG VS ARAB SAUDI
+#EXTINF:-1 group-title="LIVE EVEN" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/JjCmZ2C9/download.jpg", | JEPANG VS ARAB SAUDI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
