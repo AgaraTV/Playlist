@@ -7,19 +7,16 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/28ifh7sndte1i8lz9wt
 https://livecloud.akamaized.net/sports/lip2_kr/anmssgpu0001/qoyxiaht4pabr9qdt2x0oonfmlbd5lzfhobs/live.mpd?hdnts=st=1742896965~exp=1742929375~acl=*/qoyxiaht4pabr9qdt2x0oonfmlbd5lzfhobs/*~hmac=45b514ceb5cfe0e14c07890b426e02c5d8529aa12e95aa3036f243603974faac
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/JjCmZ2C9/download.jpg", | JEPANG VS ARAB SAUDI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/9kCf0Yws/download-1.jpg", | AUSTRALIA VS CHINA
-http://extraott.com:900/live/3162523972/3791698850/101.m3u8
+
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/MH64mdT/download-2.jpg", | INDONESIA VS BAHRAIN
 
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/F4QNKTW7/download-3.jpg", | KOREA VS JORDANIA
-http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/76
+
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/9kCf0Yws/download-1.jpg", |
 
@@ -52,8 +49,8 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas7.m3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐SPORTKLUB 2 (SLO)
 http://extraott.com:900/live/3162523972/3791698850/401423028.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐BEINSPORT 3 HD
-http://extraott.com:900/live/3162523972/3791698850/101.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐BEINSPORT 2 HD
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas4.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐MOJA TV
 http://extraott.com:900/live/3162523972/3791698850/174495.m3u8
