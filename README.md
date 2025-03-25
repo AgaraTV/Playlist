@@ -13,7 +13,7 @@
 
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/MH64mdT/download-2.jpg", | INDONESIA VS BAHRAIN
-https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas4.m3u8
+
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/F4QNKTW7/download-3.jpg", | KOREA VS JORDANIA
 
