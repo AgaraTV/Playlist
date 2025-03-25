@@ -18,8 +18,8 @@ http://extraott.com:900/live/3162523972/3791698850/101.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/MH64mdT/download-2.jpg", | INDONESIA VS BAHRAIN
 
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/9kCf0Yws/download-1.jpg", |
-
+#EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/F4QNKTW7/download-3.jpg", | KOREA VS JORDANIA
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/76
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/9kCf0Yws/download-1.jpg", |
 
