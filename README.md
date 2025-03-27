@@ -3,8 +3,6 @@
 #EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://sports-phinf.pstatic.net/liveThumbnail/20250325021F255.jpg?type=f640_360", | 17:00 - 현대건설 VS 정관장
 #https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/28ifh7sndte1i8lz9wt7iy48a5z91sdl0egn/live.mpd?hdnts=st=1742896961~exp=1742929371~acl=*/28ifh7sndte1i8lz9wt7iy48a5z91sdl0egn/*~hmac=aea38f0b5d77370d058fbb0f7643fe69ce6efd4ae57f95c08e357bf88326065b
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9177407/live/11319807/record/38366685/thumbnail/image_1080.jpg", | 17:00 - 이지현 vs 강동윤 - 제26기 맥심커피배 입신최강전 준결승
-#https://livecloud.akamaized.net/sports/lip2_kr/anmssgpu0001/qoyxiaht4pabr9qdt2x0oonfmlbd5lzfhobs/live.mpd?hdnts=st=1742896965~exp=1742929375~acl=*/qoyxiaht4pabr9qdt2x0oonfmlbd5lzfhobs/*~hmac=45b514ceb5cfe0e14c07890b426e02c5d8529aa12e95aa3036f243603974faac
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/JjCmZ2C9/download.jpg", | JEPANG VS ARAB SAUDI
 
@@ -28,71 +26,44 @@
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐ASTRO ARENA 2a
-http://extraott.com:900/live/3162523972/3791698850/185822.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐SPORTDIGITAL
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-http://protv.rip:2082/twkyy95syf/h5ncaha57v/156157.ts
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐SPORTDIGITAL a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐SPORTDIGITAL b
-https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas7.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐SPORTKLUB 2 (SLO)
-http://extraott.com:900/live/3162523972/3791698850/401423028.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐BEINSPORT 2 HD
-https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐MOJA TV
-http://extraott.com:900/live/3162523972/3791698850/174495.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐Soccer Channel-HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐ SPORTSTARS 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐ SPORTSTARS 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐RCTI +
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2lADEnm_m9WqEEZN0zOZWyrFaAq3wjST0A&s" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐ESPN 2 NL
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.iosplayer.ru/zeko/premium386/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JjCmZ2C9/download.jpg" group-title="📺TIMNAS QUALIFICATION WORLD CUP 2026📺",⭐JEPANG VS ARAB SAUDI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 
 
 
@@ -931,8 +902,7 @@ http://smart.machado.live:80/QkplvJX1La/rssBafacf5/269824
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBSN SPORT 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
-https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=dCk6rPUY0pBERsgC2xzzO5QlzIz20f3RTAyLnas0&secret=84927af7841b99ed3d4916a2b4b583b4&time=1696425172|Referer=https://kakotv.com/
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBSN SPORT 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003) 
@@ -941,10 +911,10 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=pCZLcxZBO
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBS2-1
-http://mytv.dothome.co.kr/ch/public/3.php
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBS2-2
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs2_540&sid=RbbcTZHmEnlKeN3sgMEKARGXKdWqnbz9ADgNNU7i&secret=dcc9a9d6b45c309e4a725322381e4dae&time=1696828290
+
 
 
 FORMULA 
