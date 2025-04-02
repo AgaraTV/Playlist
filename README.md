@@ -1029,8 +1029,7 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/tvrisport0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBSN SPORT 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003) 
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=pCZLcxZBOJ9Tu9emWkDHDXMlvjXwQNnJ64vrDioP&secret=37936e576d23923f9b5bf2c983350a8f&time=1739334533|Referer=https://kakotv.com/
-
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xby8orqh9fuuqp75c3m4rgap46620izekpc1/480.stream/hdntl=exp=1743619525~acl=*%2Fxby8orqh9fuuqp75c3m4rgap46620izekpc1%2F*~data=hdntl~hmac=8877908324ee865ec8eb3586b193967586782b3db97c93031f6c8d62bdd3aeeb/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWCcpvtbwUwliVkditHdaGfRM7_fzBk-kxw&s" group-title="VOLY KOREA", KBS2-1
