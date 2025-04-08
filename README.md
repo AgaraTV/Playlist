@@ -1,4 +1,8 @@
 # Playlist
+#EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/9kCf0Yws/download-1.jpg", | VOLY KOREA
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/480.stream/hdntl=exp=1744137830~acl=*%2Ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2F*~data=hdntl~hmac=40f05c7ab270a03436f7cab3253939f351c5fc2c4a8e2464c629d9dc88f6ce2b/chunklist.m3u
+
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="livebolla",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -77,7 +81,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/F4QNKTW7/download-3.jpg", | KOREA VS JORDANIA
 
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/9kCf0Yws/download-1.jpg", |
 
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/9kCf0Yws/download-1.jpg", |
