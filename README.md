@@ -1,7 +1,9 @@
 # Playlist
-#EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/mVYSq7wv/download.jpg", | VOLY KOREA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/480.stream/hdntl=exp=1744137830~acl=*%2Ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2F*~data=hdntl~hmac=40f05c7ab270a03436f7cab3253939f351c5fc2c4a8e2464c629d9dc88f6ce2b/chunklist.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQp9c5d2/pink-spider-vs-red-sparks-leg-5.jpg" group-title="🏐 FINAL 🇰🇷 VOLLEYBALL",08-04-2025 17:00 WIB 흥국생명 VS 정관장  
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/480.stream/hdntl=exp=1744137830~acl=*%2ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2f*~data=hdntl~hmac=40f05c7ab270a03436f7cab3253939f351c5fc2c4a8e2464c629d9dc88f6ce2b/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://triatmono.info/wp-content/uploads/2023/12/Red-Spark-vs-Pink-Spiders-banner-650x250.jpg" group-title="[ LIVE EVENT 🔴 ]",[17:00 WIB 08/04/2025] Red Sparks vs Pink Spider - KOVO V League Womens
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/playlist.m3u8?hdnts=st=1744105457~exp=1744137867~acl=*/fhsevbmnunr26yg17wj9j4kytled1knc20c3/*~hmac=346b5fb3ea85fa843b8db2d66c36e58e0e6e82363946f0e66d4f0e2c28f7db4f
 
 
 
