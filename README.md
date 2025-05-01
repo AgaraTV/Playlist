@@ -26,11 +26,15 @@
 
 #EXTINF:-1 group-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" 
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##🏸⚽EVENT OLAHRAGA🏀🥊##", BULUTANGKIS 1
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium810/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##🏸⚽EVENT OLAHRAGA🏀🥊##", BULUTANGKIS 2
 https://raw.githubusercontent.com/B-inalm3u-Custom/Macam-Olahraga/B-inal22/Bulutangkis2.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##🏸⚽EVENT OLAHRAGA🏀🥊##", BULUTANGKIS 3
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.u4dW7iHFrxwt.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvdTRkVzdpSEZyeHd0IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20iLCJhd3M6c3RyaWN0LW9yaWdpbi1lbmZvcmNlbWVudCI6ZmFsc2UsImV4cCI6MTc0NjA3NjM3N30.j9xISJmCnzAQWtsUVasvm6sVUHV66WoE7EgGBs2Cuik_zNeWqUP0z61iGM_k14EUdKx3Kpcu1hfAgVHuue0DieGmjBLlqkpiIV_gUUtHErvXayaildla-2yfcgq9QF6
+https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.u4dW7iHFrxwt.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##🏸⚽EVENT OLAHRAGA🏀🥊##", BULUTANGKIS 4
 
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##🏸⚽EVENT OLAHRAGA🏀🥊##", FORMULA 1 1
