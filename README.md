@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True2
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##🏸⚽EVENT OLAHRAGA🏀🥊##", BULUTANGKIS 6
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True7.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##🏸⚽EVENT OLAHRAGA🏀🥊##", BULUTANGKIS 7
-
+https://phdown.serv00.net/stv-smartv.php?id=go_badminton2
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##🏸⚽EVENT OLAHRAGA🏀🥊##", FORMULA 1 1
 https://raw.githubusercontent.com/B-inalm3u-Custom/Macam-Olahraga/B-inal22/Formula1.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##🏸⚽EVENT OLAHRAGA🏀🥊##", FORMULA 1 2
