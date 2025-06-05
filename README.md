@@ -34,11 +34,17 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas3.m3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 4
 https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 5
-https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas5.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 6
 https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas6.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 7
 https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/timnas7.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 7
+
 
 
 
