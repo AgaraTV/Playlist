@@ -84,7 +84,6 @@
 
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/58/41/kLfO47Eb_o.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg" group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 1
 https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/timnas1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 2
@@ -100,6 +99,17 @@ https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/timnas6.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 7
 https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/timnas7.m3u8
+
+
+#EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 SG 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
+ 
+#EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 SG 2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
 LOKAL
