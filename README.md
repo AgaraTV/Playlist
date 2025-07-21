@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/timnas7.m3u8
 #EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 SG 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
+
  
 #EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 SG 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -114,9 +114,15 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 TH 3
 https://stream2.aws-live-streaming.com/bbs/trueballthai9/playlist.m3u8
 
- 
+ #EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 AR 2
+https://zhangqun1818.serv00.net/0425smt.php?id=Arena2
 
-
+#EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 IN 1
+https://zhangqun1818.serv00.net/0425smt.php?id=Indosiar
+#EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 IN 2
+https://iptv543.com/smt.php?id=Indosiar
+#EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 IN 3
+http://99.iptv543.com/smt.php?id=Indosiar
 LOKAL
 ===============
 
