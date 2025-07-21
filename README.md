@@ -114,15 +114,17 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 TH 3
 https://stream2.aws-live-streaming.com/bbs/trueballthai9/playlist.m3u8
 
- #EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 AR 2
-https://zhangqun1818.serv00.net/0425smt.php?id=Arena2
+#EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 AR 2
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroArena2.m3u8
 
 #EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 IN 1
-https://zhangqun1818.serv00.net/0425smt.php?id=Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/indosiarTV3.m3u8
+
 #EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 IN 2
-https://iptv543.com/smt.php?id=Indosiar
+
 #EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 IN 3
-http://99.iptv543.com/smt.php?id=Indosiar
+
 LOKAL
 ===============
 
