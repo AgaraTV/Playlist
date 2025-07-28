@@ -103,8 +103,8 @@ https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/timnas7.m3u8
 
 #EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 SG 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
  
 #EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 SG 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -112,10 +112,9 @@ https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/timnas7.m3u8
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 #EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 TH 3
-https://stream2.aws-live-streaming.com/bbs/trueballthai9/playlist.m3u8
+
 
 #EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 AR 2
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroArena2.m3u8
 
 #EXTINF:-1 group-title="#AFF 2025#"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJMjfJ786QxZy7mUVgoFGYvfxEeRTKwd-EjWJOuC1gzfGobwIMtOr2Bo&s=10", PIALA AFF 2025 IN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
