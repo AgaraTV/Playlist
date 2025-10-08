@@ -2,53 +2,6 @@
 
 
 
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/JjCmZ2C9/download.jpg", | JEPANG VS ARAB SAUDI
-
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/9kCf0Yws/download-1.jpg", | AUSTRALIA VS CHINA
-
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/MH64mdT/download-2.jpg", | INDONESIA VS BAHRAIN
-
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event Naver TV" tvg-country="" tvg-logo="https://i.ibb.co.com/F4QNKTW7/download-3.jpg", | KOREA VS JORDANIA
-
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/0b/81/KumJseJR_o.jpg" group-title="📺QUALIFICATION WORLD CUP 2026📺",⭐Sport TV1 Por
-
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/0b/81/KumJseJR_o.jpg" group-title="📺QUALIFICATION WORLD CUP 2026📺",⭐Sport TV2 P
-
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/0b/81/KumJseJR_o.jpg" group-title="📺QUALIFICATION WORLD CUP 2026📺",⭐SPORT TV 3 ᴴᴰ
-
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/0b/81/KumJseJR_o.jpg" group-title="📺QUALIFICATION WORLD CUP 2026📺",⭐Movistar Deportes Spain
-
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/0b/81/KumJseJR_o.jpg" group-title="📺QUALIFICATION WORLD CUP 2026📺",⭐Premier Sports Ireland 1
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-referrer=https://topembed.pw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/0b/81/KumJseJR_o.jpg" group-title="📺QUALIFICATION WORLD CUP 2026📺",⭐SPORT TV PT 3
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/0b/81/KumJseJR_o.jpg" group-title="📺QUALIFICATION WORLD CUP 2026📺",⭐SPORT TV PT 1
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/0b/81/KumJseJR_o.jpg" group-title="📺QUALIFICATION WORLD CUP 2026📺",⭐
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/0b/81/KumJseJR_o.jpg" group-title="📺QUALIFICATION WORLD CUP 2026📺",⭐
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/0b/81/KumJseJR_o.jpg" group-title="📺QUALIFICATION WORLD CUP 2026📺",⭐
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/58/41/kLfO47Eb_o.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##",RCTI SPORT 1
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/58/41/kLfO47Eb_o.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##",RCTI SPORT 2
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/58/41/kLfO47Eb_o.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##",RCTI SPORT 3
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",SPRTSTARS 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -61,12 +14,25 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",SPRTSTARS 2b
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",SPRTSTARS 2c
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",V+ Sport
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12bad56c9dc24177883cc4b9fd2c29f6:c2898370a57d3ad4e6806f961885e59d
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -75,31 +41,26 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpgg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 1
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 2
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 3
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 4
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpgg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 5
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 6
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas6.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 7
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas7.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 8
 https://raw.githubusercontent.com/B-inal-123/s-africa/inal-22/Azam2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 9
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 9
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:37:47:85&stream=4848&extension=ts&play_token=YEHvhPtnSR
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8eb3c9b8502f4529eeccf966aa808968:b01da1fcd514bdfdf01e86ec1b61f7f5
-https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19497&type=dash
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 10
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 11
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 12
