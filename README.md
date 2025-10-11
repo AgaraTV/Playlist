@@ -17,8 +17,8 @@ https://liveplus.rctiplus.id/RTMP-IN.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",V+ Sport
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",K+ Sport 1
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",ASTRO ARENA
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpgg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 1
