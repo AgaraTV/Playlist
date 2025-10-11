@@ -9,15 +9,13 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",SPRTSTARS 2b
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",R+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",RCTI+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",V+ Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_600000=7-mp4a_96000=1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",K+ Sport 1
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas1.m3u8
