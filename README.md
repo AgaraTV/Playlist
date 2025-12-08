@@ -1,60 +1,11 @@
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",SPRTSTARS 2
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",SPRTSTARS 2a
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",SPRTSTARS 2b
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",RCTI+
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",V+ Sport
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yF5Q85k1/images.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",ASTRO ARENA
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpgg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 1
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 3
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpgg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 5
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 6
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 7
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/232fHGqC/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 10
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 11
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 12
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title=",Kualifikasi Piala Dunia FIFA 26 zona AFC",TIMNAS 13
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 14
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title="##🇮🇩TIMNAS & ISL DAY🇮🇩##", TIMNAS 15
-
 "##📺SEA GAMES📺##"
 
 XTINF:-1 group-logo="" group-title="##📺SEA GAMES📺##" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/a-pcF0L-mXNhcXn-4xZW6AbwXh8=/800x800/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5428233/original/016553400_1764486918-1000251585.jpg",Sea Games 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d56316d3d77148d18bd1f23138247207:340620d36e8e8209a7608154ff0c96d4
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
+
 #EXTINF:-1 group-logo="" group-title="##📺SEA GAMES📺##" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/a-pcF0L-mXNhcXn-4xZW6AbwXh8=/800x800/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5428233/original/016553400_1764486918-1000251585.jpg",Sea Games 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
@@ -67,7 +18,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e02fc4146be34c2db75a847a6f5e95e9:a25a6118776646a690b2931609264bd5
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/index.mpd
-fb-b1c2-699cc7cd97bb
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV1
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship1.m3u8
