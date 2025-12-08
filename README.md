@@ -1,7 +1,7 @@
 
 SEA GAMES
 
-XTINF:-1 group-logo="" group-title="##📺SEA GAMES📺##" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/a-pcF0L-mXNhcXn-4xZW6AbwXh8=/800x800/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5428233/original/016553400_1764486918-1000251585.jpg",Sea Games 1
+#EXTINF:-1 group-logo="" group-title="##📺SEA GAMES📺##" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/a-pcF0L-mXNhcXn-4xZW6AbwXh8=/800x800/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5428233/original/016553400_1764486918-1000251585.jpg",Sea Games 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d56316d3d77148d18bd1f23138247207:340620d36e8e8209a7608154ff0c96d4
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
