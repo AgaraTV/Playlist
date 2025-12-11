@@ -20,104 +20,36 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/in
 #KODIPROP:inputstream.adaptive.license_key=e02fc4146be34c2db75a847a6f5e95e9:a25a6118776646a690b2931609264bd5
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV1
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV2
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV3
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV4
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship4.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV5
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship5.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV6
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship6.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV7
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship7.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship8.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV9
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship9.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV10
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship10.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV11
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship11.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV12
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship12.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV13
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship13.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV14
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship14.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV15
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship15.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV16
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship16.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV17
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship17.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV18
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship18.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV19
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship19.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV20
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship20.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV21
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship21.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV22
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship22.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV23
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship23.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="##📺SEA GAMES📺##", EVENT PPV24
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship24.m3u8
+#EXTINF:-1  tvg-id="576059" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250" group-title="##📺SEA GAMES📺##"  SEA Games 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
+https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="##📺SEA GAMES📺##", AKTIF SAAT EVENT 1
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
+#EXTINF:-1  tvg-id="576060" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298974'&EntityType='Item'&EntityId='576060'&Width=289&Height=250" group-title="##📺SEA GAMES📺##"  SEA Games 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
+https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="##📺SEA GAMES📺##", AKTIF SAAT EVENT 2
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l2/playlist.m3u8
+#EXTINF:-1  tvg-id="576061" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298979'&EntityType='Item'&EntityId='576061'&Width=289&Height=250" group-title="##📺SEA GAMES📺##"  SEA Games 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
+https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="##📺SEA GAMES📺##", AKTIF SAAT EVENT 3
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l3/playlist.m3u8
+#EXTINF:-1  tvg-id="580750" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298988'&EntityType='Item'&EntityId='580750'&Width=289&Height=250" group-title="##📺SEA GAMES📺##"  SEA Games 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
+https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="##📺SEA GAMES📺##", AKTIF SAAT EVENT 4
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l4/playlist.m3u8
+#EXTINF:-1  tvg-id="580751" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298994'&EntityType='Item'&EntityId='580751'&Width=289&Height=250" group-title="##📺SEA GAMES📺##"  SEA Games 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
+https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="##📺SEA GAMES📺##", AKTIF SAAT EVENT 5
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m4l1/playlist.m3u8
+#EXTINF:-1  tvg-id="580752" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10299762'&EntityType='Item'&EntityId='580752'&Width=289&Height=250" group-title="##📺SEA GAMES📺##"  SEA Games 10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
+https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
 
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="##📺SEA GAMES📺##",AKTIF SAAT EVENT 6
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/kensd1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="##📺SEA GAMES📺##",AKTIF SAAT EVENT 7
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/laruesd1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="##📺SEA GAMES📺##",AKTIF SAAT EVENT 8
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/becksd1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="##📺SEA GAMES📺##",AKTIF SAAT EVENT 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m306qt/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="##📺SEA GAMES📺##",AKTIF SAAT EVENT 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m303qt/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="##📺SEA GAMES📺##",AKTIF SAAT EVENT 11
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m205qt/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="##📺SEA GAMES📺##",AKTIF SAAT EVENT 12
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m305qt/playlist.m3u8
 
 
 LOKAL
