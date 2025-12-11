@@ -1,51 +1,51 @@
 
 SEA GAMES
 
-#EXTINF:-1 group-logo="" group-title="##📺SEA GAMES📺##" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/a-pcF0L-mXNhcXn-4xZW6AbwXh8=/800x800/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5428233/original/016553400_1764486918-1000251585.jpg",Sea Games 1
+#EXTINF:-1 group-logo="" group-title="📺SEA GAMES📺" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/a-pcF0L-mXNhcXn-4xZW6AbwXh8=/800x800/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5428233/original/016553400_1764486918-1000251585.jpg",Sea Games 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d56316d3d77148d18bd1f23138247207:340620d36e8e8209a7608154ff0c96d4
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="##📺SEA GAMES📺##" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/a-pcF0L-mXNhcXn-4xZW6AbwXh8=/800x800/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5428233/original/016553400_1764486918-1000251585.jpg",Sea Games 2
+#EXTINF:-1 group-logo="" group-title="📺SEA GAMES📺" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/a-pcF0L-mXNhcXn-4xZW6AbwXh8=/800x800/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5428233/original/016553400_1764486918-1000251585.jpg",Sea Games 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="##📺SEA GAMES📺##" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/a-pcF0L-mXNhcXn-4xZW6AbwXh8=/800x800/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5428233/original/016553400_1764486918-1000251585.jpg",Sea Games 3
+#EXTINF:-1 group-logo="" group-title="📺SEA GAMES📺" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/a-pcF0L-mXNhcXn-4xZW6AbwXh8=/800x800/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5428233/original/016553400_1764486918-1000251585.jpg",Sea Games 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
-#EXTINF:-1 group-logo="" group-title="##📺SEA GAMES📺##" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/a-pcF0L-mXNhcXn-4xZW6AbwXh8=/800x800/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5428233/original/016553400_1764486918-1000251585.jpg",Sea Games 4
+#EXTINF:-1 group-logo="" group-title="📺SEA GAMES📺" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/a-pcF0L-mXNhcXn-4xZW6AbwXh8=/800x800/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5428233/original/016553400_1764486918-1000251585.jpg",Sea Games 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e02fc4146be34c2db75a847a6f5e95e9:a25a6118776646a690b2931609264bd5
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/index.mpd
 
-#EXTINF:-1  tvg-id="576059" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250" group-title="##📺SEA GAMES📺##"  SEA Games 5
+#EXTINF:-1  tvg-id="576059" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250" group-title="📺SEA GAMES📺" CH 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
 https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
 
-#EXTINF:-1  tvg-id="576060" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298974'&EntityType='Item'&EntityId='576060'&Width=289&Height=250" group-title="##📺SEA GAMES📺##"  SEA Games 6
+#EXTINF:-1  tvg-id="576060" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298974'&EntityType='Item'&EntityId='576060'&Width=289&Height=250" group-title="📺SEA GAMES📺" CH 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
 https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
 
-#EXTINF:-1  tvg-id="576061" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298979'&EntityType='Item'&EntityId='576061'&Width=289&Height=250" group-title="##📺SEA GAMES📺##"  SEA Games 7
+#EXTINF:-1  tvg-id="576061" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298979'&EntityType='Item'&EntityId='576061'&Width=289&Height=250" group-title="📺SEA GAMES📺" CH 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
 https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
 
-#EXTINF:-1  tvg-id="580750" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298988'&EntityType='Item'&EntityId='580750'&Width=289&Height=250" group-title="##📺SEA GAMES📺##"  SEA Games 8
+#EXTINF:-1  tvg-id="580750" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298988'&EntityType='Item'&EntityId='580750'&Width=289&Height=250" group-title="📺SEA GAMES📺" CH 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
 https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
 
-#EXTINF:-1  tvg-id="580751" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298994'&EntityType='Item'&EntityId='580751'&Width=289&Height=250" group-title="##📺SEA GAMES📺##"  SEA Games 9
+#EXTINF:-1  tvg-id="580751" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298994'&EntityType='Item'&EntityId='580751'&Width=289&Height=250" group-title="📺SEA GAMES📺" CH 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
 https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
 
-#EXTINF:-1  tvg-id="580752" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10299762'&EntityType='Item'&EntityId='580752'&Width=289&Height=250" group-title="##📺SEA GAMES📺##"  SEA Games 10
+#EXTINF:-1  tvg-id="580752" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10299762'&EntityType='Item'&EntityId='580752'&Width=289&Height=250" group-title="📺SEA GAMES📺" CH 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
