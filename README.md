@@ -53,10 +53,10 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 
 #EXTINF:-1 group-logo="" group-title="📺SEA GAMES📺" tvg-id="" tvg-logo="https://i.ibb.co.com/qLDDj3Xn/download-1.jpg",BADMINTON 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://tinyurl.com/bdac9k9t?utm_medium=social&utm_source=heylink.me
+
 #EXTINF:-1 group-logo="" group-title="📺SEA GAMES📺" tvg-id="" tvg-logo="https://i.ibb.co.com/qLDDj3Xn/download-1.jpg",BADMINTON 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://www.youtube.com/watch?v=pH3J4lfPmUw&utm_medium=social&utm_source=heylink.me
+
 
 LOKAL
 ===============
