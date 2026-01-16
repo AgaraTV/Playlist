@@ -650,10 +650,10 @@ LIVE BADMINTON
 ======================
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆"​,  1
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com/live/4109065585652061_AiHD.m3u8?txSecret=6ebed440d6238b28f9542451eb704a84&txTime=6961CEC0&utm_medium=social&utm_source=heylink.me
+
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  2
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://6016c12814103e2553f354492d71134e.v.smtcdns.net/play.cbalive.weibisai.com/live/4109065740311061_AiHD.m3u8?txSecret=b7d996a9cfc16c911f55da7252c68988&txTime=6961CEC0&utm_medium=social&utm_source=heylink.me
+
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  3
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
