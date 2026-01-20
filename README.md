@@ -656,11 +656,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  3
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -670,15 +666,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  5
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://liveplus.rctiplus.id/RTMP-IN.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  6
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroBadminton.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  7
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroBadmintonB.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏆LIVE BADMINTON🏆",  8
 
 
