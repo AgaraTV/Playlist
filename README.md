@@ -322,7 +322,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-url="https://bit.ly/UnifyEpg" tvg-id="103" group-title="Malaysia" tvg-logo="https://tv.cic.net.id/uploads/TV3.png",TV3
-http://iptv.kilas7.com:80/kaukia/asdfrewq/26
+https://raw.githubusercontent.com/B-inal-123/astro-go/inal-22/Tv3MY.m3u8
 
 #EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
