@@ -2703,111 +2703,12 @@ https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
 https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
 
 
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="Sports",Champions TV 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6685&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6685&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="Sports",Champions TV 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6686&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6686&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="Sports",Champions TV 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6786&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6786&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="Sports",Champions TV 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9182&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=9182&type=dash
-
-
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="Sports",Champions TV 6
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9183&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=9183&type=dash
-
-#EXTINF:-1 tvg-id="Champions Golf 1" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-golf-1-c968f8.jpg" group-title="Sports", CHAMPIONS GOLF 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=18189&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=18189&type=dash
-
-#EXTINF:-1 tvg-id="Champions Golf 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-golf-2-5c9462.jpg" group-title="Sports", CHAMPIONS GOLF 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=18190&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=18190&type=dash
-
-#EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="Sports", PREMIER LEAGUE TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9353&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=9353&type=dash
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="Sports",SKYSPORTS PREMIER LEAGUE
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports",SpoTV
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Sports",SpoTV 2
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="Sports", ASTRO FOOTBALL
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
-
-#EXTINF:-1 tvg-id="FightSports" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhTcCyi.jpeg" group-title="Sports", MOTORVISION+
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-#EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" group-title="Sports" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
-https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
-
-
-#EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/nba-tv-646502.jpg" group-title="Sports", NBA TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6717&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6717&type=dash
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" group-title="Sports" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 #EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="Sports",Soccer Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -2830,44 +2731,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Sports",Sportstars 2 ᴴᴰ
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=114
-#EXTINF:-1 tvg-id="MNCSports3.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="Sports",Sportstars 3 ᴴᴰ
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Sports", SPORTSTARS 4 ᴴᴰ
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="Sports", UNIFI SPORTS
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="Sports",SPORTS TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="Sports", DUBAI SPORTS 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="Sports", DUBAI SPORTS 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-name="Astro Grandstand" tvg-id="Astro Grandstand" tvg-logo="https://livecdn.zbds.top/logo/Astro Grandstand.png" group-title="Sports", Astro Grandstand
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
-
-#EXTINF:-1 tvg-name="Astro Football" tvg-id="Astro Football" tvg-logo="https://livecdn.zbds.top/logo/Astro Football.png" group-title="Sports", Astro Football
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
-
-#EXTINF:-1 tvg-name="Astro Premier League 1" tvg-id="Astro Premier League 1" tvg-logo="https://livecdn.zbds.top/logo/Astro Premier League 1.png" group-title="Sports", Astro Premier League 1
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
 
 
 
