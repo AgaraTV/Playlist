@@ -68,16 +68,16 @@ https://tfwe3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 
 
 
--- World Cup 2026 --
+🏆-- World Cup 2026 --🏆
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="World Cup 2026", TVRI Nasional
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="🏆World Cup 2026🏆", TVRI Nasional
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="World Cup 2026", TVRI Sport
+#EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="🏆World Cup 2026🏆", TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 http://202.169.224.202:8800/udp/239.1.2.3:1234
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
@@ -87,184 +87,184 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=l
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
-#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="World Cup 2026", Channel 5 (Singapore)
+#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="🏆World Cup 2026🏆", Channel 5 (Singapore)
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/3840px-Mewatch_2023.svg.png" group-title="World Cup 2026", M-Live 1
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/3840px-Mewatch_2023.svg.png" group-title="🏆World Cup 2026🏆", M-Live 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/3840px-Mewatch_2023.svg.png" group-title="World Cup 2026", M-Live 2
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/3840px-Mewatch_2023.svg.png" group-title="🏆World Cup 2026🏆", M-Live 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/3840px-Mewatch_2023.svg.png" group-title="World Cup 2026", M-Live 5
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/3840px-Mewatch_2023.svg.png" group-title="🏆World Cup 2026🏆", M-Live 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/3840px-Mewatch_2023.svg.png" group-title="World Cup 2026", M-Live 6
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/3840px-Mewatch_2023.svg.png" group-title="🏆World Cup 2026🏆", M-Live 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/3840px-Mewatch_2023.svg.png" group-title="World Cup 2026", M-Live 7
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/3840px-Mewatch_2023.svg.png" group-title="🏆World Cup 2026🏆", M-Live 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5332345367554fd39588283a2b949d02:8abcd0b3126923b068c26508e24c9f69
 https://sports.semar.my.id/get.php?id=mw7.mpd&auth=mw7semar25
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R4zwvL4T/media.png" group-title="World Cup 2026", Mediacorp Entertainment - Chinese (Singapore)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R4zwvL4T/media.png" group-title="🏆World Cup 2026🏆", Mediacorp Entertainment - Chinese (Singapore)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8?ads.vf=5mohxYauw_q
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R4zwvL4T/media.png" group-title="World Cup 2026", Mediacorp Entertainment - English (Singapore)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R4zwvL4T/media.png" group-title="🏆World Cup 2026🏆", Mediacorp Entertainment - English (Singapore)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8?ads.vf=g48qoh_qHLS
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R4zwvL4T/media.png" group-title="World Cup 2026", Mediacorp Entertainment - Tamil (Singapore)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R4zwvL4T/media.png" group-title="🏆World Cup 2026🏆", Mediacorp Entertainment - Tamil (Singapore)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8?ads.vf=7NuondEN9pK
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="World Cup 2026", CCTV5 (China)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🏆World Cup 2026🏆", CCTV5 (China)
 http://74.91.26.218:82/live/cctv5hd.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 http://69.30.245.50/live/cctv5.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="World Cup 2026", CCTV5+ (China)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="🏆World Cup 2026🏆", CCTV5+ (China)
 http://74.91.26.218:82/live/cctv5p.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 http://69.30.246.194/live/cctv5p.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="World Cup 2026", CCTV16 (China)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="🏆World Cup 2026🏆", CCTV16 (China)
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 
-#EXTINF:-1 tvg-id="NHKBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png" group-title="World Cup 2026", NHK BS (Japan)
+#EXTINF:-1 tvg-id="NHKBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png" group-title="🏆World Cup 2026🏆", NHK BS (Japan)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 
-#EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png" group-title="World Cup 2026", NHK BS Premium 4K (Japan)
+#EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png" group-title="🏆World Cup 2026🏆", NHK BS Premium 4K (Japan)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 
-#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="World Cup 2026", NHK G (Japan)
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="🏆World Cup 2026🏆", NHK G (Japan)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 
-#EXTINF:-1 tvg-id="JOBKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="World Cup 2026", NHK G Osaka (Japan)
+#EXTINF:-1 tvg-id="JOBKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="🏆World Cup 2026🏆", NHK G Osaka (Japan)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 
-#EXTINF:-1 tvg-chno="65" tvg-id="WJBK-DT.us_locals1" tvg-name="Fox" tvg-logo="https://i.ibb.co.com/n91RsFL/fox.png" group-title="World Cup 2026", Fox (United States)
+#EXTINF:-1 tvg-chno="65" tvg-id="WJBK-DT.us_locals1" tvg-name="Fox" tvg-logo="https://i.ibb.co.com/n91RsFL/fox.png" group-title="🏆World Cup 2026🏆", Fox (United States)
 http://stream.cammonitorplus.net/1772/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="World Cup 2026", FS1 (United States)
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="🏆World Cup 2026🏆", FS1 (United States)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
 
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="World Cup 2026", TUDN (Mexico)
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🏆World Cup 2026🏆", TUDN (Mexico)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="World Cup 2026", Las Estrellas (Mexico)
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="🏆World Cup 2026🏆", Las Estrellas (Mexico)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="World Cup 2026", TSN 1 (Canada)
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="🏆World Cup 2026🏆", TSN 1 (Canada)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co.com/23q3MCzb/tsn2.jpg" group-title="World Cup 2026", TSN 2 (Canada)
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co.com/23q3MCzb/tsn2.jpg" group-title="🏆World Cup 2026🏆", TSN 2 (Canada)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="World Cup 2026", TSN 3 (Canada)
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="🏆World Cup 2026🏆", TSN 3 (Canada)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN4.ca2" tvg-name="TSN4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="World Cup 2026", TSN 4 (Canada)
+#EXTINF:-1 tvg-id="TSN4.ca2" tvg-name="TSN4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="🏆World Cup 2026🏆", TSN 4 (Canada)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="World Cup 2026", TSN 5 (Canada)
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="🏆World Cup 2026🏆", TSN 5 (Canada)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
-#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://i.ibb.co.com/Q3vmBmzt/bbc.png" group-title="World Cup 2026", BBC One (United Kingdom)
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://i.ibb.co.com/Q3vmBmzt/bbc.png" group-title="🏆World Cup 2026🏆", BBC One (United Kingdom)
 https://xemzi.short.gy/1000001
 
-#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two" tvg-logo="https://i.ibb.co.com/SXFHN8TF/bbc2.png" group-title="World Cup 2026", BBC Two (United Kingdom)
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two" tvg-logo="https://i.ibb.co.com/SXFHN8TF/bbc2.png" group-title="🏆World Cup 2026🏆", BBC Two (United Kingdom)
 https://xemzi.short.gy/1000002
 
-#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="World Cup 2026" radio="false", beIN Sports 1 (France)
+#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="🏆World Cup 2026🏆" radio="false", beIN Sports 1 (France)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
-#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/beinsports2.png" group-title="World Cup 2026" radio="false", beIN Sports 2 (France)
+#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/beinsports2.png" group-title="🏆World Cup 2026🏆" radio="false", beIN Sports 2 (France)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"85ac9362e89354ef5341fe4dbee0dd6a": "e556276599c55bdee169f39eab8e56bc", "71fcdcfd58c608662db317fcf4411c19": "eaf76e97b969a7d124a720a109acda61", "6c976caa628fde89aacedbd47059967e": "0d1e54565950c1e2f58d45c561a47187", "7a62a516c5d980553f497c6bfc469b19": "a0eeb97b4d14d6bb7a5c39755dd7c41c", "f81df5cf72bd43c3da84d04dc8691fcb": "4a60e4e009560c40766a0fa38770ef4e"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 
-#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/beinsports3.png" group-title="World Cup 2026" radio="false", beIN Sports 3 (France)
+#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/beinsports3.png" group-title="🏆World Cup 2026🏆" radio="false", beIN Sports 3 (France)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4281ee112555097325058cb7355035b4": "1a88899547f7fd4a5c22ee8150d89208", "b4023d3a71316ed3cd06af7e43988d31": "91a96d592dd6e946b0f0074d15ac1168", "441100b7de65d7c582a9c71140e46f79": "ef37dadc14bdade17224ef4bc9f87ce6", "43faba2da98eeeeb42481dca873d3460": "f8b58939398e5a5574c18408d304d44e", "92e8cc9527c7f56a10777278cb801027": "4ce3f3e2234f00b21ba77006f197832a"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="World Cup 2026", beIN Sports MAX 4 (France)
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="🏆World Cup 2026🏆", beIN Sports MAX 4 (France)
 http://front-main.eagle-4k.me:80/Emeka20252025/fwazza47nd/212588
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="World Cup 2026", beIN Sports MAX 5 (France)
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="🏆World Cup 2026🏆", beIN Sports MAX 5 (France)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="World Cup 2026", beIN Sports MAX 6 (France)
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="🏆World Cup 2026🏆", beIN Sports MAX 6 (France)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yYYxNFFJQ2w3eMrqtX2XxQ","k":"YSVZDrmgy4yaF90mgAACkg"},{"kty":"oct","kid":"n4mcpBLhgHdviFwMIUsCoA","k":"PzV909+vkmI5A8qRuIsF9A"},{"kty":"oct","kid":"A+5m6Sb2o0oYFfEXvBJ5nA","k":"HciVpD4gfwK9L85i3l+9Og"},{"kty":"oct","kid":"JXGAsG/5y826q8GuN2UPng","k":"oAdo0BvILC3X4hHFmt3Jpg"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="World Cup 2026", beIN Sports MAX 7 (France)
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="🏆World Cup 2026🏆", beIN Sports MAX 7 (France)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"P6u/hBdnpkWtLYXB4JnpTQ","k":"veY1qjAoqrONaAZy+IoMfA"},{"kty":"oct","kid":"xMZPFBSVjN4H/kDNhfIjjA","k":"ziiHuEO3WQpe4IOk2PZnwg"},{"kty":"oct","kid":"beH6tI2CWzmmN0bYnpCoSA","k":"JDWhEQ6JK32pTnmnvUm0nA"},{"kty":"oct","kid":"M3NIiSyqu7FHY1SMyxpqxw","k":"dEXBfW2jOmTqgjikM/nL4w"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="World Cup 2026", beIN Sports MAX 8 (France)
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="🏆World Cup 2026🏆", beIN Sports MAX 8 (France)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nyyYAGozu8g/fAPvNTBAOw","k":"VGsdNLG+ERxRPTj+yuqZ5A"},{"kty":"oct","kid":"60lJeWg5sIkYvE68Jazrpg","k":"m1On/Af6kFGqz4vGk7GHsA"},{"kty":"oct","kid":"0FJZFObD5r5v6F3NuKO+Lw","k":"2hyWuQPAwlLxsdgvJRfAfg"},{"kty":"oct","kid":"Swndelr/YBIS89SYMJ5GfA","k":"ftV9Nqhbuoi3N2k6s2gzDg"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="World Cup 2026", beIN Sports MAX 9 (France)
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="🏆World Cup 2026🏆", beIN Sports MAX 9 (France)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RSbM19SZsLJAEc5a3OGGVg","k":"PS7YDPH1qaS5p2IbnmxOKg"},{"kty":"oct","kid":"4gBtijMCXNeUOl8CABeB7A","k":"Ncey7Cfys3SScHqLTNNxVA"},{"kty":"oct","kid":"GjGJTwxBoP4MUIeE0NFWmw","k":"EhFkMR97MIo35VBLcXrj1Q"},{"kty":"oct","kid":"qNXw4AIU43d9dbibBdr2TQ","k":"8DceiPbCv3hE1p2bngpSrw"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.10.fr" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="World Cup 2026", beIN Sports MAX 10 (France)
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.10.fr" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="🏆World Cup 2026🏆", beIN Sports MAX 10 (France)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV" tvg-logo="https://i.ibb.co.com/qKJ3RMH/sporbaara.png" group-title="World Cup 2026", SporTV (Brazil)
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV" tvg-logo="https://i.ibb.co.com/qKJ3RMH/sporbaara.png" group-title="🏆World Cup 2026🏆", SporTV (Brazil)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -272,14 +272,14 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2" tvg-logo="https://i.ibb.co.com/5XjSqBcs/download.jpg" group-title="World Cup 2026", SporTV 2 (Brazil)
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2" tvg-logo="https://i.ibb.co.com/5XjSqBcs/download.jpg" group-title="🏆World Cup 2026🏆", SporTV 2 (Brazil)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
 
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3" tvg-logo="https://i.ibb.co.com/RGX1sFSD/download-1.jpg" group-title="World Cup 2026", SporTV 3 (Brazil)
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3" tvg-logo="https://i.ibb.co.com/RGX1sFSD/download-1.jpg" group-title="🏆World Cup 2026🏆", SporTV 3 (Brazil)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
