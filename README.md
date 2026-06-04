@@ -15,22 +15,22 @@ https://live2.pro2cdnlive.com/live/channel6.m3u8
 
 VNL
 <================================================>
-#EXTINF:-1 group-title="EVENT 04/JUNI/2026" tvg-logo="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s](https://i.ibb.co.com/1JmRYG6C/VNL.jpg)", 14:00 WIB Czechia v Poland | Week 1 | Women's VNL 2026 (1)
+#EXTINF:-1 group-title="EVENT 04/JUNI/2026" tvg-logo="https://i.ibb.co.com/1JmRYG6C/VNL.jpg", 14:00 WIB Czechia v Poland | Week 1 | Women's VNL 2026 (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=0c467848db6f7df2a554355fc5f525b2&wsABSTime=1780545407
 
-#EXTINF:-1 group-title="EVENT 04/JUNI/2026" tvg-logo="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s](https://i.ibb.co.com/1JmRYG6C/VNL.jpg)", 03:30 WIB France v Japan | Week 1 | Women's VNL 2026 (2)
+#EXTINF:-1 group-title="EVENT 04/JUNI/2026" tvg-logo="https://i.ibb.co.com/1JmRYG6C/VNL.jpg", 03:30 WIB France v Japan | Week 1 | Women's VNL 2026 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=56806a5bbb9531980cbee8e6d600eaab&wsABSTime=1780532037
 
-#EXTINF:-1 group-title="EVENT 04/JUNI/2026" tvg-logo="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s](https://i.ibb.co.com/1JmRYG6C/VNL.jpg)", 18:30 WIB China v Thailand | Week 1 | Women's VNL 2026 (2)
+#EXTINF:-1 group-title="EVENT 04/JUNI/2026" tvg-logo="https://i.ibb.co.com/1JmRYG6C/VNL.jpg", 18:30 WIB China v Thailand | Week 1 | Women's VNL 2026 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=0c467848db6f7df2a554355fc5f525b2&wsABSTime=1780545407
 
-#EXTINF:-1 group-title="EVENT 04/JUNI/2026"  tvg-logo="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10](https://i.ibb.co.com/1JmRYG6C/VNL.jpg)", VNL WOMEN 1
+#EXTINF:-1 group-title="EVENT 04/JUNI/2026"  tvg-logo="[https://i.ibb.co.com/1JmRYG6C/VNL.jpg, VNL WOMEN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -42,7 +42,7 @@ https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=0c467848db6f7df2a5543
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21603&type=drm
 https://tvratu.my.id/vid/index.mpd?id=21603&type=dash
 
-#EXTINF:-1 group-title="EVENT 04/JUNI/2026"  tvg-logo="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10](https://i.ibb.co.com/1JmRYG6C/VNL.jpg)", VNL WOMEN 2
+#EXTINF:-1 group-title="EVENT 04/JUNI/2026"  tvg-logo="https://i.ibb.co.com/1JmRYG6C/VNL.jpg", VNL WOMEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
