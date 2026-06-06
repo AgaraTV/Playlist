@@ -145,36 +145,19 @@ https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", EVENT 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", EVENT 7
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", EVENT 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://cronos.mangora1.cfd/000/
 https://cronos.mangora1.cfd/puki1/usergendx6kal0r2bsm.m3u8
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", EVENT 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png",EVENT 9
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png",EVENT 7
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", EVENT 10
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", EVENT 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel8.m3u8
