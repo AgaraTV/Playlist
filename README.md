@@ -1,6 +1,15 @@
 
 LIVE EVENT
 <================================================>
+#EXTINF:-1 group-title="EVENT 07/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XMH31OofgsKuQn1SioWS_V2VYa6U7oSeRQ&s", 20:00 WIB Indonesia U-19 vs Vietnam U-19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel5.m3u8
+
+#EXTINF:-1 group-title="EVENT 07/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XMH31OofgsKuQn1SioWS_V2VYa6U7oSeRQ&s", 20:00 WIB Timor-Leste U-19 vs Myanmar U-19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel14.m3u8
 
 
 
