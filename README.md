@@ -1,15 +1,18 @@
 
 LIVE EVENT
 <================================================>
-#EXTINF:-1 group-title="EVENT 07/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XMH31OofgsKuQn1SioWS_V2VYa6U7oSeRQ&s", 20:00 WIB Indonesia U-19 vs Vietnam U-19
+#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", AVC CUP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live2.pro2cdnlive.com/live/channel5.m3u8
-
-#EXTINF:-1 group-title="EVENT 07/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XMH31OofgsKuQn1SioWS_V2VYa6U7oSeRQ&s", 20:00 WIB Timor-Leste U-19 vs Myanmar U-19
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=736fd166bfa80781fe96a2d49273acfc&wsABSTime=1780853444
+#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", AVC CUP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live2.pro2cdnlive.com/live/channel14.m3u8
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=898a1545ab26e16c8ec3295b66166f27&wsABSTime=1780891036
+#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", AVC CUP 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=898a1545ab26e16c8ec3295b66166f27&wsABSTime=1780891036
 
 
 
@@ -23,15 +26,6 @@ VNL
 
 #EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://i.ibb.co.com/1JmRYG6C/VNL.jpg", Women's VNL 2026 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21603&type=drm
-https://tvratu.my.id/vid/index.mpd?id=21603&type=dash
 
 #EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://i.ibb.co.com/1JmRYG6C/VNL.jpg",  Women's VNL 2026 (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -44,15 +38,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it
 
 #EXTINF:-1 group-title="EVENT JUNI/2026"  tvg-logo="https://i.ibb.co.com/1JmRYG6C/VNL.jpg", VNL WOMEN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21603&type=drm
-https://tvratu.my.id/vid/index.mpd?id=21603&type=dash
 
 #EXTINF:-1 group-title="EVENT JUNI/2026"  tvg-logo="https://i.ibb.co.com/1JmRYG6C/VNL.jpg", VNL WOMEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -69,29 +54,6 @@ https://tvratu.my.id/vid/index.mpd?id=206&type=dash
 
 
 <=================== Badminton =============================>
-
-#EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNEKCy9owN4JTMFsyDT9DukRtgE82p_4yP9A&s",POLYTRON Indonesia Open 2026
-#EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNEKCy9owN4JTMFsyDT9DukRtgE82p_4yP9A&s",POLYTRON Indonesia Open 2026
-https://tfwe3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel61.m3u8?wsSession=e6658d81c1f79bee4ef5b0f3-178037932387442&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsBindIP=2&wsserid=1168278531255916870
-
-#EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNEKCy9owN4JTMFsyDT9DukRtgE82p_4yP9A&s", POLYTRON Indonesia Open 2026 RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-#EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNEKCy9owN4JTMFsyDT9DukRtgE82p_4yP9A&s", POLYTRON Indonesia Open 2026 SPST 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
-#EXTINF:-1 group-title="EVENT 05/JUNI/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 15:40 WIB MotoGP Free Practice 1: Grand Prix of Hungary - MotoGP 2026 Round 8
-
-
-#EXTINF:-1 group-title="EVENT 05/JUNI/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 19:50 WIB MotoGP Practice: Grand Prix of Hungary - MotoGP 2026 Round 8
-
-
-
 
 
 <=================== CADANGAN EVENT =============================>
