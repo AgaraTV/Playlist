@@ -168,17 +168,24 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #http://202.169.224.202:8800/udp/239.1.2.3:1234
 #https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/JRqWrB6S/fifa1.jpg"group-title="🏆🏆LIVE WORLD CUP 2026🏆🏆",
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/SD5j13yY/Prediksi-Kanada-vs-Bosnia-Piala-Dunia.webp"group-title="🏆🏆LIVE WORLD CUP 2026🏆🏆",KANADA VS BOSNIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8?ads.vf=5mohxYauw_q
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/JRqWrB6S/fifa1.jpg"group-title="🏆🏆LIVE WORLD CUP 2026🏆🏆",
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/vC8QXncS/images.jpg"group-title="🏆🏆LIVE WORLD CUP 2026🏆🏆",Amerika Serikat vs Paraguay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8?ads.vf=7NuondEN9pK
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/JRqWrB6S/fifa1.jpg"group-title="🏆🏆LIVE WORLD CUP 2026🏆🏆",
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/XZFgXgrH/Prediksi-Skor-Qatar-vs-Swiss.webp"group-title="🏆🏆LIVE WORLD CUP 2026🏆🏆",
+Qatar vs Swiss
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://74.91.26.218:82/live/cctv5hd.m3u8
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/JRqWrB6S/fifa1.jpg"group-title="🏆🏆LIVE WORLD CUP 2026🏆🏆",
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/GQsLck8N/images-1.jpg"group-title="🏆🏆LIVE WORLD CUP 2026🏆🏆",BRASIL VS MAROKO
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/JRqWrB6S/fifa1.jpg"group-title="🏆🏆LIVE WORLD CUP 2026🏆🏆",
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/tMZTwLWJ/images-2.jpg"group-title="🏆🏆LIVE WORLD CUP 2026🏆🏆",HAITI VS SCOTLANDIA
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/JRqWrB6S/fifa1.jpg"group-title="🏆🏆LIVE WORLD CUP 2026🏆🏆",
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/jPQVsCYF/kgoj1q1775058373.jpg"group-title="🏆🏆LIVE WORLD CUP 2026🏆🏆",AUSTRALIA VS TURKI
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/JRqWrB6S/fifa1.jpg"group-title="🏆🏆LIVE WORLD CUP 2026🏆🏆",
 
