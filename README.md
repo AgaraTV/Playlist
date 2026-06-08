@@ -1,4 +1,7 @@
 
+
+
+
 LIVE EVENT
 <================================================>
 #EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", AVC CUP 1
@@ -156,6 +159,8 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&
 
 
 🏆-- World Cup 2026 --🏆
+
+
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="🏆World Cup 2026🏆", TVRI Nasional
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
