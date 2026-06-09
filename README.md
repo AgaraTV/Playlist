@@ -248,7 +248,7 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="BEINSPOT2 FRAN" tvg-logo="https://i.ibb.co.com/qYnCvFWn/download-1.jpg"group-title="🏆🏆LIVE WORLD CUP 2026🏆🏆",Iran vs Selandia Baru
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="BEINSPOT2 FRAN" tvg-logo="https://i.ibb.co.com/sd1hSxP5/download-8.jpg"group-title="🏆🏆LIVE WORLD CUP 2026🏆🏆",Iran vs Selandia Baru
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
