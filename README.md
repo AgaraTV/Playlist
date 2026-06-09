@@ -4,18 +4,24 @@
 
 LIVE EVENT
 <================================================>
-#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", AVC CUP 1
+#EXTINF:-1 group-title="EVENT 09/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 08:00 WIB Lebanon vs Iran
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=736fd166bfa80781fe96a2d49273acfc&wsABSTime=1780853444
-#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", AVC CUP 2
+https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=a51ba924b163d2e21ff80d682e8db5cd&wsABSTime=1780966209
+
+#EXTINF:-1 group-title="EVENT 09/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", 14:00 WIB Philippines vs Korea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=898a1545ab26e16c8ec3295b66166f27&wsABSTime=1780891036
-#EXTINF:-1 group-title="EVENT 08/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s", AVC CUP 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=898a1545ab26e16c8ec3295b66166f27&wsABSTime=1780891036
+https://live1.pro2cdnlive.com/live/channel80.m3u8?wsSecret=5f1fd41bfb6e8b6d00ca51df0c19bded&wsABSTime=1780966317
+#EXTINF:-1 group-title="EVENT 09/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpNIVEVDdQZZNJxhdkxw8_Q9Y5SO5mexoNiHg_LQWSA&s", SATHIO GROUP Australian Badminton Open 2026
+https://tfwl3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel61.m3u8?wsSession=fc451ffa2254f834f620bd68-178098443887723&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsBindIP=2&wsserid=1168278531255916870
+#EXTINF:-1 group-title="EVENT 09/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpNIVEVDdQZZNJxhdkxw8_Q9Y5SO5mexoNiHg_LQWSA&s", SATHIO GROUP Australian Badminton Open 2026
+https://tfwl3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel62.m3u8?wsSession=fc451ffa2254f834f620bd68-178098452077640&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsBindIP=2&wsserid=1168278531255916870
+#EXTINF:-1 group-title="EVENT 09/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpNIVEVDdQZZNJxhdkxw8_Q9Y5SO5mexoNiHg_LQWSA&s", SATHIO GROUP Australian Badminton Open 2026
+https://tfwl3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel63.m3u8?wsSession=fc451ffa2254f834f620bd68-178098453825069&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsBindIP=2&wsserid=1168278531255916870
+#EXTINF:-1 group-title="EVENT 09/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpNIVEVDdQZZNJxhdkxw8_Q9Y5SO5mexoNiHg_LQWSA&s", SATHIO GROUP Australian Badminton Open 2026
+https://tfwl3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel64.m3u8?wsSession=fc451ffa2254f834f620bd68-178098456574876&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsBindIP=2&wsserid=1168278531255916870
+
 
 
 
