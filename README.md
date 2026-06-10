@@ -139,6 +139,8 @@ https://tvratu.my.id/vid/index.mpd?id=206&type=dash
 
 
 <=================== Badminton =============================>
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="ADU AYAM", ADU AYAM
+http://49.0.64.96:8007/HiSports
 
 
 <=================== CADANGAN EVENT =============================>
