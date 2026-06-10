@@ -37,21 +37,6 @@ LIVE EVENT
 
 ======== BADMINTON =========
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏸 BADMINTON", WORLD CUP 2026
-https://snazzy-lily-b578fe.netlify.app/worldcup.mp4
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏸 BADMINTON", #INFO
-https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏸 BADMINTON", TRAKTIR KOPI
-https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
-
-
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8R5ED-Md12iJGdcxM7D4fruzAqa5wY2Wsdg&s" group-title="🏸 BADMINTON", 07:00 AUSTRALIAN OPEN 2026 1
-https://snazzy-lily-b578fe.netlify.app/worldcup.mp4
-
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8R5ED-Md12iJGdcxM7D4fruzAqa5wY2Wsdg&s" group-title="🏸 BADMINTON", 07:00 AUSTRALIAN OPEN 2026 2
-https://snazzy-lily-b578fe.netlify.app/worldcup.mp4
 
 #EXTINF:-1 group-title="EVENT 010/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 19:00 WIB Ukraine v Japan | Week 1 | Men's VNL 2026 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
