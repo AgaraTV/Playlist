@@ -5,6 +5,15 @@
 LIVE EVENT
 <================================================>
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg" group-title="EVENT 011/JUNI/2026"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title="EVENT 011/JUNI/2026", TIMNAS 1
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title="EVENT 011/JUNI/2026", TIMNAS 3
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title="EVENT 011/JUNI/2026", TIMNAS 4
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Timnasday.jpg"  group-title="EVENT 011/JUNI/2026", TIMNAS 6
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas6.m3u8
 
 <================================================>
 
