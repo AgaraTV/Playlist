@@ -18,10 +18,6 @@ https://tvratu.my.id/vid/index.mpd?id=21633&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21633&type=drm
 https://ratuvidio.adptv.workers.dev/index.mpd?id=21633&type=dash
 
-EXTINF:-1 group-title="SIARAN LANGSUNG" tvg-logo="https://shorterbDcr", MLS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-https://fhlsport302.tbaa149f8pqlisten.ru/token-LRJ4nrjCLfSGuWUswvY6zz%2BHlJrb0SDjOHT%2BxPBNFDijsLHPHUNTFIslqAtMQk0cRWPdxTNplvZ0ephOBQEQ6MhmSkO0a/cfall/s2001/v3b/4203o233nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_714429/index.m3u8
 
 ======== BADMINTON =========
 
@@ -66,7 +62,7 @@ https://tvratu.my.id/vid/index.mpd?id=206&type=dash
 
 
 <=================== AYAM SABUNG =============================>
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/KxWH3QZp/download.jpg" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="ADU AYAM", ADU AYAM
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/KxWH3QZp/download.jpg",tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="ADU AYAM", ADU AYAM
 http://49.0.64.96:8007/HiSports
 
 
