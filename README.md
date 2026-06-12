@@ -98,17 +98,20 @@ http://49.0.64.96:8007/HiSports
 #KODIPROP:inputstream.adaptive.license_key=3c736e5c8f5a4d1a8eb8af1e63aa2005:d1729111efdfb7727ee3e6fcbc7586e1
 https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/SD5j13yY/Prediksi-Kanada-vs-Bosnia-Piala-Dunia.webp"group-title="🏆LIVE WORLD CUP 2026🏆",KANADA VS BOSNIA 2.00WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/SD5j13yY/Prediksi-Kanada-vs-Bosnia-Piala-Dunia.webp"group-title="🏆LIVE WORLD CUP 2026🏆",KANADA VS BOSNIA JAM 2.00WIB
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship1.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship3.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship4.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship5.m3u8
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship20.m3u8
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship21.m3u8
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="MEDICOP TAMIL" tvg-logo="https://i.ibb.co.com/vC8QXncS/images.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Amerika Serikat vs Paraguay 8:00WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="MEDICOP TAMIL" tvg-logo="https://i.ibb.co.com/vC8QXncS/images.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Amerika Serikat vs Paraguay JAM 8:00WIB
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship9.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship10.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship13.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship18.m3u8
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship24.m3u8
 
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="CCTV5 HD" tvg-logo="https://i.ibb.co.com/XZFgXgrH/Prediksi-Skor-Qatar-vs-Swiss.webp"group-title="🏆LIVE WORLD CUP 2026🏆",Qatar vs Swiss
