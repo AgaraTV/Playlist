@@ -139,11 +139,8 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship21.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship22.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship5.m3u8
+
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TSN2 KANADA" tvg-logo="https://i.ibb.co.com/tMZTwLWJ/images-2.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",HAITI VS SCOTLANDIA JAM 8:00WIB
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCOzchAkDiIxwY9tbX-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="SPORTV 2 BRAZIL" tvg-logo="https://i.ibb.co.com/jPQVsCYF/kgoj1q1775058373.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",AUSTRALIA VS TURKI JAM 11:00WIB
