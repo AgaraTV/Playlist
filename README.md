@@ -146,7 +146,7 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship5.m3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="SPORTV 2 BRAZIL" tvg-logo="https://i.ibb.co.com/jPQVsCYF/kgoj1q1775058373.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",AUSTRALIA VS TURKI JAM 11:00WIB
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship23.m3u8
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship15.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship24.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship6.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship8.m3u8
@@ -158,6 +158,10 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship8.m3
 https://cdn.stmify.com/mytv/stream/SUKAN_RTM/index.mpd
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="SPORTV 3 BRAZIL" tvg-logo="https://i.ibb.co.com/GLLSJfR/images-3.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Jerman vs Curaçao
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship1.m3u8
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship2.m3u8
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship3.m3u8
+
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="NHK BS JAPAN" tvg-logo="https://i.ibb.co.com/XxQdmDNK/images-4.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Belanda vs Jepang
 
@@ -259,7 +263,6 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10"group-title="🏆CADANGAN PIALA DUNIA 🏆", FIFA 4
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10"group-title="🏆CADANGAN PIALA DUNIA 🏆", FIFA 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
