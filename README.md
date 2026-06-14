@@ -25,7 +25,6 @@ LIVE EVENT
 
 ======== BADMINTON =========
 #EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpNIVEVDdQZZNJxhdkxw8_Q9Y5SO5mexoNiHg_LQWSA&s",SATHIO GROUP Australian Badminton Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4221837606861061_AiSD.m3u8?txSecret=7e1e6d896a52a77be06aff083c6c5f1f&txTime=6A2F4080
 
 #EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpNIVEVDdQZZNJxhdkxw8_Q9Y5SO5mexoNiHg_LQWSA&s",SATHIO GROUP Australian Badminton Open 2026
 
@@ -46,12 +45,11 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 VNL
 <================================================>
 #EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://i.ibb.co.com/1JmRYG6C/VNL.jpg", VNL 2026 6
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4221837606861061_AiSD.m3u8?txSecret=7e1e6d896a52a77be06aff083c6c5f1f&txTime=6A2F4080
 
 #EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://i.ibb.co.com/1JmRYG6C/VNL.jpg", VNL 2026 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=3f51f0bd3278964229c3ea43f3ac3386&wsABSTime=1781456613
+https://live1.pro2cdnlive.com/live/channel84.flv?wsSecret=e3d4e27ef733aa37faac4e36395b0288&wsABSTime=1781456677
 
 #EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://i.ibb.co.com/1JmRYG6C/VNL.jpg", VNL 2026 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -69,7 +67,9 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/0ZIBS3Vs/live.is
 https://live1.pro2cdnlive.com/live/channel83.flv?wsSecret=1261b5269906603dd923b03fd80a3a1f&wsABSTime=1781456197
 
 #EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", VNL 2026 3
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/0ZIBS3Vs/live.isml/.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=3f51f0bd3278964229c3ea43f3ac3386&wsABSTime=1781456613
 
 
 
@@ -344,7 +344,11 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL6.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="🏐VOLLY VNL🏐", VNL 7
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL7.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="🏐VOLLY VNL🏐", VNL 8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="🏐VOLLY VNL🏐", VNL 9
 https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Volly2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="🏐VOLLY VNL🏐", VNL 10
