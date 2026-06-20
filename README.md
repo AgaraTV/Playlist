@@ -213,11 +213,11 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship24.m
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship18.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship3.m3u8
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fxs.m3u8
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/JRqWrB6S/fifa1.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Argentina vs Austria JAM 0:00WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/CLPhmLR/ARGEN.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Argentina vs Austria JAM 0:00WIB
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship1.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship3.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/JRqWrB6S/fifa1.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Perancis vs Irak JAM 4:00WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/3mwQFCv5/FRAN.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Perancis vs Irak JAM 4:00WIB
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship15.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship24.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship6.m3u8
