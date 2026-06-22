@@ -191,7 +191,7 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship3.m3
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/3mwQFCv5/FRAN.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Perancis vs Irak JAM 4:00WIB
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship15.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship24.m3u8
+
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship6.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship8.m3u8
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/b5pzbfZJ/NURWE.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Norwegia vs Senegal JAM 7:00 WIB
