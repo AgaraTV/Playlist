@@ -843,65 +843,43 @@ NASIONAL DIGITAL
 
 KARTUN ANAK
 ================================
+
+
 #EXTINF:-1 group-title="KARTUN TV" tvg-id="vtv.id" tvg-logo="https://i.ibb.co.com/F4FZc6Mt/vtv.jpg",VTV
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hF6dymQs/mnc.jpg" group-title="KARTUN TV",MNCTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/994/49994-SNAPSHOT-m.png" group-title="KARTUN TV",Kids TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 #EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/006/50006-SNAPSHOT-m.png" group-title="KARTUN TV",ZooMoo
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/TByZJcZn/nicke.png" group-title="KARTUN TV",Nickelodeon
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
-https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mediampd/Nickelodeon.mpd
 
 #EXTINF:-1 group-title="KARTUN TV" tvg-name="TV Anak" tvg-country="ID" tvg-logo="https://i.ibb.co.com/HTkTtH2q/cartoonito.jpg", Cartoonito HD 
 
 
 #EXTINF:-1 group-title="KARTUN TV" tvg-name="" tvg-country="ID" tvg-logo="https://i.ibb.co.com/Xk7v1Vgt/nick-jr.jpg", Nick Jr 
 
-
-#EXTINF:-1 tvg-id="22" tvg-logo="https://www.dens.tv/images/channel-logo/22.jpg" group-title="KARTUN TV", RTV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
-
-
-
-
 #EXTINF:-1 tvg-id="38" tvg-logo="https://www.dens.tv/images/channel-logo/38.jpg" group-title="KARTUN TV", ANIPLUS HD
 
+#EXTINF:-1 tvg-id="22" tvg-logo="https://www.dens.tv/images/channel-logo/22.jpg" group-title="KIDS CARTOON", RTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ratu77.adptv.workers.dev/index.m3u8?id=1561&type=hls
 
-#EXTINF:-1 tvg-id="96" tvg-logo="https://www.dens.tv/images/channel-logo/96.jpg" group-title="KARTUN TV", My Kidz HD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hF6dymQs/mnc.jpg" group-title="KIDS CARTOON",MNCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-
-#EXTINF:-1 group-title="KARTUN TV"  tvg-logo="https://i.ibb.co.com/0p9MRRgt/dunia.jpg",DUNIA ANAK
-
-
-#EXTINF:-1 group-title="KARTUN TV" tvg-name="TV Anak" tvg-country="ID" tvg-logo="https://i.ibb.co.com/5h7SJ1j7/carton-net.jpg", Cartoon Network HD 
-
-
-#EXTINF:-1 group-title="KARTUN TV" tvg-logo="https://i.ibb.co.com/6Rpk7q41/animax.jpg", Animax HD 
-
-#EXTINF:-1 group-title="KARTUN TV" tvg-logo="https://i.ibb.co.com/KxXFKcDJ/horee.jpg",Horee!
+#EXTINF:-1 group-title="KIDS CARTOON" tvg-logo="https://images.indihometv.com/assets/88_MENTARITV_2025_03_17_15_21_21.png
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Animax.id" group-title="KIDS CARTOON", tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png",Animax (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -913,11 +891,15 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/ind
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_ANIPLUS_2025_03_17_14_53_54.png",Aniplus
 
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://iili.io/bEMPlR.png",Biznet Kids
-
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_CARTOONNETWORK_2025_03_17_14_49_56.png",Cartoon Network
-
+http://kstv.us:8080/Kh2fHxR0c8/3333726709/40763
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_CARTOONITO_2025_03_17_14_46_33.png",Cartoonito
-https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoHD.mpd
+
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-D9sV_4ckaZvzVZu6VX43db-_ZQ0IrVUOeg&s",CBeebies
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -926,40 +908,43 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/in
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_DAVINCI_2025_03_17_15_00_06.png",Da Vinci
 
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_DREAMWORKS_2025_03_17_15_30_24.png",DreamWorks
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
-https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mediampd/DreamWorksHD.mpd
+
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_DUNIANAK_2025_03_17_15_23_57.png",Dunia Anak
 
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_FUNPLANET_2025_03_17_15_15_54.png",FunPlanet
-https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_HOREEE!_2025_03_17_14_50_23.png",Horee!
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
-https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://ratu77.adptv.workers.dev/index.m3u8?id=7052&type=hls
+
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png",Kids TV
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_MENTARITV_2025_03_17_15_21_21.png",Mentari TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_MOONBUGKIDS_2025_03_17_15_10_52.png",Moonbug
+#EXTVLCOPT:http-referrer=https://m.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b62ae389f0944d4a55daaad52de1f9d:ba145a1426491316010da87bfd69de05
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
 
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_MYKIDZ_2025_03_17_14_58_58.png",My Kidz
-https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_NICKJR_2025_03_17_14_56_20.png",Nick Jr.
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
-https://atemecdnbalancer-voe.sysln.id/live/eds/NickJr/mediampd/NickJr.mpd
+
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_NICKELODEON_2025_03_17_14_57_07.png",Nickelodeon
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://m.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
-https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mediampd/Nickelodeon.mpd
+#KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png",Zoomoo
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -995,7 +980,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-m.png" group-title="KIDS CARTOON",Nick (v+)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
@@ -1010,10 +995,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" group-title="KIDS CARTOON", VTV VIVA
-
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Iz_loB8-n13lG-DpUeQ6nQAn9IGuiCkJ_4dC_rdPGKBTN8fX2OPAXwg&s=10" group-title="KIDS CARTOON", SHAUN THE SHEEP
-https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZbwIZWsMMAGXLtp3446IT2FqJ4vviRI3E8zpY0CiHlnnEhKrMURF3qN8&s=10" group-title="KIDS CARTOON", Angry Bird 
 
@@ -1022,10 +1007,14 @@ https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuIKbVVR4uo6ggLoEWpdyQYuraxIusTvZ2fw&usqp=CAU" group-title="KIDS CARTOON", Baby TV
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShybd-UYPR8l-RloIlt5i1cr0lG0uHPjm97EAVcXGtzF9xp_Fo_k5vrWg&s=10" group-title="KIDS CARTOON", Boomerang Uk
-
+http://kstv.us:8080/Kh2fHxR0c8/3333726709/47748
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUyrlGQd6Mm_qw_9y90wQrwh0_v1E6LzBOLQ&s" group-title="KIDS CARTOON", Canal+ Kids
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS17issIcUy9iyTuyR7i6rTyOUO-RNc5Rmwg&s" group-title="KIDS CARTOON", Cartoonito
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoHD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsMKRYY_pc72uaB4A-v6JQHG0kylK59wkBhw&s" group-title="KIDS CARTOON", Mr Bean
 
@@ -1038,13 +1027,13 @@ https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-SFJZDfxGFcrtdxHTOxWJeIDgATxWpSoqw&usqp=CAU" group-title="KIDS CARTOON", Tom & Jerry
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJUzGRuLACaisOXm9UvnYpzcAAE3X_wSneA&s" group-title="KIDS CARTOON", Marsha & The Bear
-https://raw.githubusercontent.com/B-inal-123/kids-s/inal-22/Marsha.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSghzA3lk6Ire08C7lOKLf_qfrrMavgfU6cTQ&s" group-title="KIDS CARTOON", Disney Junior
-
+http://kstv.us:8080/Kh2fHxR0c8/3333726709/40723
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1249030020988690432/VD98W-hQ_400x400.png" group-title="KIDS CARTOON", Disney XD
-
+http://kstv.us:8080/Kh2fHxR0c8/3333726709/23330
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTViljMaWaRzfm9wT7fjVI5BVluaVPttR6g-g&s" group-title="KIDS CARTOON", Disney Channel
-
+http://kstv.us:8080/Kh2fHxR0c8/3333726709/23332
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/400px-Spacetoon.png" group-title="KIDS CARTOON",SPACETOON
 
@@ -1058,44 +1047,6 @@ https://raw.githubusercontent.com/B-inal-123/kids-s/inal-22/Marsha.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=ngiGKoEb44-shV7k85SB&content_series=5eea605574085f0040ddc797&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=ngiGKoEb44-shV7k85SB&custom_7=5eea605574085f0040ddc797&is_lat=0
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSx4MYuzq1j4fD8gcJ7EK-Eu9FlWpJhI3evyQjCWIWkSzxJxjkuUno1hZJErq9MnxwNGU&usqp=CAU" group-title="KIDS CARTOON", Kids Pang TV
-
-#EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/SuperToons.jpg", SuperToons TV
-
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/8cad71115879923.Y3JvcCw4MzEsNjUwLDE2NCww.png" group-title="KIDS CARTOON",  Pluto TV Kids
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/featuredImage.jpg" group-title="KIDS CARTOON", Kids Movie Club
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqtHHfDfwRX3_gG56UvuOGQ1Za18Lv4v_3w&usqp=CAU" group-title="KIDS CARTOON", Kartoon Channel
-
-#EXTINF:-1 tvg-logo="https://mma.prnasia.com/media2/1900674/Pinkfong_Baby_Shark_Image.jpg" group-title="KIDS CARTOON", Pinkfong Baby Shark TV
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/featuredImage.jpg" group-title="KIDS CARTOON", Forever Kids
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/featuredImage.jpg" group-title="KIDS CARTOON", Garfield & Friends
-
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/04/d2/4d/04d24d8ec944cbc3eefecca65ad4d72d.jpg" group-title="KIDS CARTOON", TokuSHOUTsu
-
-#EXTINF:-1 group-title="KIDS CARTOON", tvg-id="5f7790b3ed0c88000720b241" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png",One Piece
-
-#EXTINF:-1 group-title="KIDS CARTOON", tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png",Naruto
-
-#EXTINF:-1 group-title="KIDS CARTOON", tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png",Yu-Gi-Oh Pluto
-
-
-#EXTINF:-1 group-title="KIDS CARTOON", tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png",Mr.Bean
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeF06ZtGcsWp5cARiqiGJ47Nge3ZrnPpxtA&usqp=CAU" tvg-chno="906" group-title="KIDS CARTOON", KidsFlix TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=50
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeF06ZtGcsWp5cARiqiGJ47Nge3ZrnPpxtA&usqp=CAU" tvg-chno="906" group-title="KIDS CARTOON", ANIMATION1 TV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeF06ZtGcsWp5cARiqiGJ47Nge3ZrnPpxtA&usqp=CAU" tvg-chno="906" group-title="KIDS CARTOON", ANIMATION2 TV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeF06ZtGcsWp5cARiqiGJ47Nge3ZrnPpxtA&usqp=CAU" tvg-chno="906" group-title="KIDS CARTOON", ANIMATION3 TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=222
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeF06ZtGcsWp5cARiqiGJ47Nge3ZrnPpxtA&usqp=CAU" tvg-chno="906" group-title="KIDS CARTOON", ANIMATION4 TV
 
 
 
