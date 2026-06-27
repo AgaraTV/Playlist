@@ -96,10 +96,9 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.m
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/FbF4pkjG/panama.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Panama vs Inggris JAM 4:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460
-///https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://manusiabiasa.serv00.net/keys/beinfrance
+https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/ymbjHDkj/kolombia.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kolombia vs Portugal JAM 6:30 WIB
@@ -111,27 +110,23 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 #KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/ymbjHDkj/kolombia.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kolombia vs Portugal JAM 6:30 WIB
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://manusiabiasa.serv00.net/keys/beinfrance
+https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933
-https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd
+#https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd
 
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/7NSNRtRZ/kongo.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kongo vs Uzbekistan JAM 6:30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3c7199dc2c8b2bdc51128d0c9254144:4daf455bb721a9076b1ecceed5c95119
-https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash-sd/enc/gvy1a4vy7l/out/v1/f2b9732c6f04452492e03f1f849093e7/cenc-sd.mpd
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship21.m3u8
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship20.m3u8
+
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/7NSNRtRZ/kongo.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kongo vs Uzbekistan JAM 6:30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=022f1d774371be165dea59f9efbd3052:7ab55284ac60d0479bb55b08f0a97ee1
-https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash-sd/enc/amz5dwei2a/out/v1/3140ebc29a9e4683b480e5dba8588608/cenc-sd.mpd
+
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/7NSNRtRZ/kongo.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kongo vs Uzbekistan JAM 6:30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5dd5c144ed82ca5846f67413515c6350:ec3ff0d2a29e18a34ab19155641f5f2f
-https://ablvfhaaaaaaaaamisf6uy7d6mtud.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/tyvyvcib0h/out/v1/9e464a5c6e864dfb8641ce3851023452/cenc-sd.mpd
 
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/FL12Kpxk/aljazai.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Aljazair vs Austria JAM 9:00 WIB
@@ -192,6 +187,46 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://manusiabiasa.serv00.net/keys/beinfrance
 https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="🏆LIVE WORLD CUP 2026🏆", WC2026 ALTERNATIF 1
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship22.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="🏆LIVE WORLD CUP 2026🏆", WC2026 ALTERNATIF 2
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship5.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="🏆LIVE WORLD CUP 2026🏆", WC2026 ALTERNATIF 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="🏆LIVE WORLD CUP 2026🏆", WC2026 ALTERNATIF 4
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship19.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="🏆LIVE WORLD CUP 2026🏆", WC2026 ALTERNATIF 5
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship18.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="🏆LIVE WORLD CUP 2026🏆", WC2026 ALTERNATIF 6
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship11.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="🏆LIVE WORLD CUP 2026🏆", WC2026 ALTERNATIF 7
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship6.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="🏆LIVE WORLD CUP 2026🏆", WC2026 ALTERNATIF 8
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship7.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="🏆LIVE WORLD CUP 2026🏆", WC2026 ALTERNATIF 9
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship8.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="🏆LIVE WORLD CUP 2026🏆", WC2026 ALTERNATIF 10
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship2.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="🏆LIVE WORLD CUP 2026🏆", WC2026 ALTERNATIF 11
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship4.m3u8
+
 
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/JRqWrB6S/fifa1.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",
