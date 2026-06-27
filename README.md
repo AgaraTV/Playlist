@@ -1,3 +1,22 @@
+#EXTINF:-1 group-title="EVENT 027/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeY8Cr3f19g1oydfUqSxAZK852nEkVG-T8A&s", 17:00 WIB South Korea vs Bahrain
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel80.m3u8
+#EXTINF:-1 group-title="EVENT 027/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeY8Cr3f19g1oydfUqSxAZK852nEkVG-T8A&s", 20:00 WIB India vs Indonesia
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel81.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 027/JUNI/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 14:50 MotoGP Free Practice 2: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
+#EXTINF:-1 group-title="EVENT 027/JUNI/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 19:30 MotoGP Tissot SPRINT: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
 
 
