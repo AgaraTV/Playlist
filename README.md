@@ -1,46 +1,4 @@
-#EXTINF:-1 group-title="EVENT 026/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeY8Cr3f19g1oydfUqSxAZK852nEkVG-T8A&s", 19:30 WIB Indonesia vs Oman
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel81.m3u8
 
-#EXTINF:-1 group-title="EVENT 026/JUNI/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 15:40 MotoGP Free Practice 1: Tissot Grand Prix of The Netherlands
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-
-#EXTINF:-1 group-title="EVENT 026/JUNI/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 19:50 MotoGP Practice: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-
-#EXTINF:-1 group-title="EVENT 027/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 02:00 WIB Norwegia vs Perancis
-https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
-#EXTINF:-1 group-title="EVENT 027/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 02:00 WIB Senegal vs Irak
-https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
-#EXTINF:-1 group-title="EVENT 027/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 07:00 WIB Kepulauan Cape Verde vs Arab Saudi
-https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
-#EXTINF:-1 group-title="EVENT 027/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 07:00 WIB Uruguay vs Spanyol
-https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
-#EXTINF:-1 group-title="EVENT 027/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 10:00 WIB Mesir vs Iran
-https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
-#EXTINF:-1 group-title="EVENT 027/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 10:00 WIB Selandia Baru vs Belgia
-https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
-
-
-#EXTINF:-1 group-title="EVENT 026/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 21:30 WIB Ukraine v Canada | Week 2 | Men's VNL 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel82.m3u8
-#EXTINF:-1 group-title="EVENT 026/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 21:30 WIB China v Argentina | Week 2 | Men's VNL 2026
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-#EXTINF:-1 group-title="EVENT 026/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 22:00 WIB Iran v Japan | Week 2 | Men's VNL 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel81.m3u8
-#EXTINF:-1 group-title="EVENT 027/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 01:00 WIB Brazil v Italy | Week 2 | Men's VNL 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel82.m3u8
-#EXTINF:-1 group-title="EVENT 027/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 01:00 WIB Belgium v Germany | Week 2 | Men's VNL 2026
-https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
-#EXTINF:-1 group-title="EVENT 027/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 01:30 WIB Serbia v Cuba | Week 2 | Men's VNL 2026
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 
 <================>
 
@@ -95,64 +53,31 @@ LIVE WORLD CUP 2026
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/TqrnX1MW/AFRIKA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Afrika Selatan vs Korea Selatan JAM 8:00 WIB
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/TqrnX1MW/AFRIKA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Afrika Selatan vs Korea Selatan JAM 8:00 WIB
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/CKt0x1xn/CURACO.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Curaçao vs Pantai Gading JAM 3:00 WIB
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship22.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship5.m3u8
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/ymJ7ncjn/EQUADOR.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Ekuador vs Jerman JAM 3:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/ymJ7ncjn/EQUADOR.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Ekuador vs Jerman JAM 3:00 WIB
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship21.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship20.m3u8
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/zTYHgH7d/jepang.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Jepang vs Swedia JAM 6:00 WIB
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship19.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship18.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship11.m3u8
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/TxvVBw1s/tunisia.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Tunisia vs Belanda JAM 6:00 WIB
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship8.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship7.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship6.m3u8
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/xKZnW34p/paraguai.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Paraguay vs Australia JAM 9:00 WIB
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship5.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship4.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship2.m3u8
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/k2bWPt8m/turki.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Turki vs Amerika Serikat JAM 9:00 WIB
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship9.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship10.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship1.m3u8
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/NnpW5mJZ/nurwegia.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Norwegia vs Perancis JAM 2:00 WIB
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship18.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship3.m3u8
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fxs.m3u8
+
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/LddkJyP0/senegal.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Senegal vs Irak JAM 2:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/MX6WrxL/cape-verde.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Cape Verde vs Arab Saudi JAM 7:00 WIB
-http://193.239.186.231/BBC1/index.m3u8
-http://193.239.186.231/NPO1/index.m3u8
+
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/r2wpZZm7/uruguai.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Uruguay vs Spanyol JAM 7:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/5hMSHTp9/mesir.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Mesir vs Iran JAM 10:00 WIB
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship15.m3u8
+
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/v4bvN0Fp/selandia.jpg.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Selandia Baru vs Belgia JAM 10:00 WIB
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship15.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship6.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship8.m3u8
+
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/3m3JWY3K/croatia.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kroasia vs Ghana JAM 4:00 WIB
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship1.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship3.m3u8
