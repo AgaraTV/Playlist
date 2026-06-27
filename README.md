@@ -932,9 +932,6 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_CARTOONNETWORK_2025_03_17_14_49_56.png",Cartoon Network
 http://kstv.us:8080/Kh2fHxR0c8/3333726709/47749
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_CARTOONNETWORK_2025_03_17_14_49_56.png",Cartoon Network2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0d5310dae359dc2bce1ffcac912f12fb":"fce0175998aaaccbb4386e696dd361e8","7b9efaa7a8b42f8a57d9f2bbe9dfcf5e":"a9fe916e6bc99858c47021e9331c9007","dde7d17af64ea9332071c5a657f5b1a3":"0d5b7fd6439bcb7281da2bda95f67087","c1f39c1d7bb901fc60c67c10cbf809d0":"4cd7fb7d1ec71f44597d301c7eaf5387"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/1211/1/live.mpd
 
 #EXTINF:-1 group-title="KIDS CARTOON", tvg-logo="https://images.indihometv.com/assets/88_CARTOONITO_2025_03_17_14_46_33.png",Cartoonito
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
