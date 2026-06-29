@@ -814,7 +814,7 @@ KARTUN ANAK
 
 #EXTINF:-1 tvg-id="22" tvg-logo="https://www.dens.tv/images/channel-logo/22.jpg" group-title="KIDS CARTOON", RTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ratu77.adptv.workers.dev/index.m3u8?id=1561&type=hls
+https://tvratu.my.id/vid/index.m3u8?id=1561&type=hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hF6dymQs/mnc.jpg" group-title="KIDS CARTOON",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
