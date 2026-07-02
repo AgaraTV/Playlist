@@ -113,7 +113,8 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Ge
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/tT5HFyJF/colombia.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kolombia vs Ghana SABTU 8:30 WIB
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://edge22.776740.ir.cdn.ir/hls2/rasf1.m3u8
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/CptZh19t/CANADA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kanada vs Maroko MINGGU 0:00 WIB
 
@@ -244,8 +245,7 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship4.m3
 #EXTINF:-1 group-title="🏆CADANGAN PIALA DUNIA 🏆" tvg-logo="https://i.ibb.co.com/gMR9N6Wm/NC.jpg",FIFA WORLDCUP  eng
 
 #EXTINF:-1 group-title="🏆CADANGAN PIALA DUNIA 🏆" tvg-logo="https://i.ibb.co.com/DPPCR4j3/BBC.jpg",FIFA WORLDCUP bbc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1306.ts
+
 #EXTINF:-1 group-title="🏆CADANGAN PIALA DUNIA 🏆" tvg-logo="https://i.ibb.co.com/5gW86tXN/ITV.png", FIFA WORLDCUP ITV
 
 #EXTINF:-1 group-title="🏆CADANGAN PIALA DUNIA 🏆" tvg-logo="https://i.ibb.co.com/YBhLV13j/UNITE.jpg",FIFA WORLDCUP unite8 1
@@ -294,7 +294,7 @@ https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+#https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/nSDshLX/FIFA.jpg"group-title="🏆CADANGAN PIALA DUNIA 🏆", FIFA 12
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
