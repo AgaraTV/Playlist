@@ -33,122 +33,103 @@ VOLLY
 
 LIVE WORLD CUP 2026
 <================================================>
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/1JX10VNt/SPANYOL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Spanyol vs Austria JUMAT 2:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/CptZh19t/CANADA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kanada vs Maroko MINGGU 0:00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/1JX10VNt/SPANYOL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Spanyol vs Austria JUMAT 2:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/CptZh19t/CANADA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kanada vs Maroko MINGGU 0:00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/1JX10VNt/SPANYOL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Spanyol vs Austria JUMAT 2:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/CptZh19t/CANADA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kanada vs Maroko MINGGU 0:00 WIB
+
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/NgyWTnNq/PARAGUAI.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Paraguay vs Perancis MINGGU 4:00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/chnNXhmq/PORTUGAL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Portugal vs Kroasia JUMAT 6:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/NgyWTnNq/PARAGUAI.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Paraguay vs Perancis MINGGU 4:00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/chnNXhmq/PORTUGAL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Portugal vs Kroasia JUMAT 6:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/NgyWTnNq/PARAGUAI.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Paraguay vs Perancis MINGGU 4:00 WIB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/chnNXhmq/PORTUGAL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Portugal vs Kroasia JUMAT 6:00 WIB
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/nq0D5003/BRASIL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Brasil vs Norwegia SENIN 3:00 WIB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
 https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/vvv2DQxp/swis.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Swiss vs Aljazair JUMAT 10:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/nq0D5003/BRASIL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Brasil vs Norwegia SENIN 3:00 WIB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/vvv2DQxp/swis.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Swiss vs Aljazair JUMAT 10:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/nq0D5003/BRASIL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Brasil vs Norwegia SENIN 3:00 WIB
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship20.m3u8
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/vvv2DQxp/swis.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Swiss vs Aljazair JUMAT 10:00 WIB
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship21.m3u8
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/4gVg6Qdr/australia.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Australia vs Mesir SABTU 1:00 WIB
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/39w4Yvx9/MEXICO.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Meksiko vs Inggris SENIN 7:00 WIB
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship21.m3u8
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/39w4Yvx9/MEXICO.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Meksiko vs Inggris SENIN 7:00 WIB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://manusiabiasa.serv00.net/keys/beinfrance
 https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/4gVg6Qdr/australia.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Australia vs Mesir SABTU 1:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/39w4Yvx9/MEXICO.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Meksiko vs Inggris SENIN 7:00 WIB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/4gVg6Qdr/australia.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Australia vs Mesir SABTU 1:00 WIB
+
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/PzNF5vGk/PORTUGAL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Portugal vs Spanyol SELASA 2:00 WIB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/S43Hhyfj/argentina.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Argentina vs Cape Verde SABTU 5:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/PzNF5vGk/PORTUGAL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Portugal vs Spanyol SELASA 2:00 WIB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://manusiabiasa.serv00.net/keys/beinfrance
 https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/S43Hhyfj/argentina.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Argentina vs Cape Verde SABTU 5:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/PzNF5vGk/PORTUGAL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Portugal vs Spanyol SELASA 2:00 WIB
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/S43Hhyfj/argentina.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Argentina vs Cape Verde SABTU 5:00 WIB
+
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/sp50Scm3/USA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",USA vs Belgia SELASA 7:00 WIB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/tT5HFyJF/colombia.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kolombia vs Ghana SABTU 8:30 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/sp50Scm3/USA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",USA vs Belgia SELASA 7:00 WIB
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship5.m3u8
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/tT5HFyJF/colombia.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kolombia vs Ghana SABTU 8:30 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/sp50Scm3/USA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",USA vs Belgia SELASA 7:00 WIB
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/tT5HFyJF/colombia.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kolombia vs Ghana SABTU 8:30 WIB
+
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/xStJ5Snr/ARGENTINA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Argentina vs Mesir SELASA 23:00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://edge22.776740.ir.cdn.ir/hls2/rasf1.m3u8
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/xStJ5Snr/ARGENTINA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Argentina vs Mesir SELASA 23:00 WIB
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/CptZh19t/CANADA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kanada vs Maroko MINGGU 0:00 WIB
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/CptZh19t/CANADA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kanada vs Maroko MINGGU 0:00 WIB
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/CptZh19t/CANADA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Kanada vs Maroko MINGGU 0:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/xStJ5Snr/ARGENTINA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Argentina vs Mesir SELASA 23:00 WIB
 
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/NgyWTnNq/PARAGUAI.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Paraguay vs Perancis MINGGU 4:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/DgrZWmv4/SWIS.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Swiss vs Kolombia RABU 3:00 WIB
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/NgyWTnNq/PARAGUAI.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Paraguay vs Perancis MINGGU 4:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/DgrZWmv4/SWIS.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Swiss vs Kolombia RABU 3:00 WIB
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/NgyWTnNq/PARAGUAI.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Paraguay vs Perancis MINGGU 4:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/DgrZWmv4/SWIS.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Swiss vs Kolombia RABU 3:00 WIB
 
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/nq0D5003/BRASIL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Brasil vs Norwegia SENIN 3:00 WIB
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/nq0D5003/BRASIL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Brasil vs Norwegia SENIN 3:00 WIB
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/nq0D5003/BRASIL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Brasil vs Norwegia SENIN 3:00 WIB
-
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/39w4Yvx9/MEXICO.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Meksiko vs Inggris SENIN 7:00 WIB
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/39w4Yvx9/MEXICO.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Meksiko vs Inggris SENIN 7:00 WIB
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/39w4Yvx9/MEXICO.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Meksiko vs Inggris SENIN 7:00 WIB
-
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo=""group-title="🏆LIVE WORLD CUP 2026🏆", SELASA 2:00 WIB
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo=""group-title="🏆LIVE WORLD CUP 2026🏆",USA vs Belgia SELASA 7:00 WIB
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo=""group-title="🏆LIVE WORLD CUP 2026🏆", SELASA 23:00 WIB
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo=""group-title="🏆LIVE WORLD CUP 2026🏆", 3:00 WIB
 
@@ -182,7 +163,6 @@ https://edge22.776740.ir.cdn.ir/hls2/rasf1.m3u8
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo=""group-title="🏆LIVE WORLD CUP 2026🏆", 3:00 WIB
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo=""group-title="🏆LIVE WORLD CUP 2026🏆", 3:00 WIB
 
 #EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="🏆LIVE WORLD CUP 2026🏆", WC2026 🇫🇷 BEINSPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -232,6 +212,7 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship2.m3
 
 #EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="🏆LIVE WORLD CUP 2026🏆", WC2026 ALTERNATIF 11
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship4.m3u8
+
 
 <=================== CADANGAN PIALA DUNIA =============================>
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10"group-title="🏆CADANGAN PIALA DUNIA 🏆",FIFA 1
