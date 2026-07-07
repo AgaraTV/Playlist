@@ -85,12 +85,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1
 
 
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/8LwT3HMZ/PRANCIS.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-1 Perancis vs Maroko JUMAT 3:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/3y5NSQHY/perancis.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-1 Perancis vs Maroko JUMAT 3:00 WIB
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/8LwT3HMZ/PRANCIS.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-1 Perancis vs Maroko JUMAT 3:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/3y5NSQHY/perancis.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-1 Perancis vs Maroko JUMAT 3:00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://edge22.776740.ir.cdn.ir/hls2/rasf1.m3u8
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/8LwT3HMZ/PRANCIS.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-1 Perancis vs Maroko JUMAT 3:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/3y5NSQHY/perancis.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-1 Perancis vs Maroko JUMAT 3:00 WIB
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship2.m3u8
 
@@ -108,11 +108,11 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship20.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/Rp343TCY/NORWEGIA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-3 Norwegia vs Inggris MINGGU 4:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/s9mWX7tj/norwegia.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-3 Norwegia vs Inggris MINGGU 4:00 WIB
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship17.m3u8
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/Rp343TCY/NORWEGIA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-3 Norwegia vs Inggris MINGGU 4:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/s9mWX7tj/norwegia.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-3 Norwegia vs Inggris MINGGU 4:00 WIB
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship12.m3u8
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/Rp343TCY/NORWEGIA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-3 Norwegia vs Inggris MINGGU 4:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/s9mWX7tj/norwegia.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-3 Norwegia vs Inggris MINGGU 4:00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
