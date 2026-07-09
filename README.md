@@ -35,54 +35,41 @@ LIVE WORLD CUP 2026
 <================================================>
 
 
-#https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship4.m3u8
-
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/PzNF5vGk/PORTUGAL.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Portugal vs Spanyol SELASA 2:00 WIB
 #https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship2.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
 #https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship5.m3u8
 
 #http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/spBNjS6d/ARGENTINA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Argentina vs Mesir SELASA 23:00 WIB
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://edge22.776740.ir.cdn.ir/hls2/rasf1.m3u8
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/spBNjS6d/ARGENTINA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Argentina vs Mesir SELASA 23:00 WIB
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship2.m3u8
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/spBNjS6d/ARGENTINA.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Argentina vs Mesir SELASA 23:00 WIB
+#https://edge22.776740.ir.cdn.ir/hls2/rasf1.m3u8
+
+#https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship2.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+#https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/DgrZWmv4/SWIS.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Swiss vs Kolombia RABU 3:00 WIB
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship5.m3u8
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/DgrZWmv4/SWIS.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Swiss vs Kolombia RABU 3:00 WIB
+#https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship5.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/DgrZWmv4/SWIS.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",Swiss vs Kolombia RABU 3:00 WIB
+#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
-
+#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
 
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/3y5NSQHY/perancis.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-1 Perancis vs Maroko JUMAT 3:00 WIB
@@ -118,7 +105,18 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship12.m
 #KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo=""group-title="🏆LIVE WORLD CUP 2026🏆",QF-4 MINGGU 8:00 WIB
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/KpkzkhWk/argentina.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-4 Argentina vs Swiss MINGGU 8:00 WIB
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/KpkzkhWk/argentina.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-4 Argentina vs Swiss MINGGU 8:00 WIB
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship4.m3u8
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/KpkzkhWk/argentina.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",QF-4 Argentina vs Swiss MINGGU 8:00 WIB
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo=""group-title="🏆LIVE WORLD CUP 2026🏆", 3:00 WIB
 
