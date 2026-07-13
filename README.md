@@ -339,16 +339,12 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 https://tvratu.my.id/vid/index.m3u8?id=1561&type=hls
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://images.indihometv.com/assets/88_SINDONEWSTV_2025_03_17_15_14_55.png",SindoNews
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvku.family/Vis1/index.drm?id=5
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://tvku.family/Vis1/index.mpd?id=5
-
+https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 group-title="Local" tvg-logo="https://images.indihometv.com/assets/88_TVRI_2025_03_17_14_57_26.png",TVRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ratu77.adptv.workers.dev/index.m3u8?id=6441&type=hls
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=16
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd
 
 =============================
 
@@ -11284,14 +11280,12 @@ https://raw.githubusercontent.com/B-inal-123/tim-s/inal-22/MuTV.m3u8
 
 <=================== KONWLEDGE =============================>
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="DOCUMENTARY",HGTV 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/hgtv00.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-id="Animal Planet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="DOCUMENTARY",Animal Planet 
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
+http://kstv.us:8080/Kh2fHxR0c8/3333726709/40775
 
 #EXTINF:-1 group-title="DOCUMENTARY", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_461.png",BBC Earth
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -11299,35 +11293,30 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/defaul
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 #EXTINF:-1 group-title="DOCUMENTARY", tvg-logo="https://images.indihometv.com/assets/88_CGTNDOC_2025_03_17_14_59_03.png",CGTN Documentary
-https://indihuy.streamized.net/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22dcc9a719a3411ca53b520236ded916:27425784e415cb5de6c857de6222b01b
+https://atemecdnbalancer-voe.sysln.id/live/eds/CGTN/mediampd/CGTN.mpd
 #EXTINF:-1 group-title="DOCUMENTARY", tvg-logo="https://images.indihometv.com/assets/88_CURIOSITY_2025_03_17_15_29_20.png",Curiosity
-https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+
 #EXTINF:-1 group-title="DOCUMENTARY", tvg-logo="https://pic.dens.tv/tv_183x174/1701335366_square.jpg",Dens Knowledge
-https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTARY", tvg-logo="https://images.indihometv.com/assets/88_DISCOVERYASIA_2025_03_17_15_31_07.png",Discovery Asia
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+http://202.169.224.202:8800/udp/239.9.1.6:1234
+
 #EXTINF:-1 group-title="DOCUMENTARY", tvg-logo="https://images.indihometv.com/assets/88_DISCOVERY_2025_03_17_15_36_07.png",Discovery Channel
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.mpd
+http://fortv.cc:8080/live/rkruja@hotmail.com/zwX3gpy7nP/57252.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtyMuwKCxvj47GWYlw9mM4mdCk1vw8hTmYQ&s",DMAX
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mediampd/DMAXHD.mpd
+
 #EXTINF:-1 group-title="DOCUMENTARY", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_462.png",Global Trekker
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
 https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mediampd/GlobalTrekkerHD.mpd
 #EXTINF:-1 group-title="DOCUMENTARY",tvg-logo="https://images.indihometv.com/assets/88_HISTORY_2025_03_17_15_11_49.png",History
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
-https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mediampd/HistoryHD.mpd
+
 #EXTINF:-1 group-title="DOCUMENTARY",tvg-logo="https://images.indihometv.com/assets/88_LOVENATURE_2025_03_17_15_28_20.png",Love Nature
-https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
+
 #EXTINF:-1 group-title="DOCUMENTARY", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfHSqRWbDe1jfPtzu3wRrptHSTIn38qaaE8g&s",Outdoor Channel
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -11339,16 +11328,18 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/Animalplanet.m3u8
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/dc/47/f9/dc47f97388f9d53558c127321a6caf3a.jpg" group-title="DOCUMENTARY",Discovery Channel
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/discovery00.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEeTy8leb78c3g_mfjdt7dN4o7g94-i2UzPQ&s" group-title="DOCUMENTARY",Discovery History
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/discoveryhistory00.m3u8
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsiLJ5ZYaREqZpC3EJdJ4PYzLfD70mCpSFkA&s" group-title="DOCUMENTARY", Discovery Investigation
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/discoveryinvestigation00.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Discoveryscience.png" group-title="DOCUMENTARY", Discovery Science
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/discoveryscience00.m3u8
+
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png" group-title="DOCUMENTARY", Discovery Turbo
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/discoveryturbo00.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVCgvkN218cZ4rLT5udJiNOPCp3QevkkYNoO0vyocJwyWiKsgLjbUCUn_&s=10" group-title="DOCUMENTARY", National Geographic
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/natgeo00.m3u8
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/natgeowild00.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR17GT3dzTMYevTD4I6MsyZERANA5-dmflO_uCqdq3uuL4JGUs_X0lhAv1n&s=10" group-title="DOCUMENTARY", National Geographic Wild
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/natgeowild00.m3u8
@@ -11474,12 +11465,3 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/in
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="DOCUMENTARY",DMAX TV
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/761/png-transparent-logo-destination-america-brand-television-channel-design-television-text-trademark.png" group-title
-
-
-
-
-
-
-
-
-
