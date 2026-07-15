@@ -1,6 +1,13 @@
 
 
 
+<=================== EVENT 1 =============================>
+
+#EXTINF:-1 group-title=">>ATENTION <<" tvg-logo="https://i.ibb.co.com/mFrmqMDH/photo-2026-07-15-11-47-56.jpg",INFORMASI
+https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
+
+
+
 <================>
 
 VOLLY
@@ -9,22 +16,34 @@ VOLLY
 
 
 
-
-
-
-
 ======== BADMINTON =========
-#EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpNIVEVDdQZZNJxhdkxw8_Q9Y5SO5mexoNiHg_LQWSA&s",SATHIO GROUP Australian Badminton Open 2026
 
-#EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpNIVEVDdQZZNJxhdkxw8_Q9Y5SO5mexoNiHg_LQWSA&s",SATHIO GROUP Australian Badminton Open 2026
+#EXTINF:-1 group-title=">>LIVE EVENT JULI/2026 <<"  tvg-logo="https://i.ibb.co.com/jkXgvHfF/photo-2026-07-15-11-47-52.jpg",INFORMASI
+https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
 
-#EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpNIVEVDdQZZNJxhdkxw8_Q9Y5SO5mexoNiHg_LQWSA&s",SATHIO GROUP Australian Badminton Open 2026
+#EXTINF:-1 group-title=">>LIVE EVENT JULI/2026 <<" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s",Daihatsu Japan Open 2026 COURT 1
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836024550061_AiSD.m3u8?txSecret=d4a1c24da5304ca2f2f70190627a2b57&txTime=6A5802E0
 
-#EXTINF:-1 group-title="EVENT JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpNIVEVDdQZZNJxhdkxw8_Q9Y5SO5mexoNiHg_LQWSA&s",SATHIO GROUP Australian Badminton Open 2026
+#EXTINF:-1 group-title=">>LIVE EVENT JULI/2026 <<" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s",Daihatsu Japan Open 2026 COURT 2
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836167426061_AiSD.m3u8?txSecret=388522019b44941358b97a7a68954c14&txTime=6A5802E0
+#EXTINF:-1 group-title=">>LIVE EVENT JULI/2026 <<" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s",Daihatsu Japan Open 2026 COURT 3
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836298806061_AiSD.m3u8?txSecret=ef1a6e1a0ec569613b60e16197a030bf&txTime=6A5802E0
+#EXTINF:-1 group-title="EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s",Daihatsu Japan Open 2026
+
+
 
 
 <================================================>
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6ZfMjp8Bsd8SNxpDtCntUipoUtJWgUBJd9rGLGA4jg&s" group-title=">>LIVE EVENT JULI/2026 <<",VNL 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6ZfMjp8Bsd8SNxpDtCntUipoUtJWgUBJd9rGLGA4jg&s" group-title=">>LIVE EVENT JULI/2026 <<",VNL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
 
 
 <================================================>
@@ -33,6 +52,10 @@ VOLLY
 
 LIVE WORLD CUP 2026
 <================================================>
+
+#EXTINF:-1 group-title="🏆LIVE WORLD CUP 2026🏆",tvg-logo="https://i.ibb.co.com/B5FY2nBR/photo-2026-07-15-11-47-43.jpg",INFORMASI
+https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
+
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/d8gZ0G7/PERAN4.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",SF 1 Perancis vs Spanyol RABU 2:00 WIB
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship18.m3u8
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/R4MwwdXP/PERAN3.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",SF 1 Perancis vs Spanyol RABU 2:00 WIB
@@ -65,6 +88,14 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship4.m3
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship6.m3u8
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/Kx8HDrpy/ARGEN5.jpg"group-title="🏆LIVE WORLD CUP 2026🏆",SF 2 Inggris vs Argentina KAMIS 2:00 WIB
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01&isp=5
+
+
+
+
+
+
+
+
 
 
 
@@ -129,8 +160,16 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
 
 
+
+<=================== CADANGAN PIALA DUNIA =============================>
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10"group-title="🏆CADANGAN PIALA DUNIA 🏆",FIFA 1
+<=================== CADANGAN PIALA DUNIA =============================>
+
+#EXTINF:-1 group-title="🏐VOLLY VNL🏐",tvg-logo="https://i.ibb.co.com/B5FY2nBR/photo-2026-07-15-11-47-43.jpg",INFORMASI
+https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="🏐VOLLY VNL🏐", VNL 1
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/mojiTV.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="🏐VOLLY VNL🏐", VNL 2
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL7.m3u8
@@ -142,10 +181,10 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL9.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="🏐VOLLY VNL🏐", VNL 5
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL10.m3u8
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Volly1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="🏐VOLLY VNL🏐", VNL 6
-#https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL3.m3u8
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Volly2.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="🏐VOLLY VNL🏐", VNL 7
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL4.m3u8
@@ -184,7 +223,6 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=206&type=drm
 https://tvratu.my.id/vid/index.mpd?id=206&type=dash
-
 
 
 LOKAL
