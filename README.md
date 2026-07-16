@@ -25,12 +25,12 @@ VOLLY
 https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
 
 #EXTINF:-1 group-title=">>LIVE EVENT JULI/2026 <<" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s",Daihatsu Japan Open 2026 COURT 1
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836024550061_AiSD.m3u8?txSecret=d4a1c24da5304ca2f2f70190627a2b57&txTime=6A5802E0
+chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://mobilelive-test.ysp.cctv.cn/ysp/2031468401.m3u8
 
 #EXTINF:-1 group-title=">>LIVE EVENT JULI/2026 <<" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s",Daihatsu Japan Open 2026 COURT 2
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836167426061_AiSD.m3u8?txSecret=388522019b44941358b97a7a68954c14&txTime=6A5802E0
+chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://mobilelive-test.ysp.cctv.cn/ysp/2031468501.m3u8
 #EXTINF:-1 group-title=">>LIVE EVENT JULI/2026 <<" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s",Daihatsu Japan Open 2026 COURT 3
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836298806061_AiSD.m3u8?txSecret=ef1a6e1a0ec569613b60e16197a030bf&txTime=6A5802E0
+chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://mobilelive-test.ysp.cctv.cn/ysp/2031468601.m3u8
 #EXTINF:-1 group-title="EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s",Daihatsu Japan Open 2026
 
 
