@@ -26,12 +26,12 @@ https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85s
 
 #EXTINF:-1 group-title=">>LIVE EVENT JULI/2026 <<" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s",Daihatsu Japan Open 2026 COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=bcab959805eede23588718d1d104a59b&wsTime=6a585c20&seqid=5258171319662&ctype=huya_webh5&ver=1&fs=bgct&ratio=500&dMod=wcs-1&sdkPcdn=1_1&u=3471603219418&t=100&sv=2606081743&sdk_sid=1784175343929&a_block=1
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroBadminton.m3u8
 #EXTINF:-1 group-title=">>LIVE EVENT JULI/2026 <<" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s",Daihatsu Japan Open 2026 COURT 2
-https://mobilelive-test.ysp.cctv.cn/ysp/2031468501.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSSB3.m3u8
+
 #EXTINF:-1 group-title=">>LIVE EVENT JULI/2026 <<" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s",Daihatsu Japan Open 2026 COURT 3
-https://mobilelive-test.ysp.cctv.cn/ysp/2031468601.m3u8
+
 #EXTINF:-1 group-title="EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s",Daihatsu Japan Open 2026
 
 
