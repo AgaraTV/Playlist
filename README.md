@@ -1155,7 +1155,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="@SPORT LOKAL🇲🇨",Soccer Channel
+#EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="SPORT LOKAL🇲🇨",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -1215,15 +1215,15 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #EXTINF:-1 tvg-id="beINSports5" group-title="SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1200px-TVRI_Sport_2022.svg.png" group-title="@SPORT LOKAL🇲🇨", TVRI Sports DENS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1200px-TVRI_Sport_2022.svg.png" group-title="SPORT LOKAL🇲🇨", TVRI Sports DENS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1200px-TVRI_Sport_2022.svg.png" group-title="@SPORT LOKAL🇲🇨", TVRI Sports HLS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1200px-TVRI_Sport_2022.svg.png" group-title="SPORT LOKAL🇲🇨", TVRI Sports HLS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEQDx4NnVtO6r9pqp8TDMQdSBGa_E4MFpmDvkV0dUg&s" group-title="@SPORT LOKAL🇲🇨", TVRI SPORT WEB
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEQDx4NnVtO6r9pqp8TDMQdSBGa_E4MFpmDvkV0dUg&s" group-title="SPORT LOKAL🇲🇨", TVRI SPORT WEB
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/tvrisport00.m3u8
 
 
@@ -1235,7 +1235,7 @@ http://202.169.224.202:8800/udp/239.9.1.10:1234
 #EXTINF:-1 group-title="SPORT LOKAL🇲🇨"  tvg-logo="https://thumbor.prod.vidiocdn.com/Xbri5YIQ-JyNB_UQMJ6wz49lru4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png", CTV 3
 http://202.169.224.202:8800/udp/239.9.1.11:1234
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp2HOcdQifRFC5p9rFSuQE01wwv5EqxwzfTA&s" group-title="@SPORT LOKAL🇲🇨", SPOTV (V+)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp2HOcdQifRFC5p9rFSuQE01wwv5EqxwzfTA&s" group-title="SPORT LOKAL🇲🇨", SPOTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1245,7 +1245,7 @@ http://202.169.224.202:8800/udp/239.9.1.11:1234
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
-#EXTINF:-1  tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20SD-FirstMedia-Chl-140.jpg&w=1920&q=100" group-title="@SPORT LOKAL🇲🇨", SPOTV 2 (V+)
+#EXTINF:-1  tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20SD-FirstMedia-Chl-140.jpg&w=1920&q=100" group-title="SPORT LOKAL🇲🇨", SPOTV 2 (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1263,11 +1263,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="@SPORT LOKAL🇲🇨",Fight Sports (v+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="SPORT LOKAL🇲🇨",Fight Sports (v+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4H0UwKvsEtvscNX69qd6gwps2m65V0J7iuA&usqp=CAU" group-title="@SPORT LOKAL🇲🇨", PSJ TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4H0UwKvsEtvscNX69qd6gwps2m65V0J7iuA&usqp=CAU" group-title="SPORT LOKAL🇲🇨", PSJ TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.adptv.workers.dev/license_cenc
