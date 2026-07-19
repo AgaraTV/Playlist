@@ -81,7 +81,8 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL4.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL5.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="🏐VOLLY VNL🏐", VNL 9
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://013tv.com:8080/F33848/cbd9779b/298550
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="🏐VOLLY VNL🏐", VNL 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
