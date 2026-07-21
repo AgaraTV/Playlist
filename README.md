@@ -900,6 +900,24 @@ LIVE BADMINTON
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/sgBnNzq/images.jpg" group-title="🏸LIVE BADMINTON🏸",  6
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
+LIVE WORLD CUP 2026
+<================================================>
+
+#EXTINF:-1 group-title="🏆PIALA DUNIA 2026🏆",tvg-logo="https://i.ibb.co.com/B5FY2nBR/photo-2026-07-15-11-47-43.jpg",INFORMASI
+https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
+
+
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/xKtT3ym5/DUNIA.jpg"group-title="🏆PIALA DUNIA 2026🏆",ULANGAN 1
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship2.m3u8
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/xKtT3ym5/DUNIA.jpg"group-title="🏆PIALA DUNIA 2026🏆",ULANGAN 2
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/xKtT3ym5/DUNIA.jpg"group-title="🏆PIALA DUNIA 2026🏆",ULANGAN 2
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/xKtT3ym5/DUNIA.jpg"group-title="🏆PIALA DUNIA 2026🏆",ULANGAN 2
+
 =========================================EVENT OLAH RAGA==================================================================
 #EXTINF:-1 group-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" 
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="EVENT OLAHRAGA", BULUTANGKIS 1
