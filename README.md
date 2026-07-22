@@ -15,22 +15,25 @@
 
 
 
+
+
 ======== BADMINTON =========
 
-#EXTINF:-1 group-title=">>LIVE EVENT JULI/2026 <<"  tvg-logo="https://i.ibb.co.com/jkXgvHfF/photo-2026-07-15-11-47-52.jpg",INFORMASI
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026 "  tvg-logo="https://i.ibb.co.com/jkXgvHfF/photo-2026-07-15-11-47-52.jpg",INFORMASI
 #https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4271153287374061_AiHD.m3u8?txSecret=157f8b26dd0f594b817166d24ed0d6ae&txTime=6A613D60
 
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026 <<" tvg-logo="https://i.ibb.co.com/TBYtS1zf/china.jpg",VICTOR China Open 2026 COURT 1
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://i.ibb.co.com/TBYtS1zf/china.jpg",VICTOR China Open 2026 COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel36/playlist.m3u8?wsSecret=dc910046bddb61f9dc0dd49027da1261&wsABSTime=1784644029
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel37.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026 <<" tvg-logo="https://i.ibb.co.com/TBYtS1zf/china.jpg",VICTOR China Open 2026 COURT 2
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://i.ibb.co.com/TBYtS1zf/china.jpg",VICTOR China Open 2026 COURT 2
 https://live1.streambylivepulse.com/live/channel37/playlist.m3u8?wsSecret=319aee6055dffa2f25aa9bc72cb00cb5&wsABSTime=1784644057
-
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026 <<" tvg-logo="https://i.ibb.co.com/TBYtS1zf/china.jpg",VICTOR China Open 2026 COURT 3
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel38.m3u8
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://i.ibb.co.com/TBYtS1zf/china.jpg",VICTOR China Open 2026 COURT 3
 https://live1.streambylivepulse.com/live/channel38/playlist.m3u8?wsSecret=7cf7450f6644a5e7894b60087e647df8&wsABSTime=1784644092
-
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026 <<" tvg-logo="https://i.ibb.co.com/TBYtS1zf/china.jpg",VICTOR China Open 2026 CCTV 5
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel39.m3u8
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://i.ibb.co.com/TBYtS1zf/china.jpg",VICTOR China Open 2026 CCTV 5
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 =====================================BOLA============================================================
 
@@ -47,6 +50,11 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
 
 
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 15:30 WIB Thailand vs Myanmar
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel88.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 19:00 WIB Indonesia vs Kamboja
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel88.m3u8
 
 
 
@@ -57,25 +65,16 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
 <================================================>
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6ZfMjp8Bsd8SNxpDtCntUipoUtJWgUBJd9rGLGA4jg&s" group-title=">>LIVE EVENT JULI/2026 <<",VNL 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=206&type=drm
-#https://tvratu.my.id/vid/index.mpd?id=206&type=dash
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6ZfMjp8Bsd8SNxpDtCntUipoUtJWgUBJd9rGLGA4jg&s" group-title=">>LIVE EVENT JULI/2026 <<",VNL 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6ZfMjp8Bsd8SNxpDtCntUipoUtJWgUBJd9rGLGA4jg&s" group-title=">>LIVE EVENT JULI/2026 <<",VNL 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6ZfMjp8Bsd8SNxpDtCntUipoUtJWgUBJd9rGLGA4jg&s" group-title="LIVE EVENT JULI/2026 ",VNL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
+https://live2.streambylivepulse.com/live/channel33.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6ZfMjp8Bsd8SNxpDtCntUipoUtJWgUBJd9rGLGA4jg&s" group-title="LIVE EVENT JULI/2026 ",VNL 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6ZfMjp8Bsd8SNxpDtCntUipoUtJWgUBJd9rGLGA4jg&s" group-title="LIVE EVENT JULI/2026 ",VNL 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 
 <================================================>
 
