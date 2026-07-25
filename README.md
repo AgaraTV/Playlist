@@ -39,27 +39,21 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 =====================================BOLA============================================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026 
 
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 15:30 WIB Vietnam vs Myanmar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel33.m3u8
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 
 
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 19:00 WIB Filipina vs Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel33.m3u8
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026",19.00 WIB  Kamboja vs Singapura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026",20.30 WIB Timor-Leste vs Vietnam
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+#https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026",PIALA AFF SPST2
@@ -68,13 +62,9 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=113
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026",PIALA AFF RCTI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v47zXs26/PRESIDEN.jpg" group-title="LIVE EVENT JULI/2026",PIALA PRESIDEN
