@@ -65,7 +65,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026",PIALA AFF RCTI
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v47zXs26/PRESIDEN.jpg" group-title="LIVE EVENT JULI/2026",PIALA PRESIDEN
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v47zXs26/PRESIDEN.jpg" group-title="LIVE EVENT JULI/2026",PIALA PRESIDEN 2
+#EXTVLCOPT:http-referrer=https://bfpc.ygrbf.cc/
+#EXTVLCOPT:http-origin=https://bfpc.ygrbf.cc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+https://bfff1.hystreamer.com/live/5007611_F5hd01.m3u8?expire=1785067600&sign=c8e29b187737b669609fac06519edb91&authkey=cGMsNTM=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v47zXs26/PRESIDEN.jpg" group-title="LIVE EVENT JULI/2026",PIALA PRESIDEN 2
 #https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
 http://013tv.com:8080/F33848/cbd9779b/162138
 
