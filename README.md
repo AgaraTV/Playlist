@@ -24,7 +24,7 @@
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://i.ibb.co.com/TBYtS1zf/china.jpg",VICTOR China Open 2026 COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
+https://live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=e031d76b726a6bd9a3caddd80d47e20e&wsABSTime=1784814096
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://i.ibb.co.com/TBYtS1zf/china.jpg",VICTOR China Open 2026 COURT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
