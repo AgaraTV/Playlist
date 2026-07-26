@@ -71,10 +71,6 @@ http://013tv.com:8080/F33848/cbd9779b/162138
 
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", SEA V-LEAGUE 1
-#EXTVLCOPT:http-referrer=https://bfpc.ygrbf.cc/
-#EXTVLCOPT:http-origin=https://bfpc.ygrbf.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-http://013tv.com:8080/F33848/cbd9779b/298550
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s",SEA V-LEAGUE 2
 https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
