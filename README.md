@@ -24,7 +24,7 @@
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://i.ibb.co.com/TBYtS1zf/china.jpg",VICTOR China Open 2026 COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=e031d76b726a6bd9a3caddd80d47e20e&wsABSTime=1784814096
+
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://i.ibb.co.com/TBYtS1zf/china.jpg",VICTOR China Open 2026 COURT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -35,26 +35,24 @@ https://live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=e031d7
 
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://i.ibb.co.com/TBYtS1zf/china.jpg",VICTOR China Open 2026 CCTV 5
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+
 =====================================BOLA============================================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026 
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 15:30 WIB Thailand vs Kamboja
 
-
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 19:00 WIB Indonesia vs Vietnam
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026",18.00 WIB SINGAPURA VS TIMOR-LESTE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026",20.30 WIB INDONESIA VS CAMBOJA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-#https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026",PIALA AFF SPST2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -66,30 +64,17 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026",PIALA AFF RCTI
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v47zXs26/PRESIDEN.jpg" group-title="LIVE EVENT JULI/2026",PIALA PRESIDEN 2
-#EXTVLCOPT:http-referrer=https://bfpc.ygrbf.cc/
-#EXTVLCOPT:http-origin=https://bfpc.ygrbf.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://bfff1.hystreamer.com/live/5007611_F5hd01.m3u8?expire=1785067600&sign=c8e29b187737b669609fac06519edb91&authkey=cGMsNTM=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v47zXs26/PRESIDEN.jpg" group-title="LIVE EVENT JULI/2026",PIALA PRESIDEN 2
-#https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
-http://013tv.com:8080/F33848/cbd9779b/162138
 
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", SEA V-LEAGUE 1
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s",SEA V-LEAGUE 2
-https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s",JAM 15.30 INDONESIA VS CAMBOJA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s",JAM 15.30 INDONESIA VS CAMBOJ
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s",JAM 19.00 THAILAND VS VIETNAM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 19:00 WIB Indonesia vs Kamboja
 
@@ -103,19 +88,14 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 
 <================================================>
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6ZfMjp8Bsd8SNxpDtCntUipoUtJWgUBJd9rGLGA4jg&s" group-title="LIVE EVENT JULI/2026 ",VNL JAM 14.30 CHINA VS ITALIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel33.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6ZfMjp8Bsd8SNxpDtCntUipoUtJWgUBJd9rGLGA4jg&s" group-title="LIVE EVENT JULI/2026 ",VNL JAM 14.30 CHINA VS ITALI
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6ZfMjp8Bsd8SNxpDtCntUipoUtJWgUBJd9rGLGA4jg&s" group-title="LIVE EVENT JULI/2026 ",VNL JAM 18.30 TURKI VS BRASIL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel33.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6ZfMjp8Bsd8SNxpDtCntUipoUtJWgUBJd9rGLGA4jg&s" group-title="LIVE EVENT JULI/2026 ",VNL 3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
 <================================================>
 
 <================================================>
