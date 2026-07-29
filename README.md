@@ -59,12 +59,12 @@ https://live2.streambylivepulse.com/live/channel4.m3u8
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel10.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Piala_Presiden.svg", PIALA PRESIDEN 2026 3
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s", PIALA PRESIDEN 2026 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live2.streambylivepulse.com/live/channel6.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Piala_Presiden.svg", PIALA PRESIDEN 2026 4
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s", PIALA PRESIDEN 2026 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live2.streambylivepulse.com/live/channel13.m3u8
