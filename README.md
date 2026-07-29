@@ -46,6 +46,16 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 #https://live2.streambylivepulse.com/live/channel10.m3u8
 
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Piala_Presiden.svg", PIALA PRESIDEN 2026 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+#https://live2.streambylivepulse.com/live/channel6.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Piala_Presiden.svg", PIALA PRESIDEN 2026 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+#https://live2.streambylivepulse.com/live/channel13.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026", 17:00 WIB Filipina vs Myanmar
@@ -61,7 +71,14 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026",PIALA AFF SPST2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026",PIALA AFF RCTI
@@ -86,6 +103,11 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 
 
 
+#EXTINF:-1 tvg-name="HBO BOXING" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi_sa8AJyJ-zDCNz4hYh1qE_QSZ45i48SJtMA3EuBRWsopaqSYuusaezl56hpnj_pbSTyRkh7mL6lZwRGQ5YylQcu_wDY3QT0WIlzgz5mKEIVd7qNmXLWvzfNzIHvBdXKfIT3MgxnoHDeM3zDP__2yQTRnxbf_TaJxEQdoA3d87qHJmdXpYT50B_7d7-RQV" group-title="LIVE EVENT JULI/2026" event-duration="4",HBO BOXING
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 
 
 
