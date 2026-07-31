@@ -23,13 +23,13 @@
 #https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QrJqLFKSevpihtGJWoZa4Jk5tl-Eaksrgl3O5i7oHg&s=10",COURT 1 Yonex Taipei Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel61.m3u8
+
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QrJqLFKSevpihtGJWoZa4Jk5tl-Eaksrgl3O5i7oHg&s=10",COURT 2 Yonex Taipei Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel62.m3u8
+
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QrJqLFKSevpihtGJWoZa4Jk5tl-Eaksrgl3O5i7oHg&s=10",COURT 3 Yonex Taipei Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel63.m3u8
+
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QrJqLFKSevpihtGJWoZa4Jk5tl-Eaksrgl3O5i7oHg&s=10",COURT 4 Yonex Taipei Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel64.m3u8
+
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://i.ibb.co.com/TBYtS1zf/china.jpg",VICTOR China Open 2026 CCTV 5
 #http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
@@ -37,30 +37,37 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s" group-title="LIVE EVENT JULI/2026 
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s",MEN's VNL 2026 CCTV 5
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+#http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 14:00 WIB QF: Italy v USA | Final Phase | Men's VNL 2026
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/gT7In44v/live.isml/.m3u8
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 16:00 WIB Indonesia vs Thailand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 14:00 WIB QF: Italy v USA | Final Phase | Men's VNL 2026
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 19:00 WIB Vietnam vs Filipina
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 17:00 WIB Timor-Leste vs Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel33.m3u8
+https://live1.streambylivepulse.com/live/channel5.m3u8?wsSecret=b0f82b4b26e893819b03f4bbb1e7a271&wsABSTime=1785520109
 
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 18:30 WIB QF: Poland v Ukraine | Final Phase | Men's VNL 2026
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:00 WIB Vietnam vs Singapura
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel33.m3u8
+https://live1.streambylivepulse.com/live/channel1.m3u8?wsSecret=61771a3fa9e99a4fcb3bba766255cd5e&wsABSTime=1785520179
 
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", 15:30 WIB Port FC vs Persija
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", 15:30 WIB Arema vs DPMM FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://live2.streambylivepulse.com/live/channel24.m3u8
+https://live2.streambylivepulse.com/live/channel15.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", 19:30 WIB Persebaya Surabaya vs PSMS
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", 19:30 WIB Persib vs Tampines Rovers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-#https://live2.streambylivepulse.com/live/channel12.m3u8
+https://live2.streambylivepulse.com/live/channel19.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", PIALA PRESIDEN 2026 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -84,27 +91,7 @@ https://live2.streambylivepulse.com/live/channel24.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026", 17:00 WIB Filipina vs Myanmar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026",20:00 WIB Malaysia vs Laos
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-#https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026",PIALA AFF SPST2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026",PIALA AFF RCTI
