@@ -54,14 +54,23 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT JULI/2026",AFF RCTI
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
+http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT JULI/2026",AFF SOCCER C
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT JULI/2026",AFF SPORSTAR 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c61d6aacd14b46d0832c76081ab2877b:7d77094f1e7d835083134e60eed9dcdd
-https://tglmp02.akamaized.net/out/v1/94904b87bd2b434c8859ef6c13405466/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
+https://ayo.maling.pl/V/vision/id=113.cok.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg", 17:00 WIB Timor-Leste vs Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
