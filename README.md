@@ -36,6 +36,10 @@ http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
 =====================================BOLA============================================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT JULI/2026 
 
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://i.ibb.co.com/cKfKCPzP/KOVO.jpg",VOLY KOREA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://www.youtube.com/live/ESN0ySpTAsw?si=akA3LEXrI4-7a9Yv
+
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 14:00 WIB SF: Slovenia v Poland | Final Phase | Men's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
@@ -70,6 +74,11 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
 http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT JULI/2026",AFF RCTI+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rplusplus.semar26.xyz/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT JULI/2026",AFF SPORSTAR 2
 
