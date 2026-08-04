@@ -24,21 +24,23 @@
 #EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026 "  tvg-logo="https://i.ibb.co.com/jkXgvHfF/photo-2026-07-15-11-47-52.jpg",INFORMASI
 #https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
 
-#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QrJqLFKSevpihtGJWoZa4Jk5tl-Eaksrgl3O5i7oHg&s=10",COURT 1 Yonex Taipei Open 2026
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://i.ibb.co.com/MHQDgYx/koreamas.jpg",COURT 1
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel61.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QrJqLFKSevpihtGJWoZa4Jk5tl-Eaksrgl3O5i7oHg&s=10",COURT 2 Yonex Taipei Open 2026
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://i.ibb.co.com/MHQDgYx/koreamas.jpg",COURT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel62.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QrJqLFKSevpihtGJWoZa4Jk5tl-Eaksrgl3O5i7oHg&s=10",COURT 3 Yonex Taipei Open 2026
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://i.ibb.co.com/MHQDgYx/koreamas.jpg",COURT 3
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel63.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QrJqLFKSevpihtGJWoZa4Jk5tl-Eaksrgl3O5i7oHg&s=10",COURT 4 Yonex Taipei Open 2026
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://i.ibb.co.com/MHQDgYx/koreamas.jpg",COURT 4
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel64.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026 " tvg-logo="https://i.ibb.co.com/TBYtS1zf/china.jpg",VICTOR China Open 2026 CCTV 5
 #http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 =====================================BOLA============================================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT AGUSTUS/2026 
-
-
 
 #EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s",SEA V CUP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -67,39 +69,31 @@ http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT AGUSTUS/2026",17:30 WIB Kamboja vs Timor-Leste
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT AGUSTUS/2026",17:00 WIB Myanmar vs Laos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT AGUSTUS/2026",20:30 WIB Indonesia vs Vietnam
-
-
-#EXTINF:-1 group-title="EVENT 03/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:30 WIB Indonesia vs Vietnam
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-1832581.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=316554b1a8d2f3179e5f0b465ef5f80b
-
-#EXTINF:-1 group-title="EVENT 03/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:30 WIB Indonesia vs Vietnam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://live2.streambylivepulse.com/live/channel15.m3u8
-
-
-
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10",PIALA PRESIDEN 2026 1
+https://live2.streambylivepulse.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT AGUSTUS/2026",20:00 WIB Filipina vs Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-#https://live2.streambylivepulse.com/live/channel4.m3u8
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
+https://live2.streambylivepulse.com/live/channel1.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10",PIALA PRESIDEN 2026 2
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10",15:30 WIB Persib vs Persija
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-#https://live2.streambylivepulse.com/live/channel10.m3u8
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
+https://live2.streambylivepulse.com/live/channel4.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT JULI/2026 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10",19:30 WIB Persebaya Surabaya vs Arema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
+https://live2.streambylivepulse.com/live/channel22.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s", PIALA PRESIDEN 2026 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-#https://live2.streambylivepulse.com/live/channel6.m3u8
+#EXTVLCOPT:http-origin=https://xlz.livepingscorex.com
+#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://202.169.224.202:8800/udp/239.9.1.25:1234
 
 #EXTINF:-1 group-title="LIVE EVENT JULI/2026"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s", PIALA PRESIDEN 2026 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
