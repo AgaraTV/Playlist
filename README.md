@@ -102,17 +102,17 @@ http://202.169.224.202:8800/udp/239.9.1.25:1234
 
 
 
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://i.imgur.com/QRk478M.jpeg" tvg-id="Digital.id" group-title="LIVE EVENT AGUSTUS/2026"MotoGP (Sky Sport Moto GP FHD Italia)
+#EXTINF:-1 tvg-name="Race" tvg-logo="https://i.imgur.com/QRk478M.jpeg" tvg-id="Digital.id" group-title="LIVE EVENT AGUSTUS/2026",MotoGP(Sky Sport Moto GP FHD Italia)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/105837.m3u8
 
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://i.imgur.com/QRk478M.jpeg" tvg-id="Digital.id" group-title="LIVE EVENT AGUSTUS/2026"toGP (TNT Sports 2)
+#EXTINF:-1 tvg-name="Race" tvg-logo="https://i.imgur.com/QRk478M.jpeg" tvg-id="Digital.id" group-title="LIVE EVENT AGUSTUS/2026",MotoGP (TNT Sports 2)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/11605
 
-#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026"g-logo="https://i.imgur.com/QRk478M.jpeg" tvg-id="Digital.id",MOTOGP
+#EXTINF:-1 tvg-name="Race" tvg-logo="https://i.imgur.com/QRk478M.jpeg" tvg-id="Digital.id" group-title="LIVE EVENT AGUSTUS/2026",MOTOGP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
