@@ -1066,76 +1066,111 @@ https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/La%20Liga%202.m3
 https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/RallyMania.m3u8
 
 ===============================================SPORT LOKAL===========================================================
-#EXTINF:-1 tvg-id="Lokal" group-title="SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" ch-number="112",SPORTSTAR
+
+#EXTINF:-1 group-title="@SPORT LOKAL🇲🇨" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",BEIN SPORTS 1 🇦🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+#EXTINF:-1 group-title="@SPORT LOKAL🇲🇨" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",BEIN SPORTS 2 🇦🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 group-title="@SPORT LOKAL🇲🇨" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 🇦🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="Lokal" group-title="@SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" ch-number="112",SPORTSTAR
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=112.play
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" ch-number="113",SPORTSTAR 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTINF:-1 tvg-id="Lokal" group-title="@SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" ch-number="113",SPORTSTAR 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/691/691-LOGO-m.png" ch-number="205",SPORTSTAR 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Lokal" group-title="@SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png" ch-number="114",SPORTSTAR 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=114.play
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTINF:-1 tvg-id="Lokal" group-title="@SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/691/691-LOGO-m.png" ch-number="205",SPORTSTAR 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=205.play
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
+#EXTINF:-1 tvg-id="Lokal" group-title="@SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" ch-number="115",SOCCER CHANNEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=115.play
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="SPORT LOKAL🇲🇨",Soccer Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp2HOcdQifRFC5p9rFSuQE01wwv5EqxwzfTA&s" group-title="@SPORT LOKAL🇲🇨", SPOTV 🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1 
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd  
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-#EXTINF:-1 group-title="SPORT LOKAL🇲🇨" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png",Bein Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
+#EXTINF:-1 tvg-id="Lokal" group-title="@SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/856/522856-LOGO-m.png" ch-number="119",SPOTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=119.play
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
-#EXTINF:-1 group-title="SPORT LOKAL🇲🇨" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID2.png",Bein Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd  
+#EXTINF:-1 tvg-id="Lokal" group-title="@SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/366/525366-LOGO-m.png" ch-number="120",SPOTV2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=120.play
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-#EXTINF:-1 group-title="SPORT LOKAL🇲🇨" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID3.png",Bein Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTINF:-1 tvg-id="Lokal" group-title="@SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" ch-number="121",FIGHT SPORT
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=121.play
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+
+#EXTINF:-1 tvg-id="Lokal" group-title="@SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/865/522865-LOGO-m.png" ch-number="122",BEIN SPORT
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=122.play
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 tvg-id="Lokal" group-title="@SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png" ch-number="123",BEIN SPORT 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=123.play
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#EXTINF:-1 tvg-id="Lokal" group-title="@SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" ch-number="124",BEIN SPORT 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=124.play
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
@@ -1144,7 +1179,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-#EXTINF:-1 tvg-id="beINSports4" group-title="SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4
+#EXTINF:-1 tvg-id="beINSports4" group-title="@SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -1154,249 +1189,179 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-#EXTINF:-1 tvg-id="beINSports5" group-title="SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
+#EXTINF:-1 tvg-id="beINSports5" group-title="@SPORT LOKAL🇲🇨" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1200px-TVRI_Sport_2022.svg.png" group-title="SPORT LOKAL🇲🇨", TVRI Sports DENS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1200px-TVRI_Sport_2022.svg.png" group-title="SPORT LOKAL🇲🇨", TVRI Sports HLS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEQDx4NnVtO6r9pqp8TDMQdSBGa_E4MFpmDvkV0dUg&s" group-title="SPORT LOKAL🇲🇨", TVRI SPORT WEB
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEQDx4NnVtO6r9pqp8TDMQdSBGa_E4MFpmDvkV0dUg&s" group-title="@SPORT LOKAL🇲🇨", TVRI SPORT WEB
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/tvrisport00.m3u8
 
-
-#EXTINF:-1 group-title="SPORT LOKAL🇲🇨" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", CTV 1
-http://202.169.224.202:8800/udp/239.9.1.9:1234
-
-#EXTINF:-1 group-title="SPORT LOKAL🇲🇨" tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", CTV 2
-http://202.169.224.202:8800/udp/239.9.1.10:1234
-#EXTINF:-1 group-title="SPORT LOKAL🇲🇨"  tvg-logo="https://thumbor.prod.vidiocdn.com/Xbri5YIQ-JyNB_UQMJ6wz49lru4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png", CTV 3
-http://202.169.224.202:8800/udp/239.9.1.11:1234
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp2HOcdQifRFC5p9rFSuQE01wwv5EqxwzfTA&s" group-title="SPORT LOKAL🇲🇨", SPOTV (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-
-#EXTINF:-1  tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20SD-FirstMedia-Chl-140.jpg&w=1920&q=100" group-title="SPORT LOKAL🇲🇨", SPOTV 2 (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-name="Champions Golf 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg72thbV5XCpzRCNJkTehf5_mEeeahF1wkCEL7M3QmWoiE-Hk0TTdpG83kDDb4RSRYLDFe_1DijJVWfmwa9FV2a8kQm4Ni1FKfIFbezCtpfdIAY1PobnEEz_IEfGYKRuIsC6fjdxN4kBy2w67AQnVRhWEq9EaRXM9qWZn8MZ-chcrXTERbnsvwxZSMYdvsY" group-title="@SPORT LOKAL🇲🇨",Champions Golf 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=c53012b08edf478187064665dde647cb:5390bb924b102d566b9e59afbdc08fab
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/ChampionsGolf1HD.mpd
 
-
+#EXTINF:-1 tvg-name="Champions Golf 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiZD2zeqGKgUSZOgQMzCq75fpplKsGBCJ_hyVbsCTLuttTLRI6qcO6koudzZLyCPNzSIi7oBvyiWNbfrgnI8NdmSH4_arAcEjmKDrjTUg3ojkoT7PPQXgmC0C64DrlKyrwMbeHylaMWvhKHO11myykVEPlaKWdMgPneExvdGsA6tq1ocS_DyvB-qPrSDIUP" group-title="@SPORT LOKAL🇲🇨",Champions Golf 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="SPORT LOKAL🇲🇨",Fight Sports (v+)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=b2fbd6358a344dcba331c7c91742cd34:ee183e1a1b971b5a2f764c192ae52087
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGolf2HD.mpd
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4H0UwKvsEtvscNX69qd6gwps2m65V0J7iuA&usqp=CAU" group-title="SPORT LOKAL🇲🇨", PSJ TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4H0UwKvsEtvscNX69qd6gwps2m65V0J7iuA&usqp=CAU" group-title="@SPORT LOKAL🇲🇨", PSJ TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.adptv.workers.dev/license_cenc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
 
-
-#EXTINF:-1 tvg-name="" tvg-id="DistroTV_Billiard TV" group-title="SPORT LOKAL🇲🇨" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq82MHHHob2kUHini1NGVSqTFn-ytSYL6W7Q&usqp=CAU", Billiard TV
+#EXTINF:-1 tvg-name="" tvg-id="DistroTV_Billiard TV" group-title="@SPORT LOKAL🇲🇨" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq82MHHHob2kUHini1NGVSqTFn-ytSYL6W7Q&usqp=CAU", Billiard TV
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bHkqL9p/rallytv.png" group-title="@SPORT LOKAL🇲🇨",RALLY TV
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="HBO BOXING" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi_sa8AJyJ-zDCNz4hYh1qE_QSZ45i48SJtMA3EuBRWsopaqSYuusaezl56hpnj_pbSTyRkh7mL6lZwRGQ5YylQcu_wDY3QT0WIlzgz5mKEIVd7qNmXLWvzfNzIHvBdXKfIT3MgxnoHDeM3zDP__2yQTRnxbf_TaJxEQdoA3d87qHJmdXpYT50B_7d7-RQV" group-title="@SPORT LOKAL🇲🇨"  event-duration="4",HBO BOXING
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
+
 
 
 VISION+
 =========================================================================================
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-l.png" ch-number="1",RCTI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-l.png" ch-number="1",RCTI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=1.play
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-l.png" ch-number="2",MNC TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-l.png" ch-number="2",MNC TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=2.play
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-l.png" ch-number="3",GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-l.png" ch-number="3",GTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=3.play
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-l.png" ch-number="4",iNews
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/263/514263-LOGO-m.png" ch-number="5",SindoNews
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-l.png" ch-number="4",iNews
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvku.family/Vis1/index.drm?id=5
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://tvku.family/Vis1/index.mpd?id=5
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-l.png" ch-number="6",Trans TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=4.play
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
+
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/263/514263-LOGO-m.png" ch-number="5",SindoNews
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=5.play
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
+
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-l.png" ch-number="6",Trans TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=6.play
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-l.png" ch-number="7",Trans 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-l.png" ch-number="7",Trans 7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=7.play
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-l.png" ch-number="8",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-l.png" ch-number="8",SCTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=8.play
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-l.png" ch-number="9",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-l.png" ch-number="9",Indosiar
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=9.play
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-l.png" ch-number="10",ANTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-l.png" ch-number="10",ANTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=10.play
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-l.png" ch-number="11",RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-l.png" ch-number="11",RTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=11.play
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-l.png" ch-number="12",TV One
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-l.png" ch-number="12",TV One
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=12.play
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-l.png" ch-number="13",Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-l.png" ch-number="13",Kompas TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=13.play
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-l.png" ch-number="14",Metro TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-l.png" ch-number="14",Metro TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=14.play
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-l.png" ch-number="15",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-l.png" ch-number="15",BTV
+##EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=15.play
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/36d936f64cd2482ebc077567dbcf0919/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-l.png" ch-number="16",TVRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-l.png" ch-number="16",TVRI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=16.play
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-l.png" ch-number="18",DAAI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b2fdc5d5def7460a8dfb78492b66dd4f:a99645e65ce190e9556dda93be172cd4
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-l.png" ch-number="18",DAAI TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=18.play
 https://d2tjypxxy769fn.cloudfront.net/out/v1/744044c3985142399fbd466f9f3fd8fa/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-l.png" ch-number="19",Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22bd0016090143f795a275629a6e7a0a:cae11accebe3ca7535141d35f4d41a1d
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-l.png" ch-number="19",Moji
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=19.play
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/074/569074-LOGO-l.png" ch-number="20",Mentari TV
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/074/569074-LOGO-l.png" ch-number="20",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1406,7 +1371,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/in
 #KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png" ch-number="23",MD TV
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png" ch-number="23",MD TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1416,7 +1381,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-l.png" ch-number="24",JTV
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-l.png" ch-number="24",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1426,7 +1391,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/ind
 #KODIPROP:inputstream.adaptive.license_key=994121840707471a920b2e65bdf21b7e:0033ae3118a0153ad05fc9a066a8805c
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-l.png" ch-number="25",JAK TV
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-l.png" ch-number="25",JAK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1436,7 +1401,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/in
 #KODIPROP:inputstream.adaptive.license_key=5dfa046b3bf14866a143470d9c8dd74d:97e354284ee7a67e5dafbce04e17c4c0
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/fea2c4b90ae2472d891389eb8b95571c/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/599/599-LOGO-l.png" ch-number="26",Bali TV
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/599/599-LOGO-l.png" ch-number="26",Bali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1446,7 +1411,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/fea2c4b90ae2472d891389eb8b95571c/ind
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-l.png" ch-number="27",Bandung TV
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-l.png" ch-number="27",Bandung TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1456,7 +1421,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/in
 #KODIPROP:inputstream.adaptive.license_key=86e50e1506af46c780233c0091b67159:549788738d10df77094a0d4efaf0d567
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/601/601-LOGO-l.png" ch-number="28",TV 9
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/601/601-LOGO-l.png" ch-number="28",TV 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1466,7 +1431,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/in
 #KODIPROP:inputstream.adaptive.license_key=730bf9b6641f4ca597fd0d2903ffc574:293446fd53697862b165984b860fd7b0
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/839/437839-LOGO-l.png" ch-number="29",DMI TV
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/839/437839-LOGO-l.png" ch-number="29",DMI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1476,7 +1441,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/in
 #KODIPROP:inputstream.adaptive.license_key=cf8d36bbfa904cb8a1c714dd74217cf2:97c0f4b08a496f8ab05e46f29a71c7c8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/7819c09ece974a7582eed4770bf60e65/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/603/603-LOGO-l.png" ch-number="30",TVMU
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/603/603-LOGO-l.png" ch-number="30",TVMU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1486,7 +1451,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/7819c09ece974a7582eed4770bf60e65/ind
 #KODIPROP:inputstream.adaptive.license_key=94f0b3d645c64f0dbe2e0990ec290cdf:0dc311915f9decffaf7dfee30c4d8482
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-l.png" ch-number="36",Originals
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-l.png" ch-number="36",Originals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1496,7 +1461,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/ind
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-l.png" ch-number="37",Buddy Stars
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-l.png" ch-number="37",Buddy Stars
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1506,7 +1471,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/in
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-l.png" ch-number="38",Uniques
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-l.png" ch-number="38",Uniques
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1516,7 +1481,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/ind
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png" ch-number="39",Superrix
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png" ch-number="39",Superrix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1526,7 +1491,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-l.png" ch-number="40",Cinneedge
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-l.png" ch-number="40",Cinneedge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1536,7 +1501,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/in
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-l.png" ch-number="41",Thrill
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-l.png" ch-number="41",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1546,7 +1511,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/in
 #KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/610/610-LOGO-l.png" ch-number="42",Hits Movies
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/610/610-LOGO-l.png" ch-number="42",Hits Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1556,7 +1521,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 #KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-l.png" ch-number="44",Celestial Movies
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-l.png" ch-number="44",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1566,7 +1531,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/in
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-l.png" ch-number="45",CCM
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-l.png" ch-number="45",CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1576,7 +1541,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/in
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-l.png" ch-number="46",TVN Movies
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-l.png" ch-number="46",TVN Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1586,7 +1551,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/277/410277-LOGO-l.png" ch-number="47",Zee Bioskop
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/277/410277-LOGO-l.png" ch-number="47",Zee Bioskop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1596,7 +1561,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-l.png" ch-number="48",GALAXY PREMIUM
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-l.png" ch-number="48",GALAXY PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1606,7 +1571,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-l.png" ch-number="49",GALAXY
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-l.png" ch-number="49",GALAXY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1616,7 +1581,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/ind
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/342/10342-LOGO-l.png" ch-number="50",IMC (Indonesia Movie Channel)
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/342/10342-LOGO-l.png" ch-number="50",IMC (Indonesia Movie Channel)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1626,7 +1591,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/in
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-l.png" ch-number="54",Studio Universal
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-l.png" ch-number="54",Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1636,7 +1601,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-l.png" ch-number="56",Kids TV
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-l.png" ch-number="56",Kids TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1646,7 +1611,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-l.png" ch-number="57",Moonbug
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-l.png" ch-number="57",Moonbug
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1656,7 +1621,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 #KODIPROP:inputstream.adaptive.license_key=8b62ae389f0944d4a55daaad52de1f9d:ba145a1426491316010da87bfd69de05
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/228/494228-LOGO-m.png" ch-number="58",Cbeebies
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/228/494228-LOGO-m.png" ch-number="58",Cbeebies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1666,7 +1631,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/ind
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-l.png" ch-number="60",Nick Jr
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-l.png" ch-number="60",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1676,7 +1641,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/in
 #KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-l.png" ch-number="63",Zoo Moo
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-l.png" ch-number="63",Zoo Moo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1686,7 +1651,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-l.png" ch-number="65",Animax
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-l.png" ch-number="65",Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1696,7 +1661,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/630/630-LOGO-l.png" ch-number="67",DREAMWORKS
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/630/630-LOGO-l.png" ch-number="67",DREAMWORKS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1706,7 +1671,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/ind
 #KODIPROP:inputstream.adaptive.license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-l.png" ch-number="72",Entertainment
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-l.png" ch-number="72",Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1716,7 +1681,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/in
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/103/458103-LOGO-l.png" ch-number="73",TVN
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/103/458103-LOGO-l.png" ch-number="73",TVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1726,7 +1691,7 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/ind
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-l.png" ch-number="74",One
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-l.png" ch-number="74",One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1736,7 +1701,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 #KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-l.png" ch-number="75",Kix
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-l.png" ch-number="75",Kix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1746,7 +1711,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
 #KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-l.png" ch-number="76",NHK World Premium
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-l.png" ch-number="76",NHK World Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1756,7 +1721,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/in
 #KODIPROP:inputstream.adaptive.license_key=2f699274d40f479d89804912c134830d:352d8c910649b4d332047cf2833bb43f
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/637/637-LOGO-l.png" ch-number="77",Hits
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/637/637-LOGO-l.png" ch-number="77",Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1766,7 +1731,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/in
 #KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-l.png" ch-number="79",AXN
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-l.png" ch-number="79",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1776,7 +1741,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/in
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-l.png" ch-number="80",Lifetime
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-l.png" ch-number="80",Lifetime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1786,7 +1751,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 #KODIPROP:inputstream.adaptive.license_key=59de57168ce94a96bed1606f10c65f67:459fdec6262975e03adc82d62b749f44
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-l.png" ch-number="87",Vision Prime
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-l.png" ch-number="87",Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -1796,7 +1761,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/ind
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/642/642-LOGO-l.png" ch-number="88",Celebrities TV
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/642/642-LOGO-l.png" ch-number="88",Celebrities TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -1806,7 +1771,7 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 https://fta3-cdn-flr.visionplus.id/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-l.png" ch-number="89",Hanacaraka TV
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-l.png" ch-number="89",Hanacaraka TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1816,7 +1781,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-l.png" ch-number="92",Rock Entertainment
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-l.png" ch-number="92",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1825,7 +1790,7 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-l.png" ch-number="93",Rock Action
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-l.png" ch-number="93",Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1835,7 +1800,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/in
 #KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/646/646-LOGO-l.png" ch-number="95",Crime Investigation
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/646/646-LOGO-l.png" ch-number="95",Crime Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1845,7 +1810,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 #KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-l.png" ch-number="101",Outdoor Channel
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-l.png" ch-number="101",Outdoor Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1855,7 +1820,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/in
 #KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/230/494230-LOGO-m.png" ch-number="102",BBC Earth
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/230/494230-LOGO-m.png" ch-number="102",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1865,7 +1830,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/in
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-l.png" ch-number="103",Global Trekker
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-l.png" ch-number="103",Global Trekker
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1874,7 +1839,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b826a2e05a5a4922b64019c17345a020:a532aa3aaf1b2f32daa66b4d165056c6
 https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-l.png" ch-number="104",History
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-l.png" ch-number="104",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1884,7 +1849,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/in
 #KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/682/295682-LOGO-l.png" ch-number="105",Love Nature
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/682/295682-LOGO-l.png" ch-number="105",Love Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1894,7 +1859,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/365/132365-LOGO-l.png" ch-number="131",CNBC Asia
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/365/132365-LOGO-l.png" ch-number="131",CNBC Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1904,7 +1869,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/in
 #KODIPROP:inputstream.adaptive.license_key=f2ecb7420c48463c9c1eeb9a908825ed:2ddaa7bc8fcff832464ad874ab468c3f
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-l.png" ch-number="132",FOX News
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-l.png" ch-number="132",FOX News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1914,7 +1879,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/in
 #KODIPROP:inputstream.adaptive.license_key=02a01b19989c4f6699b83aead96fff14:89ac6f2178c855ce6bf9e9b7e45eecbb
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/444f3d7b909d470f9f5a55c781a79728/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-l.png" ch-number="134",IDX
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-l.png" ch-number="134",IDX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1924,7 +1889,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/444f3d7b909d470f9f5a55c781a79728/in
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/664/664-LOGO-l.png" ch-number="137",Muslim TV
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/664/664-LOGO-l.png" ch-number="137",Muslim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1934,7 +1899,7 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/ind
 #KODIPROP:inputstream.adaptive.license_key=c2e6de6943ef47d08c2634a2df4bcece:badf619476b3bf0889ab545e8d3926f6
 https://d2gr3zenqo3tg4.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/665/665-LOGO-l.png" ch-number="138",LIFE
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/665/665-LOGO-l.png" ch-number="138",LIFE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1944,7 +1909,7 @@ https://d2gr3zenqo3tg4.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/in
 #KODIPROP:inputstream.adaptive.license_key=08e5cf90e8c04a7fa90f5c126768b239:b9406a99b9ea4b07149ecc582faf2613
 https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/666/666-LOGO-l.png" ch-number="139",Reformed 21
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/666/666-LOGO-l.png" ch-number="139",Reformed 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1954,7 +1919,7 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/ind
 #KODIPROP:inputstream.adaptive.license_key=729e39db83984d58a23e16f2c05f915f:0d3871bf01b6d871c9882265fb78e8fa
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/623c771560e443f2920ea5be99016b7e/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-l.png" ch-number="142",Music TV
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-l.png" ch-number="142",Music TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1964,7 +1929,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/623c771560e443f2920ea5be99016b7e/in
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/670/670-LOGO-l.png" ch-number="146",DW
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/670/670-LOGO-l.png" ch-number="146",DW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1974,7 +1939,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 #KODIPROP:inputstream.adaptive.license_key=44003e0bf3cc4cfa8a35cead51e34d42:a46e0bee874435aeb96fcac1177275a1
 https://dv6fza91pwlw3.cloudfront.net/out/v1/3c64eec3b1594ec98aa758ed334fa6a0/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/671/671-LOGO-l.png" ch-number="147",France 24
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/671/671-LOGO-l.png" ch-number="147",France 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1984,7 +1949,7 @@ https://dv6fza91pwlw3.cloudfront.net/out/v1/3c64eec3b1594ec98aa758ed334fa6a0/ind
 #KODIPROP:inputstream.adaptive.license_key=0750d198f4824ea7bbb82beede8f55d3:352108d6c83c5ea32c42b4f7465ad3ee
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/498b57e974a843d28ea1a393603e5318/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/672/672-LOGO-l.png" ch-number="148",TRT World
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/672/672-LOGO-l.png" ch-number="148",TRT World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1994,7 +1959,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/498b57e974a843d28ea1a393603e5318/in
 #KODIPROP:inputstream.adaptive.license_key=e4b5eab488e149e68f3e421615ffd0d2:2556a421a56e53ab9b6ccefdf464581e
 https://dv6fza91pwlw3.cloudfront.net/out/v1/be2bcc4b75e348e5b331fc5f99aa3daf/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/850/850-LOGO-l.png" ch-number="149",Aljazeera
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/850/850-LOGO-l.png" ch-number="149",Aljazeera
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2004,7 +1969,7 @@ https://dv6fza91pwlw3.cloudfront.net/out/v1/be2bcc4b75e348e5b331fc5f99aa3daf/ind
 #KODIPROP:inputstream.adaptive.license_key=d5c2df5b13c04708a89de814f5b73f8e:0a2678dca36ec3e46e223bb3aafdaf37
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/b1d58fabf2764d52aa1e130f4a45d2af/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/674/674-LOGO-l.png" ch-number="150",RT
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/674/674-LOGO-l.png" ch-number="150",RT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2014,7 +1979,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/b1d58fabf2764d52aa1e130f4a45d2af/ind
 #KODIPROP:inputstream.adaptive.license_key=b5aaa8234c3544b78559537d5e5dd4e3:0521cdbcfb827d59a939381620096ea2
 https://d3bay3f4zdxn24.cloudfront.net/out/v1/451249e7e3004f5aba228da284c2a649/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/675/675-LOGO-l.png" ch-number="151",EURONEWS
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/675/675-LOGO-l.png" ch-number="151",EURONEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2024,7 +1989,7 @@ https://d3bay3f4zdxn24.cloudfront.net/out/v1/451249e7e3004f5aba228da284c2a649/in
 #KODIPROP:inputstream.adaptive.license_key=79d66aca73d94db694964b1b3fb08533:71d8b26729d735d7d8b895e5d6a9bfcc
 https://d2tjypxxy769fn.cloudfront.net/out/v1/23af54d57d8a447dbf0621ec71d89e7e/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/847/847-LOGO-l.png" ch-number="152",Channel News Asia
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/847/847-LOGO-l.png" ch-number="152",Channel News Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2034,7 +1999,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/23af54d57d8a447dbf0621ec71d89e7e/in
 #KODIPROP:inputstream.adaptive.license_key=fb0dd5a64a3c45e086cb23f7f9649fbc:d68ee78a9b1703da869a983b57d95c60
 https://d1ebgtxjo246w3.cloudfront.net/out/v1/7295b950a9b44dd2bf622a7d7d25dbd3/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/677/677-LOGO-l.png" ch-number="153",Al Quran Al Kareem
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/677/677-LOGO-l.png" ch-number="153",Al Quran Al Kareem
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2044,7 +2009,7 @@ https://d1ebgtxjo246w3.cloudfront.net/out/v1/7295b950a9b44dd2bf622a7d7d25dbd3/in
 #KODIPROP:inputstream.adaptive.license_key=d856bf85229c4a42a7b0de45e4c91a31:5633e069ef585f73ccfe2dd6a85a6f48
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/678/678-LOGO-l.png" ch-number="154",EWTN
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/678/678-LOGO-l.png" ch-number="154",EWTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2054,7 +2019,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/ind
 #KODIPROP:inputstream.adaptive.license_key=070756a16fd44081b6c2d64e40346b9e:d5fa9eaa7fd94f93d1b613d1ff0a5f91
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/96e20532df53449ab254f765073ec866/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/679/679-LOGO-l.png" ch-number="155",CGTN Documentary
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/679/679-LOGO-l.png" ch-number="155",CGTN Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2064,7 +2029,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/96e20532df53449ab254f765073ec866/in
 #KODIPROP:inputstream.adaptive.license_key=349ac1b8d5f2493d97ffd88d364de38c:92e769c36e60dcd8573c08fd9c27b9bf
 https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/680/680-LOGO-l.png" ch-number="156",CGTN
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/680/680-LOGO-l.png" ch-number="156",CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2074,7 +2039,7 @@ https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/in
 #KODIPROP:inputstream.adaptive.license_key=4c2c7834abd740669637bc4b029c9aee:2f7808671f1a6f63ebd86850d8d7cc5f
 https://d3rzhldmr21hry.cloudfront.net/out/v1/c3e6d7241fbf404082087774d7221635/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-l.png" ch-number="157",Anhui
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-l.png" ch-number="157",Anhui
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2084,7 +2049,7 @@ https://d3rzhldmr21hry.cloudfront.net/out/v1/c3e6d7241fbf404082087774d7221635/in
 #KODIPROP:inputstream.adaptive.license_key=36a73e886f584bbb959821fd97eaaa31:357e360c301c4f67862c46588545067d
 https://d2tjypxxy769fn.cloudfront.net/out/v1/39a34211e80145678ce1616b52368f99/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-l.png" ch-number="160",Hunan TV
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-l.png" ch-number="160",Hunan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2094,7 +2059,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/39a34211e80145678ce1616b52368f99/in
 #KODIPROP:inputstream.adaptive.license_key=cf09955f788c43349b677e15bbbc287f:74c70dbe1c0a3d367aab3356d54ccb64
 https://d2tjypxxy769fn.cloudfront.net/out/v1/63e4d9f383cb4ca59317c7be9407e228/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-l.png" ch-number="161",Jiangsu TV
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-l.png" ch-number="161",Jiangsu TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2104,7 +2069,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/63e4d9f383cb4ca59317c7be9407e228/in
 #KODIPROP:inputstream.adaptive.license_key=5ee5f4313ab54bce9f93cb166ea9d685:010f5ee14b27407c3691f73356ff32b1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/ccc51c0317284496b6cde9f7bd670b80/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-l.png" ch-number="162",NHK
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-l.png" ch-number="162",NHK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2114,7 +2079,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/ccc51c0317284496b6cde9f7bd670b80/in
 #KODIPROP:inputstream.adaptive.license_key=989c2b64799145f3bbf19fade7f20380:6eb7e7a29e6e633a82a2af4449b93535
 https://d3rzhldmr21hry.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/311/580311-LOGO-m.png" ch-number="163",TV5Monde
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/311/580311-LOGO-m.png" ch-number="163",TV5Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2124,7 +2089,7 @@ https://d3rzhldmr21hry.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/in
 #KODIPROP:inputstream.adaptive.license_key=8e1901f646584b92af0a1a4406ffce23:7d1ca6e0f4f0d3d1a57c74204e273d6c
 https://d1ebgtxjo246w3.cloudfront.net/out/v1/16374447d35a49a596b9ff6cda259fe0/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/688/688-LOGO-l.png" ch-number="164",Arirang
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/688/688-LOGO-l.png" ch-number="164",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2134,7 +2099,7 @@ https://d1ebgtxjo246w3.cloudfront.net/out/v1/16374447d35a49a596b9ff6cda259fe0/in
 #KODIPROP:inputstream.adaptive.license_key=d83df80b9af34e219404dea6bf7efd41:46dbfee377ea972b3e5914cbf6aa6122
 https://dv6fza91pwlw3.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/689/689-LOGO-l.png" ch-number="165",ABC
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/689/689-LOGO-l.png" ch-number="165",ABC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2145,9 +2110,9 @@ https://dv6fza91pwlw3.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/ind
 https://d3rzhldmr21hry.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
 
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/817/138817-LOGO-l.png" ch-number="1008",R+ Live
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/817/138817-LOGO-l.png" ch-number="1008",R+ Live
 
-#EXTINF:-1 group-logo="" group-title="VISION+" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/261/514261-LOGO-m.png",Hanacaraka
+#EXTINF:-1 group-logo="" group-title="@VISION+" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/261/514261-LOGO-m.png",Hanacaraka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2157,114 +2122,84 @@ https://d3rzhldmr21hry.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/in
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" ch-number="112",SPORTSTAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" ch-number="112",SPORTSTAR
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=112.play
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" ch-number="113",SPORTSTAR 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" ch-number="113",SPORTSTAR 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/691/691-LOGO-m.png" ch-number="205",SPORTSTAR 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png" ch-number="114",SPORTSTAR 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png" ch-number="114",SPORTSTAR 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=114&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=114.play
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" ch-number="115",SOCCER CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/691/691-LOGO-m.png" ch-number="205",SPORTSTAR 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=205.play
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" ch-number="115",SOCCER CHANNEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=115.play
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/856/522856-LOGO-m.png" ch-number="119",SPOTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/856/522856-LOGO-m.png" ch-number="119",SPOTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=119.play
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/366/525366-LOGO-m.png" ch-number="120",SPOTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/366/525366-LOGO-m.png" ch-number="120",SPOTV2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=120.play
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" ch-number="121",FIGTH SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
-https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" ch-number="121",FIGTH SPORT
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=121.play
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/865/522865-LOGO-m.png" ch-number="122",BEIN SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/865/522865-LOGO-m.png" ch-number="122",BEIN SPORT
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=122.play
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png" ch-number="123",BEIN SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png" ch-number="123",BEIN SPORT 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=123.play
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" ch-number="124",BEIN SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" ch-number="124",BEIN SPORT 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=124.play
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/884/522884-LOGO-m.png" ch-number="125",BEIN SPORT 4
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/884/522884-LOGO-m.png" ch-number="125",BEIN SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2275,7 +2210,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png" ch-number="126",BEIN SPORT 5
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png" ch-number="126",BEIN SPORT 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2286,13 +2221,13 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/273/468273-LOGO-m.png" ch-number="1002",V+
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/273/468273-LOGO-m.png" ch-number="1002",V+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/710/112710-LOGO-m.png" ch-number="1010",V+LIVE 2
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/710/112710-LOGO-m.png" ch-number="1010",V+LIVE 2
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-m.png" ch-number="1011",\+ SPORTS
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-m.png" ch-number="1011",\+ SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2302,7 +2237,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/148/129148-LOGO-m.png" ch-number="1012",\+ LIVE 3
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/148/129148-LOGO-m.png" ch-number="1012",\+ LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2311,7 +2246,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index.mpd
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/509/128509-LOGO-m.png" ch-number="1013",\+ LIVE 4
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/509/128509-LOGO-m.png" ch-number="1013",\+ LIVE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2320,7 +2255,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://fta4-cdn-flr.visionplus.id/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/900/514900-LOGO-m.png" ch-number="1014",\+ LIVE 5
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/900/514900-LOGO-m.png" ch-number="1014",\+ LIVE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2330,7 +2265,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+" tvg-logo="https://www.visionplus.id/images/repository/149/519149-LOGO-m.png" ch-number="1015",V+ LIVE 6
+#EXTINF:-1 tvg-id="Lokal" group-title="@VISION+" tvg-logo="https://www.visionplus.id/images/repository/149/519149-LOGO-m.png" ch-number="1015",V+ LIVE 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2339,6 +2274,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed1723eb360145ccafa1b466130186da:c7c4171e98de14c23be427f6ab16ef72
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
+
 
 
 =================================================HBO==========================================================
