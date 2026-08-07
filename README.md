@@ -69,6 +69,11 @@ https://live2.streambylivepulse.com/live/channel6.m3u8
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
 https://live1.streambylivepulse.com/live/channel1.m3u8?wsSecret=ceae353f11252e0da6b8b0f684fe9adf&wsABSTime=1786129609
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT AGUSTUS/2026",AFF RCTI+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT AGUSTUS/2026",AFF RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
@@ -82,7 +87,7 @@ http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
 https://ayo.maling.pl/V/vision/id=113.cok.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT AGUSTUS/2026",AFF SPORSTAR 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT AGUSTUS/2026",AFF SPORSTAR 2+
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
