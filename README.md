@@ -25,7 +25,7 @@
 #https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
 
 #EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://i.ibb.co.com/MHQDgYx/koreamas.jpg",COURT 1
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel61.m3u8
+
 
 #EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://i.ibb.co.com/MHQDgYx/koreamas.jpg",COURT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
@@ -52,15 +52,7 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/mojiTV.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 13:00 WiB Vietnam vs Philippines 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 16:30 WiB Thailand vs Indonesia 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT AGUSTUS/2026",AFF RCTI+
 #EXTVLCOPT:http-user-agent=android-R+
@@ -89,11 +81,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT AGUSTUS/2026",AFF One Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://gvisiontv.channell.my.id/ch/ph/ones.php/.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT AGUSTUS/2026",AFF Inews
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 #EXTINF:-1 tvg-name="Race" tvg-logo="https://i.imgur.com/QRk478M.jpeg" tvg-id="Digital.id" group-title="LIVE EVENT AGUSTUS/2026",MotoGP SPOTV2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
