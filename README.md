@@ -18,14 +18,17 @@
 
 
 ======== BADMINTON =========
-#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bKOOkmQ8ysLQHeXt4sCef3p3qm0Vw0UMi9S-pQd14A&s=10", BWF World Championships 2026
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bKOOkmQ8ysLQHeXt4sCef3p3qm0Vw0UMi9S-pQd14A&s=10", BWF World Championships 2026 1
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bKOOkmQ8ysLQHeXt4sCef3p3qm0Vw0UMi9S-pQd14A&s=10", BWF World Championships 2026
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bKOOkmQ8ysLQHeXt4sCef3p3qm0Vw0UMi9S-pQd14A&s=10", BWF World Championships 2026 2
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bKOOkmQ8ysLQHeXt4sCef3p3qm0Vw0UMi9S-pQd14A&s=10", BWF World Championships 2026
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bKOOkmQ8ysLQHeXt4sCef3p3qm0Vw0UMi9S-pQd14A&s=10", BWF World Championships 2026 3
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bKOOkmQ8ysLQHeXt4sCef3p3qm0Vw0UMi9S-pQd14A&s=10", BWF World Championships 2026 4
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel64.m3u8
 ======== BADMINTON =========
 
 #EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026 "  tvg-logo="https://i.ibb.co.com/jkXgvHfF/photo-2026-07-15-11-47-52.jpg",INFORMASI
