@@ -4,6 +4,15 @@
 #https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
 
 
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTF3rGyOr4nZkJc5zdVTAKd9xz9O3OfX96fpasv71N7g&s=10", 13:00 WIB Thailand v Australia | Pool Phase | AVC Women's Continentals 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.edgevaultmedia.com/
+https://live2.livefeedtextbox.com/live/channel33.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTF3rGyOr4nZkJc5zdVTAKd9xz9O3OfX96fpasv71N7g&s=10", 17:30 WIB Japan v Hong Kong | Pool Phase | AVC Women's Continentals 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.edgevaultmedia.com/
+https://live2.livefeedtextbox.com/live/channel33.m3u8
 
 
 
@@ -19,19 +28,11 @@
 
 ======== BADMINTON =========
 #EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bKOOkmQ8ysLQHeXt4sCef3p3qm0Vw0UMi9S-pQd14A&s=10", BWF World Championships 2026 1
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4290270400120061_AiSD.m3u8?txSecret=2ef2d74787d7ac4efdca87818911f7a2&txTime=6A87CD40
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4290271302999061_AiSD.m3u8?txSecret=6621d159406ab990bb0384756ac6d673&txTime=6A891EC0
+
 #EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bKOOkmQ8ysLQHeXt4sCef3p3qm0Vw0UMi9S-pQd14A&s=10", BWF World Championships 2026 2
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4290270557898061_AiSD.m3u8?txSecret=be9afca0ea50b186064f9b3a7fe60375&txTime=6A87CD40
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4290271460777061_AiSD.m3u8?txSecret=eb32a3e7b50104851e734da18b80e959&txTime=6A891EC0
 
-#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bKOOkmQ8ysLQHeXt4sCef3p3qm0Vw0UMi9S-pQd14A&s=10", BWF World Championships 2026 3
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4290270672511061_AiSD.m3u8?txSecret=17007285a04fd2c767a4ffb8617055ec&txTime=6A87CD40
-
-#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bKOOkmQ8ysLQHeXt4sCef3p3qm0Vw0UMi9S-pQd14A&s=10", BWF World Championships 2026 4
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel64.m3u8
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4290270823711061_AiSD.m3u8?txSecret=5d99cefaa57fc95eff61e554d76aaa12&txTime=6A87CD40
 ======== BADMINTON =========
 
 #EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026 "  tvg-logo="https://i.ibb.co.com/jkXgvHfF/photo-2026-07-15-11-47-52.jpg",INFORMASI
