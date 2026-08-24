@@ -253,7 +253,7 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/SCTV_live_streaming_tv.jpg" group-title="LOKAL",SCTV DM
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="LOKAL",SCTV indi
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/SCTV_live_streaming_tv.jpg" group-title="LOKAL",SCTV indi
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
