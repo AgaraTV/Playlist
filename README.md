@@ -192,10 +192,7 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/SCTV_live_streaming_tv.jpg" group-title="LOKAL", SCTV HD
-
-
-#EXTINF:-1 tvg-logo="="https://i.ibb.co.com/jvrmt7cN/sctv-vidi.jpg" group-title="LOKAL", SCTV VIDI
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jvrmt7cN/sctv-vidi.jpg" group-title="LOKAL",SCTV vidi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=204
