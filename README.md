@@ -46,132 +46,34 @@
 
 
 <================>
-#EXTINF:-1 group-title="EVENT 026/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", 20:00 WIB Vietnam vs Thailand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=a90650ec7ab832e707680f9ebebf9a1d&wsABSTime=1787765847
-
-#EXTINF:-1 group-title="EVENT 026/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTF3rGyOr4nZkJc5zdVTAKd9xz9O3OfX96fpasv71N7g&s=10", 18:30 WIB China v Chinese Taipei | Pool Phase | AVC Women's Continentals 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
-https://player2.originpullstream.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="EVENT 026/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 18:30 WIB Spanyol W vs Portugal w
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
-https://live1.quickscoreboardz.com/live/channel83.m3u8?wsSecret=60310a7a90225d43ea7ae3551518a30b&wsABSTime=1787764534
-
-#EXTINF:-1 group-title="EVENT 026/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 20:00 WIB Slovenia W vs Latvia W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
-https://live1.quickscoreboardz.com/live/channel85.m3u8?wsSecret=83b9321158aa636b0e176b8d20c0756b&wsABSTime=1787764633
-
-#EXTINF:-1 group-title="EVENT 026/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 21:00 WIB Perancis W vs Italia W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
-https://player2.originpullstream.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="EVENT 026/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 21:00 WIB Austria W vs Bulgaria W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
-https://live1.quickscoreboardz.com/live/channel86.m3u8?wsSecret=a4ffd3d74afa3f2bb480a08f574f6f8a&wsABSTime=1787764831
-
-#EXTINF:-1 group-title="EVENT 026/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 23:00 WIB Jerman w vs Turki W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
-https://player2.originpullstream.com/live/channel33.m3u8
 
 
 
 
 
-<================>
-#EXTINF:-1 group-title="EVENT 027/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 00:00 WIB Serbia W vs Yunani W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
-https://live1.quickscoreboardz.com/live/channel81.m3u8?wsSecret=c9c925a6c4e24192bf872ca91cd359b0&wsABSTime=1787764908
 
-#EXTINF:-1 group-title="EVENT 027/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54uryfcuBl_NiOy7CWdJaMD8VoltwZbw9kg&s", 02:00 WIB Celje vs Slovan Bratislava
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
 
-#EXTINF:-1 group-title="EVENT 027/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54uryfcuBl_NiOy7CWdJaMD8VoltwZbw9kg&s", 02:00 WIB AEK Athens vs Levski Sofia
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+<=========================================VOLLY==================================================>
 
-#EXTINF:-1 group-title="EVENT 027/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54uryfcuBl_NiOy7CWdJaMD8VoltwZbw9kg&s", 02:00 WIB Olympique Lyonnais vs Fenerbahçe
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT 2026" tvg-logo="https://i.ibb.co.com/gbj0v3ks/AVC-WOMEN.jpg",AVC WOMENS VOLLEYBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacjhZRm9qQk9DY2g4YW9XR203Z1ZUbUZNdjZuQkxocVNrbzZuNDFVVlljNw
 
-#EXTINF:-1 group-title="EVENT 027/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54uryfcuBl_NiOy7CWdJaMD8VoltwZbw9kg&s", 02:00 WIB Viking vs Dinamo Zagreb
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s",LIGA VOLY EROPA 1
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/l6uNBHg3Hi2K/2026/8/26/16_7_30/index.m3u8
 
-#EXTINF:-1 group-title="EVENT 027/AGUSTUS/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Real Madrid vs Real Sociedad
-#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 group-title="LIVE EVENT 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s",LIGA VOLY EROPA 2
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/HtjgUMvIBvef/2026/8/26/16_7_32/index.m3u8
 
-#EXTINF:-1 group-title="EVENT 027/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW66D0JgVPQ9VJ0Ms0nktUtT7knamVEX4T8X5-SLb_tw&s=10", 01:45 WIB Tottenham Hotspur vs Charlton Athletic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 027/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW66D0JgVPQ9VJ0Ms0nktUtT7knamVEX4T8X5-SLb_tw&s=10", 02:00 WIB Preston North End vs Everton
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s",LIGA VOLY EROPA 3
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/NhuKJ6iov2YV/2026/8/26/14_54_47/index.m3u8
 
 
 
-
-
-=====================================BOLA============================================================
+=====================================MOTO GP============================================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT 2026 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT 2026",AFF RCTI+
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT 2026",AFF SPORSTAR 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
-https://ayo.maling.pl/V/vision/id=113.cok.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT 2026",AFF GTV +
-#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT 2026",AFF InewsTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdr5TYC3/HYUNDAI.jpg" group-title="LIVE EVENT 2026",AFF One Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://gvisiontv.channell.my.id/ch/ph/ones.php/.mpd
 
 #EXTINF:-1 tvg-name="Race" tvg-logo="https://i.imgur.com/QRk478M.jpeg" tvg-id="Digital.id" group-title="LIVE EVENT 2026",MotoGP SPOTV2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -205,7 +107,9 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 
 
 
-<================================================>
+<============================================⚽LIGA PREMIER⚽=====================================>
+#EXTINF:-1 group-title="⚽LIGA PREMIER⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgrH1Mdbx_O7WDH37Q3Nea4nGMi8rA-LdYirnTvzDFw&s",
+
 #EXTINF:-1 group-title="⚽LIGA PREMIER⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgrH1Mdbx_O7WDH37Q3Nea4nGMi8rA-LdYirnTvzDFw&s", PREMIERE LEAGUE 1 HD
 http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=1660493&extension=ts&play_token=gTIW7bEiwn
 
@@ -230,7 +134,54 @@ http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiq
 #EXTINF:-1 group-title="⚽LIGA PREMIER⚽"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgrH1Mdbx_O7WDH37Q3Nea4nGMi8rA-LdYirnTvzDFw&s",SPORTCAST
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f5bd6b95-dec3-4451-8a87-4475349c839a/master.m3u8
 
-<================================================>
+<======================================⚽LALIGA⚽================================================>
+#EXTINF:-1 group-title="⚽LALIGA⚽" tvg-logo="https://i.ibb.co.com/wZYzHyyD/LALIGA.jpg",
+
+#EXTINF:-1 group-title="⚽LALIGA⚽" tvg-logo="https://i.ibb.co.com/wZYzHyyD/LALIGA.jpg", LALIGA Prima S1
+#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+
+
+<=======================================⚽SERIE A⚽=============================================>
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4nfGHbcH/SERI-A.jpg" group-title="⚽SERIE A⚽",
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4nfGHbcH/SERI-A.jpg" group-title="⚽SERIE A⚽",LIGA ITALIA Starzplay S1
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1756834.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4nfGHbcH/SERI-A.jpg" group-title="⚽SERIE A⚽",LIGA ITALIA Starzplay S2
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1756835.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4nfGHbcH/SERI-A.jpg" group-title="⚽SERIE A⚽",LIGA ITALIA Mbc S1
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1585392.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4nfGHbcH/SERI-A.jpg" group-title="⚽SERIE A⚽",
+
+<==================================⚽CHAMPIONS LEAGUE⚽=============================================>
+#EXTINF:-1 group-title="⚽CHAMPIONS LEAGUE⚽" tvg-logo="https://i.ibb.co.com/VdZ7KNc/champions.jpg",
+
+#EXTINF:-1 group-title="⚽CHAMPIONS LEAGUE⚽" tvg-logo="https://i.ibb.co.com/VdZ7KNc/champions.jpg",LIGA CHAMPIONS Prima S4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livecarriercdn.com/
+https://live1.quickscoreboardz.com/live/channel81.m3u8?wsSecret=c9c925a6c4e24192bf872ca91cd359b0&wsABSTime=1787764908
+
+#EXTINF:-1 group-title="⚽CHAMPIONS LEAGUE⚽" tvg-logo="https://i.ibb.co.com/VdZ7KNc/champions.jpg",LIGA CHAMPIONS TNT S1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 group-title="⚽CHAMPIONS LEAGUE⚽" tvg-logo="https://i.ibb.co.com/VdZ7KNc/champions.jpg",LIGA CHAMPIONS TNT S4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+
+
+
+
+
 
 <================================================>
 
