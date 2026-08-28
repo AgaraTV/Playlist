@@ -1,5 +1,4 @@
 <=================== EVENT 1 =============================>
-https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
 #EXTINF:-1 group-title="EVENT 028/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTF3rGyOr4nZkJc5zdVTAKd9xz9O3OfX96fpasv71N7g&s=10", 14:00 WIB Indonesia v Iran | Playoffs | AVC Women's Continentals 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
