@@ -203,11 +203,53 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 #https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
 
 
-======== BADMINTON =========
-#EXTINF:-1 group-title="LIVE EVENT 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bKOOkmQ8ysLQHeXt4sCef3p3qm0Vw0UMi9S-pQd14A&s=10",BWF World Championships 2026
+========================================================= BADMINTON ======================================================
+
+
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bKOOkmQ8ysLQHeXt4sCef3p3qm0Vw0UMi9S-pQd14A&s=10", BWF World Championships 2026 2
 
 
 
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s",LI-NING China Masters 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4305631782905061_AiHD.m3u8?txSecret=4cb51243ac3fa73b0466fedfd10dd923&txTime=6A989C60
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s",LI-NING China Masters 2026
+https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4305632772373061_AiHD.m3u8?txSecret=f70b50ab08bf840e56277dbb4ca9a41b&txTime=6A989C60
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s",LI-NING China Masters 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4305632882467061_AiHD.m3u8?txSecret=061cc159332b53426283a240fa33c628&txTime=6A989C60
+
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s",LI-NING China Masters 2026
+https://tfyx0grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8?wsSession=5d5fcc4c82e056409b4bdbb3-178824224642326&wsIPSercert=135c3041bd8a7bb985faa863360038a0&wsBindIP=2&wsserid=1168235948330673910
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s",LI-NING China Masters 2026
+https://tfyx0grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8?wsSession=5d5fcc4c82e056409b4bdbb3-178824226529176&wsIPSercert=135c3041bd8a7bb985faa863360038a0&wsBindIP=2&wsserid=1168235948330673910
+#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s",LI-NING China Masters 2026
+https://tfyx0grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8?wsSession=5d5fcc4c82e056409b4bdbb3-178824227869208&wsIPSercert=135c3041bd8a7bb985faa863360038a0&wsBindIP=2&wsserid=1168235948330673910
+
+
+
+#EXTINF:-1 group-title="LIVE EVENT 2026" tvg-logo="https://i.ibb.co.com/MHQDgYx/koreamas.jpg",COURT 1
+
+#EXTINF:-1 group-title="LIVE EVENT 2026 "  tvg-logo="https://i.ibb.co.com/jkXgvHfF/photo-2026-07-15-11-47-52.jpg",INFORMASI
+#https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
+
+
+
+<===============================VOLLY===========================================>
+#EXTINF:-1 group-title="LIVE EVENT 2026"
+
+#EXTINF:-1 group-title="EVENT 02/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 21:00 WIB Serbia W vs Yunani W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
+https://live2.domainkqt.cc/live/channel33.m3u8
+
+#EXTINF:-1 group-title="EVENT 03/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 00:00 WIB Italia W vs Sewdia W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
+https://live2.domainkqt.cc/live/channel33.m3u8
+
+#EXTINF:-1 group-title="EVENT 03/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTak36aXZZ3dMnWMKRTDy4WT6_xZ-LrHlnN6hYAZRpopA&s", 00:00 WIB Polandia W vs Belanda W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
+https://live1.quickscoreboardz.com/live/channel82.m3u8?wsSecret=e82e37046ffde8cb88a6c9717235c2c1&wsABSTime=1788365849
 
 
 <===============================EVENT2===========================================>
