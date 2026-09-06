@@ -211,7 +211,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 
 
 
-#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s",LI-NING China Masters 2026
+#EXTINF:-1 group-title="LIVE EVENT 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s",LI-NING China Masters 2026
 https://tfyx0grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8?wsSession=5d5fcc4c82e056409b4bdbb3-178824224642326&wsIPSercert=135c3041bd8a7bb985faa863360038a0&wsBindIP=2&wsserid=1168235948330673910
 
 
