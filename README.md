@@ -213,9 +213,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s",LI-NING China Masters 2026
 https://tfyx0grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8?wsSession=5d5fcc4c82e056409b4bdbb3-178824224642326&wsIPSercert=135c3041bd8a7bb985faa863360038a0&wsBindIP=2&wsserid=1168235948330673910
-#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s",LI-NING China Masters 2026
 
-#EXTINF:-1 group-title="LIVE EVENT AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtpqtMKrb2XBT1OiDSFtwrBERFzyGg12Y84X4BCLdnw&s",LI-NING China Masters 2026
+
+
 
 
 
@@ -231,15 +231,7 @@ https://tfyx0grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.co
 <===============================VOLLY===========================================>
 #EXTINF:-1 group-title="LIVE EVENT 2026"
 
-#EXTINF:-1 group-title="EVENT 04/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Arema vs Adhyaksa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
-https://live2.domainkqt.cc/live/channel19.m3u8
 
-#EXTINF:-1 group-title="EVENT 04/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Bali United vs PSS Sleman
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
-https://live2.domainkqt.cc/live/channel6.m3u8
 
 
 
@@ -250,15 +242,7 @@ https://live2.domainkqt.cc/live/channel6.m3u8
 
 
 <==========================================================================================>
-#EXTINF:-1 group-title="EVENT 04/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjMpYtloeDkG1NInHMVRkBCP2ER5DFnrS_DCjgOv-Ww&s=10", 14:00 WIB Korea v Chinese Taipei | Pool Phase | AVC Men's Continentals 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
-https://live2.domainkqt.cc/live/channel33.m3u8
 
-#EXTINF:-1 group-title="EVENT 04/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjMpYtloeDkG1NInHMVRkBCP2ER5DFnrS_DCjgOv-Ww&s=10", 17:30 WIB Japan v Oman | Pool Phase | AVC Men's Continentals 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
-https://live2.domainkqt.cc/live/channel33.m3u8
 
 
 
