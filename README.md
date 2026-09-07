@@ -84,14 +84,14 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 group-title="TV NASIONAL🇲🇨", tvg-logo="https://images.indihometv.com/assets/88_TRANS7_2025_03_19_08_29_53.png",Trans7 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://transweb-cen.slow-panda926.workers.dev/index.m3u8?id=trans7
+
 
 #EXTINF:-1 group-title="TV NASIONAL🇲🇨", tvg-logo="https://images.indihometv.com/assets/88_TRANS7_2025_03_19_08_29_53.png",Trans7 2
 
 
 #EXTINF:-1 group-title="TV NASIONAL🇲🇨", tvg-logo="https://images.indihometv.com/assets/88_TRANSTV_2025_03_17_14_51_34.png",TransTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://transweb-cen.slow-panda926.workers.dev/index.m3u8?id=transtv
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaXMvSVl1WE5sWW0vTWdteSt4OXkzbHYwSTk4ays5OWg5b0dPbW83bXhlYg
 
 #EXTINF:-1 group-title="TV NASIONAL🇲🇨", tvg-logo="https://images.indihometv.com/assets/88_TRANSTV_2025_03_17_14_51_34.png",TransTV 2
 
