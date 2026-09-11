@@ -351,12 +351,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 
 
 <=========================================ASIAN GAME=================================================>
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFVwfJnQ/ASIAN-GAME.jpg" group-title="Asian Games 2026",Asian Games Aichi-Nagoya 2026 | Mewatch ch 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFX5zy3c/ASEAN.png" group-title="Asian Games 2026",Asian Games Aichi-Nagoya 2026 | Mewatch ch 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
 https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFVwfJnQ/ASIAN-GAME.jpg" group-title="Asian Games 2026",Asian Games Aichi-Nagoya 2026 | Mewatch ch 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFX5zy3c/ASEAN.png" group-title="Asian Games 2026",Asian Games Aichi-Nagoya 2026 | Mewatch ch 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3158bf2812ef4b34beee4c2e13219191:1b0263ae474cf8250b0d9f0bfaa31670
 https://tglmp04.akamaized.net/out/v1/eda167bbca3d4037a9951ecad56393c8/manifest.mpd
