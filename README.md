@@ -125,11 +125,14 @@ https://tvratu.my.id/vid/index.m3u8?id=6165&type=hls
 
 #EXTINF:-1 group-title="TV NASIONAL🇲🇨", tvg-logo="https://images.indihometv.com/assets/88_CNBCINDO_2025_03_17_14_57_27.png",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CNBCArabiya.ae@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png" group-title="TV NASIONAL🇲🇨",CNBC Arabiya
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL🇲🇨", tvg-logo="https://images.indihometv.com/assets/88_CNNINDO_2025_03_17_15_22_37.png",CNN Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL🇲🇨", tvg-logo="https://images.indihometv.com/logo_idx_small.png",IDX Channel
 https://cdnbal1.indihometv.com/atm/DASH/idx/idx-avc1_2500000=7-3277707030000000.mpd
