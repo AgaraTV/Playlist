@@ -250,7 +250,16 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 
 
 <=======================================EVENT3===============================================>
-
+#EXTINF:-1 group-title="EVENT 020/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 20:00 WIB Ukraina vs Romania
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel82.m3u8
+#EXTINF:-1 group-title="EVENT 020/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 21:00 WiB Finlandia vs Yunani
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel83.m3u8
+#EXTINF:-1 group-title="EVENT 020/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 23:00 WIB Prancis vs Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel33.m3u8
+#EXTINF:-1 group-title="EVENT 021/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 02:05 WIB Italia vs Denmark
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
 
 
 
