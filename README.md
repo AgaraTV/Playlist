@@ -243,8 +243,8 @@ https://live2.zundrixmediapipeline.com/live/channel15.m3u
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/jknyjbHM/FIFA-ASEAN.jpg"group-title="FIFA ASEAN CUP 2026",YT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1790360629/ei/1We2apDDLIGw77AP1J_Y4AU/ip/2404%3Ac0%3A960a%3Aa504%3Ab918%3Ac887%3Aa405%3A7929/id/EpKSy3ad2qs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/ss/1/ssa/1/siu/1/bui/AWzQHwqjlZNWugKTiBlqLPJXyYRIpSIA_zXavMzTa3bNkXFSiaGBqQ_ukiKhn3JjfFYYqv_dog/spc/I-rgIR4bCjAsNqQZbIPIdRtHVSIYkvaldtzjjTZ9ttSFLEEUbgt8ADe6og/vprv/1/go/1/ns/yF3XOfRwVKl8lSuUjVQ2xAkY/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52112904%2C52178456/dover/11/n/t9nVk_T4-m1uXC-h1i/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIhAIOpEl4FKRlKFHfgCHzRcj6IQ_JJPfF8R6iKUNlduaqnAiBqiB6x8slrlkIOZGfJT1lHyd5vHRHT2pX6a9GnOdqBIw%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/jknyjbHM/FIFA-ASEAN.jpg"group-title="FIFA ASEAN CUP 2026",
-
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/jknyjbHM/FIFA-ASEAN.jpg"group-title="FIFA ASEAN CUP 2026",Indosiar
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/jknyjbHM/FIFA-ASEAN.jpg"group-title="FIFA ASEAN CUP 2026",
 
 
