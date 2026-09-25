@@ -298,15 +298,17 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFX5zy3c/ASEAN.png" group-title="Asian Games 2026",Asian Games Aichi-Nagoya 2026 CCTV 5
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
-<=================== EVENT 1 =============================>
-#EXTINF:-1 group-title="EVENT 025/SEPTEMBER/2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
+
+#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/5a25802c-30e9-4ba4-891a-46f480753a92/HLS_ENC/index.m3u8
-#EXTINF:-1 group-title="EVENT 025/SEPTEMBER/2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/5c3b6197-75d5-458c-88bf-7a14545103b5/HLS_ENC/index.m3u8
-#EXTINF:-1 group-title="EVENT 025/SEPTEMBER/2026" tvg-logo="https://shorter.me/BI7_g", 14:00 WIB 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/BI7_g", 14:00 WIB 20th Asian Games Aichi-Nagoya 2026
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/2d2d7315-9dfa-484c-831c-7e66c12fe329/HLS_ENC/index.m3u8
-#EXTINF:-1 group-title="EVENT 025/SEPTEMBER/2026" tvg-logo="https://shorter.me/BI7_g", 14:00 WIB 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/BI7_g", 14:00 WIB 20th Asian Games Aichi-Nagoya 2026
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/d78e9ec3-8570-46d9-a770-8d0d4d895f1d/HLS_ENC/index.m3u8
+<=================== EVENT 1 =============================>
+
 
 
 =====================================MOTO GP============================================================
