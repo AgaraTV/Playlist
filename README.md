@@ -239,6 +239,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 https://live2.zundrixmediapipeline.com/live/channel15.m3u
+
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/jknyjbHM/FIFA-ASEAN.jpg"group-title="FIFA ASEAN CUP 2026",
 
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/jknyjbHM/FIFA-ASEAN.jpg"group-title="FIFA ASEAN CUP 2026",
@@ -305,6 +306,11 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFX5zy3c/ASEAN.png" group-title="Asian Games 2026",Asian Games Aichi-Nagoya 2026 CCTV 5
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+
+#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/0KD94", 17:30 WIB Republik Korea U-23 vs Vietnam U-23
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
+https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
 
 
 #EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
