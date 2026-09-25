@@ -235,7 +235,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 
 
 <===============================EVENT2===========================================>
-
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ytimg.com/vi/EpKSy3ad2qs/maxresdefault.jpg" group-title="Youtube Live",ðŸ“…[UPCOMING] FIFA ASEAN CUP 2026 - GROUP A: INDONESIA VS SINGAPURA (15 penonton menunggu â€¢ Tayang 25/09/26â€š 18.15)
+https://www.youtube.com/live/EpKSy3ad2qs
 
 
 
