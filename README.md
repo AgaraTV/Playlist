@@ -236,12 +236,15 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 
 <===============================EVENT2===========================================>
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ytimg.com/vi/EpKSy3ad2qs/maxresdefault.jpg"group-title="FIFA ASEAN CUP 2026",GROUP A: INDONESIA VS SINGAPURA
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel15.m3u
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/jknyjbHM/FIFA-ASEAN.jpg"group-title="FIFA ASEAN CUP 2026",
 
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/jknyjbHM/FIFA-ASEAN.jpg"group-title="FIFA ASEAN CUP 2026",
 
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/jknyjbHM/FIFA-ASEAN.jpg"group-title="FIFA ASEAN CUP 2026",
+
 
 
 
