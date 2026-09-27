@@ -250,12 +250,16 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/jknyjbHM/FIFA-ASEAN.jpg"group-title="FIFA ASEAN CUP 2026",Rans YT
 
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://shorter.me/yKOXu", 15:00 WIB Pakistan vs Thailand
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://shorter.me/yKOXu", 14:00 WIB Kamboja vs Myanmar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel5.m3u8
 
-
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://shorter.me/yKOXu", 18:30 WIB Vietnam vs Filipina
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://shorter.me/yKOXu", 17:00 WIB Hong Kong vs Laos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel1.m3u8
+
 
 
 
@@ -322,9 +326,27 @@ https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=c1533ab
 #EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
 https://live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=4b7cca380ac55ed8eac14ef5e1b3c5a2&wsABSTime=1790184886
 
+#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
+https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/49032a6f-ecc6-4c06-8f19-a0bc0adfb912/HLS_ENC/index.m3u8
+#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
+https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/575d7dd8-062e-429d-8462-dc46b89e8848/HLS_ENC/index.m3u8
 
 
+#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/32-EQ", 14:00 WIB Indonesia vs Thailand
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
 
+#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/32-EQ", 14:00 WIB India vs Vietnam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel33.m3u8
+
+#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/32-EQ", 17:00 WIB China vs Taiwan
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
+
+#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/32-EQ", 17:20 WIB Jepang vs Uzbekistan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel33.m3u8
 
 
 <=================== EVENT 1 =============================>
