@@ -267,7 +267,7 @@ https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 
 <==============================================================================================>
 
-#EXTINF:-1 group-title="EVENT 028/SEPTEMBER/2026" tvg-logo="https://i.ibb.co.com/21Z7BQZy/uefa.jpg 23:00 WIB Latvia vs Siprus
+#EXTINF:-1 group-title="EVENT 028/SEPTEMBER/2026" tvg-logo="https://i.ibb.co.com/ch6QTsxs/uefa1.jpg",23:00 WIB Latvia vs Siprus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -276,7 +276,7 @@ https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 028/SEPTEMBER/2026" tvg-logo="https://i.ibb.co.com/21Z7BQZy/uefa.jpg 23:00 WIB Armenia vs Montenegro
+#EXTINF:-1 group-title="EVENT 028/SEPTEMBER/2026" tvg-logo="https://i.ibb.co.com/ch6QTsxs/uefa1.jpg",23:00 WIB Armenia vs Montenegro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -284,7 +284,7 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 028/SEPTEMBER/2026" tvg-logo="https://i.ibb.co.com/21Z7BQZy/uefa.jpg", 23:00 WIB Georgia vs Ukraina
+#EXTINF:-1 group-title="EVENT 028/SEPTEMBER/2026" tvg-logo="https://i.ibb.co.com/ch6QTsxs/uefa1.jpg", 23:00 WIB Georgia vs Ukraina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -292,7 +292,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 029/SEPTEMBER/2026" tvg-logo="https://i.ibb.co.com/21Z7BQZy/uefa.jpg", 01:45 WIB Belgia vs Perancis
+#EXTINF:-1 group-title="EVENT 029/SEPTEMBER/2026" tvg-logo="https://i.ibb.co.com/ch6QTsxs/uefa1.jpg", 01:45 WIB Belgia vs Perancis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -300,7 +300,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 029/SEPTEMBER/2026" tvg-logo="https://i.ibb.co.com/21Z7BQZy/uefa.jpg", 01:45 WIB Turki vs Italia
+#EXTINF:-1 group-title="EVENT 029/SEPTEMBER/2026" tvg-logo="https://i.ibb.co.com/ch6QTsxs/uefa1.jpg", 01:45 WIB Turki vs Italia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -308,7 +308,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 029/SEPTEMBER/2026" tvg-logo="https://i.ibb.co.com/21Z7BQZy/uefa.jpg", 01:45 WIB Irlandia Utara vs Hungaria
+#EXTINF:-1 group-title="EVENT 029/SEPTEMBER/2026" tvg-logo="https://i.ibb.co.com/ch6QTsxs/uefa1.jpg", 01:45 WIB Irlandia Utara vs Hungaria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -316,7 +316,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 029/SEPTEMBER/2026" tvg-logo="https://i.ibb.co.com/21Z7BQZy/uefa.jpg", 01:45 WIB Swedia vs Polandia
+#EXTINF:-1 group-title="EVENT 029/SEPTEMBER/2026" tvg-logo="https://i.ibb.co.com/ch6QTsxs/uefa1.jpg", 01:45 WIB Swedia vs Polandia
 #EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pu1se1.xn--ukq5h.shop/puk4/usergendx3j2x4tqrnd.m3u8
