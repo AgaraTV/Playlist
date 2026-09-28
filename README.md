@@ -238,28 +238,24 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 
 
 
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/jknyjbHM/FIFA-ASEAN.jpg"group-title="FIFA ASEAN CUP 2026",Jalalive
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",Jalalive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 
 
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/jknyjbHM/FIFA-ASEAN.jpg"group-title="FIFA ASEAN CUP 2026",Indosiar
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",Indosiar
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas2.m3u8
 
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",Indosiar2
+http://sansatplus.net:88/02000406070996/1899319467/694349
 
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/jknyjbHM/FIFA-ASEAN.jpg"group-title="FIFA ASEAN CUP 2026",Indosiar2
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",T Sport
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
 
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="
 
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/jknyjbHM/FIFA-ASEAN.jpg"group-title="FIFA ASEAN CUP 2026",Rans YT
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="
 
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://shorter.me/yKOXu", 14:00 WIB Kamboja vs Myanmar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel5.m3u8
-
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://shorter.me/yKOXu", 17:00 WIB Hong Kong vs Laos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel1.m3u8
-
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="
 
 
 
@@ -321,32 +317,17 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFX5zy3c/ASEAN.png" group-title="Asian Games 2026",Asian Games Aichi-Nagoya 2026 CCTV 5
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
-https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=c1533aba0d1f5152234eb77f287cfabb&wsABSTime=1790184951
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
-https://live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=4b7cca380ac55ed8eac14ef5e1b3c5a2&wsABSTime=1790184886
 
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
-https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/49032a6f-ecc6-4c06-8f19-a0bc0adfb912/HLS_ENC/index.m3u8
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/BI7_g", 07:30 WIB 20th Asian Games Aichi-Nagoya 2026
-https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/575d7dd8-062e-429d-8462-dc46b89e8848/HLS_ENC/index.m3u8
-
-
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/32-EQ", 14:00 WIB Indonesia vs Thailand
+#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/32-EQ",VOLLY 1
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
 
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/32-EQ", 14:00 WIB India vs Vietnam
+#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/32-EQ",VOLLY 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 https://live2.zundrixmediapipeline.com/live/channel33.m3u8
 
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/32-EQ", 17:00 WIB China vs Taiwan
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
 
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/32-EQ", 17:20 WIB Jepang vs Uzbekistan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel33.m3u8
+
 
 
 <=================== EVENT 1 =============================>
