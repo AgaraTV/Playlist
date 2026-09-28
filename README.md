@@ -251,14 +251,16 @@ http://sansatplus.net:88/02000406070996/1899319467/694349
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",T Sport
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
 
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/G4jjWh5y/singa.jpg"group-title="16:00 WIB Singapura vs Bangladesh
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://i.ibb.co.com/G4jjWh5y/singa.jpg",16:00 WIB Singapura vs Bangladesh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 https://live2.zundrixmediapipeline.com/live/channel15.m3u8
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg"group-title="19:30 WIB Indonesia vs Malaysia
+
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg", 19:30 WIB Indonesia vs Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 https://live2.zundrixmediapipeline.com/live/channel1.m3u8
+
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="
 
 
