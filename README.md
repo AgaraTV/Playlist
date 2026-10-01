@@ -250,6 +250,15 @@ http://ktpremium.world:2095/oc100138/3826778900/73617
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",T Sport
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
 
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://shorter.me/yKOXu", 19:30 WIB Indonesia vs Bangladesh 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://shorter.me/yKOXu", 19:30 WIB Malaysia vs Singapura
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
 
