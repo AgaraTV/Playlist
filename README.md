@@ -239,7 +239,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 
 
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/JFq9QLp0/bangla.jpg"group-title="FIFA ASEAN CUP 2026",Indonesia VS Banglades
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://live2.zundrixmediapipeline.com/live/channel33.m3u8
 
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",Indosiar
