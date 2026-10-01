@@ -242,10 +242,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 https://live2.zundrixmediapipeline.com/live/channel33.m3u8
 
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",Indosiar
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas2.m3u8
-
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas1.m3u8
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",Indosiar2
-http://sansatplus.net:88/02000406070996/1899319467/694349
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://ktpremium.world:2095/oc100138/3826778900/73617
 
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",T Sport
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
