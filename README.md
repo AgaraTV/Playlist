@@ -1,7 +1,29 @@
 #EXTINF:-1 group-title=">>ATENTION <<" tvg-logo="https://i.ibb.co.com/mFrmqMDH/photo-2026-07-15-11-47-56.jpg",INFORMASI
 #https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
 
-AgaraTV
+<===============================EVENT2===========================================>
+
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://i.ibb.co.com/996qjTKg/malayvsviet.jpg", 16:00 WIB Malaysia vs Vietnam
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://i.ibb.co.com/Gv9Vxr3g/indothai.jpg", 20:00 WIB Indonesia vs Thailand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",Indosiar
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas1.m3u8
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",Indosiar2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://ktpremium.world:2095/oc100138/3826778900/73617
+
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",T Sport
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
+
+
+
 
 =========================================NASIONAL===============================================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VctG1k8f/INDOSIAR.png" group-title="TV NASIONAL🇲🇨",Indosiar Digital
@@ -237,28 +259,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 
 <===============================VOLLY===========================================>
 
-
-
-<===============================EVENT2===========================================>
-
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://i.ibb.co.com/996qjTKg/malayvsviet.jpg", 16:00 WIB Malaysia vs Vietnam
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://i.ibb.co.com/Gv9Vxr3g/indothai.jpg", 20:00 WIB Indonesia vs Thailand
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",Indosiar
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas1.m3u8
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",Indosiar2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://ktpremium.world:2095/oc100138/3826778900/73617
-
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",T Sport
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
 
 
 
