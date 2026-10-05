@@ -83,20 +83,25 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BwHHKPQ.jpeg" tvg-id="itzplay.id" group-title="TV NASIONAL🇲🇨", Trans 7 | Vision+ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://trans.diorx.my.id/trans7.m3u8
+
 
 #EXTINF:-1 group-title="TV NASIONAL🇲🇨", tvg-logo="https://images.indihometv.com/assets/88_TRANS7_2025_03_19_08_29_53.png",Trans7 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=007
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OTsfSpu.jpeg" tvg-id="itzplay.id" group-title="TV NASIONAL🇲🇨", Trans TV | Vision+ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://trans.diorx.my.id/transtv.m3u8
+
 
 #EXTINF:-1 group-title="TV NASIONAL🇲🇨", tvg-logo="https://images.indihometv.com/assets/88_TRANSTV_2025_03_17_14_51_34.png",TransTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=006
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 group-title="TV NASIONAL🇲🇨", tvg-logo="https://images.indihometv.com/assets/88_TRANS7_2025_03_19_08_29_53.png",Trans7 2
 
