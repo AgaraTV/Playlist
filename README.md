@@ -264,7 +264,7 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
 
 
 <==============================================================================================>
-#EXTINF:-1 group-title="EVENT 05/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:00 WIB Siprus vs Latvia
+#EXTINF:-1 group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:00 WIB Siprus vs Latvia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
