@@ -236,10 +236,15 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 
 <===============================EVENT2===========================================>
 
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://i.ibb.co.com/996qjTKg/malayvsviet.jpg", 16:00 WIB Malaysia vs Vietnam
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/JFq9QLp0/bangla.jpg"group-title="FIFA ASEAN CUP 2026",Indonesia VS Banglades
-https://live2.zundrixmediapipeline.com/live/channel33.m3u8
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://i.ibb.co.com/Gv9Vxr3g/indothai.jpg", 20:00 WIB Indonesia vs Thailand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",Indosiar
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas1.m3u8
@@ -250,24 +255,53 @@ http://ktpremium.world:2095/oc100138/3826778900/73617
 #EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",T Sport
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
 
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://shorter.me/yKOXu", 19:30 WIB Indonesia vs Bangladesh 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://shorter.me/yKOXu", 19:30 WIB Malaysia vs Singapura
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-
-
-
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="
 
 
 
 <==============================================================================================>
+#EXTINF:-1 group-title="EVENT 05/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:00 WIB Siprus vs Latvia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Italia vs Turki
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Bosnia Herzegovina vs Polandia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Irlandia Utara vs Georgia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
+https://pu1se1.xn--ukq5h.shop/puk5/usergen0grnd8l2y6gw.m3u8
+
+#EXTINF:-1 group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Ukraina vs Hungaria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
+#EXTINF:-1 group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Perancis vs Belgia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
 
 
 
@@ -277,68 +311,6 @@ https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443
 
 
 <=========================================ASIAN GAME=================================================>
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFX5zy3c/ASEAN.png" group-title="Asian Games 2026",Asian Games Aichi-Nagoya 2026 Mewatch ch 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
-#https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFX5zy3c/ASEAN.png" group-title="Asian Games 2026",Asian Games Aichi-Nagoya 2026 Mewatch ch 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3158bf2812ef4b34beee4c2e13219191:1b0263ae474cf8250b0d9f0bfaa31670
-#https://tglmp04.akamaized.net/out/v1/eda167bbca3d4037a9951ecad56393c8/manifest.mpd
-
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://i.ibb.co.com/mFX5zy3c/ASEAN.png", Asian Games 2026 ch 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
-https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://i.ibb.co.com/mFX5zy3c/ASEAN.png", Asian Games 2026 ch 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
-https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-
-#EXTINF:-1 group-title="Asian Games 2026"tvg-logo="https://i.ibb.co.com/mFX5zy3c/ASEAN.png", Asian Games 2026 ch 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
-https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://i.ibb.co.com/mFX5zy3c/ASEAN.png", Asian Games 2026 ch 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
-https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://i.ibb.co.com/mFX5zy3c/ASEAN.png", Asian Games 2026 ch 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
-https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
-
-#EXTINF:-1 group-title="Asian Games 2026"tvg-logo="https://i.ibb.co.com/mFX5zy3c/ASEAN.png", Asian Games 2026 ch 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
-https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFX5zy3c/ASEAN.png" group-title="Asian Games 2026",Asian Games Aichi-Nagoya 2026 CCTV 5
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-
-
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/32-EQ",VOLLY 1
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
-
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/32-EQ",VOLLY 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/32-EQ", 17:00 WIB Taiwan vs Korea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="Asian Games 2026" tvg-logo="https://shorter.me/32-EQ", 17:20 WIB Kazakhstan vs Jepang
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
-
-
 
 <=================== EVENT 1 =============================>
 
