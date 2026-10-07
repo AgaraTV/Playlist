@@ -3,24 +3,7 @@
 
 <===============================EVENT2===========================================>
 
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://i.ibb.co.com/996qjTKg/malayvsviet.jpg", 16:00 WIB Malaysia vs Vietnam
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://i.ibb.co.com/Gv9Vxr3g/indothai.jpg", 20:00 WIB Indonesia vs Thailand
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",Indosiar
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas1.m3u8
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",Indosiar2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://ktpremium.world:2095/oc100138/3826778900/73617
-
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/PZRL2PJD/images.png"group-title="FIFA ASEAN CUP 2026",T Sport
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
 
 
 
@@ -264,52 +247,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 
 
 <==============================================================================================>
-#EXTINF:-1 group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:00 WIB Siprus vs Latvia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Italia vs Turki
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Bosnia Herzegovina vs Polandia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Irlandia Utara vs Georgia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
-https://pu1se1.xn--ukq5h.shop/puk5/usergen0grnd8l2y6gw.m3u8
-
-#EXTINF:-1 group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Ukraina vs Hungaria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-
-#EXTINF:-1 group-title="EVENT 06/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Perancis vs Belgia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-
-
-
 
 <=======================================EVENT3===============================================>
 
@@ -320,39 +257,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 <=================== EVENT 1 =============================>
 
 =====================================MOTO GP============================================================
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJRs36QS/AFF.jpg" group-title="LIVE EVENT 2026 
 
 
-
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://i.imgur.com/QRk478M.jpeg" tvg-id="Digital.id" group-title="LIVE EVENT 2026",MotoGP SPOTV2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://i.imgur.com/QRk478M.jpeg" tvg-id="Digital.id" group-title="LIVE EVENT 2026",MotoGP(Sky Sport Moto GP FHD Italia)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/105837.m3u8
-
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://i.imgur.com/QRk478M.jpeg" tvg-id="Digital.id" group-title="LIVE EVENT 2026",MotoGP (TNT Sports 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/11605
-
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://i.imgur.com/QRk478M.jpeg" tvg-id="Digital.id" group-title="LIVE EVENT 2026",MOTOGP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-
-
-
-#EXTINF:-1 tvg-name="HBO BOXING" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi_sa8AJyJ-zDCNz4hYh1qE_QSZ45i48SJtMA3EuBRWsopaqSYuusaezl56hpnj_pbSTyRkh7mL6lZwRGQ5YylQcu_wDY3QT0WIlzgz5mKEIVd7qNmXLWvzfNzIHvBdXKfIT3MgxnoHDeM3zDP__2yQTRnxbf_TaJxEQdoA3d87qHJmdXpYT50B_7d7-RQV" group-title="LIVE EVENT 2026" event-duration="4",HBO BOXING
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 
 <============================================⚽LIGA INDONESIA⚽=====================================>
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/QFx732SC/LIGA-INDO.png" group-title="⚽LIGA INDONESIA⚽",LIGA BRI 
