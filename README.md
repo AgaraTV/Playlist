@@ -262,7 +262,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 
 <============================================⚽LIGA INDONESIA⚽=====================================>
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/QFx732SC/LIGA-INDO.png" group-title="⚽LIGA INDONESIA⚽",LIGA BRI 
-http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://ktpremium.world:2095/oc100138/3826778900/73617
 
 
 <============================================⚽LIGA PREMIER⚽=====================================>
@@ -270,14 +271,14 @@ http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3U
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl2.m3u8
 #EXTINF:-1 group-title="⚽LIGA PREMIER⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgrH1Mdbx_O7WDH37Q3Nea4nGMi8rA-LdYirnTvzDFw&s",SKYSPORT AUS 1
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl4.m3u8
-#EXTINF:-1 group-title="⚽LIGA PREMIER⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgrH1Mdbx_O7WDH37Q3Nea4nGMi8rA-LdYirnTvzDFw&s",BEIN S 3
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl6.m3u8
+#EXTINF:-1 group-title="⚽LIGA PREMIER⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgrH1Mdbx_O7WDH37Q3Nea4nGMi8rA-LdYirnTvzDFw&s",Sky Sport8
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl10.m3u8
 #EXTINF:-1 group-title="⚽LIGA PREMIER⚽"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgrH1Mdbx_O7WDH37Q3Nea4nGMi8rA-LdYirnTvzDFw&s",ARENA S 1
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl7.m3u8
 #EXTINF:-1 group-title="⚽LIGA PREMIER⚽"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgrH1Mdbx_O7WDH37Q3Nea4nGMi8rA-LdYirnTvzDFw&s",SKY SPORT
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl10.m3u8
 #EXTINF:-1 group-title="⚽LIGA PREMIER⚽"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgrH1Mdbx_O7WDH37Q3Nea4nGMi8rA-LdYirnTvzDFw&s",ARENA S 2
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl15.m3u8
+
 #EXTINF:-1 group-title="⚽LIGA PREMIER⚽"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgrH1Mdbx_O7WDH37Q3Nea4nGMi8rA-LdYirnTvzDFw&s",
 
 #EXTINF:-1 group-title="⚽LIGA PREMIER⚽"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgrH1Mdbx_O7WDH37Q3Nea4nGMi8rA-LdYirnTvzDFw&s",
@@ -291,10 +292,7 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl15.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
 #EXTINF:-1 group-title="⚽LIGA PREMIER⚽"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgrH1Mdbx_O7WDH37Q3Nea4nGMi8rA-LdYirnTvzDFw&s",FUBO SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
 
 #EXTINF:-1 group-title="⚽LIGA PREMIER⚽"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgrH1Mdbx_O7WDH37Q3Nea4nGMi8rA-LdYirnTvzDFw&s",CTV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -409,7 +407,26 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/LigaBelanda7.m3u
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/LigaBelanda6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/84LHV8D9/BUNDES.jpg" group-title="⚽BUNDES LEAGUE⚽",ESPN 4
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/LigaBelanda5.m3u8
+==========================================================LIGA BELANDA=====================================================================
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndjAB01pNaR--mwb7kbSAaRnOpCb7eFlshA&usqp=CAU" group-title="🇱🇺LIGA BELANDA🇱🇺",
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="🇱🇺LIGA BELANDA🇱🇺",EREDIVISIE 1
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/LigaBelanda1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="🇱🇺LIGA BELANDA🇱🇺", EREDIVISIE 2
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="🇱🇺LIGA BELANDA🇱🇺", EREDIVISIE 3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="🇱🇺LIGA BELANDA🇱🇺", EREDIVISIE 4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="🇱🇺LIGA BELANDA🇱🇺", EREDIVISIE 5
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="🇱🇺LIGA BELANDA🇱🇺",EREDIVISIE 6
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="🇱🇺LIGA BELANDA🇱🇺", EREDIVISIE 7
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/LigaBelanda7.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="🇱🇺LIGA BELANDA🇱🇺", EREDIVISIE 8
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/LigaBelanda8.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="🇱🇺LIGA BELANDA🇱🇺", EREDIVISIE 9
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/LigaBelanda9.m3u8
 
 
 <==================================⚽CHAMPIONS LEAGUE⚽=============================================>
@@ -523,13 +540,15 @@ https://raw.githubusercontent.com/B-inal-123/balapan/inal-22/mmotogp2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="🏁🏍️MOTOGP🏍️🏁", MOTOGP 3 
 https://raw.githubusercontent.com/B-inal-123/balapan/inal-22/mmotogp3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="🏁🏍️MOTOGP🏍️🏁", MOTOGP 4 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="🏁🏍️MOTOGP🏍️🏁", MOTOGP 5 
-https://raw.githubusercontent.com/B-inal-123/balapan/inal-22/mmotogp7.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="🏁🏍️MOTOGP🏍️🏁", MOTOGP 6 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="🏁🏍️MOTOGP🏍️🏁", MOTOGP 7
