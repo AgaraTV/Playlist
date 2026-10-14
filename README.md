@@ -253,11 +253,21 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
+#EXTINF:-1 group-title="VOLLY KOREA" tvg-logo="https://shorter.me/GoGf3", VOLLY KOREA2
+https://livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0005/9c3dlnhiqredtgmkkvm3ekkqcfd718omxgh9/9bcrki3r5wiqy2peocapb9xfd718omxbo4_hls_playlist.m3u8?hdnts=st=1791973084~exp=1792034294~acl=*/9c3dlnhiqredtgmkkvm3ekkqcfd718omxgh9/*~hmac=d1135a5dc9b4c7566e6df5943b1bed06de80f812240aaab0d8ed0d1de98b891d&vp=47DEQpj8HBSa-_TIKgc8JzIZ-OGi_6-I5_uDpg
+
 #EXTINF:-1 group-title="VOLLY KOREA&TURKEY" tvg-logo="https://shorter.me/QEJ73",VOLLY TURKEY
 
 
 
 
+
+
+
+#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/uSWbs", 19:15 WIB Persib vs Viettel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
 #EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:45 WIB LASK Linz vs Liverpool
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
