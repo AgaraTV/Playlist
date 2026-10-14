@@ -224,78 +224,89 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 
 
 ========================================================= BADMINTON ======================================================
+#EXTINF:-1 group-title="VICTOR Denmark Open 2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344746472199061_AiSD.m3u8?txSecret=2b0547335ecbd52a5d661987d73a03cd&txTime=6AD04FC0
+#EXTINF:-1 group-title="VICTOR Denmark Open 2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344746598522061_AiSD.m3u8?txSecret=870dd880214acafaa3f19ebde158e553&txTime=6AD04FC0
+#EXTINF:-1 group-title="VICTOR Denmark Open 2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344746718437061_AiSD.m3u8?txSecret=f382ce05f80773e357aa7cd4867285fb&txTime=6AD04FC0
 
-
-#EXTINF:-1 group-title="EVENT 013/OKTOBER/2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
+#EXTINF:-1 group-title="VICTOR Denmark Open 2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
-#EXTINF:-1 group-title="EVENT 013/OKTOBER/2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
+#EXTINF:-1 group-title="VICTOR Denmark Open 2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
-#EXTINF:-1 group-title="EVENT 013/OKTOBER/2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
+#EXTINF:-1 group-title="VICTOR Denmark Open 2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
 
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", TES
-
-<================================================>
-
-#EXTINF:-1 group-title="EVENT 013/OKTOBER/2026" tvg-logo="https://shorter.me/GoGf3", 13:30 WIB Daejeon KGC W VS AI Peppers Women W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="EVENT 013/OKTOBER/2026" tvg-logo="https://shorter.me/GoGf3", 17:00 Hungkuk W VS IBK W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="EVENT 013/OKTOBER/2026" tvg-logo="https://iili.io/fNScJ6J.md.png", 22:30 WIB Radom W vs Wroclaw W
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel83.m3u8
 
 
 
 
 <===============================VOLLY===========================================>
-#EXTINF:-1 group-title="EVENT 013/OKTOBER/2026" tvg-logo="https://shorter.me/K2yDg", 23:45 WIB Sabah vs Slavia Praha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/GoGf3", 17:00 Expressway Co W vs Hyundai E&C Hillstate W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel33.m3u8
 
-#EXTINF:-1 group-title="EVENT 013/OKTOBER/2026" tvg-logo="https://shorter.me/K2yDg", 23:45 WIB Lens vs Sporting CP
+#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/QEJ73", 20:00 WIB Aras Kargo W vs Galatasaray W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel33.m3u8
+
+#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/QEJ73", 23:00 WIB Fenerbahce W vs Goztepe W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel33.m3u8
+
+#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/uSWbs", 19:15 WIB Persib vs Viettel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel15.m3u8
+
+
+
+#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:45 WIB LASK Linz vs Liverpool
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Arsenal vs Lille
+#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:45 WIB Feyenoord vs Como
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Aston Villa vs Fenerbahçe
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Roma vs Real Madrid
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Manchester City vs PSG
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Atlético Madrid vs Manchester United
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Bodø / Glimt vs Borussia Dortmund
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
 
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Viking vs Bayern München
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Shakhtar Donetsk vs AEK Athens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
 
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Galatasaray vs Barcelona
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/K2yDg", 02:00 WIB Internazionale vs Club Brugge
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
 
 
 
