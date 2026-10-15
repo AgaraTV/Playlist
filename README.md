@@ -225,11 +225,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h151/index2.m3u8
 
 ========================================================= BADMINTON ======================================================
 #EXTINF:-1 group-title="VICTOR Denmark Open 2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344746472199061_AiSD.m3u8?txSecret=2b0547335ecbd52a5d661987d73a03cd&txTime=6AD04FC0
+
 #EXTINF:-1 group-title="VICTOR Denmark Open 2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344746598522061_AiSD.m3u8?txSecret=870dd880214acafaa3f19ebde158e553&txTime=6AD04FC0
+
 #EXTINF:-1 group-title="VICTOR Denmark Open 2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344746718437061_AiSD.m3u8?txSecret=f382ce05f80773e357aa7cd4867285fb&txTime=6AD04FC0
+
 
 #EXTINF:-1 group-title="VICTOR Denmark Open 2026" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
@@ -254,7 +254,7 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 group-title="VOLLY KOREA" tvg-logo="https://shorter.me/GoGf3", VOLLY KOREA2
-https://livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0005/9c3dlnhiqredtgmkkvm3ekkqcfd718omxgh9/9bcrki3r5wiqy2peocapb9xfd718omxbo4_hls_playlist.m3u8?hdnts=st=1791973084~exp=1792034294~acl=*/9c3dlnhiqredtgmkkvm3ekkqcfd718omxgh9/*~hmac=d1135a5dc9b4c7566e6df5943b1bed06de80f812240aaab0d8ed0d1de98b891d&vp=47DEQpj8HBSa-_TIKgc8JzIZ-OGi_6-I5_uDpg
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0005/vnwuugniobwkp3tmpcvcgaglsfdx73u1a7n5/fsjwbtcgs761iyzzeytnhcvfdx73u1a3wr_hls_playlist.m3u8?hdnts=st=1792045509~exp=1792106719~acl=*/vnwuugniobwkp3tmpcvcgaglsfdx73u1a7n5/*~hmac=494441835adb8ca1df8150925ad8d465206e94a4fb5ce7bfc3b74a143a17a988&vp=47DEQpj8HBSa-_TIKgc8JzIZ-OGi_6-I5_uDpg
 
 #EXTINF:-1 group-title="VOLLY KOREA&TURKEY" tvg-logo="https://shorter.me/QEJ73",VOLLY TURKEY
 
@@ -264,68 +264,113 @@ https://livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0005/9c3dlnhiqredtgmkkvm3
 
 
 
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/uSWbs", 19:15 WIB Persib vs Viettel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
-
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:45 WIB LASK Linz vs Liverpool
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:45 WIB Feyenoord vs Como
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Aston Villa vs Fenerbahçe
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Roma vs Real Madrid
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Manchester City vs PSG
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Bodø / Glimt vs Borussia Dortmund
-#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
-
-#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:00 WIB Shakhtar Donetsk vs AEK Athens
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
-https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
-
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/GoGf3", 17:00 Expressway Co W vs Hyundai E&C Hillstate W
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
-
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/QEJ73", 20:00 WIB Aras Kargo W vs Galatasaray W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/QEJ73", 23:00 WIB Fenerbahce W vs Goztepe W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel33.m3u8
 
 
 <==============================================================================================>
 
 <=======================================EVENT3===============================================>
+#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/uSWbs", 17:00 WIB Wofoo Tai Po vs Lion City Sailors
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/uSWbs", 19:15 WIB Tampines Rovers vs Machida Zelvia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+<================================================>
+
+#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/VJWW_", 23:45 WIB Lech Poznań vs Bayer Leverkusen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/VJWW_", 23:45 WIB Olympique Lyonnais vs Crystal Palace
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/VJWW_", 23:45 WIB Union Saint-Gilloise vs Real Sociedad
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
+
+#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/VJWW_", 23:45 WIB Salzburg vs Milan
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/VJWW_", 23:45 WIB Torreense vs Sunderland
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/VJWW_", 02:00 WIB AFC Bournemouth vs Sturm Graz
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/VJWW_", 02:00 WIB Olympique Marseille vs Olympiakos Piraeus
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
+
+#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/VJWW_", 02:00 WIB Celta de Vigo vs Juventus
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/VJWW_", 02:00 WIB Benfica vs Celtic
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/VJWW_", 02:00 WIB Ferencváros vs Viktoria Plzeň
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 015/OKTOBER/2026" tvg-logo="https://shorter.me/NzYuB", 23:45 WIB CSU Craiova vs Getafe
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/NzYuB", 02:00 WIB Brighton & Hove Albion vs Kauno Žalgiris
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/NzYuB", 02:00 WIB Freiburg vs Jablonec
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/NzYuB", 02:00 WIB Hearts vs Nordsjælland
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
 
 
 
